@@ -11,6 +11,15 @@ Live at [beatwindows.org](https://beatwindows.org).
 - More than 8 pop-ups on screen triggers a BSOD and ends the run.
 - Survive the full 30 seconds to win.
 
+### Modes
+
+- **Daily Challenge** — one seeded sequence per calendar day, identical for every player. Clearing it extends your local streak (tracked in `localStorage`); the end screen shows your percentile.
+- **Practice** — random sequences for warm-ups and replays.
+
+### Share
+
+After a run, generate a retro score card (`Share score card`) and post it via the X intent or the native share sheet, or download the PNG. Captions and card reflect mode, score, and percentile.
+
 ## Tech
 
 Plain HTML/CSS/JS in a single file — no build step, no dependencies.

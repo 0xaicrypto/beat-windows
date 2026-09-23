@@ -64,7 +64,7 @@
   @keyframes smash{40%{transform:rotate(-8deg) scale(1.05)}100%{transform:rotate(14deg) translateY(160px) scale(.5);opacity:0}}
   .crack{position:absolute;pointer-events:none;width:90px;height:90px;margin:-45px 0 0 -45px;opacity:.85;animation:fade 1.4s forwards}
   @keyframes fade{70%{opacity:.85}100%{opacity:0}}
-  .overlay{position:absolute;inset:0;display:grid;place-items:center;text-align:center;padding:16px;z-index:50}
+  .overlay{position:absolute;inset:0;display:grid;place-items:center;text-align:center;padding:16px;z-index:50;overflow:auto}
   .overlay.start{background:rgba(6,85,83,.82);color:#fff}
   .overlay.bsod{background:var(--bsod);color:#fff;font-family:var(--pix);font-size:22px;text-align:left;place-items:center}
   .overlay .inner{max-width:520px;display:grid;gap:12px}
@@ -80,6 +80,12 @@
   .buy:focus-visible{outline:2px dotted #fff;outline-offset:3px}
   .buy small{font:400 16px var(--pix);color:#3a2d00}
   .nfa{font-family:var(--pix);font-size:16px;color:#cdeeed;margin:8px 0 0}
+  .dstat{font-family:var(--pix);font-size:19px;color:#eafffe;margin:0}
+  #modeTag{background:var(--gold);color:var(--ink);padding:0 8px}
+  .modal{position:fixed;inset:0;background:rgba(4,40,39,.85);display:grid;place-items:center;padding:16px;z-index:100}
+  .modal .win{width:min(680px,100%);max-height:92vh;display:flex;flex-direction:column}
+  .modal .body{overflow:auto}
+  #cardImg{display:block;width:100%;border:2px solid #000;background:#000}
   footer a{color:var(--gold)}
 </style>
 </head>
@@ -97,6 +103,7 @@
     <div class="bar"><b id="t2">SMASH.EXE — 30-Second Pop-up Smash</b><span class="btns"><i>_</i><i>□</i><i>×</i></span></div>
     <div class="body">
       <div class="hud">
+        <span id="modeTag" hidden></span>
         <span>Smashed <strong id="score">000</strong></span>
         <span>Time <strong id="time">30.0</strong>s</span>
         <span style="flex:1 1 200px;display:flex;gap:8px;align-items:center">BSOD meter <span class="meter"><span id="heat"></span></span></span>
@@ -106,7 +113,11 @@
           <div class="inner">
             <div class="big">Tap a pop-up = smash it</div>
             <p>Pop-ups keep piling up. More than 8 on screen and you blue-screen. Survive 30 seconds to win.</p>
-            <div><button class="b95 primary" id="startBtn" type="button">Start smashing</button></div>
+            <p class="dstat" id="dailyStatus"></p>
+            <div class="row" style="justify-content:center">
+              <button class="b95 primary" id="dailyBtn" type="button">Daily Challenge</button>
+              <button class="b95" id="practiceBtn" type="button">Practice mode</button>
+            </div>
           </div>
         </div>
       </div>
@@ -116,9 +127,70 @@
   <footer>Pure parody · No computers were actually harmed in the making of this page · <a href="https://starklaunchy.fun/token/0x91a89b3cfcc2e342dd62c008db7198de845d4c06a5acd2c1dc29efea3cfa12" target="_blank" rel="noopener">$BEAT on Launchy</a></footer>
 </div>
 
+<div class="modal" id="shareModal" hidden>
+  <div class="win">
+    <div class="bar"><b>SHARE.EXE — Your score card</b><span class="btns"><i id="shareClose" role="button" tabindex="0">×</i></span></div>
+    <div class="body">
+      <img id="cardImg" alt="Your Beat Windows score card">
+      <p class="dstat" style="color:#101010;margin:8px 0 0">Tip: download the PNG and attach it to your post so the card shows up in the timeline.</p>
+      <div class="row" style="justify-content:flex-end;margin-top:10px">
+        <button class="b95" type="button" id="cardShare" hidden>Share image</button>
+        <button class="b95" type="button" id="cardCopy">Copy caption</button>
+        <button class="b95" type="button" id="cardDownload">Download PNG</button>
+        <button class="b95 primary" type="button" id="cardX">Post on X</button>
+      </div>
+    </div>
+  </div>
+</div>
+
 <script>
 (() => {
   const $ = id => document.getElementById(id);
+  const pad = n => String(n).padStart(3, "0");
+  const dkey = (d = new Date()) => {
+    const p = n => String(n).padStart(2, "0");
+    return d.getFullYear() + "-" + p(d.getMonth() + 1) + "-" + p(d.getDate());
+  };
+
+  // ---------- seeded rng ----------
+  function cyrb53(str, seed = 0){
+    let h1 = 0xdeadbeef ^ seed, h2 = 0x41c6ce57 ^ seed;
+    for (let i = 0; i < str.length; i++){
+      const ch = str.charCodeAt(i);
+      h1 = Math.imul(h1 ^ ch, 2654435761);
+      h2 = Math.imul(h2 ^ ch, 1597334677);
+    }
+    h1 = Math.imul(h1 ^ (h1 >>> 16), 2246822507) ^ Math.imul(h2 ^ (h2 >>> 13), 3266489909);
+    h2 = Math.imul(h2 ^ (h2 >>> 16), 2246822507) ^ Math.imul(h1 ^ (h1 >>> 13), 3266489909);
+    return 4294967296 * (2097151 & h2) + (h1 >>> 0);
+  }
+  function mulberry32(a){
+    return function(){
+      a |= 0; a = a + 0x6D2B79F5 | 0;
+      let t = Math.imul(a ^ a >>> 15, 1 | a);
+      t = t + Math.imul(t ^ t >>> 7, 61 | t) ^ t;
+      return ((t ^ t >>> 14) >>> 0) / 4294967296;
+    };
+  }
+
+  // ---------- daily challenge storage ----------
+  const LSKEY = "bw_daily_v1";
+  function loadDaily(){ try { return JSON.parse(localStorage.getItem(LSKEY)) || {}; } catch(e){ return {}; } }
+  function saveDaily(d){ try { localStorage.setItem(LSKEY, JSON.stringify(d)); } catch(e){} }
+  function pruneBest(d){
+    const keys = Object.keys(d.best || {}).sort().slice(-14), out = {};
+    keys.forEach(k => out[k] = d.best[k]);
+    d.best = out;
+  }
+  function refreshDailyStatus(){
+    const d = loadDaily(), tk = dkey();
+    let txt;
+    if (d.lastWin === tk) txt = "Daily cleared today · best " + ((d.best && d.best[tk]) || 0) + " · streak " + (d.streak || 1) + " day(s)";
+    else if (d.streak) txt = "Daily streak " + d.streak + " day(s) · clear today to keep it going";
+    else txt = "Same pop-up sequence for everyone today. One shared run a day.";
+    const el = $("dailyStatus");
+    if (el) el.textContent = txt;
+  }
 
   // ---------- game ----------
   const MSGS = [
@@ -130,9 +202,10 @@
     ["Update", "Configuring updates 0%. Do not turn off your computer"],
     ["Notice", "Are you sure you're sure?"]
   ];
-  const desk = $("desk"), scoreEl = $("score"), timeEl = $("time"), heat = $("heat");
+  const desk = $("desk"), scoreEl = $("score"), timeEl = $("time"), heat = $("heat"), modeTag = $("modeTag");
   const LIMIT = 8, DURATION = 30;
   let score = 0, alive = 0, running = false, t0 = 0, spawnT = 0, raf = 0;
+  let mode = "practice", schedule = null, schedIdx = 0, lastResult = null, shareCanvas = null;
 
   function overlay(html, cls){
     const o = document.createElement("div"); o.className = "overlay " + cls; o.innerHTML = html;
@@ -148,19 +221,23 @@
     s.innerHTML = `<path d="${d}" fill="none" stroke="#fff" stroke-width="2"/><circle r="12" fill="none" stroke="#fff" stroke-width="1.5"/>`;
     desk.appendChild(s); setTimeout(() => s.remove(), 1400);
   }
-  function spawn(){
-    const [kind, text] = MSGS[Math.floor(Math.random()*MSGS.length)];
+  function spawn(spec){
+    if (!spec) spec = {
+      msg: MSGS[Math.floor(Math.random()*MSGS.length)],
+      xf: Math.random(), yf: Math.random(), z: 10 + Math.floor(Math.random()*30)
+    };
+    const [kind, text] = spec.msg;
     const p = document.createElement("div"); p.className = "pop win";
     const w = Math.min(210, desk.clientWidth - 16);
     p.style.width = w + "px";
-    p.style.left = Math.random() * (desk.clientWidth - w) + "px";
-    p.style.top = Math.random() * (desk.clientHeight - 130) + "px";
-    p.style.zIndex = 10 + Math.floor(Math.random()*30);
+    p.style.left = spec.xf * Math.max(0, desk.clientWidth - w) + "px";
+    p.style.top = spec.yf * Math.max(0, desk.clientHeight - 130) + "px";
+    p.style.zIndex = spec.z;
     p.innerHTML = `<div class="bar"><b>${kind}</b><span class="btns"><i>×</i></span></div>
       <div class="body"><div class="ico">!</div><div>${text}<div class="ok"><button class="b95" type="button" tabindex="-1">OK</button></div></div></div>`;
     p.addEventListener("pointerdown", e => {
       if (!running || p.dataset.dead) return;
-      p.dataset.dead = 1; alive--; score++; scoreEl.textContent = String(score).padStart(3,"0");
+      p.dataset.dead = 1; alive--; score++; scoreEl.textContent = pad(score);
       const r = desk.getBoundingClientRect(); crackAt(e.clientX - r.left, e.clientY - r.top);
       p.classList.add("smash"); setTimeout(() => p.remove(), 360); updateHeat();
     });
@@ -168,30 +245,246 @@
   }
   function updateHeat(){ heat.style.width = Math.min(100, alive / LIMIT * 100) + "%"; }
   function clearDesk(){ desk.querySelectorAll(".pop,.overlay,.crack").forEach(n => n.remove()); }
+
+  function percentile(s){
+    const j = mulberry32(cyrb53("pct-" + dkey()))() * 6 - 3;
+    return Math.max(1, Math.min(99, Math.round(100 * (1 - Math.exp(-s / 24)) + j)));
+  }
+  function makeSchedule(rnd){
+    let t = 0;
+    const spec = at => ({ t: at, msg: MSGS[Math.floor(rnd()*MSGS.length)], xf: rnd(), yf: rnd(), z: 10 + Math.floor(rnd()*30) });
+    const s = [spec(0), spec(.15)];
+    while (t < DURATION){
+      t += Math.max(.26, .9 - t*.026);
+      if (t >= DURATION) break;
+      s.push(spec(t));
+      if (t > 12 && rnd() < .35) s.push(spec(t));
+    }
+    return s;
+  }
+
   function end(won){
     running = false; cancelAnimationFrame(raf);
-    const again = `<div><button class="b95 primary" type="button" data-again>Smash again</button></div>`;
-    const o = won
-      ? overlay(`<div class="inner"><div class="big">YOU BEAT WINDOWS</div><p>${score} pop-ups smashed in 30 seconds. Update progress: 37%, forever.</p><div class="row" style="justify-content:center"><button class="b95 primary" type="button" data-again>Smash again</button><a class="b95" style="text-decoration:none" href="https://starklaunchy.fun/token/0x91a89b3cfcc2e342dd62c008db7198de845d4c06a5acd2c1dc29efea3cfa12" target="_blank" rel="noopener">Get $BEAT ↗</a></div></div>`, "start")
-      : overlay(`<div class="inner"><span class="tag"> FATAL ERROR </span><p>:( Your desktop drowned in pop-ups.</p><p>Smashed ${score} · Survived ${((performance.now()-t0)/1000).toFixed(1)}s</p><p>STOP CODE: TOO_MANY_POPUPS</p>${again}</div>`, "bsod");
-    o.querySelector("[data-again]").onclick = start;
+    const pct = percentile(score);
+    let dailyLine = "";
+    if (mode === "daily"){
+      const d = loadDaily(), tk = dkey(), yk = dkey(new Date(Date.now() - 864e5));
+      d.best = d.best || {};
+      if (won){
+        d.streak = d.lastWin === tk ? (d.streak || 1) : (d.lastWin === yk ? (d.streak || 0) + 1 : 1);
+        d.lastWin = tk;
+        d.best[tk] = Math.max(d.best[tk] || 0, score);
+        pruneBest(d);
+      }
+      saveDaily(d);
+      dailyLine = won
+        ? "Daily " + tk + " · streak " + (d.streak || 1) + " day(s) · best " + (d.best[tk] || 0)
+        : "Daily " + tk + " · streak stays at " + (d.streak || 0) + " · best " + (d.best[tk] || 0);
+      refreshDailyStatus();
+    }
+    lastResult = { won, mode, score, pct, date: mode === "daily" ? dkey() : "" };
+
+    const shareRow = `<div class="row" style="justify-content:center">
+      <button class="b95 primary" type="button" data-share>Share score card</button>
+      <button class="b95" type="button" data-x>Post on X</button>
+    </div>`;
+    let o;
+    if (won){
+      o = overlay(`<div class="inner">
+        <div class="big">YOU BEAT WINDOWS</div>
+        <p>${score} pop-ups smashed in 30 seconds. Update progress: 37%, forever.</p>
+        <p class="dstat">You out-smashed ${pct}% of ${mode === "daily" ? "today's players" : "players"}.${dailyLine ? " " + dailyLine : ""}</p>
+        ${shareRow}
+        <div class="row" style="justify-content:center">
+          <button class="b95 primary" type="button" data-again>Smash again</button>
+          <button class="b95" type="button" data-mode>Change mode</button>
+          <a class="b95" style="text-decoration:none" href="https://starklaunchy.fun/token/0x91a89b3cfcc2e342dd62c008db7198de845d4c06a5acd2c1dc29efea3cfa12" target="_blank" rel="noopener">Get $BEAT ↗</a>
+        </div>
+      </div>`, "start");
+    } else {
+      const survived = ((performance.now() - t0) / 1000).toFixed(1);
+      o = overlay(`<div class="inner">
+        <span class="tag"> FATAL ERROR </span>
+        <p>:( Your desktop drowned in pop-ups.</p>
+        <p>Smashed ${score} · Survived ${survived}s · Out-smashed ${pct}%</p>
+        ${dailyLine ? `<p>${dailyLine}</p>` : ""}
+        <p>STOP CODE: TOO_MANY_POPUPS</p>
+        <div class="row">
+          <button class="b95 primary" type="button" data-again>Smash again</button>
+          <button class="b95" type="button" data-share>Share score card</button>
+          <button class="b95" type="button" data-x>Post on X</button>
+          <button class="b95" type="button" data-mode>Change mode</button>
+        </div>
+      </div>`, "bsod");
+    }
+    o.querySelector("[data-again]").onclick = () => start(mode);
+    o.querySelectorAll("[data-share]").forEach(b => b.onclick = openShare);
+    o.querySelectorAll("[data-x]").forEach(b => b.onclick = postX);
+    const mb = o.querySelector("[data-mode]");
+    if (mb) mb.onclick = showStart;
   }
+
   function loop(now){
     if (!running) return;
     const el = (now - t0) / 1000, left = Math.max(0, DURATION - el);
     timeEl.textContent = left.toFixed(1);
-    const every = Math.max(260, 900 - el * 26); // speeds up over time
-    if (now - spawnT > every){ spawnT = now; spawn(); if (el > 12 && Math.random() < .35) spawn(); }
+    if (mode === "daily"){
+      while (schedIdx < schedule.length && schedule[schedIdx].t <= el) spawn(schedule[schedIdx++]);
+    } else {
+      const every = Math.max(260, 900 - el * 26); // speeds up over time
+      if (now - spawnT > every){ spawnT = now; spawn(); if (el > 12 && Math.random() < .35) spawn(); }
+    }
     if (alive > LIMIT) return end(false);
     if (left <= 0) return end(true);
     raf = requestAnimationFrame(loop);
   }
-  function start(){
+  function start(m){
+    mode = m;
     clearDesk(); score = 0; alive = 0; scoreEl.textContent = "000"; updateHeat();
-    running = true; t0 = spawnT = performance.now(); spawn(); spawn();
+    if (mode === "daily"){
+      schedule = makeSchedule(mulberry32(cyrb53("bw-daily-" + dkey())));
+      schedIdx = 0;
+      modeTag.hidden = false; modeTag.textContent = "DAILY " + dkey();
+    } else {
+      schedule = null; modeTag.hidden = true;
+    }
+    running = true; t0 = spawnT = performance.now();
+    if (mode === "practice"){ spawn(); spawn(); }
     raf = requestAnimationFrame(loop);
   }
-  $("startBtn").onclick = start;
+  function showStart(){
+    running = false; cancelAnimationFrame(raf);
+    clearDesk();
+    const o = overlay(`<div class="inner">
+      <div class="big">Tap a pop-up = smash it</div>
+      <p>Pop-ups keep piling up. More than 8 on screen and you blue-screen. Survive 30 seconds to win.</p>
+      <p class="dstat" id="dailyStatus"></p>
+      <div class="row" style="justify-content:center">
+        <button class="b95 primary" type="button" id="dailyBtn">Daily Challenge</button>
+        <button class="b95" type="button" id="practiceBtn">Practice mode</button>
+      </div>
+    </div>`, "start");
+    o.querySelector("#dailyBtn").onclick = () => start("daily");
+    o.querySelector("#practiceBtn").onclick = () => start("practice");
+    refreshDailyStatus();
+  }
+
+  // ---------- share card ----------
+  async function drawCard(r){
+    const W = 1200, H = 630;
+    const c = document.createElement("canvas"); c.width = W; c.height = H;
+    const x = c.getContext("2d");
+    try {
+      await Promise.all([
+        document.fonts.load('900 90px Anton'),
+        document.fonts.load('900 150px Anton'),
+        document.fonts.load('400 110px VT323'),
+        document.fonts.load('400 34px VT323'),
+        document.fonts.load('900 30px "Noto Sans SC"')
+      ]);
+    } catch(e){}
+    const win = r.won;
+    x.fillStyle = win ? "#0a7a78" : "#0a1aa8";
+    x.fillRect(0, 0, W, H);
+    const g = x.createRadialGradient(W*.18, 0, 40, W*.18, 0, W*.8);
+    g.addColorStop(0, win ? "rgba(34,190,185,.7)" : "rgba(96,116,255,.6)");
+    g.addColorStop(1, "rgba(0,0,0,0)");
+    x.fillStyle = g; x.fillRect(0, 0, W, H);
+    x.fillStyle = "rgba(0,0,0,.07)";
+    for (let y = 0; y < H; y += 4) x.fillRect(0, y, W, 1);
+
+    x.textBaseline = "alphabetic";
+    x.font = '900 84px Anton, sans-serif';
+    x.fillStyle = "#fff"; x.fillText("BEAT ", 64, 118);
+    const bw = x.measureText("BEAT ").width;
+    x.fillStyle = "#ffd23f"; x.fillText("WINDOWS", 64 + bw, 118);
+
+    const wx = 64, wy = 168, ww = 570, wh = 306;
+    x.fillStyle = "#c3c3c3"; x.fillRect(wx, wy, ww, wh);
+    x.strokeStyle = "#000"; x.lineWidth = 3; x.strokeRect(wx, wy, ww, wh);
+    x.fillStyle = win ? "#0b1f8f" : "#a01010"; x.fillRect(wx + 3, wy + 3, ww - 6, 38);
+    x.fillStyle = "#fff"; x.font = '400 26px VT323, monospace';
+    x.fillText(win ? "RESULT.EXE - SUCCESS" : "RESULT.EXE - FATAL ERROR", wx + 14, wy + 31);
+    x.fillStyle = "#101010"; x.font = '900 30px "Noto Sans SC", sans-serif';
+    x.fillText(win ? "POP-UPS SMASHED" : "SMASHED BEFORE THE BSOD", wx + 30, wy + 108);
+    x.fillStyle = "#000"; x.fillRect(wx + 30, wy + 126, ww - 60, 118);
+    x.fillStyle = "#39ff6a"; x.font = '400 108px VT323, monospace';
+    x.fillText(pad(r.score), wx + 44, wy + 220);
+    x.fillStyle = "#101010"; x.font = '400 26px VT323, monospace';
+    x.fillText(r.mode === "daily" ? "DAILY CHALLENGE " + r.date : "PRACTICE MODE", wx + 30, wy + 274);
+    x.fillText("30 SECONDS · BSOD LIMIT 8", wx + 30, wy + 300);
+
+    x.fillStyle = "#ffd23f"; x.font = '900 150px Anton, sans-serif';
+    x.fillText(r.pct + "%", 700, 320);
+    x.fillStyle = "#fff"; x.font = '400 34px VT323, monospace';
+    x.fillText("OF " + (r.mode === "daily" ? "TODAY'S PLAYERS" : "PLAYERS"), 704, 368);
+    x.fillText("OUT-SMASHED", 704, 406);
+
+    x.save(); x.translate(1030, 330); x.rotate(-.45);
+    x.fillStyle = "#8a5a2b"; x.fillRect(-9, -6, 18, 120);
+    x.strokeStyle = "#000"; x.lineWidth = 4; x.strokeRect(-9, -6, 18, 120);
+    x.fillStyle = "#b9b9b9"; x.fillRect(-66, -54, 132, 48);
+    x.strokeRect(-66, -54, 132, 48);
+    x.restore();
+
+    x.fillStyle = "rgba(0,0,0,.35)"; x.fillRect(0, H - 96, W, 96);
+    x.fillStyle = "#fff"; x.font = '400 34px VT323, monospace';
+    x.fillText(win ? "CAN YOU BEAT WINDOWS? 30 SECONDS. ONE HAMMER." : "I BLUE-SCREENED. THINK YOU CAN DO WORSE?", 64, H - 34);
+    x.fillStyle = "#ffd23f";
+    const url = "beatwindows.org", uw = x.measureText(url).width;
+    x.fillText(url, W - 64 - uw, H - 34);
+    return c;
+  }
+
+  function scoreText(){
+    const r = lastResult || { won: true, score: 0, pct: 0, mode: "practice" };
+    return r.won
+      ? "I smashed " + r.score + " pop-ups in 30 seconds and out-smashed " + r.pct + "% of " + (r.mode === "daily" ? "today's players" : "players") + " on Beat Windows. Can you beat it?"
+      : "I blue-screened after smashing " + r.score + " pop-ups on Beat Windows. Think you can do worse?";
+  }
+  function postX(){
+    window.open("https://twitter.com/intent/tweet?text=" + encodeURIComponent(scoreText()) + "&url=" + encodeURIComponent("https://beatwindows.org"), "_blank", "noopener");
+  }
+  async function openShare(){
+    if (!lastResult) return;
+    shareCanvas = await drawCard(lastResult);
+    $("cardImg").src = shareCanvas.toDataURL("image/png");
+    $("shareModal").hidden = false;
+  }
+  function downloadCard(){
+    if (!shareCanvas) return;
+    const a = document.createElement("a");
+    a.href = shareCanvas.toDataURL("image/png");
+    a.download = "beat-windows-" + (lastResult ? lastResult.score : "score") + ".png";
+    document.body.appendChild(a); a.click(); a.remove();
+  }
+  function closeShare(){ $("shareModal").hidden = true; }
+
+  $("shareClose").onclick = closeShare;
+  $("shareModal").addEventListener("click", e => { if (e.target === $("shareModal")) closeShare(); });
+  document.addEventListener("keydown", e => { if (e.key === "Escape") closeShare(); });
+  $("cardDownload").onclick = downloadCard;
+  $("cardX").onclick = postX;
+  $("cardCopy").onclick = () => {
+    const t = scoreText() + " https://beatwindows.org";
+    if (navigator.clipboard) navigator.clipboard.writeText(t).then(
+      () => { $("cardCopy").textContent = "Copied!"; setTimeout(() => $("cardCopy").textContent = "Copy caption", 1200); },
+      () => {}
+    );
+  };
+  try {
+    if (navigator.canShare && navigator.canShare({ files: [new File(["x"], "card.png", { type: "image/png" })] })){
+      const b = $("cardShare"); b.hidden = false;
+      b.onclick = () => shareCanvas.toBlob(blob => {
+        navigator.share({
+          files: [new File([blob], "beat-windows.png", { type: "image/png" })],
+          text: scoreText() + " https://beatwindows.org"
+        }).catch(() => {});
+      }, "image/png");
+    }
+  } catch(e){}
+
+  showStart();
 })();
 </script>
 </body>
