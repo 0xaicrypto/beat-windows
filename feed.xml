@@ -5,8 +5,48 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Sep 2026 14:47:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 19:06:13 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>App Store Scam of the Week: ‘Update My Phone &amp; Apps: Guide’ by Tair Olzhasev</title>
+      <link>https://apps.apple.com/us/app/update-my-phone-apps-guide/id6753936837</link>
+      <guid isPermaLink="true">https://apps.apple.com/us/app/update-my-phone-apps-guide/id6753936837</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Wed, 23 Sep 2026 18:38:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>★ AppZapper 3000</title>
+      <link>https://daringfireball.net/2026/09/appzapper_3000</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/09/appzapper_3000</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Wed, 23 Sep 2026 17:31:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>[$] Ideas on modernizing the open-source desktop</title>
+      <link>https://lwn.net/Articles/1095425/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1095425/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Wed, 23 Sep 2026 15:39:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Intel Developing Their DXVK-IGDEXT For Improved Linux Gaming On Arc Graphics</title>
+      <link>https://www.phoronix.com/news/DXVK-IGDEXT</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/DXVK-IGDEXT</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Wed, 23 Sep 2026 14:54:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Systemd v262 released</title>
+      <link>https://lwn.net/Articles/1096204/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1096204/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Wed, 23 Sep 2026 14:51:37 GMT</pubDate>
+    </item>
     <item>
       <title>Super Intelligence, Indeed</title>
       <link>https://bsky.app/profile/atrupar.com/post/3mw4it5l5fd23</link>
@@ -228,7 +268,7 @@
       <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxPdkk0VTNBTUIzRUQzV3ItTFVEQXhZTllVZ1lGdUFMaEl6bk5vR0FyUlQ5dXNVSFB0ekJpNGZxb1ZXUEw0Yk9lS0h5bk5iMjlfQjNZYUw0ay0tM3VxMnphQmR0dFNZWF93N3puWGF0bXMyQTl6VTJteWJXdkJ6d2N0ZV9keURuVHl6ZndVSk40eXhZZUhYY213eVllTUhsRC1MTGdrdk13?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMipgFBVV95cUxPdkk0VTNBTUIzRUQzV3ItTFVEQXhZTllVZ1lGdUFMaEl6bk5vR0FyUlQ5dXNVSFB0ekJpNGZxb1ZXUEw0Yk9lS0h5bk5iMjlfQjNZYUw0ay0tM3VxMnphQmR0dFNZWF93N3puWGF0bXMyQTl6VTJteWJXdkJ6d2N0ZV9keURuVHl6ZndVSk40eXhZZUhYY213eVllTUhsRC1MTGdrdk13?oc=5</guid>
       <category>android</category>
-      <source url="https://news.google.com/">pcworld.com</source>
+      <source url="https://news.google.com/">PCWorld</source>
       <pubDate>Tue, 22 Sep 2026 16:35:50 GMT</pubDate>
     </item>
     <item>
@@ -264,14 +304,6 @@
       <pubDate>Tue, 22 Sep 2026 15:10:11 GMT</pubDate>
     </item>
     <item>
-      <title>SPEC Releases SPECviewperf 15.0.1 For Linux</title>
-      <link>https://www.phoronix.com/news/SPECviewperf-15.0.1-Linux</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/SPECviewperf-15.0.1-Linux</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Tue, 22 Sep 2026 14:36:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Soylent Googlebook is Android</title>
       <link>https://news.google.com/rss/articles/CBMiUkFVX3lxTFBreU9rLV9mNFhmbVNNZlFaWFp4ZkFqY2xtd04zSzZyYVdrTDRkUjNXcUVKeXZfQkFkMk8xVzJZM0Y3SG5NWG52WW8yQTlBalR0b0E?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiUkFVX3lxTFBreU9rLV9mNFhmbVNNZlFaWFp4ZkFqY2xtd04zSzZyYVdrTDRkUjNXcUVKeXZfQkFkMk8xVzJZM0Y3SG5NWG52WW8yQTlBalR0b0E?oc=5</guid>
@@ -280,28 +312,20 @@
       <pubDate>Tue, 22 Sep 2026 13:41:32 GMT</pubDate>
     </item>
     <item>
-      <title>systemd 262 Released With AI/LLM Canary For Unreviewed Code, LUO Integration</title>
-      <link>https://www.phoronix.com/news/systemd-262</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/systemd-262</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Tue, 22 Sep 2026 13:35:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Vibe Coded YSERVER Adds XDMCP Support For Multi-User Shared Desktops</title>
-      <link>https://www.phoronix.com/news/YSERVER-1.6-Released</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/YSERVER-1.6-Released</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Tue, 22 Sep 2026 13:28:11 GMT</pubDate>
-    </item>
-    <item>
       <title>Portraits of trees: Willow</title>
       <link>https://eclecticlight.co/2026/09/22/portraits-of-trees-willow/</link>
       <guid isPermaLink="true">https://eclecticlight.co/2026/09/22/portraits-of-trees-willow/</guid>
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Tue, 22 Sep 2026 11:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Should your next laptop be a Googlebook?</title>
+      <link>https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PYnpVRXotWUUwUEViN1NCVDRkUkZTWG9mZWRfc04zdVUtanJHRVlpT1NoUUN2LUN3NWpRcnhGV29DU3RFOEktVlJHeEtvTTNVbmJxQkQ4Umc4NzRheGZLbDNTdWtSdw?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PYnpVRXotWUUwUEViN1NCVDRkUkZTWG9mZWRfc04zdVUtanJHRVlpT1NoUUN2LUN3NWpRcnhGV29DU3RFOEktVlJHeEtvTTNVbmJxQkQ4Umc4NzRheGZLbDNTdWtSdw?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">newatlas.com</source>
+      <pubDate>Tue, 22 Sep 2026 10:24:20 GMT</pubDate>
     </item>
     <item>
       <title>Read an Apple Intelligence Report</title>
@@ -352,27 +376,11 @@
       <pubDate>Mon, 21 Sep 2026 20:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>rift - a tiling window manager for macos</title>
-      <link>https://github.com/acsandmann/rift/</link>
-      <guid isPermaLink="true">https://github.com/acsandmann/rift/</guid>
-      <category>macos</category>
-      <source url="https://lobste.rs/t/mac">Lobsters · mac</source>
-      <pubDate>Mon, 21 Sep 2026 18:02:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ichiro, at 52, Throws 127-Pitch Shutout Against All-Star Girls Team in Japan</title>
-      <link>https://www.seattletimes.com/sports/mariners/ichiro-at-52-throws-127-pitch-shutout-against-all-star-girls-team-in-japan/</link>
-      <guid isPermaLink="true">https://www.seattletimes.com/sports/mariners/ichiro-at-52-throws-127-pitch-shutout-against-all-star-girls-team-in-japan/</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Mon, 21 Sep 2026 17:37:16 GMT</pubDate>
-    </item>
-    <item>
       <title>Google’s new laptop OS is Android, ChromeOS and Linux mashed into one</title>
       <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxNb3UtdTI3VnZWRXRsXzBjYTc3eDZqeFJxTUxBbllseEdtZFNDUUctRDhCNVlMaEpmZVZKdnV6LXpzaUJtSFU3QUR0cnd6dnFGaTdqcHliRGRmOGRhVDNHN3pYQ2dJTnFxM0tYYVp3NUdCdy04c3dNVl9pOWNCRVZ6UFdyRFpJUVVSWFExd0VfaWJjYnJyQnp4TlhKTmVPQTZNSFVPZThzemI5dllqUmhpRkZQZw?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiswFBVV95cUxNb3UtdTI3VnZWRXRsXzBjYTc3eDZqeFJxTUxBbllseEdtZFNDUUctRDhCNVlMaEpmZVZKdnV6LXpzaUJtSFU3QUR0cnd6dnFGaTdqcHliRGRmOGRhVDNHN3pYQ2dJTnFxM0tYYVp3NUdCdy04c3dNVl9pOWNCRVZ6UFdyRFpJUVVSWFExd0VfaWJjYnJyQnp4TlhKTmVPQTZNSFVPZThzemI5dllqUmhpRkZQZw?oc=5</guid>
       <category>android</category>
-      <source url="https://news.google.com/">notebookcheck.net</source>
+      <source url="https://news.google.com/">Notebookcheck</source>
       <pubDate>Mon, 21 Sep 2026 17:16:00 GMT</pubDate>
     </item>
     <item>
@@ -398,14 +406,6 @@
       <category>android</category>
       <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
       <pubDate>Mon, 21 Sep 2026 13:02:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Googlebook is here, and we went hands-on with the new software in NYC [VIDEO]</title>
-      <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxOMFowblRhV3hMcXFkQVNYa3U5R2huMUtOdmZweHo3TkhLTVJ0NWdtTXVLbG4zR3ZLUmFyRHhQOG9KTVIwTkRMWGRocVozaVFGZktmT25JanpqNS1UN2FhbG9LdjJhTzQwMVQyUkF5QTg3cHE0X241dUJ2cEh5MDJYa1lnX2tZSjBCNVRubUhGVEt2N3p6MGVhU0wxdlpBcElxVWNJ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiowFBVV95cUxOMFowblRhV3hMcXFkQVNYa3U5R2huMUtOdmZweHo3TkhLTVJ0NWdtTXVLbG4zR3ZLUmFyRHhQOG9KTVIwTkRMWGRocVozaVFGZktmT25JanpqNS1UN2FhbG9LdjJhTzQwMVQyUkF5QTg3cHE0X241dUJ2cEh5MDJYa1lnX2tZSjBCNVRubUhGVEt2N3p6MGVhU0wxdlpBcElxVWNJ?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Chrome Unboxed</source>
-      <pubDate>Mon, 21 Sep 2026 13:01:17 GMT</pubDate>
     </item>
   </channel>
 </rss>

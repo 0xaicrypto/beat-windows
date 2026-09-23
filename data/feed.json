@@ -1,6 +1,46 @@
 {
-  "generated": "2026-09-23T14:47:41.025Z",
+  "generated": "2026-09-23T19:06:13.504Z",
   "items": [
+    {
+      "title": "App Store Scam of the Week: ‘Update My Phone & Apps: Guide’ by Tair Olzhasev",
+      "url": "https://apps.apple.com/us/app/update-my-phone-apps-guide/id6753936837",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-09-23T18:38:58.000Z"
+    },
+    {
+      "title": "★ AppZapper 3000",
+      "url": "https://daringfireball.net/2026/09/appzapper_3000",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-09-23T17:31:23.000Z"
+    },
+    {
+      "title": "[$] Ideas on modernizing the open-source desktop",
+      "url": "https://lwn.net/Articles/1095425/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-09-23T15:39:30.000Z"
+    },
+    {
+      "title": "Intel Developing Their DXVK-IGDEXT For Improved Linux Gaming On Arc Graphics",
+      "url": "https://www.phoronix.com/news/DXVK-IGDEXT",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-23T14:54:44.000Z"
+    },
+    {
+      "title": "Systemd v262 released",
+      "url": "https://lwn.net/Articles/1096204/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-09-23T14:51:37.000Z"
+    },
     {
       "title": "Super Intelligence, Indeed",
       "url": "https://bsky.app/profile/atrupar.com/post/3mw4it5l5fd23",
@@ -220,7 +260,7 @@
     {
       "title": "Google’s new Googlebook OS is basically Android for laptops",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdkk0VTNBTUIzRUQzV3ItTFVEQXhZTllVZ1lGdUFMaEl6bk5vR0FyUlQ5dXNVSFB0ekJpNGZxb1ZXUEw0Yk9lS0h5bk5iMjlfQjNZYUw0ay0tM3VxMnphQmR0dFNZWF93N3puWGF0bXMyQTl6VTJteWJXdkJ6d2N0ZV9keURuVHl6ZndVSk40eXhZZUhYY213eVllTUhsRC1MTGdrdk13?oc=5",
-      "source": "pcworld.com",
+      "source": "PCWorld",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-22T16:35:50.000Z"
@@ -258,14 +298,6 @@
       "date": "2026-09-22T15:10:11.000Z"
     },
     {
-      "title": "SPEC Releases SPECviewperf 15.0.1 For Linux",
-      "url": "https://www.phoronix.com/news/SPECviewperf-15.0.1-Linux",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-22T14:36:00.000Z"
-    },
-    {
       "title": "Soylent Googlebook is Android",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBreU9rLV9mNFhmbVNNZlFaWFp4ZkFqY2xtd04zSzZyYVdrTDRkUjNXcUVKeXZfQkFkMk8xVzJZM0Y3SG5NWG52WW8yQTlBalR0b0E?oc=5",
       "source": "spyglass.org",
@@ -274,28 +306,20 @@
       "date": "2026-09-22T13:41:32.000Z"
     },
     {
-      "title": "systemd 262 Released With AI/LLM Canary For Unreviewed Code, LUO Integration",
-      "url": "https://www.phoronix.com/news/systemd-262",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-22T13:35:05.000Z"
-    },
-    {
-      "title": "Vibe Coded YSERVER Adds XDMCP Support For Multi-User Shared Desktops",
-      "url": "https://www.phoronix.com/news/YSERVER-1.6-Released",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-22T13:28:11.000Z"
-    },
-    {
       "title": "Portraits of trees: Willow",
       "url": "https://eclecticlight.co/2026/09/22/portraits-of-trees-willow/",
       "source": "Eclectic Light",
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-09-22T11:30:00.000Z"
+    },
+    {
+      "title": "Should your next laptop be a Googlebook?",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PYnpVRXotWUUwUEViN1NCVDRkUkZTWG9mZWRfc04zdVUtanJHRVlpT1NoUUN2LUN3NWpRcnhGV29DU3RFOEktVlJHeEtvTTNVbmJxQkQ4Umc4NzRheGZLbDNTdWtSdw?oc=5",
+      "source": "newatlas.com",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-09-22T10:24:20.000Z"
     },
     {
       "title": "Read an Apple Intelligence Report",
@@ -346,25 +370,9 @@
       "date": "2026-09-21T20:00:00.000Z"
     },
     {
-      "title": "rift - a tiling window manager for macos",
-      "url": "https://github.com/acsandmann/rift/",
-      "source": "Lobsters · mac",
-      "tag": "macos",
-      "site": "https://lobste.rs/t/mac",
-      "date": "2026-09-21T18:02:53.000Z"
-    },
-    {
-      "title": "Ichiro, at 52, Throws 127-Pitch Shutout Against All-Star Girls Team in Japan",
-      "url": "https://www.seattletimes.com/sports/mariners/ichiro-at-52-throws-127-pitch-shutout-against-all-star-girls-team-in-japan/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-09-21T17:37:16.000Z"
-    },
-    {
       "title": "Google’s new laptop OS is Android, ChromeOS and Linux mashed into one",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb3UtdTI3VnZWRXRsXzBjYTc3eDZqeFJxTUxBbllseEdtZFNDUUctRDhCNVlMaEpmZVZKdnV6LXpzaUJtSFU3QUR0cnd6dnFGaTdqcHliRGRmOGRhVDNHN3pYQ2dJTnFxM0tYYVp3NUdCdy04c3dNVl9pOWNCRVZ6UFdyRFpJUVVSWFExd0VfaWJjYnJyQnp4TlhKTmVPQTZNSFVPZThzemI5dllqUmhpRkZQZw?oc=5",
-      "source": "notebookcheck.net",
+      "source": "Notebookcheck",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-21T17:16:00.000Z"
@@ -426,9 +434,17 @@
       "date": "2026-09-21T13:00:00.000Z"
     },
     {
+      "title": "The long dream of the Googlebook",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOM2Rld19kU2ZlQ3ExNXlqampNRTl1V2dWbXpZM0FwOHFsRllsbWxQMWd0Qnk1ekk2ZFZ3eDBpVGV3eXdhbUFvOXRNMUN5enBlSzd5YmFtZm5tZkwxUXI2MG85RHRkTDllUTZ2RzIzWGFSSDNVNjYxbk1MN1dVLTJRcjN0elhFZw?oc=5",
+      "source": "The Verge",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-09-21T13:00:00.000Z"
+    },
+    {
       "title": "Hands-on with Googlebooks — Five models, the new Googlebook OS, and a Mac-style experience for Android users at premium prices",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTUEzZWd0akNEYVVOWjNEWXljc1MzekxWcEhnajJxZElTSmQxVUdFMy1rV2dOLUUza1kwUm9nTUFrRXFaaVZJX0piWlNBcy0yeXF1S3llWHJTWWNMbzhoaXFoWVJtVktHVHBBVDlZQnZmSTVLeDN3NlpwVUJsWXF2UlhHUEpvbDh1a0x6c3E5ZDdBN1ZGcDlEd0xYbmtqeENnX1d6TFVWaGhLdmVWd010SXJ4eENBMTA2LWpnNmJWSjc2MnpXSjFPUmhQVmpmSTdYWXFleUxocktOeUg0TDFUX2tmaG1ic1FmTlllcjJpckU?oc=5",
-      "source": "tomshardware.com",
+      "source": "Tom's Hardware",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-21T13:00:00.000Z"
@@ -436,7 +452,15 @@
     {
       "title": "Googlebook OS: This is Google’s Android-based operating system for notebooks",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTmRZQ3lEZXRmczJPRlFIYnFCaVBlMHM4SVdhTDVHd3FjdUtTLTlCMUdCUlZ0aVdmTjF3Q3UyOHBiVHBobERIMUtBRWxKTGRGQlR5YlVGZGR5MndESFNBQ2hFR0lVWTJXV1dXdlNwNEkzam9WWlAwWmhDNE5RQ1lKMUV2Z2hudmoxc0s0MUd5RG8wQ3dDSkE0QVBVdHBDR0czUkthLWhlM3Y0SUczcUhhODhWMVBfZ1ZILVE?oc=5",
-      "source": "heise.de",
+      "source": "heise online",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-09-21T13:00:00.000Z"
+    },
+    {
+      "title": "Googlebooks feel like the first laptops built for Android owners",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcTUwRmlQU09wOTg2VHgweDhVaTBsc2NJUWNxYnhmQXIzNURNakhldzVHSzc2RnlWUnF4d29zVFAwSHEwb2JjWVpodC1PLUxzT3ZELVVsYmNTbWZUdnh6UFBlRVVIYkxOUFpsUGw5czl0Ujh0S2VlREhFLUx3OVFRRGFkRjZ3ellPSFdj?oc=5",
+      "source": "The Verge",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-21T13:00:00.000Z"
@@ -512,14 +536,6 @@
       "tag": "android",
       "site": "https://9to5google.com/guides/googlebook/",
       "date": "2026-09-11T15:10:00.000Z"
-    },
-    {
-      "title": "A pile of MacBook Neo clones gives Googlebook all the more of an uphill battle",
-      "url": "https://9to5google.com/2026/09/06/googlebook-macbook-neo-competitors/",
-      "source": "9to5Google · Googlebook",
-      "tag": "android",
-      "site": "https://9to5google.com/guides/googlebook/",
-      "date": "2026-09-06T13:00:00.000Z"
     },
     {
       "title": "Closing the IPv6 First-Packet Gap with GRAND",
