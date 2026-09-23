@@ -1,6 +1,46 @@
 {
-  "generated": "2026-09-23T19:06:13.504Z",
+  "generated": "2026-09-23T22:21:07.420Z",
   "items": [
+    {
+      "title": "★ The iPhone 4 ‘Antennagate’ Press Conference Q&A — Finally",
+      "url": "https://daringfireball.net/2026/09/iphone_4_antennagate_q_and_a",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-09-23T22:15:05.000Z"
+    },
+    {
+      "title": "Debian Inference Portal Launches To Provide Free AI/LLM Inferencing To Debian Developers",
+      "url": "https://www.phoronix.com/news/Debian-Inference-Portal",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-23T21:08:01.000Z"
+    },
+    {
+      "title": "Qualcomm Talks Up Linux On Snapdragon X2 Laptops",
+      "url": "https://www.phoronix.com/news/Qualcomm-Talks-Up-X2-Linux",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-23T20:49:30.000Z"
+    },
+    {
+      "title": "‘Prepare to Ship’ Is a Clever Software Solution That Allows iPhone 18 Pro Max to Ship With a Battery That Would Otherwise Exceed International Shipping Regulations",
+      "url": "https://support.apple.com/en-us/127848",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-09-23T20:12:16.000Z"
+    },
+    {
+      "title": "Lemonade Fixes AMD APU Model Streaming, Drops OpenMOSS ROCm As ~40x Slower Than Vulkan",
+      "url": "https://www.phoronix.com/news/Lemonade-2026.40-RC",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-23T19:41:24.000Z"
+    },
     {
       "title": "App Store Scam of the Week: ‘Update My Phone & Apps: Guide’ by Tair Olzhasev",
       "url": "https://apps.apple.com/us/app/update-my-phone-apps-guide/id6753936837",
@@ -274,30 +314,6 @@
       "date": "2026-09-22T15:44:45.000Z"
     },
     {
-      "title": "Variable Refresh Rate \"VRR\" Target Limiter Proposed For Linux Graphics Drivers",
-      "url": "https://www.phoronix.com/news/VRR-Target-Rate-Limiter-uAPI",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-22T15:29:30.000Z"
-    },
-    {
-      "title": "[$] Compiling the kernel with gccrs",
-      "url": "https://lwn.net/Articles/1095553/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-09-22T15:27:35.000Z"
-    },
-    {
-      "title": "Security updates for Tuesday",
-      "url": "https://lwn.net/Articles/1096022/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-09-22T15:10:11.000Z"
-    },
-    {
       "title": "Soylent Googlebook is Android",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBreU9rLV9mNFhmbVNNZlFaWFp4ZkFqY2xtd04zSzZyYVdrTDRkUjNXcUVKeXZfQkFkMk8xVzJZM0Y3SG5NWG52WW8yQTlBalR0b0E?oc=5",
       "source": "spyglass.org",
@@ -314,9 +330,17 @@
       "date": "2026-09-22T11:30:00.000Z"
     },
     {
+      "title": "Googlebooks will live or die on the loyalty of a billion Android users",
+      "url": "https://9to5google.com/2026/09/22/googlebooks-will-live-or-die-on-the-loyalty-of-a-billion-android-users/",
+      "source": "9to5Google · Googlebook",
+      "tag": "android",
+      "site": "https://9to5google.com/guides/googlebook/",
+      "date": "2026-09-22T11:00:00.000Z"
+    },
+    {
       "title": "Should your next laptop be a Googlebook?",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PYnpVRXotWUUwUEViN1NCVDRkUkZTWG9mZWRfc04zdVUtanJHRVlpT1NoUUN2LUN3NWpRcnhGV29DU3RFOEktVlJHeEtvTTNVbmJxQkQ4Umc4NzRheGZLbDNTdWtSdw?oc=5",
-      "source": "newatlas.com",
+      "source": "New Atlas",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-22T10:24:20.000Z"
@@ -344,22 +368,6 @@
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-09-21T22:52:44.000Z"
-    },
-    {
-      "title": "GM Confirms They’re Still Smoking Crack",
-      "url": "https://x.com/JoannaStern/status/2102105565195288859",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-09-21T21:52:50.000Z"
-    },
-    {
-      "title": "America’s Decline Can Be Measured by the Names of Ballparks and Arenas",
-      "url": "https://www.mlb.com/news/tigers-ballpark-name-changed-to-fifth-third-park",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-09-21T21:23:01.000Z"
     },
     {
       "title": "What do you actually use a laptop for, and would Googlebook be able to do it? [Poll]",
@@ -392,6 +400,14 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-21T13:08:13.000Z"
+    },
+    {
+      "title": "Googlebook is finally official with 5 flagship Android-powered laptops starting at $899",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNankyOFlRU2JnejVkM2VMZVpqblJhTWkybi1lS3JBbzNTbFNFQkVBY2hjY2t6alNvcVJtbnpwRms5LUVLc3JEUC1fLWRqX0VfNkkyakY0dVc4TDZtZ24xSG5Nb0Q3RVRzV29PUFI4eHVzcXBUVzRxNnpTWkhzTy1PODVDLWdNS3czTng4Y1VYelUtMElteUFsX2JQTjd3VXdaTjB2NVpSdUVBNjdhSUZxaldUNlNIUQ?oc=5",
+      "source": "Android Authority",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-09-21T13:05:00.000Z"
     },
     {
       "title": "Googlebook hands-on: What makes a laptop, a laptop? [Video]",
@@ -434,8 +450,8 @@
       "date": "2026-09-21T13:00:00.000Z"
     },
     {
-      "title": "The long dream of the Googlebook",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOM2Rld19kU2ZlQ3ExNXlqampNRTl1V2dWbXpZM0FwOHFsRllsbWxQMWd0Qnk1ekk2ZFZ3eDBpVGV3eXdhbUFvOXRNMUN5enBlSzd5YmFtZm5tZkwxUXI2MG85RHRkTDllUTZ2RzIzWGFSSDNVNjYxbk1MN1dVLTJRcjN0elhFZw?oc=5",
+      "title": "Googlebooks feel like the first laptops built for Android owners",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcTUwRmlQU09wOTg2VHgweDhVaTBsc2NJUWNxYnhmQXIzNURNakhldzVHSzc2RnlWUnF4d29zVFAwSHEwb2JjWVpodC1PLUxzT3ZELVVsYmNTbWZUdnh6UFBlRVVIYkxOUFpsUGw5czl0Ujh0S2VlREhFLUx3OVFRRGFkRjZ3ellPSFdj?oc=5",
       "source": "The Verge",
       "tag": "android",
       "site": "https://news.google.com/",
@@ -444,7 +460,7 @@
     {
       "title": "Hands-on with Googlebooks — Five models, the new Googlebook OS, and a Mac-style experience for Android users at premium prices",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTUEzZWd0akNEYVVOWjNEWXljc1MzekxWcEhnajJxZElTSmQxVUdFMy1rV2dOLUUza1kwUm9nTUFrRXFaaVZJX0piWlNBcy0yeXF1S3llWHJTWWNMbzhoaXFoWVJtVktHVHBBVDlZQnZmSTVLeDN3NlpwVUJsWXF2UlhHUEpvbDh1a0x6c3E5ZDdBN1ZGcDlEd0xYbmtqeENnX1d6TFVWaGhLdmVWd010SXJ4eENBMTA2LWpnNmJWSjc2MnpXSjFPUmhQVmpmSTdYWXFleUxocktOeUg0TDFUX2tmaG1ic1FmTlllcjJpckU?oc=5",
-      "source": "Tom's Hardware",
+      "source": "tomshardware.com",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-21T13:00:00.000Z"
@@ -458,8 +474,8 @@
       "date": "2026-09-21T13:00:00.000Z"
     },
     {
-      "title": "Googlebooks feel like the first laptops built for Android owners",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcTUwRmlQU09wOTg2VHgweDhVaTBsc2NJUWNxYnhmQXIzNURNakhldzVHSzc2RnlWUnF4d29zVFAwSHEwb2JjWVpodC1PLUxzT3ZELVVsYmNTbWZUdnh6UFBlRVVIYkxOUFpsUGw5czl0Ujh0S2VlREhFLUx3OVFRRGFkRjZ3ellPSFdj?oc=5",
+      "title": "The long dream of the Googlebook",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOM2Rld19kU2ZlQ3ExNXlqampNRTl1V2dWbXpZM0FwOHFsRllsbWxQMWd0Qnk1ekk2ZFZ3eDBpVGV3eXdhbUFvOXRNMUN5enBlSzd5YmFtZm5tZkwxUXI2MG85RHRkTDllUTZ2RzIzWGFSSDNVNjYxbk1MN1dVLTJRcjN0elhFZw?oc=5",
       "source": "The Verge",
       "tag": "android",
       "site": "https://news.google.com/",
@@ -514,28 +530,12 @@
       "date": "2026-09-15T13:14:36.000Z"
     },
     {
-      "title": "Googlebook pre-orders start on September 21",
-      "url": "https://9to5google.com/2026/09/14/googlebook-pre-order/",
-      "source": "9to5Google · Googlebook",
-      "tag": "android",
-      "site": "https://9to5google.com/guides/googlebook/",
-      "date": "2026-09-14T17:07:38.000Z"
-    },
-    {
       "title": "GEFS: The File Shredder of the Future",
       "url": "https://exquisite.tube/w/3QQimMdswWJxrsPaJtak2u",
       "source": "Lobsters · openbsd",
       "tag": "bsd",
       "site": "https://lobste.rs/t/openbsd",
       "date": "2026-09-13T16:30:23.000Z"
-    },
-    {
-      "title": "‘Lenovo Googlebook 15’ specs leak in full with ‘Google facial authentication’",
-      "url": "https://9to5google.com/2026/09/11/lenovo-googlebook-15-specs-leak/",
-      "source": "9to5Google · Googlebook",
-      "tag": "android",
-      "site": "https://9to5google.com/guides/googlebook/",
-      "date": "2026-09-11T15:10:00.000Z"
     },
     {
       "title": "Closing the IPv6 First-Packet Gap with GRAND",

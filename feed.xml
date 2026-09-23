@@ -5,8 +5,48 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Sep 2026 19:06:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 22:21:07 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>★ The iPhone 4 ‘Antennagate’ Press Conference Q&amp;A — Finally</title>
+      <link>https://daringfireball.net/2026/09/iphone_4_antennagate_q_and_a</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/09/iphone_4_antennagate_q_and_a</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Wed, 23 Sep 2026 22:15:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Debian Inference Portal Launches To Provide Free AI/LLM Inferencing To Debian Developers</title>
+      <link>https://www.phoronix.com/news/Debian-Inference-Portal</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Debian-Inference-Portal</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Wed, 23 Sep 2026 21:08:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qualcomm Talks Up Linux On Snapdragon X2 Laptops</title>
+      <link>https://www.phoronix.com/news/Qualcomm-Talks-Up-X2-Linux</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Qualcomm-Talks-Up-X2-Linux</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Wed, 23 Sep 2026 20:49:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>‘Prepare to Ship’ Is a Clever Software Solution That Allows iPhone 18 Pro Max to Ship With a Battery That Would Otherwise Exceed International Shipping Regulations</title>
+      <link>https://support.apple.com/en-us/127848</link>
+      <guid isPermaLink="true">https://support.apple.com/en-us/127848</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Wed, 23 Sep 2026 20:12:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lemonade Fixes AMD APU Model Streaming, Drops OpenMOSS ROCm As ~40x Slower Than Vulkan</title>
+      <link>https://www.phoronix.com/news/Lemonade-2026.40-RC</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Lemonade-2026.40-RC</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Wed, 23 Sep 2026 19:41:24 GMT</pubDate>
+    </item>
     <item>
       <title>App Store Scam of the Week: ‘Update My Phone &amp; Apps: Guide’ by Tair Olzhasev</title>
       <link>https://apps.apple.com/us/app/update-my-phone-apps-guide/id6753936837</link>
@@ -280,30 +320,6 @@
       <pubDate>Tue, 22 Sep 2026 15:44:45 GMT</pubDate>
     </item>
     <item>
-      <title>Variable Refresh Rate &quot;VRR&quot; Target Limiter Proposed For Linux Graphics Drivers</title>
-      <link>https://www.phoronix.com/news/VRR-Target-Rate-Limiter-uAPI</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/VRR-Target-Rate-Limiter-uAPI</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Tue, 22 Sep 2026 15:29:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>[$] Compiling the kernel with gccrs</title>
-      <link>https://lwn.net/Articles/1095553/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1095553/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Tue, 22 Sep 2026 15:27:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Security updates for Tuesday</title>
-      <link>https://lwn.net/Articles/1096022/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1096022/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Tue, 22 Sep 2026 15:10:11 GMT</pubDate>
-    </item>
-    <item>
       <title>Soylent Googlebook is Android</title>
       <link>https://news.google.com/rss/articles/CBMiUkFVX3lxTFBreU9rLV9mNFhmbVNNZlFaWFp4ZkFqY2xtd04zSzZyYVdrTDRkUjNXcUVKeXZfQkFkMk8xVzJZM0Y3SG5NWG52WW8yQTlBalR0b0E?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiUkFVX3lxTFBreU9rLV9mNFhmbVNNZlFaWFp4ZkFqY2xtd04zSzZyYVdrTDRkUjNXcUVKeXZfQkFkMk8xVzJZM0Y3SG5NWG52WW8yQTlBalR0b0E?oc=5</guid>
@@ -320,11 +336,19 @@
       <pubDate>Tue, 22 Sep 2026 11:30:00 GMT</pubDate>
     </item>
     <item>
+      <title>Googlebooks will live or die on the loyalty of a billion Android users</title>
+      <link>https://9to5google.com/2026/09/22/googlebooks-will-live-or-die-on-the-loyalty-of-a-billion-android-users/</link>
+      <guid isPermaLink="true">https://9to5google.com/2026/09/22/googlebooks-will-live-or-die-on-the-loyalty-of-a-billion-android-users/</guid>
+      <category>android</category>
+      <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
+      <pubDate>Tue, 22 Sep 2026 11:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Should your next laptop be a Googlebook?</title>
       <link>https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PYnpVRXotWUUwUEViN1NCVDRkUkZTWG9mZWRfc04zdVUtanJHRVlpT1NoUUN2LUN3NWpRcnhGV29DU3RFOEktVlJHeEtvTTNVbmJxQkQ4Umc4NzRheGZLbDNTdWtSdw?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PYnpVRXotWUUwUEViN1NCVDRkUkZTWG9mZWRfc04zdVUtanJHRVlpT1NoUUN2LUN3NWpRcnhGV29DU3RFOEktVlJHeEtvTTNVbmJxQkQ4Umc4NzRheGZLbDNTdWtSdw?oc=5</guid>
       <category>android</category>
-      <source url="https://news.google.com/">newatlas.com</source>
+      <source url="https://news.google.com/">New Atlas</source>
       <pubDate>Tue, 22 Sep 2026 10:24:20 GMT</pubDate>
     </item>
     <item>
@@ -350,22 +374,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Mon, 21 Sep 2026 22:52:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>GM Confirms They’re Still Smoking Crack</title>
-      <link>https://x.com/JoannaStern/status/2102105565195288859</link>
-      <guid isPermaLink="true">https://x.com/JoannaStern/status/2102105565195288859</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Mon, 21 Sep 2026 21:52:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>America’s Decline Can Be Measured by the Names of Ballparks and Arenas</title>
-      <link>https://www.mlb.com/news/tigers-ballpark-name-changed-to-fifth-third-park</link>
-      <guid isPermaLink="true">https://www.mlb.com/news/tigers-ballpark-name-changed-to-fifth-third-park</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Mon, 21 Sep 2026 21:23:01 GMT</pubDate>
     </item>
     <item>
       <title>What do you actually use a laptop for, and would Googlebook be able to do it? [Poll]</title>
@@ -398,14 +406,6 @@
       <category>android</category>
       <source url="https://news.google.com/">blog.google</source>
       <pubDate>Mon, 21 Sep 2026 13:08:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Googlebook hands-on: What makes a laptop, a laptop? [Video]</title>
-      <link>https://9to5google.com/2026/09/21/googlebook-hands-on-what-makes-a-laptop-a-laptop-video/</link>
-      <guid isPermaLink="true">https://9to5google.com/2026/09/21/googlebook-hands-on-what-makes-a-laptop-a-laptop-video/</guid>
-      <category>android</category>
-      <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
-      <pubDate>Mon, 21 Sep 2026 13:02:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
