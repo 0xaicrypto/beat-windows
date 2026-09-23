@@ -85,6 +85,9 @@
   .modal{position:fixed;inset:0;background:rgba(4,40,39,.85);display:grid;place-items:center;padding:16px;z-index:100}
   .modal .win{width:min(680px,100%);max-height:92vh;display:flex;flex-direction:column}
   .modal .body{overflow:auto}
+  .toast{position:fixed;left:50%;bottom:24px;transform:translateX(-50%);background:var(--gold);color:var(--ink);
+    font:400 18px var(--pix);padding:10px 16px;border:2px solid;border-color:#fff3b0 var(--chrome-dk) var(--chrome-dk) #fff3b0;
+    box-shadow:4px 4px 0 var(--desk-deep);z-index:200;max-width:min(560px,90vw);text-align:center}
   #cardImg{display:block;width:100%;border:2px solid #000;background:#000}
   footer a{color:var(--gold)}
 </style>
@@ -127,12 +130,14 @@
   <footer>Pure parody · No computers were actually harmed in the making of this page · <a href="https://starklaunchy.fun/token/0x91a89b3cfcc2e342dd62c008db7198de845d4c06a5acd2c1dc29efea3cfa12" target="_blank" rel="noopener">$BEAT on Launchy</a></footer>
 </div>
 
+<div id="toast" class="toast" hidden></div>
+
 <div class="modal" id="shareModal" hidden>
   <div class="win">
     <div class="bar"><b>SHARE.EXE — Your score card</b><span class="btns"><i id="shareClose" role="button" tabindex="0">×</i></span></div>
     <div class="body">
       <img id="cardImg" alt="Your Beat Windows score card">
-      <p class="dstat" style="color:#101010;margin:8px 0 0">Tip: download the PNG and attach it to your post so the card shows up in the timeline.</p>
+      <p class="dstat" style="color:#101010;margin:8px 0 0">Tip: "Post on X" copies the card to your clipboard, then opens the composer — paste it there to attach the image.</p>
       <div class="row" style="justify-content:flex-end;margin-top:10px">
         <button class="b95" type="button" id="cardShare" hidden>Share image</button>
         <button class="b95" type="button" id="cardCopy">Copy caption</button>
@@ -205,7 +210,7 @@
   const desk = $("desk"), scoreEl = $("score"), timeEl = $("time"), heat = $("heat"), modeTag = $("modeTag");
   const LIMIT = 8, DURATION = 30;
   let score = 0, alive = 0, running = false, t0 = 0, spawnT = 0, raf = 0;
-  let mode = "practice", schedule = null, schedIdx = 0, lastResult = null, shareCanvas = null;
+  let mode = "practice", schedule = null, schedIdx = 0, lastResult = null, shareCanvas = null, cardFor = null, toastT = 0;
 
   function overlay(html, cls){
     const o = document.createElement("div"); o.className = "overlay " + cls; o.innerHTML = html;
@@ -442,13 +447,55 @@
       ? "I smashed " + r.score + " pop-ups in 30 seconds and out-smashed " + r.pct + "% of " + (r.mode === "daily" ? "today's players" : "players") + " on Beat Windows. Can you beat it?"
       : "I blue-screened after smashing " + r.score + " pop-ups on Beat Windows. Think you can do worse?";
   }
-  function postX(){
-    window.open("https://twitter.com/intent/tweet?text=" + encodeURIComponent(scoreText()) + "&url=" + encodeURIComponent("https://beatwindows.org"), "_blank", "noopener");
+  const toBlob = c => new Promise(res => c.toBlob(res, "image/png"));
+  const isTouch = window.matchMedia && matchMedia("(pointer: coarse)").matches;
+  let canFileShare = false;
+  try {
+    canFileShare = !!navigator.canShare && navigator.canShare({ files: [new File(["x"], "card.png", { type: "image/png" })] });
+  } catch(e){}
+  function toast(msg){
+    const el = $("toast");
+    el.textContent = msg; el.hidden = false;
+    clearTimeout(toastT); toastT = setTimeout(() => el.hidden = true, 9000);
+  }
+  async function ensureCard(){
+    if (!lastResult) return null;
+    if (!shareCanvas || cardFor !== lastResult){
+      shareCanvas = await drawCard(lastResult);
+      cardFor = lastResult;
+    }
+    return shareCanvas;
+  }
+  async function shareImage(){
+    const c = await ensureCard(); if (!c) return;
+    try {
+      const blob = await toBlob(c);
+      await navigator.share({
+        files: [new File([blob], "beat-windows.png", { type: "image/png" })],
+        text: scoreText() + " https://beatwindows.org"
+      });
+    } catch(e){}
+  }
+  async function postX(){
+    if (!lastResult) return;
+    if (canFileShare && isTouch){ await shareImage(); return; }
+    const c = await ensureCard();
+    let copied = false;
+    if (c && navigator.clipboard && window.ClipboardItem){
+      try {
+        await navigator.clipboard.write([new ClipboardItem({ "image/png": await toBlob(c) })]);
+        copied = true;
+      } catch(e){}
+    }
+    if (c && !copied) downloadCard();
+    const w = window.open("https://twitter.com/intent/tweet?text=" + encodeURIComponent(scoreText()) + "&url=" + encodeURIComponent("https://beatwindows.org"), "_blank", "noopener");
+    if (copied) toast("Score card copied — press Ctrl/Cmd+V in the X composer to attach it.");
+    else if (c) toast("Score card downloaded — attach the PNG to your post.");
+    if (!w && copied) toast("Allow pop-ups to open the tweet composer — the card is already on your clipboard.");
   }
   async function openShare(){
-    if (!lastResult) return;
-    shareCanvas = await drawCard(lastResult);
-    $("cardImg").src = shareCanvas.toDataURL("image/png");
+    const c = await ensureCard(); if (!c) return;
+    $("cardImg").src = c.toDataURL("image/png");
     $("shareModal").hidden = false;
   }
   function downloadCard(){
@@ -472,17 +519,10 @@
       () => {}
     );
   };
-  try {
-    if (navigator.canShare && navigator.canShare({ files: [new File(["x"], "card.png", { type: "image/png" })] })){
-      const b = $("cardShare"); b.hidden = false;
-      b.onclick = () => shareCanvas.toBlob(blob => {
-        navigator.share({
-          files: [new File([blob], "beat-windows.png", { type: "image/png" })],
-          text: scoreText() + " https://beatwindows.org"
-        }).catch(() => {});
-      }, "image/png");
-    }
-  } catch(e){}
+  if (canFileShare){
+    const b = $("cardShare"); b.hidden = false;
+    b.onclick = shareImage;
+  }
 
   showStart();
 })();

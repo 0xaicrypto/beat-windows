@@ -18,7 +18,7 @@ Live at [beatwindows.org](https://beatwindows.org).
 
 ### Share
 
-After a run, generate a retro score card (`Share score card`) and post it via the X intent or the native share sheet, or download the PNG. Captions and card reflect mode, score, and percentile.
+After a run, generate a retro score card (`Share score card`). "Post on X" copies the PNG to your clipboard (or downloads it when clipboard images are unavailable), then opens the tweet composer so you can paste it in; on touch devices it uses the native share sheet with the image attached.
 
 ## Tech
 
