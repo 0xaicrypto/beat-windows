@@ -1,6 +1,14 @@
 {
-  "generated": "2026-09-23T14:14:47.788Z",
+  "generated": "2026-09-23T14:22:32.108Z",
   "items": [
+    {
+      "title": "Critical security vulnerabilities in the Radicle network protocol",
+      "url": "https://lwn.net/Articles/1096200/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-09-23T14:20:46.000Z"
+    },
     {
       "title": "Critical WordPress RCE vulnerability announced",
       "url": "https://lwn.net/Articles/1096195/",
@@ -632,14 +640,6 @@
       "tag": "bsd",
       "site": "https://news.ycombinator.com/",
       "date": "2026-09-02T17:44:24.000Z"
-    },
-    {
-      "title": "Repeating Ourselves Less with M4",
-      "url": "https://nemin.hu/httpd-macros/index.html",
-      "source": "Lobsters · openbsd",
-      "tag": "bsd",
-      "site": "https://lobste.rs/t/openbsd",
-      "date": "2026-08-31T04:10:47.000Z"
     }
   ]
 }

@@ -5,8 +5,16 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Sep 2026 14:14:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 14:22:32 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Critical security vulnerabilities in the Radicle network protocol</title>
+      <link>https://lwn.net/Articles/1096200/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1096200/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Wed, 23 Sep 2026 14:20:46 GMT</pubDate>
+    </item>
     <item>
       <title>Critical WordPress RCE vulnerability announced</title>
       <link>https://lwn.net/Articles/1096195/</link>
@@ -398,14 +406,6 @@
       <category>linux</category>
       <source url="https://lwn.net/">LWN</source>
       <pubDate>Sun, 20 Sep 2026 22:52:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Unix Year 2038 problem and the art of underestimating</title>
-      <link>https://www.buzzsprout.com/2469780/episodes/19824439</link>
-      <guid isPermaLink="true">https://www.buzzsprout.com/2469780/episodes/19824439</guid>
-      <category>linux</category>
-      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
-      <pubDate>Sun, 20 Sep 2026 17:40:19 GMT</pubDate>
     </item>
   </channel>
 </rss>
