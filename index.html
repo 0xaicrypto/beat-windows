@@ -83,6 +83,14 @@
   .overlay p{margin:0}
   @media (prefers-reduced-motion:reduce){.pop,.pop.smash,.crack{animation:none}}
   footer{font-family:var(--pix);font-size:18px;color:#cdeeed}
+  .buy{display:inline-flex;align-items:center;gap:10px;margin-top:16px;font:900 18px var(--cn);color:var(--ink);text-decoration:none;
+    background:var(--gold);padding:10px 18px;border:2px solid;border-color:#fff3b0 var(--chrome-dk) var(--chrome-dk) #fff3b0;box-shadow:4px 4px 0 var(--desk-deep)}
+  .buy:hover{background:#ffe07a}
+  .buy:active{transform:translate(2px,2px);box-shadow:2px 2px 0 var(--desk-deep)}
+  .buy:focus-visible{outline:2px dotted #fff;outline-offset:3px}
+  .buy small{font:400 16px var(--pix);color:#3a2d00}
+  .nfa{font-family:var(--pix);font-size:16px;color:#cdeeed;margin:8px 0 0}
+  footer a{color:var(--gold)}
 </style>
 </head>
 <body>
@@ -91,6 +99,8 @@
   <header>
     <h1>BEAT <span>WINDOWS</span></h1>
     <p class="lede">C:\&gt; One hammer. One computer that is always "installing updates". Make a meme, then smash every pop-up to pieces.</p>
+    <a class="buy" href="https://starklaunchy.fun/token/0x91a89b3cfcc2e342dd62c008db7198de845d4c06a5acd2c1dc29efea3cfa12" target="_blank" rel="noopener">BUY $BEAT <small>BeatWin on Launchy ↗</small></a>
+    <p class="nfa">Memecoin, not financial advice. It can go to zero. Only spend what you can afford to lose.</p>
   </header>
 
   <section class="win" aria-labelledby="t1">
@@ -134,7 +144,7 @@
     </div>
   </section>
 
-  <footer>Pure parody · No computers were actually harmed in the making of this page</footer>
+  <footer>Pure parody · No computers were actually harmed in the making of this page · <a href="https://starklaunchy.fun/token/0x91a89b3cfcc2e342dd62c008db7198de845d4c06a5acd2c1dc29efea3cfa12" target="_blank" rel="noopener">$BEAT on Launchy</a></footer>
 </div>
 
 <script>
@@ -313,7 +323,7 @@
     running = false; cancelAnimationFrame(raf);
     const again = `<div><button class="b95 primary" type="button" data-again>Smash again</button></div>`;
     const o = won
-      ? overlay(`<div class="inner"><div class="big">YOU BEAT WINDOWS</div><p>${score} pop-ups smashed in 30 seconds. Update progress: 37%, forever.</p>${again}</div>`, "start")
+      ? overlay(`<div class="inner"><div class="big">YOU BEAT WINDOWS</div><p>${score} pop-ups smashed in 30 seconds. Update progress: 37%, forever.</p><div class="row" style="justify-content:center"><button class="b95 primary" type="button" data-again>Smash again</button><a class="b95" style="text-decoration:none" href="https://starklaunchy.fun/token/0x91a89b3cfcc2e342dd62c008db7198de845d4c06a5acd2c1dc29efea3cfa12" target="_blank" rel="noopener">Get $BEAT ↗</a></div></div>`, "start")
       : overlay(`<div class="inner"><span class="tag"> FATAL ERROR </span><p>:( Your desktop drowned in pop-ups.</p><p>Smashed ${score} · Survived ${((performance.now()-t0)/1000).toFixed(1)}s</p><p>STOP CODE: TOO_MANY_POPUPS</p>${again}</div>`, "bsod");
     o.querySelector("[data-again]").onclick = start;
   }
