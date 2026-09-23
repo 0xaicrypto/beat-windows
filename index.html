@@ -8,6 +8,10 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Anton&family=VT323&family=Noto+Sans+SC:wght@400;900&display=swap">
 <link rel="alternate" type="application/rss+xml" title="Beat Windows — Unix news" href="feed.xml">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="icon" href="favicon.ico" sizes="any">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<meta name="theme-color" content="#0a7a78">
 <style>
   *,*::before,*::after{box-sizing:border-box} body{margin:0} img{max-width:100%} [hidden]{display:none!important}
   :root{
@@ -81,6 +85,12 @@
   .buy:focus-visible{outline:2px dotted #fff;outline-offset:3px}
   .buy small{font:400 16px var(--pix);color:#3a2d00}
   .nfa{font-family:var(--pix);font-size:16px;color:#cdeeed;margin:8px 0 0}
+  .brand{display:flex;align-items:center;gap:18px;flex-wrap:wrap}
+  .logo{width:clamp(56px,9vw,84px);height:auto;flex:none;filter:drop-shadow(4px 4px 0 var(--desk-deep))}
+  .why p{margin:0 0 10px}
+  .why p:last-child{margin-bottom:0}
+  .why ul{margin:0 0 10px;padding-left:20px}
+  .why li{margin:4px 0}
   .dstat{font-family:var(--pix);font-size:19px;color:#eafffe;margin:0}
   #modeTag{background:var(--gold);color:var(--ink);padding:0 8px}
   .modal{position:fixed;inset:0;background:rgba(4,40,39,.85);display:grid;place-items:center;padding:16px;z-index:100}
@@ -105,11 +115,27 @@
 
 <div class="wrap">
   <header>
-    <h1>BEAT <span>WINDOWS</span></h1>
+    <div class="brand">
+      <img class="logo" src="icon.svg" alt="" width="84" height="84">
+      <h1>BEAT <span>WINDOWS</span></h1>
+    </div>
     <p class="lede">C:\&gt; One hammer. One computer that is always "installing updates". Smash every pop-up to pieces before your PC blue-screens.</p>
     <a class="buy" href="https://starklaunchy.fun/token/0x91a89b3cfcc2e342dd62c008db7198de845d4c06a5acd2c1dc29efea3cfa12" target="_blank" rel="noopener">BUY $BEAT <small>BeatWin on Launchy ↗</small></a>
     <p class="nfa">Memecoin, not financial advice. It can go to zero. Only spend what you can afford to lose.</p>
   </header>
+
+  <section class="win" aria-labelledby="t1">
+    <div class="bar"><b id="t1">WHY.TXT — Why this page exists</b><span class="btns"><i>_</i><i>□</i><i>×</i></span></div>
+    <div class="body why">
+      <p>I used to like Windows. At some point it stopped being an operating system and became a storefront with an update problem. Three things pushed me over the edge:</p>
+      <ul>
+        <li><b>Bloat.</b> Ads in the Start menu, three Settings panels reaching for the same switch, an OS that reinstalls its own apps whether you asked or not, and telemetry politely called "experience improvement".</li>
+        <li><b>Lag.</b> A machine that renders games at 144 fps still takes two seconds to open the Start menu, takes five to show the context menu, and always decides to reboot for updates in the middle of your work.</li>
+        <li><b>The CLI.</b> Quoting rules from 1985, backslashes everywhere, PowerShell's verb-noun novels, and a package manager bolted on decades late. WSL exists mostly to admit defeat.</li>
+      </ul>
+      <p>Rather than quietly switching, I made a game about it: <b>30 seconds, one hammer, all the pop-ups.</b> The UNIX.EXE window below follows the OSes that never blue-screen — Linux, the BSDs, macOS, and whatever Android-on-desktop turns into. Smash some windows; maybe install a better one.</p>
+    </div>
+  </section>
 
   <section class="win" aria-labelledby="t2">
     <div class="bar"><b id="t2">SMASH.EXE — 30-Second Pop-up Smash</b><span class="btns"><i>_</i><i>□</i><i>×</i></span></div>

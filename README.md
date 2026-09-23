@@ -67,6 +67,9 @@ The feed workflow commits `feed.xml` and `data/feed.json` back to the repo, so i
 | File | Purpose |
 | --- | --- |
 | `index.html` | Entire site: styles, markup, and game logic |
+| `icon.svg` | Logo and SVG favicon |
+| `favicon.ico` | Multi-size favicon (16/32/48) |
+| `apple-touch-icon.png` | iOS home screen icon |
 | `feed.xml` | Generated RSS 2.0 feed (do not edit by hand) |
 | `data/sources.json` | Feed source list |
 | `data/feed.json` | Generated feed for the page (do not edit by hand) |
