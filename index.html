@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta name="description" content="Make a Beat Windows meme, then smash pop-ups for 30 seconds before you blue-screen.">
+<meta name="description" content="Smash Windows pop-ups for 30 seconds before you blue-screen.">
 <title>Beat Windows</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Anton&family=VT323&family=Noto+Sans+SC:wght@400;900&display=swap">
@@ -40,20 +40,10 @@
     font-style:normal;color:var(--ink);font-size:16px;line-height:12px;text-align:center}
   .body{padding:14px}
 
-  .studio{display:grid;grid-template-columns:minmax(0,1.3fr) minmax(0,1fr);gap:16px}
-  @media (max-width:760px){.studio{grid-template-columns:1fr}}
-  .canvas-box{background:#000;border:2px solid;border-color:var(--chrome-dk) var(--chrome-hi) var(--chrome-hi) var(--chrome-dk)}
-  #memeImg{display:block;width:100%;height:auto}
-  .hint{font-family:var(--pix);font-size:18px;color:#333;margin:8px 0 0}
-  label{display:block;font-size:13px;font-weight:900;margin:0 0 4px}
-  .field{display:grid;gap:4px;margin-bottom:12px}
-  input[type=text]{width:100%;box-sizing:border-box;font:16px var(--cn);padding:6px 8px;background:#fff;color:var(--ink);
-    border:2px solid;border-color:var(--chrome-lo) var(--chrome-hi) var(--chrome-hi) var(--chrome-lo)}
-  .presets{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:12px}
   button.b95{font:15px var(--cn);color:var(--ink);background:var(--chrome);padding:6px 12px;cursor:pointer;
     border:2px solid;border-color:var(--chrome-hi) var(--chrome-dk) var(--chrome-dk) var(--chrome-hi)}
   button.b95:active{border-color:var(--chrome-dk) var(--chrome-hi) var(--chrome-hi) var(--chrome-dk)}
-  button.b95:focus-visible, input:focus-visible{outline:2px dotted var(--ink);outline-offset:2px}
+  button.b95:focus-visible{outline:2px dotted var(--ink);outline-offset:2px}
   button.primary{font-weight:900}
   .row{display:flex;gap:8px;flex-wrap:wrap}
 
@@ -98,31 +88,10 @@
 <div class="wrap">
   <header>
     <h1>BEAT <span>WINDOWS</span></h1>
-    <p class="lede">C:\&gt; One hammer. One computer that is always "installing updates". Make a meme, then smash every pop-up to pieces.</p>
+    <p class="lede">C:\&gt; One hammer. One computer that is always "installing updates". Smash every pop-up to pieces before your PC blue-screens.</p>
     <a class="buy" href="https://starklaunchy.fun/token/0x91a89b3cfcc2e342dd62c008db7198de845d4c06a5acd2c1dc29efea3cfa12" target="_blank" rel="noopener">BUY $BEAT <small>BeatWin on Launchy ↗</small></a>
     <p class="nfa">Memecoin, not financial advice. It can go to zero. Only spend what you can afford to lose.</p>
   </header>
-
-  <section class="win" aria-labelledby="t1">
-    <div class="bar"><b id="t1">MEME.EXE — Meme Maker</b><span class="btns"><i>_</i><i>□</i><i>×</i></span></div>
-    <div class="body studio">
-      <div>
-        <div class="canvas-box"><img id="memeImg" alt="Beat Windows meme preview"></div>
-        <p class="hint">▶ Right-click (desktop) or long-press (phone) the image → Save Image to keep the PNG</p>
-      </div>
-      <div>
-        <div class="field"><label for="top">Top text</label><input id="top" type="text" value="WINDOWS: Updating 37%. Don't turn off your PC"></div>
-        <div class="field"><label for="bottom">Bottom text</label><input id="bottom" type="text" value="ME: Fine. I'll turn it off another way"></div>
-        <label>Templates</label>
-        <div class="presets" id="presets"></div>
-        <div class="row">
-          <button class="b95 primary" id="shuffle" type="button">Shuffle</button>
-          <button class="b95" id="copy" type="button">Copy text</button>
-        </div>
-        <p class="hint" id="copyMsg" aria-live="polite"></p>
-      </div>
-    </div>
-  </section>
 
   <section class="win" aria-labelledby="t2">
     <div class="bar"><b id="t2">SMASH.EXE — 30-Second Pop-up Smash</b><span class="btns"><i>_</i><i>□</i><i>×</i></span></div>
@@ -149,127 +118,7 @@
 
 <script>
 (() => {
-  const PRESETS = [
-    ["WINDOWS: Updating 37%. Don't turn off your PC","ME: Fine. I'll turn it off another way"],
-    ["WINDOWS: Your PC ran into a problem and needs to restart","ME: Your PC ran into a hammer"],
-    ["WINDOWS: Do you want to allow this app to make changes to your device?","ME: Do you want to allow this hammer to make changes to your device?"],
-    ["WINDOWS: Restarting automatically at 3:00 AM","ME: 3:01 AM"],
-    ["1 minute before the big meeting","WINDOWS: Working on updates 0%"],
-    ["WINDOWS: Printer offline","ME: Now you're offline too"]
-  ];
   const $ = id => document.getElementById(id);
-  const topI = $("top"), botI = $("bottom"), img = $("memeImg");
-  const W = 900, H = 900;
-  const cv = document.createElement("canvas"); cv.width = W; cv.height = H;
-  const c = cv.getContext("2d");
-
-  function crackLines(x, y, n, len, seed){
-    let s = seed;
-    const rnd = () => (s = (s * 9301 + 49297) % 233280) / 233280;
-    c.beginPath();
-    for (let i = 0; i < n; i++){
-      const a = (i / n) * Math.PI * 2 + rnd() * .4;
-      let px = x, py = y;
-      c.moveTo(px, py);
-      for (let k = 0; k < 4; k++){
-        const l = len * (0.2 + rnd() * .35), aa = a + (rnd() - .5) * .6;
-        px += Math.cos(aa) * l; py += Math.sin(aa) * l; c.lineTo(px, py);
-      }
-    }
-    for (let r = 1; r <= 3; r++){
-      c.moveTo(x + r * 26, y);
-      for (let t = 0; t <= 12; t++){
-        const a = t / 12 * Math.PI * 2, rr = r * 26 * (0.8 + rnd() * .4);
-        c.lineTo(x + Math.cos(a) * rr, y + Math.sin(a) * rr);
-      }
-    }
-    c.stroke();
-  }
-
-  function drawScene(){
-    // backdrop: desktop teal
-    const g = c.createLinearGradient(0,0,0,H); g.addColorStop(0,"#0e8f8c"); g.addColorStop(1,"#054745");
-    c.fillStyle = g; c.fillRect(0,0,W,H);
-    // a real window: wooden frame, four glass panes
-    const fx = 170, fy = 190, fw = 560, fh = 520;
-    c.fillStyle = "#6b4423"; c.fillRect(fx-26, fy-26, fw+52, fh+52);
-    c.fillStyle = "#8a5a2b"; c.fillRect(fx-14, fy-14, fw+28, fh+28);
-    const panes = ["#e2442f","#55b83b","#2d8ee6","#f5c21b"];
-    const pw = (fw - 20) / 2, ph = (fh - 20) / 2;
-    panes.forEach((col, i) => {
-      const x = fx + (i % 2) * (pw + 20), y = fy + Math.floor(i / 2) * (ph + 20);
-      c.fillStyle = col; c.globalAlpha = .88; c.fillRect(x, y, pw, ph); c.globalAlpha = 1;
-      c.fillStyle = "rgba(255,255,255,.28)";
-      c.beginPath(); c.moveTo(x+18,y+18); c.lineTo(x+90,y+18); c.lineTo(x+18,y+110); c.fill();
-    });
-    // cracks on the top-right pane (hit point)
-    c.strokeStyle = "rgba(255,255,255,.95)"; c.lineWidth = 3; c.lineJoin = "round";
-    crackLines(fx + pw + 20 + pw * .45, fy + ph * .55, 11, 260, 7);
-    // flying shards
-    c.fillStyle = "rgba(220,240,255,.9)";
-    [[790,210,26],[820,300,18],[760,140,14],[850,380,12],[700,120,10]].forEach(([x,y,s],i)=>{
-      c.save(); c.translate(x,y); c.rotate(i); c.beginPath(); c.moveTo(0,-s); c.lineTo(s*.8,s*.6); c.lineTo(-s*.6,s*.4); c.closePath(); c.fill(); c.restore();
-    });
-    // hammer
-    c.save(); c.translate(fx + pw + 20 + pw * .45 + 40, fy + ph * .55 - 30); c.rotate(-0.75);
-    c.fillStyle = "#9b6a35"; c.strokeStyle = "#1b1b1b"; c.lineWidth = 6;
-    c.fillRect(-14, 0, 28, 250); c.strokeRect(-14, 0, 28, 250);
-    c.fillStyle = "#8d949b"; c.fillRect(-80, -52, 160, 60); c.strokeRect(-80, -52, 160, 60);
-    c.fillStyle = "rgba(255,255,255,.35)"; c.fillRect(-72, -44, 144, 12);
-    c.restore();
-    // impact word
-    c.save(); c.translate(250, 250); c.rotate(-0.18);
-    c.font = "72px Anton, Impact, sans-serif"; c.lineWidth = 10; c.strokeStyle = "#000"; c.fillStyle = "#ffd23f";
-    c.strokeText("CRACK!", 0, 0); c.fillText("CRACK!", 0, 0); c.restore();
-  }
-
-  function memeText(text, y, anchor){
-    const maxW = W - 60;
-    let size = 78;
-    const font = s => `${s}px Anton, "Noto Sans SC", Impact, sans-serif`;
-    // wrap into up to 2 lines, shrink until it fits
-    const wrap = s => {
-      c.font = font(s);
-      const chars = [...text.toUpperCase()], lines = [""];
-      for (const ch of chars){
-        const t = lines[lines.length-1] + ch;
-        if (c.measureText(t).width > maxW && lines[lines.length-1]) lines.push(ch.trim() ? ch : "");
-        else lines[lines.length-1] = t;
-      }
-      return lines;
-    };
-    let lines = wrap(size);
-    while (lines.length > 2 && size > 30){ size -= 4; lines = wrap(size); }
-    c.font = font(size); c.textAlign = "center"; c.lineJoin = "round";
-    c.lineWidth = Math.max(6, size / 7); c.strokeStyle = "#000"; c.fillStyle = "#fff";
-    const lh = size * 1.12;
-    const startY = anchor === "top" ? y + size : y - (lines.length - 1) * lh;
-    lines.forEach((l, i) => { c.strokeText(l, W/2, startY + i*lh); c.fillText(l, W/2, startY + i*lh); });
-  }
-
-  function render(){
-    drawScene();
-    memeText(topI.value, 24, "top");
-    memeText(botI.value, H - 34, "bottom");
-    img.src = cv.toDataURL("image/png");
-  }
-
-  const pre = $("presets");
-  PRESETS.forEach((p, i) => {
-    const b = document.createElement("button");
-    b.className = "b95"; b.type = "button"; b.textContent = "Template " + (i + 1);
-    b.title = p.join(" / ");
-    b.onclick = () => { topI.value = p[0]; botI.value = p[1]; render(); };
-    pre.appendChild(b);
-  });
-  $("shuffle").onclick = () => { const p = PRESETS[Math.floor(Math.random()*PRESETS.length)]; topI.value = p[0]; botI.value = p[1]; render(); };
-  $("copy").onclick = () => {
-    const t = topI.value + "\n" + botI.value, msg = $("copyMsg");
-    navigator.clipboard.writeText(t).then(() => msg.textContent = "Text copied").catch(() => { topI.select(); msg.textContent = "Copy was blocked. The text is selected, copy it manually"; });
-  };
-  topI.oninput = botI.oninput = render;
-  (document.fonts ? document.fonts.ready : Promise.resolve()).then(render);
-  render();
 
   // ---------- game ----------
   const MSGS = [
