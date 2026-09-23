@@ -1,4 +1,4 @@
-name: Update Unix feed
+name: Update Unix feed and forum
 
 on:
   schedule:
@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: write
+  discussions: read
 
 concurrency:
   group: unix-feed
@@ -22,14 +23,18 @@ jobs:
           node-version: "20"
       - name: Build feed
         run: node scripts/build-feed.mjs
-      - name: Commit feed
+      - name: Build discussions
+        run: node scripts/build-discussions.mjs
+        env:
+          GH_TOKEN: ${{ github.token }}
+      - name: Commit data
         run: |
-          if git diff --quiet -- feed.xml data/feed.json; then
-            echo "No feed changes"
+          if git diff --quiet -- feed.xml data/feed.json data/discussions.json; then
+            echo "No data changes"
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add feed.xml data/feed.json
+          git add feed.xml data/feed.json data/discussions.json
           git commit -m "Update Unix feed"
           git push

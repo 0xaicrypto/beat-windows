@@ -144,10 +144,20 @@
         <button class="b95" type="button" data-tag="linux">Linux</button>
         <button class="b95" type="button" data-tag="bsd">OpenBSD / BSD</button>
         <button class="b95" type="button" data-tag="macos">macOS</button>
+        <button class="b95" type="button" data-tag="android">Android · Googlebook</button>
         <a class="b95" href="feed.xml" target="_blank" rel="noopener">RSS ↗</a>
       </div>
       <p class="dstat" id="feedNote" style="color:#333">Fetching stories…</p>
       <ul class="feed" id="feedList" hidden></ul>
+    </div>
+  </section>
+
+  <section class="win" aria-labelledby="t4" id="forum" data-repo="https://github.com/0xaicrypto/beat-windows">
+    <div class="bar"><b id="t4">FORUM.EXE — Talk Unix</b><span class="btns"><i>_</i><i>□</i><i>×</i></span></div>
+    <div class="body">
+      <div class="row feedhead" id="forumActions"></div>
+      <p class="dstat" id="forumNote" style="color:#333">Loading threads…</p>
+      <ul class="feed" id="forumList" hidden></ul>
     </div>
   </section>
 
@@ -292,6 +302,11 @@
     return s;
   }
 
+  function pickReading(){
+    if (!feedItems.length) return null;
+    return feedItems[Math.floor(cyrb53("reading-" + dkey()) % feedItems.length)];
+  }
+
   function end(won){
     running = false; cancelAnimationFrame(raf);
     const pct = percentile(score);
@@ -312,6 +327,8 @@
       refreshDailyStatus();
     }
     lastResult = { won, mode, score, pct, date: mode === "daily" ? dkey() : "" };
+    const read = pickReading();
+    const readLine = read ? `<p class="dstat">Today's reading: <a href="${escHtml(read.url)}" target="_blank" rel="noopener" style="color:var(--gold)">${escHtml(read.title)}</a> · ${escHtml(read.source)}</p>` : "";
 
     const shareRow = `<div class="row" style="justify-content:center">
       <button class="b95 primary" type="button" data-share>Share score card</button>
@@ -323,6 +340,7 @@
         <div class="big">YOU BEAT WINDOWS</div>
         <p>${score} pop-ups smashed in 30 seconds. Update progress: 37%, forever.</p>
         <p class="dstat">You out-smashed ${pct}% of ${mode === "daily" ? "today's players" : "players"}.${dailyLine ? " " + dailyLine : ""}</p>
+        ${readLine}
         ${shareRow}
         <div class="row" style="justify-content:center">
           <button class="b95 primary" type="button" data-again>Smash again</button>
@@ -337,6 +355,7 @@
         <p>:( Your desktop drowned in pop-ups.</p>
         <p>Smashed ${score} · Survived ${survived}s · Out-smashed ${pct}%</p>
         ${dailyLine ? `<p>${dailyLine}</p>` : ""}
+        ${readLine}
         <p>STOP CODE: TOO_MANY_POPUPS</p>
         <div class="row">
           <button class="b95 primary" type="button" data-again>Smash again</button>
@@ -578,6 +597,31 @@
     .then(r => { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
     .then(d => { feedItems = d.items || []; renderFeed(); })
     .catch(() => { feedNote.textContent = "Feed unavailable right now — subscribe via RSS instead."; });
+
+  // ---------- forum (GitHub Discussions) ----------
+  const forumEl = $("forum"), forumList = $("forumList"), forumNote = $("forumNote"), forumActions = $("forumActions");
+  let forum = null;
+  function renderForum(){
+    const repo = (forum && forum.repo) || forumEl.dataset.repo;
+    const links = [
+      `<a class="b95" href="${repo}/discussions/new" target="_blank" rel="noopener">Start a topic</a>`,
+      `<a class="b95" href="${repo}/discussions" target="_blank" rel="noopener">Open forum ↗</a>`
+    ];
+    if (forum) (forum.categories || []).slice(0, 4).forEach(c =>
+      links.push(`<a class="b95" href="${repo}/discussions/new?category=${encodeURIComponent(c.slug)}" target="_blank" rel="noopener">${escHtml(c.name)}</a>`));
+    forumActions.innerHTML = links.join("");
+    const list = (forum && forum.items) || [];
+    forumList.innerHTML = list.map(d =>
+      `<li><a href="${escHtml(d.url)}" target="_blank" rel="noopener">${escHtml(d.title)}</a>
+        <span><span class="src">${escHtml(d.category || "Discussion")}</span> <span class="when">${ago(d.date)}${d.comments ? " · " + d.comments + " comments" : ""}</span></span></li>`).join("");
+    forumList.hidden = !list.length;
+    forumNote.hidden = !!list.length;
+    if (!list.length) forumNote.textContent = "No threads yet — start the first one on GitHub.";
+  }
+  fetch("data/discussions.json", { cache: "no-cache" })
+    .then(r => { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
+    .then(d => { forum = d; renderForum(); })
+    .catch(() => { forumNote.textContent = "Forum lives on GitHub Discussions."; renderForum(); });
 
   showStart();
 })();

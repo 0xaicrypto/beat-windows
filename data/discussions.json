@@ -1,0 +1,40 @@
+{
+  "generated": "2026-09-23T14:35:57.128Z",
+  "repo": "https://github.com/0xaicrypto/beat-windows",
+  "newUrl": "https://github.com/0xaicrypto/beat-windows/discussions/new",
+  "categories": [
+    {
+      "name": "General",
+      "slug": "general"
+    },
+    {
+      "name": "Ideas",
+      "slug": "ideas"
+    },
+    {
+      "name": "Polls",
+      "slug": "polls"
+    },
+    {
+      "name": "Q&A",
+      "slug": "q-a"
+    },
+    {
+      "name": "Show and tell",
+      "slug": "show-and-tell"
+    }
+  ],
+  "items": [
+    {
+      "number": 1,
+      "title": "What are you running? — Linux / BSD / macOS roll call",
+      "url": "https://github.com/0xaicrypto/beat-windows/discussions/1",
+      "date": "2026-09-23T14:27:57Z",
+      "created": "2026-09-23T14:27:57Z",
+      "comments": 0,
+      "category": "General",
+      "categorySlug": "general",
+      "author": "0xaicrypto"
+    }
+  ]
+}

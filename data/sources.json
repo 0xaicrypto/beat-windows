@@ -9,6 +9,8 @@
     { "name": "HN · OpenBSD", "tag": "bsd", "site": "https://news.ycombinator.com/", "url": "https://hnrss.org/newest?q=OpenBSD&points=30" },
     { "name": "Eclectic Light", "tag": "macos", "site": "https://eclecticlight.co/", "url": "https://eclecticlight.co/feed/" },
     { "name": "Daring Fireball", "tag": "macos", "site": "https://daringfireball.net/", "url": "https://daringfireball.net/feeds/main" },
-    { "name": "Lobsters · mac", "tag": "macos", "site": "https://lobste.rs/t/mac", "url": "https://lobste.rs/t/mac.rss" }
+    { "name": "Lobsters · mac", "tag": "macos", "site": "https://lobste.rs/t/mac", "url": "https://lobste.rs/t/mac.rss" },
+    { "name": "9to5Google · Googlebook", "tag": "android", "site": "https://9to5google.com/guides/googlebook/", "url": "https://9to5google.com/guides/googlebook/feed/", "limit": 8 },
+    { "name": "Google News · Googlebook", "tag": "android", "site": "https://news.google.com/", "url": "https://news.google.com/rss/search?q=%22Googlebook%22%20(OS%20OR%20Android)&hl=en-US&gl=US&ceid=US:en", "limit": 10 }
   ]
 }

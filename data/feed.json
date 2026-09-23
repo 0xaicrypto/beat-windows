@@ -1,6 +1,14 @@
 {
-  "generated": "2026-09-23T14:22:32.108Z",
+  "generated": "2026-09-23T14:44:20.659Z",
   "items": [
+    {
+      "title": "Super Intelligence, Indeed",
+      "url": "https://bsky.app/profile/atrupar.com/post/3mw4it5l5fd23",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-09-23T14:22:09.000Z"
+    },
     {
       "title": "Critical security vulnerabilities in the Radicle network protocol",
       "url": "https://lwn.net/Articles/1096200/",
@@ -8,6 +16,14 @@
       "tag": "linux",
       "site": "https://lwn.net/",
       "date": "2026-09-23T14:20:46.000Z"
+    },
+    {
+      "title": "Benchmarking Java Performance Of JDK 8 Through OpenJDK 27",
+      "url": "https://www.phoronix.com/review/java-8-openjdk-27-benchmarks",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-23T14:17:09.000Z"
     },
     {
       "title": "Critical WordPress RCE vulnerability announced",
@@ -80,6 +96,22 @@
       "tag": "linux",
       "site": "https://lobste.rs/t/linux",
       "date": "2026-09-23T09:53:20.000Z"
+    },
+    {
+      "title": "Hello, Googlebook: The complete FAQ on Google’s Android-ChromeOS combo",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQenlrZlR6Z18xb0VzZEJack9mM2FrYjFManFualc1bkE5V3V6TUpFTkMtWkd1WE9WS3U4blVXekdZZW5BenVCaEtUN3N6SWJFZ2VfRHJubExIM2JPWW5xRjN5MG9telFnZ3hTdFRrYkVvNWdMVjFwMC0tdXNjMl9qMFItenBLb3JINlE?oc=5",
+      "source": "Computerworld",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-09-23T09:48:21.000Z"
+    },
+    {
+      "title": "Googlebook Starts at $899: Which of the 5 New Models Should You Buy?",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9NdVFGVmwwVFpnRnNhV2tZLW9JLWJ2RFROeXIyalJDV2wzdFMzV0VNN0R3VGNsY0s2dXhIX2ZfWUlFYzBMMGJWNWJCNldyaGJsVU1FSXF2N25DMlZPenpYcXpfdlFUR3ZmWjRnaENtSGVkYlNKVXJ6Mw?oc=5",
+      "source": "TechRepublic",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-09-23T07:17:10.000Z"
     },
     {
       "title": "LogUI 1.1 build 90 fixes a menu glitch in macOS 27",
@@ -186,6 +218,14 @@
       "date": "2026-09-22T18:26:13.000Z"
     },
     {
+      "title": "Google’s new Googlebook OS is basically Android for laptops",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdkk0VTNBTUIzRUQzV3ItTFVEQXhZTllVZ1lGdUFMaEl6bk5vR0FyUlQ5dXNVSFB0ekJpNGZxb1ZXUEw0Yk9lS0h5bk5iMjlfQjNZYUw0ay0tM3VxMnphQmR0dFNZWF93N3puWGF0bXMyQTl6VTJteWJXdkJ6d2N0ZV9keURuVHl6ZndVSk40eXhZZUhYY213eVllTUhsRC1MTGdrdk13?oc=5",
+      "source": "PCWorld",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-09-22T16:35:50.000Z"
+    },
+    {
       "title": "Siri AI Class-Action Lawsuit Settlement Website Is Now Live",
       "url": "https://www.macrumors.com/2026/09/20/siri-ai-settlement-website-now-live/",
       "source": "Daring Fireball",
@@ -226,6 +266,14 @@
       "date": "2026-09-22T14:36:00.000Z"
     },
     {
+      "title": "Soylent Googlebook is Android",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBreU9rLV9mNFhmbVNNZlFaWFp4ZkFqY2xtd04zSzZyYVdrTDRkUjNXcUVKeXZfQkFkMk8xVzJZM0Y3SG5NWG52WW8yQTlBalR0b0E?oc=5",
+      "source": "spyglass.org",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-09-22T13:41:32.000Z"
+    },
+    {
       "title": "systemd 262 Released With AI/LLM Canary For Unreviewed Code, LUO Integration",
       "url": "https://www.phoronix.com/news/systemd-262",
       "source": "Phoronix",
@@ -256,14 +304,6 @@
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-09-22T06:30:00.000Z"
-    },
-    {
-      "title": "sa: My Wrapper Around GNU screen",
-      "url": "https://joshstoolbox.com/blog/introducing_sa/",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-09-22T00:31:33.000Z"
     },
     {
       "title": "[Sponsor] Mux: Turn Your Video Into Context",
@@ -298,20 +338,20 @@
       "date": "2026-09-21T21:23:01.000Z"
     },
     {
+      "title": "What do you actually use a laptop for, and would Googlebook be able to do it? [Poll]",
+      "url": "https://9to5google.com/2026/09/21/googlebook-laptop-poll/",
+      "source": "9to5Google · Googlebook",
+      "tag": "android",
+      "site": "https://9to5google.com/guides/googlebook/",
+      "date": "2026-09-21T20:00:00.000Z"
+    },
+    {
       "title": "rift - a tiling window manager for macos",
       "url": "https://github.com/acsandmann/rift/",
       "source": "Lobsters · mac",
       "tag": "macos",
       "site": "https://lobste.rs/t/mac",
       "date": "2026-09-21T18:02:53.000Z"
-    },
-    {
-      "title": "Self-Hosting Behind CGNAT",
-      "url": "https://david.alvarezrosa.com/posts/self-hosting-behind-cgnat/",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-09-21T17:53:28.000Z"
     },
     {
       "title": "Ichiro, at 52, Throws 127-Pitch Shutout Against All-Star Girls Team in Japan",
@@ -322,148 +362,84 @@
       "date": "2026-09-21T17:37:16.000Z"
     },
     {
-      "title": "Igalia celebrates \"Twenty-Five Years Upstream\"",
-      "url": "https://lwn.net/Articles/1095723/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-09-21T16:35:32.000Z"
+      "title": "Google’s new laptop OS is Android, ChromeOS and Linux mashed into one",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb3UtdTI3VnZWRXRsXzBjYTc3eDZqeFJxTUxBbllseEdtZFNDUUctRDhCNVlMaEpmZVZKdnV6LXpzaUJtSFU3QUR0cnd6dnFGaTdqcHliRGRmOGRhVDNHN3pYQ2dJTnFxM0tYYVp3NUdCdy04c3dNVl9pOWNCRVZ6UFdyRFpJUVVSWFExd0VfaWJjYnJyQnp4TlhKTmVPQTZNSFVPZThzemI5dllqUmhpRkZQZw?oc=5",
+      "source": "notebookcheck.net",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-09-21T17:16:00.000Z"
     },
     {
-      "title": "Three new stable kernels",
-      "url": "https://lwn.net/Articles/1095703/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-09-21T14:43:18.000Z"
+      "title": "MediaTek’s flagship laptop chip is the Dimensity CX C10 Max, debuts in a Lenovo Googlebook",
+      "url": "https://9to5google.com/2026/09/21/mediatek-googlebook-dimensity-cx-c10-max/",
+      "source": "9to5Google · Googlebook",
+      "tag": "android",
+      "site": "https://9to5google.com/guides/googlebook/",
+      "date": "2026-09-21T16:05:00.000Z"
     },
     {
-      "title": "[$] Testing compat_linux on NetBSD with the Linux Test Project",
-      "url": "https://lwn.net/Articles/1094310/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-09-21T14:22:55.000Z"
+      "title": "Googlebook: The laptop your Android phone has been waiting for",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWFVXakRXTHBpbWJqM0lCdmRVYkJKeWUzYVN4WVF4blZIT1FCaUZWZ2xvYUVGVDZkdGVRbFl0b2l2Q0pnYjVLUDF2ZUJjbURuYkVJUGY3QVZYQkE2dGpKbmpvTWVQYWtDczB6ZGwtUXF4VGJxcjA2cmtwY0EzYzZEQ0FaS3J1dTRVVzQw?oc=5",
+      "source": "blog.google",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-09-21T13:08:13.000Z"
     },
     {
-      "title": "Security updates for Monday",
-      "url": "https://lwn.net/Articles/1095702/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-09-21T14:13:08.000Z"
+      "title": "Googlebook hands-on: What makes a laptop, a laptop? [Video]",
+      "url": "https://9to5google.com/2026/09/21/googlebook-hands-on-what-makes-a-laptop-a-laptop-video/",
+      "source": "9to5Google · Googlebook",
+      "tag": "android",
+      "site": "https://9to5google.com/guides/googlebook/",
+      "date": "2026-09-21T13:02:00.000Z"
     },
     {
-      "title": "Hero or hooligan: Heracles in drag",
-      "url": "https://eclecticlight.co/2026/09/21/hero-or-hooligan-heracles-in-drag/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-09-21T11:30:00.000Z"
+      "title": "Googlebook is here, and we went hands-on with the new software in NYC [VIDEO]",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMFowblRhV3hMcXFkQVNYa3U5R2huMUtOdmZweHo3TkhLTVJ0NWdtTXVLbG4zR3ZLUmFyRHhQOG9KTVIwTkRMWGRocVozaVFGZktmT25JanpqNS1UN2FhbG9LdjJhTzQwMVQyUkF5QTg3cHE0X241dUJ2cEh5MDJYa1lnX2tZSjBCNVRubUhGVEt2N3p6MGVhU0wxdlpBcElxVWNJ?oc=5",
+      "source": "Chrome Unboxed",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-09-21T13:01:17.000Z"
     },
     {
-      "title": "Overview of AOOSTAR WTR Pro on *BSD",
-      "url": "https://www.tumfatig.net/2026/overview-of-aoostar-wtr-pro-on-bsd/",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-09-21T11:00:40.000Z"
+      "title": "Googlebook OS hands-on: It’s Android, stupid",
+      "url": "https://9to5google.com/2026/09/21/googlebook-os-hands-on/",
+      "source": "9to5Google · Googlebook",
+      "tag": "android",
+      "site": "https://9to5google.com/guides/googlebook/",
+      "date": "2026-09-21T13:01:00.000Z"
     },
     {
-      "title": "Why do computers look like this anyway?",
-      "url": "https://www.youtube.com/watch?v=dpIuNUn0PZc",
-      "source": "Lobsters · mac",
-      "tag": "macos",
-      "site": "https://lobste.rs/t/mac",
-      "date": "2026-09-21T09:37:22.000Z"
+      "title": "Googlebook OS hands-on: It’s Android, stupid",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoZGxiZHdmNmM5NjVyZlBxeDBSRE9oMzdaM0NVUDlmbUFfbWtzT1Z2d3FmQnItd0kwQnNTaDRodXhyVEVjS1k3NnZTVGxZVzNsY01XSEViTHJocDJwV1A0bWR6ajJySFNi?oc=5",
+      "source": "9to5Google",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-09-21T13:01:00.000Z"
     },
     {
-      "title": "Solutions to Saturday Mac riddles 378",
-      "url": "https://eclecticlight.co/2026/09/21/solutions-to-saturday-mac-riddles-378/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-09-21T08:00:00.000Z"
+      "title": "Google fully details Googlebooks: $899+, October launch, & more",
+      "url": "https://9to5google.com/2026/09/21/googlebook-launch/",
+      "source": "9to5Google · Googlebook",
+      "tag": "android",
+      "site": "https://9to5google.com/guides/googlebook/",
+      "date": "2026-09-21T13:00:00.000Z"
     },
     {
-      "title": "When to use a new container, volume or folder",
-      "url": "https://eclecticlight.co/2026/09/21/when-to-use-a-new-container-volume-or-folder/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-09-21T06:30:00.000Z"
+      "title": "Hands-on with Googlebooks — Five models, the new Googlebook OS, and a Mac-style experience for Android users at premium prices",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTUEzZWd0akNEYVVOWjNEWXljc1MzekxWcEhnajJxZElTSmQxVUdFMy1rV2dOLUUza1kwUm9nTUFrRXFaaVZJX0piWlNBcy0yeXF1S3llWHJTWWNMbzhoaXFoWVJtVktHVHBBVDlZQnZmSTVLeDN3NlpwVUJsWXF2UlhHUEpvbDh1a0x6c3E5ZDdBN1ZGcDlEd0xYbmtqeENnX1d6TFVWaGhLdmVWd010SXJ4eENBMTA2LWpnNmJWSjc2MnpXSjFPUmhQVmpmSTdYWXFleUxocktOeUg0TDFUX2tmaG1ic1FmTlllcjJpckU?oc=5",
+      "source": "Tom's Hardware",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-09-21T13:00:00.000Z"
     },
     {
-      "title": "Kernel prepatch 7.3-rc4",
-      "url": "https://lwn.net/Articles/1095491/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-09-20T22:52:25.000Z"
-    },
-    {
-      "title": "Unix Year 2038 problem and the art of underestimating",
-      "url": "https://www.buzzsprout.com/2469780/episodes/19824439",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-09-20T17:40:19.000Z"
-    },
-    {
-      "title": "Painting la Manche: le Havre to Ouessant",
-      "url": "https://eclecticlight.co/2026/09/20/painting-la-manche-le-havre-to-ouessant/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-09-20T11:30:00.000Z"
-    },
-    {
-      "title": "Last Week on My Mac: Is AI worth 30 GB?",
-      "url": "https://eclecticlight.co/2026/09/20/last-week-on-my-mac-is-ai-worth-30-gb/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-09-20T07:00:00.000Z"
-    },
-    {
-      "title": "Wi-Fi PCAP with mac OS(2025)",
-      "url": "https://mrncciew.com/2025/11/06/wi-fi-pcap-with-mac-os/",
-      "source": "Lobsters · mac",
-      "tag": "macos",
-      "site": "https://lobste.rs/t/mac",
-      "date": "2026-09-20T06:51:58.000Z"
-    },
-    {
-      "title": "CleanShot’s bulldozed settings",
-      "url": "https://unsung.aresluna.org/cleanshots-bulldozed-settings/",
-      "source": "Lobsters · mac",
-      "tag": "macos",
-      "site": "https://lobste.rs/t/mac",
-      "date": "2026-09-19T21:25:34.000Z"
-    },
-    {
-      "title": "Unearthing macOS’ Uniform Type Identifiers (2025)",
-      "url": "https://blog.smittytone.net/2025/08/14/unearthing-macos-uniform-type-identifiers/",
-      "source": "Lobsters · mac",
-      "tag": "macos",
-      "site": "https://lobste.rs/t/mac",
-      "date": "2026-09-19T21:17:37.000Z"
-    },
-    {
-      "title": "Thread-identity switcheroo for io_uring",
-      "url": "https://lwn.net/SubscriberLink/1094303/50affb2e7bd3e698/",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-09-19T18:42:48.000Z"
-    },
-    {
-      "title": "Kexec & Btrfs Subvolumes for Kernel Testing",
-      "url": "https://archcloudlabs.com/projects/kexec/",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-09-18T23:36:28.000Z"
+      "title": "Googlebook OS: This is Google’s Android-based operating system for notebooks",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTmRZQ3lEZXRmczJPRlFIYnFCaVBlMHM4SVdhTDVHd3FjdUtTLTlCMUdCUlZ0aVdmTjF3Q3UyOHBiVHBobERIMUtBRWxKTGRGQlR5YlVGZGR5MndESFNBQ2hFR0lVWTJXV1dXdlNwNEkzam9WWlAwWmhDNE5RQ1lKMUV2Z2hudmoxc0s0MUd5RG8wQ3dDSkE0QVBVdHBDR0czUkthLWhlM3Y0SUczcUhhODhWMVBfZ1ZILVE?oc=5",
+      "source": "heise online",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-09-21T13:00:00.000Z"
     },
     {
       "title": "The Bikeshed email — PHKs Bikeshed",
@@ -474,68 +450,12 @@
       "date": "2026-09-18T19:46:10.000Z"
     },
     {
-      "title": "[$] Looking forward to Git 2.56 — and 3.0",
-      "url": "https://lwn.net/Articles/1094575/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-09-18T14:14:09.000Z"
-    },
-    {
-      "title": "Systemtap 5.6 released",
-      "url": "https://lwn.net/Articles/1095220/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-09-18T12:58:42.000Z"
-    },
-    {
-      "title": "Security updates for Friday",
-      "url": "https://lwn.net/Articles/1095219/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-09-18T12:52:10.000Z"
-    },
-    {
       "title": "GEFS, the \"Good Enough File System\" on the horizon for OpenBSD",
       "url": "https://undeadly.org/cgi?action=article;sid=20260918115729",
       "source": "undeadly",
       "tag": "bsd",
       "site": "https://undeadly.org/",
       "date": "2026-09-18T11:57:29.000Z"
-    },
-    {
-      "title": "A quartet of Linux local root vulns: DirtyAH6, PPPoEject, TUNderflow, and DiagSpill",
-      "url": "https://seclists.org/oss-sec/2026/q3/822",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-09-18T07:57:04.000Z"
-    },
-    {
-      "title": "The skb that wasn't freed - the Fragnesia primitive via Open vSwitch",
-      "url": "https://blog.doyensec.com/2026/09/17/ovs.html",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-09-17T08:39:34.000Z"
-    },
-    {
-      "title": "XApp — Apps that work everywhere",
-      "url": "https://xapp-project.org/",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-09-17T06:00:53.000Z"
-    },
-    {
-      "title": "Introducing GNOME 51",
-      "url": "https://release.gnome.org/51/",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-09-16T18:05:43.000Z"
     },
     {
       "title": "Gothub lists",
@@ -570,12 +490,12 @@
       "date": "2026-09-15T13:14:36.000Z"
     },
     {
-      "title": "How I use a single .zshrc file on macOS and Windows (WSL2)",
-      "url": "https://talkoren.com/blog/single-zshrc-macos-windows-wsl2/",
-      "source": "Lobsters · mac",
-      "tag": "macos",
-      "site": "https://lobste.rs/t/mac",
-      "date": "2026-09-14T20:26:19.000Z"
+      "title": "Googlebook pre-orders start on September 21",
+      "url": "https://9to5google.com/2026/09/14/googlebook-pre-order/",
+      "source": "9to5Google · Googlebook",
+      "tag": "android",
+      "site": "https://9to5google.com/guides/googlebook/",
+      "date": "2026-09-14T17:07:38.000Z"
     },
     {
       "title": "GEFS: The File Shredder of the Future",
@@ -586,44 +506,20 @@
       "date": "2026-09-13T16:30:23.000Z"
     },
     {
-      "title": "Homebrew 7.0.0",
-      "url": "https://brew.sh/2026/09/13/homebrew-7.0.0/",
-      "source": "Lobsters · mac",
-      "tag": "macos",
-      "site": "https://lobste.rs/t/mac",
-      "date": "2026-09-13T12:22:47.000Z"
+      "title": "‘Lenovo Googlebook 15’ specs leak in full with ‘Google facial authentication’",
+      "url": "https://9to5google.com/2026/09/11/lenovo-googlebook-15-specs-leak/",
+      "source": "9to5Google · Googlebook",
+      "tag": "android",
+      "site": "https://9to5google.com/guides/googlebook/",
+      "date": "2026-09-11T15:10:00.000Z"
     },
     {
-      "title": "a better way of blocking macOS updates",
-      "url": "https://zoey-on-github.github.io/blog/updates.html",
-      "source": "Lobsters · mac",
-      "tag": "macos",
-      "site": "https://lobste.rs/t/mac",
-      "date": "2026-09-13T01:12:07.000Z"
-    },
-    {
-      "title": "Getting 50 GB/s Back Out of the ANE",
-      "url": "https://eiln.github.io/posts/ane-dma.html",
-      "source": "Lobsters · mac",
-      "tag": "macos",
-      "site": "https://lobste.rs/t/mac",
-      "date": "2026-09-12T17:14:06.000Z"
-    },
-    {
-      "title": "A list of macOS defaults commands with demos",
-      "url": "https://macos-defaults.com/",
-      "source": "Lobsters · mac",
-      "tag": "macos",
-      "site": "https://lobste.rs/t/mac",
-      "date": "2026-09-11T22:55:34.000Z"
-    },
-    {
-      "title": "Apple Event for September 9th, 2026",
-      "url": "https://www.apple.com/apple-events/event-stream/",
-      "source": "Lobsters · mac",
-      "tag": "macos",
-      "site": "https://lobste.rs/t/mac",
-      "date": "2026-09-09T16:54:31.000Z"
+      "title": "A pile of MacBook Neo clones gives Googlebook all the more of an uphill battle",
+      "url": "https://9to5google.com/2026/09/06/googlebook-macbook-neo-competitors/",
+      "source": "9to5Google · Googlebook",
+      "tag": "android",
+      "site": "https://9to5google.com/guides/googlebook/",
+      "date": "2026-09-06T13:00:00.000Z"
     },
     {
       "title": "Closing the IPv6 First-Packet Gap with GRAND",
@@ -640,6 +536,30 @@
       "tag": "bsd",
       "site": "https://news.ycombinator.com/",
       "date": "2026-09-02T17:44:24.000Z"
+    },
+    {
+      "title": "Repeating Ourselves Less with M4",
+      "url": "https://nemin.hu/httpd-macros/index.html",
+      "source": "Lobsters · openbsd",
+      "tag": "bsd",
+      "site": "https://lobste.rs/t/openbsd",
+      "date": "2026-08-31T04:10:47.000Z"
+    },
+    {
+      "title": "Run OpenBSD on DigitalOcean for $4/month",
+      "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
+      "source": "Lobsters · openbsd",
+      "tag": "bsd",
+      "site": "https://lobste.rs/t/openbsd",
+      "date": "2026-08-25T16:44:37.000Z"
+    },
+    {
+      "title": "Migrating from Codeberg Pages to an OpenBSD VPS",
+      "url": "https://nemin.hu/vps/index.html",
+      "source": "Lobsters · openbsd",
+      "tag": "bsd",
+      "site": "https://lobste.rs/t/openbsd",
+      "date": "2026-08-25T10:42:16.000Z"
     }
   ]
 }

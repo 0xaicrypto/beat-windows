@@ -5,6 +5,7 @@ import { fileURLToPath } from "node:url";
 const root = join(dirname(fileURLToPath(import.meta.url)), "..");
 const UA = "BeatWindowsFeedBot/1.0 (+https://beatwindows.org)";
 const PER_SOURCE = 12;
+const PER_TAG = 20;
 const MAX_AGE_DAYS = 30;
 const MAX_ITEMS = 80;
 
@@ -32,9 +33,13 @@ function atomLink(block){
 }
 function parseFeed(xml, src){
   const chunks = xml.match(/<(item|entry)\b[\s\S]*?<\/\1>/gi) || [];
+  const cap = src.limit || PER_SOURCE;
   const items = [];
   for (const c of chunks){
-    const title = decode(tag(c, "title"));
+    let title = decode(tag(c, "title"));
+    const pub = decode(tag(c, "source"));
+    const source = pub || src.name;
+    if (pub && title.endsWith(" - " + pub)) title = title.slice(0, title.length - pub.length - 3);
     let url = (tag(c, "link") + "").trim() || atomLink(c);
     url = decode(url);
     if (url && !/^https?:/i.test(url)){
@@ -43,10 +48,10 @@ function parseFeed(xml, src){
     const dateRaw = tag(c, "pubDate") || tag(c, "published") || tag(c, "updated") || tag(c, "dc:date");
     const date = new Date(decode(dateRaw));
     if (title && /^https?:/i.test(url)) items.push({
-      title, url, source: src.name, tag: src.tag, site: src.site || "",
+      title, url, source, tag: src.tag, site: src.site || "",
       date: isNaN(date) ? "" : date.toISOString()
     });
-    if (items.length >= PER_SOURCE) break;
+    if (items.length >= cap) break;
   }
   return items;
 }
@@ -122,7 +127,16 @@ for (const it of [...fresh, ...previous]){
 merged.sort((a, b) => (b.date ? Date.parse(b.date) : 0) - (a.date ? Date.parse(a.date) : 0));
 
 const generated = new Date().toISOString();
-const items = merged.slice(0, MAX_ITEMS);
+const byTag = {};
+const items = [];
+for (const it of merged){
+  const t = it.tag || "other";
+  byTag[t] = byTag[t] || 0;
+  if (byTag[t] >= PER_TAG) continue;
+  byTag[t]++;
+  items.push(it);
+  if (items.length >= MAX_ITEMS) break;
+}
 await mkdir(join(root, "data"), { recursive: true });
 await writeFile(join(root, "data/feed.json"), JSON.stringify({ generated, items }, null, 2) + "\n");
 await writeFile(join(root, "feed.xml"), buildXml(items.slice(0, 50), generated));

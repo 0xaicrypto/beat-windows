@@ -22,11 +22,21 @@ After a run, generate a retro score card (`Share score card`). "Post on X" copie
 
 ## Unix news feed
 
-The `UNIX.EXE` window on the page shows the latest from Linux, the BSDs and macOS, with tabs for All / Linux / OpenBSD·BSD / macOS and an RSS link.
+The `UNIX.EXE` window on the page shows the latest from Linux, the BSDs, macOS, and Android/Googlebook, with tabs for All / Linux / OpenBSD·BSD / macOS / Android·Googlebook and an RSS link.
 
-- `data/sources.json` lists the feeds (LWN, Phoronix, undeadly, Lobsters, HN, Eclectic Light, Daring Fireball). Add or remove a source by editing one line.
-- `scripts/build-feed.mjs` fetches them, normalizes and dedupes entries, and writes `data/feed.json` (for the page) plus `feed.xml` (RSS 2.0 for readers).
+- `data/sources.json` lists the feeds (LWN, Phoronix, undeadly, Lobsters, HN, Eclectic Light, Daring Fireball, 9to5Google's Googlebook guide, and a Google News query for Googlebook). Add or remove a source by editing one line; `limit` caps items per source.
+- `scripts/build-feed.mjs` fetches them, normalizes and dedupes entries, keeps up to 20 items per tab, and writes `data/feed.json` (for the page) plus `feed.xml` (RSS 2.0 for readers). Publisher names from aggregator feeds are used as the item source.
 - `.github/workflows/feed.yml` runs the builder hourly and commits the result; trigger it manually from the Actions tab after changing sources.
+
+The end screen also shows a deterministic "Today's reading" pick from the feed after every run.
+
+## Forum
+
+The `FORUM.EXE` window lists the latest GitHub Discussions threads and links out to the repo forum (start a topic, open forum, per-category shortcuts).
+
+- `scripts/build-discussions.mjs` queries the GitHub GraphQL API and writes `data/discussions.json`.
+- The hourly workflow runs it with the Actions token (`discussions: read`).
+- Discussion categories can only be created in the GitHub UI; the page picks up whatever categories exist.
 
 ## Tech
 
@@ -60,8 +70,10 @@ The feed workflow commits `feed.xml` and `data/feed.json` back to the repo, so i
 | `feed.xml` | Generated RSS 2.0 feed (do not edit by hand) |
 | `data/sources.json` | Feed source list |
 | `data/feed.json` | Generated feed for the page (do not edit by hand) |
+| `data/discussions.json` | Generated forum threads for the page (do not edit by hand) |
 | `scripts/build-feed.mjs` | Feed builder (Node, no dependencies) |
-| `.github/workflows/feed.yml` | Hourly feed update workflow |
+| `scripts/build-discussions.mjs` | Forum builder (GitHub GraphQL) |
+| `.github/workflows/feed.yml` | Hourly feed and forum update workflow |
 | `CNAME` | GitHub Pages custom domain |
 | `.nojekyll` | Disables Jekyll processing on GitHub Pages |
 
