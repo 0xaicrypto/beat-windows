@@ -1,0 +1,14 @@
+{
+  "sources": [
+    { "name": "LWN", "tag": "linux", "site": "https://lwn.net/", "url": "https://lwn.net/headlines/rss" },
+    { "name": "Phoronix", "tag": "linux", "site": "https://www.phoronix.com/", "url": "https://www.phoronix.com/rss.php" },
+    { "name": "Lobsters · linux", "tag": "linux", "site": "https://lobste.rs/t/linux", "url": "https://lobste.rs/t/linux.rss" },
+    { "name": "undeadly", "tag": "bsd", "site": "https://undeadly.org/", "url": "https://undeadly.org/cgi?action=rss" },
+    { "name": "Lobsters · openbsd", "tag": "bsd", "site": "https://lobste.rs/t/openbsd", "url": "https://lobste.rs/t/openbsd.rss" },
+    { "name": "Lobsters · freebsd", "tag": "bsd", "site": "https://lobste.rs/t/freebsd", "url": "https://lobste.rs/t/freebsd.rss" },
+    { "name": "HN · OpenBSD", "tag": "bsd", "site": "https://news.ycombinator.com/", "url": "https://hnrss.org/newest?q=OpenBSD&points=30" },
+    { "name": "Eclectic Light", "tag": "macos", "site": "https://eclecticlight.co/", "url": "https://eclecticlight.co/feed/" },
+    { "name": "Daring Fireball", "tag": "macos", "site": "https://daringfireball.net/", "url": "https://daringfireball.net/feeds/main" },
+    { "name": "Lobsters · mac", "tag": "macos", "site": "https://lobste.rs/t/mac", "url": "https://lobste.rs/t/mac.rss" }
+  ]
+}

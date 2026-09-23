@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Beat Windows · Unix news</title>
+    <link>https://beatwindows.org/</link>
+    <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
+    <language>en</language>
+    <lastBuildDate>Wed, 23 Sep 2026 14:14:47 GMT</lastBuildDate>
+    <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Critical WordPress RCE vulnerability announced</title>
+      <link>https://lwn.net/Articles/1096195/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1096195/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Wed, 23 Sep 2026 13:55:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Security updates for Wednesday</title>
+      <link>https://lwn.net/Articles/1096191/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1096191/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Wed, 23 Sep 2026 13:20:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>NTFS-3G Update Brings Many Security Fixes</title>
+      <link>https://www.phoronix.com/news/NTFS-3G-2026.9.18</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/NTFS-3G-2026.9.18</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Wed, 23 Sep 2026 12:27:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qualcomm Posts Open-Source GPU Driver Patches For Adreno 850 One Day After Announcement</title>
+      <link>https://www.phoronix.com/news/Qualcomm-Adreno-850-Open-Source</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Qualcomm-Adreno-850-Open-Source</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Wed, 23 Sep 2026 11:45:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Brushstrokes: a summary history</title>
+      <link>https://eclecticlight.co/2026/09/23/brushstrokes-a-summary-history/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/09/23/brushstrokes-a-summary-history/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Wed, 23 Sep 2026 11:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>The GNOME LLM Policy That I Want</title>
+      <link>https://blogs.gnome.org/alatiera/2026/09/23/the-gnome-llm-policy-that-i-want/</link>
+      <guid isPermaLink="true">https://blogs.gnome.org/alatiera/2026/09/23/the-gnome-llm-policy-that-i-want/</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Wed, 23 Sep 2026 10:28:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMD Upstreams AVX10_V2_AUX Support Into LLVM Clang 24</title>
+      <link>https://www.phoronix.com/news/LLVM-Clang-AVX10_V2_AUX</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/LLVM-Clang-AVX10_V2_AUX</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Wed, 23 Sep 2026 10:25:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux 7.3 Reverting Logitech Bolt Receiver HID++ After Too Many Bugs Encountered</title>
+      <link>https://www.phoronix.com/news/Linux-Reverting-Logitech-Bolt</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-Reverting-Logitech-Bolt</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Wed, 23 Sep 2026 10:15:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Abandoning Scientific Linux Was a Mistake</title>
+      <link>https://blog.melashri.net/posts/scientific-linux-mistake/</link>
+      <guid isPermaLink="true">https://blog.melashri.net/posts/scientific-linux-mistake/</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Wed, 23 Sep 2026 09:53:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>LogUI 1.1 build 90 fixes a menu glitch in macOS 27</title>
+      <link>https://eclecticlight.co/2026/09/23/logui-1-1-build-90-fixes-a-menu-glitch-in-macos-27/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/09/23/logui-1-1-build-90-fixes-a-menu-glitch-in-macos-27/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Wed, 23 Sep 2026 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Checking an SSD trims in Golden Gate</title>
+      <link>https://eclecticlight.co/2026/09/23/checking-an-ssd-trims-in-golden-gate/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/09/23/checking-an-ssd-trims-in-golden-gate/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Wed, 23 Sep 2026 06:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Promotion Reminder For Ad-Free Viewing, Multi-Page Articles On A Single Page</title>
+      <link>https://www.phoronix.com/news/September-2026-Phoronix-Ad-Free</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/September-2026-Phoronix-Ad-Free</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Wed, 23 Sep 2026 01:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Open-Source NVIDIA &quot;Nouveau&quot; Driver Sees Patches For HDMI Deep Color Support</title>
+      <link>https://www.phoronix.com/news/Nouveau-Deep-Color-Patches</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Nouveau-Deep-Color-Patches</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Wed, 23 Sep 2026 00:54:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Meta’s Muse Logomark, Designed by Jessica Hische</title>
+      <link>https://thedieline.com/jessica-hische-metas-muse-and-the-ethical-landmines-of-design/</link>
+      <guid isPermaLink="true">https://thedieline.com/jessica-hische-metas-muse-and-the-ethical-landmines-of-design/</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Tue, 22 Sep 2026 22:51:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Meta’s New Muse AI Agent Read Jason Aten’s Messages Database</title>
+      <link>https://www.inc.com/jason-aten/metas-new-muse-ai-agent-read-my-private-messages-i-never-asked-it-to/91408202</link>
+      <guid isPermaLink="true">https://www.inc.com/jason-aten/metas-new-muse-ai-agent-read-my-private-messages-i-never-asked-it-to/91408202</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Tue, 22 Sep 2026 21:26:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why Didn’t Google Build Muse?</title>
+      <link>https://spyglass.org/why-didnt-google-build-muse/</link>
+      <guid isPermaLink="true">https://spyglass.org/why-didnt-google-build-muse/</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Tue, 22 Sep 2026 20:51:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Amazon Blocks Meta’s Muse AI Assistant</title>
+      <link>https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-new-standoff-over-agentic-shopping/</link>
+      <guid isPermaLink="true">https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-new-standoff-over-agentic-shopping/</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Tue, 22 Sep 2026 20:43:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Meta’s New Muse AI Agent App Overtakes ChatGPT as Top iPhone App</title>
+      <link>https://9to5mac.com/2026/09/18/metas-new-muse-ai-agent-app-overtakes-chatgpt-as-top-iphone-app/</link>
+      <guid isPermaLink="true">https://9to5mac.com/2026/09/18/metas-new-muse-ai-agent-app-overtakes-chatgpt-as-top-iphone-app/</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Tue, 22 Sep 2026 20:12:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>That About Wraps It Up for Stock Mac UI</title>
+      <link>https://inessential.com/2026/09/22/that-about-wraps-it-up-for.html</link>
+      <guid isPermaLink="true">https://inessential.com/2026/09/22/that-about-wraps-it-up-for.html</guid>
+      <category>macos</category>
+      <source url="https://lobste.rs/t/mac">Lobsters · mac</source>
+      <pubDate>Tue, 22 Sep 2026 19:29:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Xcode 27.2 Now Supports a New JSON Project File Format</title>
+      <link>https://developer.apple.com/documentation/xcode-release-notes/xcode-27_2-release-notes</link>
+      <guid isPermaLink="true">https://developer.apple.com/documentation/xcode-release-notes/xcode-27_2-release-notes</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Tue, 22 Sep 2026 19:25:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux 7.2 vs. Linux 7.3 Shows A Few Improvements With AMD Strix Halo</title>
+      <link>https://www.phoronix.com/news/Linux-7.3-Strix-Halo</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.3-Strix-Halo</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Tue, 22 Sep 2026 19:23:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ubuntu Linux Maker Canonical Achieved $345M USD In Revenue For 2025</title>
+      <link>https://www.phoronix.com/news/Ubuntu-Canonical-Did-345M-2025</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Ubuntu-Canonical-Did-345M-2025</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Tue, 22 Sep 2026 18:26:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Siri AI Class-Action Lawsuit Settlement Website Is Now Live</title>
+      <link>https://www.macrumors.com/2026/09/20/siri-ai-settlement-website-now-live/</link>
+      <guid isPermaLink="true">https://www.macrumors.com/2026/09/20/siri-ai-settlement-website-now-live/</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Tue, 22 Sep 2026 15:44:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Variable Refresh Rate &quot;VRR&quot; Target Limiter Proposed For Linux Graphics Drivers</title>
+      <link>https://www.phoronix.com/news/VRR-Target-Rate-Limiter-uAPI</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/VRR-Target-Rate-Limiter-uAPI</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Tue, 22 Sep 2026 15:29:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>[$] Compiling the kernel with gccrs</title>
+      <link>https://lwn.net/Articles/1095553/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1095553/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Tue, 22 Sep 2026 15:27:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Security updates for Tuesday</title>
+      <link>https://lwn.net/Articles/1096022/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1096022/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Tue, 22 Sep 2026 15:10:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>SPEC Releases SPECviewperf 15.0.1 For Linux</title>
+      <link>https://www.phoronix.com/news/SPECviewperf-15.0.1-Linux</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/SPECviewperf-15.0.1-Linux</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Tue, 22 Sep 2026 14:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>systemd 262 Released With AI/LLM Canary For Unreviewed Code, LUO Integration</title>
+      <link>https://www.phoronix.com/news/systemd-262</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/systemd-262</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Tue, 22 Sep 2026 13:35:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vibe Coded YSERVER Adds XDMCP Support For Multi-User Shared Desktops</title>
+      <link>https://www.phoronix.com/news/YSERVER-1.6-Released</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/YSERVER-1.6-Released</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Tue, 22 Sep 2026 13:28:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Portraits of trees: Willow</title>
+      <link>https://eclecticlight.co/2026/09/22/portraits-of-trees-willow/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/09/22/portraits-of-trees-willow/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Tue, 22 Sep 2026 11:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Read an Apple Intelligence Report</title>
+      <link>https://eclecticlight.co/2026/09/22/read-an-apple-intelligence-report/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/09/22/read-an-apple-intelligence-report/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Tue, 22 Sep 2026 06:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>sa: My Wrapper Around GNU screen</title>
+      <link>https://joshstoolbox.com/blog/introducing_sa/</link>
+      <guid isPermaLink="true">https://joshstoolbox.com/blog/introducing_sa/</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Tue, 22 Sep 2026 00:31:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Sponsor] Mux: Turn Your Video Into Context</title>
+      <link>https://www.mux.com/?utm_campaign=fireball&amp;utm_source=DF</link>
+      <guid isPermaLink="true">https://www.mux.com/?utm_campaign=fireball&amp;utm_source=DF</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Mon, 21 Sep 2026 23:04:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lex Friedman Brings Back Strategery</title>
+      <link>https://lexontech.org/strategery-is-back-and-im-the-developer</link>
+      <guid isPermaLink="true">https://lexontech.org/strategery-is-back-and-im-the-developer</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Mon, 21 Sep 2026 22:52:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>GM Confirms They’re Still Smoking Crack</title>
+      <link>https://x.com/JoannaStern/status/2102105565195288859</link>
+      <guid isPermaLink="true">https://x.com/JoannaStern/status/2102105565195288859</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Mon, 21 Sep 2026 21:52:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>America’s Decline Can Be Measured by the Names of Ballparks and Arenas</title>
+      <link>https://www.mlb.com/news/tigers-ballpark-name-changed-to-fifth-third-park</link>
+      <guid isPermaLink="true">https://www.mlb.com/news/tigers-ballpark-name-changed-to-fifth-third-park</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Mon, 21 Sep 2026 21:23:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>rift - a tiling window manager for macos</title>
+      <link>https://github.com/acsandmann/rift/</link>
+      <guid isPermaLink="true">https://github.com/acsandmann/rift/</guid>
+      <category>macos</category>
+      <source url="https://lobste.rs/t/mac">Lobsters · mac</source>
+      <pubDate>Mon, 21 Sep 2026 18:02:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Self-Hosting Behind CGNAT</title>
+      <link>https://david.alvarezrosa.com/posts/self-hosting-behind-cgnat/</link>
+      <guid isPermaLink="true">https://david.alvarezrosa.com/posts/self-hosting-behind-cgnat/</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Mon, 21 Sep 2026 17:53:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ichiro, at 52, Throws 127-Pitch Shutout Against All-Star Girls Team in Japan</title>
+      <link>https://www.seattletimes.com/sports/mariners/ichiro-at-52-throws-127-pitch-shutout-against-all-star-girls-team-in-japan/</link>
+      <guid isPermaLink="true">https://www.seattletimes.com/sports/mariners/ichiro-at-52-throws-127-pitch-shutout-against-all-star-girls-team-in-japan/</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Mon, 21 Sep 2026 17:37:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Igalia celebrates &quot;Twenty-Five Years Upstream&quot;</title>
+      <link>https://lwn.net/Articles/1095723/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1095723/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Mon, 21 Sep 2026 16:35:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Three new stable kernels</title>
+      <link>https://lwn.net/Articles/1095703/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1095703/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Mon, 21 Sep 2026 14:43:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>[$] Testing compat_linux on NetBSD with the Linux Test Project</title>
+      <link>https://lwn.net/Articles/1094310/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1094310/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Mon, 21 Sep 2026 14:22:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Security updates for Monday</title>
+      <link>https://lwn.net/Articles/1095702/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1095702/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Mon, 21 Sep 2026 14:13:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hero or hooligan: Heracles in drag</title>
+      <link>https://eclecticlight.co/2026/09/21/hero-or-hooligan-heracles-in-drag/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/09/21/hero-or-hooligan-heracles-in-drag/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Mon, 21 Sep 2026 11:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Overview of AOOSTAR WTR Pro on *BSD</title>
+      <link>https://www.tumfatig.net/2026/overview-of-aoostar-wtr-pro-on-bsd/</link>
+      <guid isPermaLink="true">https://www.tumfatig.net/2026/overview-of-aoostar-wtr-pro-on-bsd/</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Mon, 21 Sep 2026 11:00:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why do computers look like this anyway?</title>
+      <link>https://www.youtube.com/watch?v=dpIuNUn0PZc</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=dpIuNUn0PZc</guid>
+      <category>macos</category>
+      <source url="https://lobste.rs/t/mac">Lobsters · mac</source>
+      <pubDate>Mon, 21 Sep 2026 09:37:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Solutions to Saturday Mac riddles 378</title>
+      <link>https://eclecticlight.co/2026/09/21/solutions-to-saturday-mac-riddles-378/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/09/21/solutions-to-saturday-mac-riddles-378/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Mon, 21 Sep 2026 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>When to use a new container, volume or folder</title>
+      <link>https://eclecticlight.co/2026/09/21/when-to-use-a-new-container-volume-or-folder/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/09/21/when-to-use-a-new-container-volume-or-folder/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Mon, 21 Sep 2026 06:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kernel prepatch 7.3-rc4</title>
+      <link>https://lwn.net/Articles/1095491/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1095491/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Sun, 20 Sep 2026 22:52:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Unix Year 2038 problem and the art of underestimating</title>
+      <link>https://www.buzzsprout.com/2469780/episodes/19824439</link>
+      <guid isPermaLink="true">https://www.buzzsprout.com/2469780/episodes/19824439</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Sun, 20 Sep 2026 17:40:19 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -7,6 +7,7 @@
 <title>Beat Windows</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Anton&family=VT323&family=Noto+Sans+SC:wght@400;900&display=swap">
+<link rel="alternate" type="application/rss+xml" title="Beat Windows — Unix news" href="feed.xml">
 <style>
   *,*::before,*::after{box-sizing:border-box} body{margin:0} img{max-width:100%} [hidden]{display:none!important}
   :root{
@@ -88,6 +89,14 @@
   .toast{position:fixed;left:50%;bottom:24px;transform:translateX(-50%);background:var(--gold);color:var(--ink);
     font:400 18px var(--pix);padding:10px 16px;border:2px solid;border-color:#fff3b0 var(--chrome-dk) var(--chrome-dk) #fff3b0;
     box-shadow:4px 4px 0 var(--desk-deep);z-index:200;max-width:min(560px,90vw);text-align:center}
+  .feedhead{margin-bottom:10px}
+  .feed{list-style:none;margin:0;padding:0;max-height:360px;overflow:auto}
+  .feed li{display:flex;gap:8px 16px;align-items:baseline;justify-content:space-between;flex-wrap:wrap;
+    padding:7px 2px;border-bottom:1px dashed var(--chrome-lo);font-size:15px}
+  .feed a{color:var(--title);font-weight:700;text-decoration:none}
+  .feed a:hover{text-decoration:underline}
+  .feed .src,.feed .when{font-family:var(--pix);font-size:17px;color:#333;white-space:nowrap}
+  .feed .when{color:#555}
   #cardImg{display:block;width:100%;border:2px solid #000;background:#000}
   footer a{color:var(--gold)}
 </style>
@@ -127,7 +136,22 @@
     </div>
   </section>
 
-  <footer>Pure parody · No computers were actually harmed in the making of this page · <a href="https://starklaunchy.fun/token/0x91a89b3cfcc2e342dd62c008db7198de845d4c06a5acd2c1dc29efea3cfa12" target="_blank" rel="noopener">$BEAT on Launchy</a></footer>
+  <section class="win" aria-labelledby="t3">
+    <div class="bar"><b id="t3">UNIX.EXE — The OSes that never blue-screen</b><span class="btns"><i>_</i><i>□</i><i>×</i></span></div>
+    <div class="body">
+      <div class="row feedhead">
+        <button class="b95 primary" type="button" data-tag="all">All</button>
+        <button class="b95" type="button" data-tag="linux">Linux</button>
+        <button class="b95" type="button" data-tag="bsd">OpenBSD / BSD</button>
+        <button class="b95" type="button" data-tag="macos">macOS</button>
+        <a class="b95" href="feed.xml" target="_blank" rel="noopener">RSS ↗</a>
+      </div>
+      <p class="dstat" id="feedNote" style="color:#333">Fetching stories…</p>
+      <ul class="feed" id="feedList" hidden></ul>
+    </div>
+  </section>
+
+  <footer>Pure parody · No computers were actually harmed in the making of this page · <a href="https://starklaunchy.fun/token/0x91a89b3cfcc2e342dd62c008db7198de845d4c06a5acd2c1dc29efea3cfa12" target="_blank" rel="noopener">$BEAT on Launchy</a> · <a href="feed.xml">RSS</a></footer>
 </div>
 
 <div id="toast" class="toast" hidden></div>
@@ -523,6 +547,37 @@
     const b = $("cardShare"); b.hidden = false;
     b.onclick = shareImage;
   }
+
+  // ---------- unix feed ----------
+  const feedList = $("feedList"), feedNote = $("feedNote");
+  const escHtml = s => String(s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+  let feedItems = [], feedTag = "all";
+  function ago(iso){
+    if (!iso) return "";
+    const s = (Date.now() - Date.parse(iso)) / 1000;
+    if (isNaN(s)) return "";
+    if (s < 3600) return Math.max(1, Math.round(s / 60)) + "m ago";
+    if (s < 86400) return Math.round(s / 3600) + "h ago";
+    return Math.round(s / 86400) + "d ago";
+  }
+  function renderFeed(){
+    const list = feedItems.filter(it => feedTag === "all" || it.tag === feedTag).slice(0, 15);
+    feedList.innerHTML = list.map(it =>
+      `<li><a href="${escHtml(it.url)}" target="_blank" rel="noopener">${escHtml(it.title)}</a>
+        <span><span class="src">${escHtml(it.source)}</span> <span class="when">${ago(it.date)}</span></span></li>`).join("");
+    feedList.hidden = !list.length;
+    feedNote.hidden = !!list.length;
+    if (!list.length) feedNote.textContent = feedItems.length ? "Nothing in this category yet." : "No stories yet — check back soon.";
+  }
+  document.querySelectorAll("[data-tag]").forEach(b => b.onclick = () => {
+    feedTag = b.dataset.tag;
+    document.querySelectorAll("[data-tag]").forEach(x => x.classList.toggle("primary", x === b));
+    renderFeed();
+  });
+  fetch("data/feed.json", { cache: "no-cache" })
+    .then(r => { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
+    .then(d => { feedItems = d.items || []; renderFeed(); })
+    .catch(() => { feedNote.textContent = "Feed unavailable right now — subscribe via RSS instead."; });
 
   showStart();
 })();

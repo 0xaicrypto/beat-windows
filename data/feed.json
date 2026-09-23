@@ -1,0 +1,645 @@
+{
+  "generated": "2026-09-23T14:14:47.788Z",
+  "items": [
+    {
+      "title": "Critical WordPress RCE vulnerability announced",
+      "url": "https://lwn.net/Articles/1096195/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-09-23T13:55:40.000Z"
+    },
+    {
+      "title": "Security updates for Wednesday",
+      "url": "https://lwn.net/Articles/1096191/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-09-23T13:20:48.000Z"
+    },
+    {
+      "title": "NTFS-3G Update Brings Many Security Fixes",
+      "url": "https://www.phoronix.com/news/NTFS-3G-2026.9.18",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-23T12:27:01.000Z"
+    },
+    {
+      "title": "Qualcomm Posts Open-Source GPU Driver Patches For Adreno 850 One Day After Announcement",
+      "url": "https://www.phoronix.com/news/Qualcomm-Adreno-850-Open-Source",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-23T11:45:48.000Z"
+    },
+    {
+      "title": "Brushstrokes: a summary history",
+      "url": "https://eclecticlight.co/2026/09/23/brushstrokes-a-summary-history/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-09-23T11:30:00.000Z"
+    },
+    {
+      "title": "The GNOME LLM Policy That I Want",
+      "url": "https://blogs.gnome.org/alatiera/2026/09/23/the-gnome-llm-policy-that-i-want/",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-09-23T10:28:14.000Z"
+    },
+    {
+      "title": "AMD Upstreams AVX10_V2_AUX Support Into LLVM Clang 24",
+      "url": "https://www.phoronix.com/news/LLVM-Clang-AVX10_V2_AUX",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-23T10:25:58.000Z"
+    },
+    {
+      "title": "Linux 7.3 Reverting Logitech Bolt Receiver HID++ After Too Many Bugs Encountered",
+      "url": "https://www.phoronix.com/news/Linux-Reverting-Logitech-Bolt",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-23T10:15:37.000Z"
+    },
+    {
+      "title": "Abandoning Scientific Linux Was a Mistake",
+      "url": "https://blog.melashri.net/posts/scientific-linux-mistake/",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-09-23T09:53:20.000Z"
+    },
+    {
+      "title": "LogUI 1.1 build 90 fixes a menu glitch in macOS 27",
+      "url": "https://eclecticlight.co/2026/09/23/logui-1-1-build-90-fixes-a-menu-glitch-in-macos-27/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-09-23T07:00:00.000Z"
+    },
+    {
+      "title": "Checking an SSD trims in Golden Gate",
+      "url": "https://eclecticlight.co/2026/09/23/checking-an-ssd-trims-in-golden-gate/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-09-23T06:30:00.000Z"
+    },
+    {
+      "title": "Promotion Reminder For Ad-Free Viewing, Multi-Page Articles On A Single Page",
+      "url": "https://www.phoronix.com/news/September-2026-Phoronix-Ad-Free",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-23T01:00:00.000Z"
+    },
+    {
+      "title": "Open-Source NVIDIA \"Nouveau\" Driver Sees Patches For HDMI Deep Color Support",
+      "url": "https://www.phoronix.com/news/Nouveau-Deep-Color-Patches",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-23T00:54:21.000Z"
+    },
+    {
+      "title": "Meta’s Muse Logomark, Designed by Jessica Hische",
+      "url": "https://thedieline.com/jessica-hische-metas-muse-and-the-ethical-landmines-of-design/",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-09-22T22:51:09.000Z"
+    },
+    {
+      "title": "Meta’s New Muse AI Agent Read Jason Aten’s Messages Database",
+      "url": "https://www.inc.com/jason-aten/metas-new-muse-ai-agent-read-my-private-messages-i-never-asked-it-to/91408202",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-09-22T21:26:24.000Z"
+    },
+    {
+      "title": "Why Didn’t Google Build Muse?",
+      "url": "https://spyglass.org/why-didnt-google-build-muse/",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-09-22T20:51:12.000Z"
+    },
+    {
+      "title": "Amazon Blocks Meta’s Muse AI Assistant",
+      "url": "https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-new-standoff-over-agentic-shopping/",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-09-22T20:43:32.000Z"
+    },
+    {
+      "title": "Meta’s New Muse AI Agent App Overtakes ChatGPT as Top iPhone App",
+      "url": "https://9to5mac.com/2026/09/18/metas-new-muse-ai-agent-app-overtakes-chatgpt-as-top-iphone-app/",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-09-22T20:12:41.000Z"
+    },
+    {
+      "title": "That About Wraps It Up for Stock Mac UI",
+      "url": "https://inessential.com/2026/09/22/that-about-wraps-it-up-for.html",
+      "source": "Lobsters · mac",
+      "tag": "macos",
+      "site": "https://lobste.rs/t/mac",
+      "date": "2026-09-22T19:29:53.000Z"
+    },
+    {
+      "title": "Xcode 27.2 Now Supports a New JSON Project File Format",
+      "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_2-release-notes",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-09-22T19:25:52.000Z"
+    },
+    {
+      "title": "Linux 7.2 vs. Linux 7.3 Shows A Few Improvements With AMD Strix Halo",
+      "url": "https://www.phoronix.com/news/Linux-7.3-Strix-Halo",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-22T19:23:48.000Z"
+    },
+    {
+      "title": "Ubuntu Linux Maker Canonical Achieved $345M USD In Revenue For 2025",
+      "url": "https://www.phoronix.com/news/Ubuntu-Canonical-Did-345M-2025",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-22T18:26:13.000Z"
+    },
+    {
+      "title": "Siri AI Class-Action Lawsuit Settlement Website Is Now Live",
+      "url": "https://www.macrumors.com/2026/09/20/siri-ai-settlement-website-now-live/",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-09-22T15:44:45.000Z"
+    },
+    {
+      "title": "Variable Refresh Rate \"VRR\" Target Limiter Proposed For Linux Graphics Drivers",
+      "url": "https://www.phoronix.com/news/VRR-Target-Rate-Limiter-uAPI",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-22T15:29:30.000Z"
+    },
+    {
+      "title": "[$] Compiling the kernel with gccrs",
+      "url": "https://lwn.net/Articles/1095553/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-09-22T15:27:35.000Z"
+    },
+    {
+      "title": "Security updates for Tuesday",
+      "url": "https://lwn.net/Articles/1096022/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-09-22T15:10:11.000Z"
+    },
+    {
+      "title": "SPEC Releases SPECviewperf 15.0.1 For Linux",
+      "url": "https://www.phoronix.com/news/SPECviewperf-15.0.1-Linux",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-22T14:36:00.000Z"
+    },
+    {
+      "title": "systemd 262 Released With AI/LLM Canary For Unreviewed Code, LUO Integration",
+      "url": "https://www.phoronix.com/news/systemd-262",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-22T13:35:05.000Z"
+    },
+    {
+      "title": "Vibe Coded YSERVER Adds XDMCP Support For Multi-User Shared Desktops",
+      "url": "https://www.phoronix.com/news/YSERVER-1.6-Released",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-22T13:28:11.000Z"
+    },
+    {
+      "title": "Portraits of trees: Willow",
+      "url": "https://eclecticlight.co/2026/09/22/portraits-of-trees-willow/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-09-22T11:30:00.000Z"
+    },
+    {
+      "title": "Read an Apple Intelligence Report",
+      "url": "https://eclecticlight.co/2026/09/22/read-an-apple-intelligence-report/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-09-22T06:30:00.000Z"
+    },
+    {
+      "title": "sa: My Wrapper Around GNU screen",
+      "url": "https://joshstoolbox.com/blog/introducing_sa/",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-09-22T00:31:33.000Z"
+    },
+    {
+      "title": "[Sponsor] Mux: Turn Your Video Into Context",
+      "url": "https://www.mux.com/?utm_campaign=fireball&utm_source=DF",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-09-21T23:04:15.000Z"
+    },
+    {
+      "title": "Lex Friedman Brings Back Strategery",
+      "url": "https://lexontech.org/strategery-is-back-and-im-the-developer",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-09-21T22:52:44.000Z"
+    },
+    {
+      "title": "GM Confirms They’re Still Smoking Crack",
+      "url": "https://x.com/JoannaStern/status/2102105565195288859",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-09-21T21:52:50.000Z"
+    },
+    {
+      "title": "America’s Decline Can Be Measured by the Names of Ballparks and Arenas",
+      "url": "https://www.mlb.com/news/tigers-ballpark-name-changed-to-fifth-third-park",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-09-21T21:23:01.000Z"
+    },
+    {
+      "title": "rift - a tiling window manager for macos",
+      "url": "https://github.com/acsandmann/rift/",
+      "source": "Lobsters · mac",
+      "tag": "macos",
+      "site": "https://lobste.rs/t/mac",
+      "date": "2026-09-21T18:02:53.000Z"
+    },
+    {
+      "title": "Self-Hosting Behind CGNAT",
+      "url": "https://david.alvarezrosa.com/posts/self-hosting-behind-cgnat/",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-09-21T17:53:28.000Z"
+    },
+    {
+      "title": "Ichiro, at 52, Throws 127-Pitch Shutout Against All-Star Girls Team in Japan",
+      "url": "https://www.seattletimes.com/sports/mariners/ichiro-at-52-throws-127-pitch-shutout-against-all-star-girls-team-in-japan/",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-09-21T17:37:16.000Z"
+    },
+    {
+      "title": "Igalia celebrates \"Twenty-Five Years Upstream\"",
+      "url": "https://lwn.net/Articles/1095723/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-09-21T16:35:32.000Z"
+    },
+    {
+      "title": "Three new stable kernels",
+      "url": "https://lwn.net/Articles/1095703/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-09-21T14:43:18.000Z"
+    },
+    {
+      "title": "[$] Testing compat_linux on NetBSD with the Linux Test Project",
+      "url": "https://lwn.net/Articles/1094310/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-09-21T14:22:55.000Z"
+    },
+    {
+      "title": "Security updates for Monday",
+      "url": "https://lwn.net/Articles/1095702/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-09-21T14:13:08.000Z"
+    },
+    {
+      "title": "Hero or hooligan: Heracles in drag",
+      "url": "https://eclecticlight.co/2026/09/21/hero-or-hooligan-heracles-in-drag/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-09-21T11:30:00.000Z"
+    },
+    {
+      "title": "Overview of AOOSTAR WTR Pro on *BSD",
+      "url": "https://www.tumfatig.net/2026/overview-of-aoostar-wtr-pro-on-bsd/",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-09-21T11:00:40.000Z"
+    },
+    {
+      "title": "Why do computers look like this anyway?",
+      "url": "https://www.youtube.com/watch?v=dpIuNUn0PZc",
+      "source": "Lobsters · mac",
+      "tag": "macos",
+      "site": "https://lobste.rs/t/mac",
+      "date": "2026-09-21T09:37:22.000Z"
+    },
+    {
+      "title": "Solutions to Saturday Mac riddles 378",
+      "url": "https://eclecticlight.co/2026/09/21/solutions-to-saturday-mac-riddles-378/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-09-21T08:00:00.000Z"
+    },
+    {
+      "title": "When to use a new container, volume or folder",
+      "url": "https://eclecticlight.co/2026/09/21/when-to-use-a-new-container-volume-or-folder/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-09-21T06:30:00.000Z"
+    },
+    {
+      "title": "Kernel prepatch 7.3-rc4",
+      "url": "https://lwn.net/Articles/1095491/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-09-20T22:52:25.000Z"
+    },
+    {
+      "title": "Unix Year 2038 problem and the art of underestimating",
+      "url": "https://www.buzzsprout.com/2469780/episodes/19824439",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-09-20T17:40:19.000Z"
+    },
+    {
+      "title": "Painting la Manche: le Havre to Ouessant",
+      "url": "https://eclecticlight.co/2026/09/20/painting-la-manche-le-havre-to-ouessant/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-09-20T11:30:00.000Z"
+    },
+    {
+      "title": "Last Week on My Mac: Is AI worth 30 GB?",
+      "url": "https://eclecticlight.co/2026/09/20/last-week-on-my-mac-is-ai-worth-30-gb/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-09-20T07:00:00.000Z"
+    },
+    {
+      "title": "Wi-Fi PCAP with mac OS(2025)",
+      "url": "https://mrncciew.com/2025/11/06/wi-fi-pcap-with-mac-os/",
+      "source": "Lobsters · mac",
+      "tag": "macos",
+      "site": "https://lobste.rs/t/mac",
+      "date": "2026-09-20T06:51:58.000Z"
+    },
+    {
+      "title": "CleanShot’s bulldozed settings",
+      "url": "https://unsung.aresluna.org/cleanshots-bulldozed-settings/",
+      "source": "Lobsters · mac",
+      "tag": "macos",
+      "site": "https://lobste.rs/t/mac",
+      "date": "2026-09-19T21:25:34.000Z"
+    },
+    {
+      "title": "Unearthing macOS’ Uniform Type Identifiers (2025)",
+      "url": "https://blog.smittytone.net/2025/08/14/unearthing-macos-uniform-type-identifiers/",
+      "source": "Lobsters · mac",
+      "tag": "macos",
+      "site": "https://lobste.rs/t/mac",
+      "date": "2026-09-19T21:17:37.000Z"
+    },
+    {
+      "title": "Thread-identity switcheroo for io_uring",
+      "url": "https://lwn.net/SubscriberLink/1094303/50affb2e7bd3e698/",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-09-19T18:42:48.000Z"
+    },
+    {
+      "title": "Kexec & Btrfs Subvolumes for Kernel Testing",
+      "url": "https://archcloudlabs.com/projects/kexec/",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-09-18T23:36:28.000Z"
+    },
+    {
+      "title": "The Bikeshed email — PHKs Bikeshed",
+      "url": "https://phk.freebsd.dk/sagas/bikeshed/",
+      "source": "Lobsters · freebsd",
+      "tag": "bsd",
+      "site": "https://lobste.rs/t/freebsd",
+      "date": "2026-09-18T19:46:10.000Z"
+    },
+    {
+      "title": "[$] Looking forward to Git 2.56 — and 3.0",
+      "url": "https://lwn.net/Articles/1094575/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-09-18T14:14:09.000Z"
+    },
+    {
+      "title": "Systemtap 5.6 released",
+      "url": "https://lwn.net/Articles/1095220/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-09-18T12:58:42.000Z"
+    },
+    {
+      "title": "Security updates for Friday",
+      "url": "https://lwn.net/Articles/1095219/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-09-18T12:52:10.000Z"
+    },
+    {
+      "title": "GEFS, the \"Good Enough File System\" on the horizon for OpenBSD",
+      "url": "https://undeadly.org/cgi?action=article;sid=20260918115729",
+      "source": "undeadly",
+      "tag": "bsd",
+      "site": "https://undeadly.org/",
+      "date": "2026-09-18T11:57:29.000Z"
+    },
+    {
+      "title": "A quartet of Linux local root vulns: DirtyAH6, PPPoEject, TUNderflow, and DiagSpill",
+      "url": "https://seclists.org/oss-sec/2026/q3/822",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-09-18T07:57:04.000Z"
+    },
+    {
+      "title": "The skb that wasn't freed - the Fragnesia primitive via Open vSwitch",
+      "url": "https://blog.doyensec.com/2026/09/17/ovs.html",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-09-17T08:39:34.000Z"
+    },
+    {
+      "title": "XApp — Apps that work everywhere",
+      "url": "https://xapp-project.org/",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-09-17T06:00:53.000Z"
+    },
+    {
+      "title": "Introducing GNOME 51",
+      "url": "https://release.gnome.org/51/",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-09-16T18:05:43.000Z"
+    },
+    {
+      "title": "Gothub lists",
+      "url": "https://gothub.org/lists.html",
+      "source": "Lobsters · openbsd",
+      "tag": "bsd",
+      "site": "https://lobste.rs/t/openbsd",
+      "date": "2026-09-16T16:55:24.000Z"
+    },
+    {
+      "title": "From Report to Patch, the OpenBSD Errata Process",
+      "url": "https://exquisite.tube/w/sDafcZjdEQpR83aogPSx9j",
+      "source": "Lobsters · openbsd",
+      "tag": "bsd",
+      "site": "https://lobste.rs/t/openbsd",
+      "date": "2026-09-16T11:20:06.000Z"
+    },
+    {
+      "title": "GEFS on OpenBSD: A very early preview",
+      "url": "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2",
+      "source": "Lobsters · openbsd",
+      "tag": "bsd",
+      "site": "https://lobste.rs/t/openbsd",
+      "date": "2026-09-15T17:21:47.000Z"
+    },
+    {
+      "title": "Deshittification as a Service: Reclaiming Privacy and Performance with OpenBSD pf and Unbound",
+      "url": "https://fabricati-diem.inform.social/post/deshittification-as-a-service/",
+      "source": "Lobsters · openbsd",
+      "tag": "bsd",
+      "site": "https://lobste.rs/t/openbsd",
+      "date": "2026-09-15T13:14:36.000Z"
+    },
+    {
+      "title": "How I use a single .zshrc file on macOS and Windows (WSL2)",
+      "url": "https://talkoren.com/blog/single-zshrc-macos-windows-wsl2/",
+      "source": "Lobsters · mac",
+      "tag": "macos",
+      "site": "https://lobste.rs/t/mac",
+      "date": "2026-09-14T20:26:19.000Z"
+    },
+    {
+      "title": "GEFS: The File Shredder of the Future",
+      "url": "https://exquisite.tube/w/3QQimMdswWJxrsPaJtak2u",
+      "source": "Lobsters · openbsd",
+      "tag": "bsd",
+      "site": "https://lobste.rs/t/openbsd",
+      "date": "2026-09-13T16:30:23.000Z"
+    },
+    {
+      "title": "Homebrew 7.0.0",
+      "url": "https://brew.sh/2026/09/13/homebrew-7.0.0/",
+      "source": "Lobsters · mac",
+      "tag": "macos",
+      "site": "https://lobste.rs/t/mac",
+      "date": "2026-09-13T12:22:47.000Z"
+    },
+    {
+      "title": "a better way of blocking macOS updates",
+      "url": "https://zoey-on-github.github.io/blog/updates.html",
+      "source": "Lobsters · mac",
+      "tag": "macos",
+      "site": "https://lobste.rs/t/mac",
+      "date": "2026-09-13T01:12:07.000Z"
+    },
+    {
+      "title": "Getting 50 GB/s Back Out of the ANE",
+      "url": "https://eiln.github.io/posts/ane-dma.html",
+      "source": "Lobsters · mac",
+      "tag": "macos",
+      "site": "https://lobste.rs/t/mac",
+      "date": "2026-09-12T17:14:06.000Z"
+    },
+    {
+      "title": "A list of macOS defaults commands with demos",
+      "url": "https://macos-defaults.com/",
+      "source": "Lobsters · mac",
+      "tag": "macos",
+      "site": "https://lobste.rs/t/mac",
+      "date": "2026-09-11T22:55:34.000Z"
+    },
+    {
+      "title": "Apple Event for September 9th, 2026",
+      "url": "https://www.apple.com/apple-events/event-stream/",
+      "source": "Lobsters · mac",
+      "tag": "macos",
+      "site": "https://lobste.rs/t/mac",
+      "date": "2026-09-09T16:54:31.000Z"
+    },
+    {
+      "title": "Closing the IPv6 First-Packet Gap with GRAND",
+      "url": "https://labs.ripe.net/author/pouria/closing-the-ipv6-first-packet-gap-with-grand/",
+      "source": "Lobsters · freebsd",
+      "tag": "bsd",
+      "site": "https://lobste.rs/t/freebsd",
+      "date": "2026-09-04T14:42:54.000Z"
+    },
+    {
+      "title": "OpenBSD Stories: Strange Medieval Devices",
+      "url": "http://miod.online.fr/software/openbsd/stories/smd.html",
+      "source": "HN · OpenBSD",
+      "tag": "bsd",
+      "site": "https://news.ycombinator.com/",
+      "date": "2026-09-02T17:44:24.000Z"
+    },
+    {
+      "title": "Repeating Ourselves Less with M4",
+      "url": "https://nemin.hu/httpd-macros/index.html",
+      "source": "Lobsters · openbsd",
+      "tag": "bsd",
+      "site": "https://lobste.rs/t/openbsd",
+      "date": "2026-08-31T04:10:47.000Z"
+    }
+  ]
+}
