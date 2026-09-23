@@ -1,0 +1,339 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="description" content="Make a Beat Windows meme, then smash pop-ups for 30 seconds before you blue-screen.">
+<title>Beat Windows</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Anton&family=VT323&family=Noto+Sans+SC:wght@400;900&display=swap">
+<style>
+  *,*::before,*::after{box-sizing:border-box} body{margin:0} img{max-width:100%} [hidden]{display:none!important}
+  :root{
+    color-scheme: light;
+    --desk:#0a7a78; --desk-deep:#065553;
+    --chrome:#c3c3c3; --chrome-hi:#ffffff; --chrome-lo:#7b7b7b; --chrome-dk:#1e1e1e;
+    --title:#0b1f8f; --title2:#1f6fd1;
+    --bsod:#0a1aa8; --ink:#101010; --paper:#f7f7f2; --warn:#d8261b; --gold:#ffd23f;
+    --pix:"VT323", ui-monospace, Menlo, monospace;
+    --meme:"Anton", Impact, "Arial Narrow Bold", sans-serif;
+    --cn:"Noto Sans SC", "PingFang SC", "Microsoft YaHei", sans-serif;
+  }
+  body{background:var(--desk);color:var(--ink);font-family:var(--cn);
+    background-image:radial-gradient(circle at 20% 0%, #0e8f8c 0, transparent 55%);
+    padding-inline:16px;padding-block:24px 64px}
+  .wrap{max-width:980px;margin:0 auto;display:grid;gap:28px}
+  h1{font-family:var(--meme);font-size:clamp(44px,9vw,92px);line-height:.95;margin:0;color:#fff;
+    letter-spacing:.01em;text-shadow:4px 4px 0 var(--desk-deep);text-wrap:balance}
+  h1 span{color:var(--gold)}
+  .lede{font-family:var(--pix);font-size:24px;color:#dff5f4;margin:8px 0 0;max-width:60ch}
+
+  /* retro window chrome */
+  .win{background:var(--chrome);border:2px solid;border-color:var(--chrome-hi) var(--chrome-dk) var(--chrome-dk) var(--chrome-hi);
+    box-shadow:inset -1px -1px 0 var(--chrome-lo), inset 1px 1px 0 #dfdfdf}
+  .bar{display:flex;align-items:center;justify-content:space-between;gap:8px;
+    background:linear-gradient(90deg,var(--title),var(--title2));color:#fff;
+    font-family:var(--pix);font-size:20px;padding:2px 4px 2px 8px}
+  .bar b{font-weight:400}
+  .btns{display:flex;gap:2px}
+  .btns i{width:20px;height:18px;background:var(--chrome);border:2px solid;border-color:var(--chrome-hi) var(--chrome-dk) var(--chrome-dk) var(--chrome-hi);
+    font-style:normal;color:var(--ink);font-size:16px;line-height:12px;text-align:center}
+  .body{padding:14px}
+
+  .studio{display:grid;grid-template-columns:minmax(0,1.3fr) minmax(0,1fr);gap:16px}
+  @media (max-width:760px){.studio{grid-template-columns:1fr}}
+  .canvas-box{background:#000;border:2px solid;border-color:var(--chrome-dk) var(--chrome-hi) var(--chrome-hi) var(--chrome-dk)}
+  #memeImg{display:block;width:100%;height:auto}
+  .hint{font-family:var(--pix);font-size:18px;color:#333;margin:8px 0 0}
+  label{display:block;font-size:13px;font-weight:900;margin:0 0 4px}
+  .field{display:grid;gap:4px;margin-bottom:12px}
+  input[type=text]{width:100%;box-sizing:border-box;font:16px var(--cn);padding:6px 8px;background:#fff;color:var(--ink);
+    border:2px solid;border-color:var(--chrome-lo) var(--chrome-hi) var(--chrome-hi) var(--chrome-lo)}
+  .presets{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:12px}
+  button.b95{font:15px var(--cn);color:var(--ink);background:var(--chrome);padding:6px 12px;cursor:pointer;
+    border:2px solid;border-color:var(--chrome-hi) var(--chrome-dk) var(--chrome-dk) var(--chrome-hi)}
+  button.b95:active{border-color:var(--chrome-dk) var(--chrome-hi) var(--chrome-hi) var(--chrome-dk)}
+  button.b95:focus-visible, input:focus-visible{outline:2px dotted var(--ink);outline-offset:2px}
+  button.primary{font-weight:900}
+  .row{display:flex;gap:8px;flex-wrap:wrap}
+
+  /* game */
+  .hud{display:flex;flex-wrap:wrap;gap:8px 20px;align-items:center;font-family:var(--pix);font-size:22px;margin-bottom:10px}
+  .hud strong{font-weight:400;background:#000;color:#39ff6a;padding:0 8px;font-variant-numeric:tabular-nums}
+  .meter{flex:1 1 160px;height:16px;background:#fff;border:2px solid;border-color:var(--chrome-lo) var(--chrome-hi) var(--chrome-hi) var(--chrome-lo);position:relative}
+  .meter span{position:absolute;inset:0;width:0;background:repeating-linear-gradient(90deg,var(--warn) 0 10px,#fff0 10px 12px)}
+  #desk{position:relative;height:420px;overflow:hidden;background:var(--desk);cursor:crosshair;
+    border:2px solid;border-color:var(--chrome-dk) var(--chrome-hi) var(--chrome-hi) var(--chrome-dk);touch-action:manipulation}
+  #desk.hammer{cursor:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='40' height='40'%3E%3Crect x='17' y='12' width='6' height='26' fill='%238a5a2b' stroke='%23000'/%3E%3Crect x='6' y='2' width='28' height='12' fill='%23999' stroke='%23000' stroke-width='2'/%3E%3C/svg%3E") 20 8, crosshair}
+  .pop{position:absolute;width:210px;font-size:13px;user-select:none;animation:in .12s ease-out}
+  .pop .body{display:flex;gap:10px;align-items:flex-start;padding:10px}
+  .pop .ico{flex:none;width:30px;height:30px;border-radius:50%;background:var(--warn);color:#fff;font:900 20px/30px var(--cn);text-align:center;border:2px solid #600}
+  .pop .ok{margin-top:8px;text-align:right}
+  .pop.smash{animation:smash .35s forwards}
+  @keyframes in{from{transform:scale(.6);opacity:.3}}
+  @keyframes smash{40%{transform:rotate(-8deg) scale(1.05)}100%{transform:rotate(14deg) translateY(160px) scale(.5);opacity:0}}
+  .crack{position:absolute;pointer-events:none;width:90px;height:90px;margin:-45px 0 0 -45px;opacity:.85;animation:fade 1.4s forwards}
+  @keyframes fade{70%{opacity:.85}100%{opacity:0}}
+  .overlay{position:absolute;inset:0;display:grid;place-items:center;text-align:center;padding:16px;z-index:50}
+  .overlay.start{background:rgba(6,85,83,.82);color:#fff}
+  .overlay.bsod{background:var(--bsod);color:#fff;font-family:var(--pix);font-size:22px;text-align:left;place-items:center}
+  .overlay .inner{max-width:520px;display:grid;gap:12px}
+  .overlay .big{font-family:var(--meme);font-size:clamp(34px,7vw,56px);line-height:1}
+  .bsod .tag{background:#c3c3c3;color:var(--bsod);padding:0 8px;justify-self:start}
+  .overlay p{margin:0}
+  @media (prefers-reduced-motion:reduce){.pop,.pop.smash,.crack{animation:none}}
+  footer{font-family:var(--pix);font-size:18px;color:#cdeeed}
+</style>
+</head>
+<body>
+
+<div class="wrap">
+  <header>
+    <h1>BEAT <span>WINDOWS</span></h1>
+    <p class="lede">C:\&gt; One hammer. One computer that is always "installing updates". Make a meme, then smash every pop-up to pieces.</p>
+  </header>
+
+  <section class="win" aria-labelledby="t1">
+    <div class="bar"><b id="t1">MEME.EXE — Meme Maker</b><span class="btns"><i>_</i><i>□</i><i>×</i></span></div>
+    <div class="body studio">
+      <div>
+        <div class="canvas-box"><img id="memeImg" alt="Beat Windows meme preview"></div>
+        <p class="hint">▶ Right-click (desktop) or long-press (phone) the image → Save Image to keep the PNG</p>
+      </div>
+      <div>
+        <div class="field"><label for="top">Top text</label><input id="top" type="text" value="WINDOWS: Updating 37%. Don't turn off your PC"></div>
+        <div class="field"><label for="bottom">Bottom text</label><input id="bottom" type="text" value="ME: Fine. I'll turn it off another way"></div>
+        <label>Templates</label>
+        <div class="presets" id="presets"></div>
+        <div class="row">
+          <button class="b95 primary" id="shuffle" type="button">Shuffle</button>
+          <button class="b95" id="copy" type="button">Copy text</button>
+        </div>
+        <p class="hint" id="copyMsg" aria-live="polite"></p>
+      </div>
+    </div>
+  </section>
+
+  <section class="win" aria-labelledby="t2">
+    <div class="bar"><b id="t2">SMASH.EXE — 30-Second Pop-up Smash</b><span class="btns"><i>_</i><i>□</i><i>×</i></span></div>
+    <div class="body">
+      <div class="hud">
+        <span>Smashed <strong id="score">000</strong></span>
+        <span>Time <strong id="time">30.0</strong>s</span>
+        <span style="flex:1 1 200px;display:flex;gap:8px;align-items:center">BSOD meter <span class="meter"><span id="heat"></span></span></span>
+      </div>
+      <div id="desk" class="hammer">
+        <div class="overlay start" id="startOv">
+          <div class="inner">
+            <div class="big">Tap a pop-up = smash it</div>
+            <p>Pop-ups keep piling up. More than 8 on screen and you blue-screen. Survive 30 seconds to win.</p>
+            <div><button class="b95 primary" id="startBtn" type="button">Start smashing</button></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <footer>Pure parody · No computers were actually harmed in the making of this page</footer>
+</div>
+
+<script>
+(() => {
+  const PRESETS = [
+    ["WINDOWS: Updating 37%. Don't turn off your PC","ME: Fine. I'll turn it off another way"],
+    ["WINDOWS: Your PC ran into a problem and needs to restart","ME: Your PC ran into a hammer"],
+    ["WINDOWS: Do you want to allow this app to make changes to your device?","ME: Do you want to allow this hammer to make changes to your device?"],
+    ["WINDOWS: Restarting automatically at 3:00 AM","ME: 3:01 AM"],
+    ["1 minute before the big meeting","WINDOWS: Working on updates 0%"],
+    ["WINDOWS: Printer offline","ME: Now you're offline too"]
+  ];
+  const $ = id => document.getElementById(id);
+  const topI = $("top"), botI = $("bottom"), img = $("memeImg");
+  const W = 900, H = 900;
+  const cv = document.createElement("canvas"); cv.width = W; cv.height = H;
+  const c = cv.getContext("2d");
+
+  function crackLines(x, y, n, len, seed){
+    let s = seed;
+    const rnd = () => (s = (s * 9301 + 49297) % 233280) / 233280;
+    c.beginPath();
+    for (let i = 0; i < n; i++){
+      const a = (i / n) * Math.PI * 2 + rnd() * .4;
+      let px = x, py = y;
+      c.moveTo(px, py);
+      for (let k = 0; k < 4; k++){
+        const l = len * (0.2 + rnd() * .35), aa = a + (rnd() - .5) * .6;
+        px += Math.cos(aa) * l; py += Math.sin(aa) * l; c.lineTo(px, py);
+      }
+    }
+    for (let r = 1; r <= 3; r++){
+      c.moveTo(x + r * 26, y);
+      for (let t = 0; t <= 12; t++){
+        const a = t / 12 * Math.PI * 2, rr = r * 26 * (0.8 + rnd() * .4);
+        c.lineTo(x + Math.cos(a) * rr, y + Math.sin(a) * rr);
+      }
+    }
+    c.stroke();
+  }
+
+  function drawScene(){
+    // backdrop: desktop teal
+    const g = c.createLinearGradient(0,0,0,H); g.addColorStop(0,"#0e8f8c"); g.addColorStop(1,"#054745");
+    c.fillStyle = g; c.fillRect(0,0,W,H);
+    // a real window: wooden frame, four glass panes
+    const fx = 170, fy = 190, fw = 560, fh = 520;
+    c.fillStyle = "#6b4423"; c.fillRect(fx-26, fy-26, fw+52, fh+52);
+    c.fillStyle = "#8a5a2b"; c.fillRect(fx-14, fy-14, fw+28, fh+28);
+    const panes = ["#e2442f","#55b83b","#2d8ee6","#f5c21b"];
+    const pw = (fw - 20) / 2, ph = (fh - 20) / 2;
+    panes.forEach((col, i) => {
+      const x = fx + (i % 2) * (pw + 20), y = fy + Math.floor(i / 2) * (ph + 20);
+      c.fillStyle = col; c.globalAlpha = .88; c.fillRect(x, y, pw, ph); c.globalAlpha = 1;
+      c.fillStyle = "rgba(255,255,255,.28)";
+      c.beginPath(); c.moveTo(x+18,y+18); c.lineTo(x+90,y+18); c.lineTo(x+18,y+110); c.fill();
+    });
+    // cracks on the top-right pane (hit point)
+    c.strokeStyle = "rgba(255,255,255,.95)"; c.lineWidth = 3; c.lineJoin = "round";
+    crackLines(fx + pw + 20 + pw * .45, fy + ph * .55, 11, 260, 7);
+    // flying shards
+    c.fillStyle = "rgba(220,240,255,.9)";
+    [[790,210,26],[820,300,18],[760,140,14],[850,380,12],[700,120,10]].forEach(([x,y,s],i)=>{
+      c.save(); c.translate(x,y); c.rotate(i); c.beginPath(); c.moveTo(0,-s); c.lineTo(s*.8,s*.6); c.lineTo(-s*.6,s*.4); c.closePath(); c.fill(); c.restore();
+    });
+    // hammer
+    c.save(); c.translate(fx + pw + 20 + pw * .45 + 40, fy + ph * .55 - 30); c.rotate(-0.75);
+    c.fillStyle = "#9b6a35"; c.strokeStyle = "#1b1b1b"; c.lineWidth = 6;
+    c.fillRect(-14, 0, 28, 250); c.strokeRect(-14, 0, 28, 250);
+    c.fillStyle = "#8d949b"; c.fillRect(-80, -52, 160, 60); c.strokeRect(-80, -52, 160, 60);
+    c.fillStyle = "rgba(255,255,255,.35)"; c.fillRect(-72, -44, 144, 12);
+    c.restore();
+    // impact word
+    c.save(); c.translate(250, 250); c.rotate(-0.18);
+    c.font = "72px Anton, Impact, sans-serif"; c.lineWidth = 10; c.strokeStyle = "#000"; c.fillStyle = "#ffd23f";
+    c.strokeText("CRACK!", 0, 0); c.fillText("CRACK!", 0, 0); c.restore();
+  }
+
+  function memeText(text, y, anchor){
+    const maxW = W - 60;
+    let size = 78;
+    const font = s => `${s}px Anton, "Noto Sans SC", Impact, sans-serif`;
+    // wrap into up to 2 lines, shrink until it fits
+    const wrap = s => {
+      c.font = font(s);
+      const chars = [...text.toUpperCase()], lines = [""];
+      for (const ch of chars){
+        const t = lines[lines.length-1] + ch;
+        if (c.measureText(t).width > maxW && lines[lines.length-1]) lines.push(ch.trim() ? ch : "");
+        else lines[lines.length-1] = t;
+      }
+      return lines;
+    };
+    let lines = wrap(size);
+    while (lines.length > 2 && size > 30){ size -= 4; lines = wrap(size); }
+    c.font = font(size); c.textAlign = "center"; c.lineJoin = "round";
+    c.lineWidth = Math.max(6, size / 7); c.strokeStyle = "#000"; c.fillStyle = "#fff";
+    const lh = size * 1.12;
+    const startY = anchor === "top" ? y + size : y - (lines.length - 1) * lh;
+    lines.forEach((l, i) => { c.strokeText(l, W/2, startY + i*lh); c.fillText(l, W/2, startY + i*lh); });
+  }
+
+  function render(){
+    drawScene();
+    memeText(topI.value, 24, "top");
+    memeText(botI.value, H - 34, "bottom");
+    img.src = cv.toDataURL("image/png");
+  }
+
+  const pre = $("presets");
+  PRESETS.forEach((p, i) => {
+    const b = document.createElement("button");
+    b.className = "b95"; b.type = "button"; b.textContent = "Template " + (i + 1);
+    b.title = p.join(" / ");
+    b.onclick = () => { topI.value = p[0]; botI.value = p[1]; render(); };
+    pre.appendChild(b);
+  });
+  $("shuffle").onclick = () => { const p = PRESETS[Math.floor(Math.random()*PRESETS.length)]; topI.value = p[0]; botI.value = p[1]; render(); };
+  $("copy").onclick = () => {
+    const t = topI.value + "\n" + botI.value, msg = $("copyMsg");
+    navigator.clipboard.writeText(t).then(() => msg.textContent = "Text copied").catch(() => { topI.select(); msg.textContent = "Copy was blocked. The text is selected, copy it manually"; });
+  };
+  topI.oninput = botI.oninput = render;
+  (document.fonts ? document.fonts.ready : Promise.resolve()).then(render);
+  render();
+
+  // ---------- game ----------
+  const MSGS = [
+    ["Update", "Restart required to finish updating. Restart now?"],
+    ["Error", "Program is not responding. Wait, or keep waiting?"],
+    ["Warning", "Low disk space (0.3 KB left)"],
+    ["Notice", "Allow this app to make changes to your device?"],
+    ["Error", "Printer offline. It says it's tired."],
+    ["Update", "Configuring updates 0%. Do not turn off your computer"],
+    ["Notice", "Are you sure you're sure?"]
+  ];
+  const desk = $("desk"), scoreEl = $("score"), timeEl = $("time"), heat = $("heat");
+  const LIMIT = 8, DURATION = 30;
+  let score = 0, alive = 0, running = false, t0 = 0, spawnT = 0, raf = 0;
+
+  function overlay(html, cls){
+    const o = document.createElement("div"); o.className = "overlay " + cls; o.innerHTML = html;
+    desk.appendChild(o); return o;
+  }
+  function crackAt(x, y){
+    const s = document.createElementNS("http://www.w3.org/2000/svg","svg");
+    s.setAttribute("viewBox","-45 -45 90 90"); s.classList.add("crack");
+    s.style.left = x + "px"; s.style.top = y + "px";
+    let d = "";
+    for (let i = 0; i < 9; i++){ const a = i/9*Math.PI*2 + Math.random()*.5, l = 20 + Math.random()*24;
+      d += `M0 0L${(Math.cos(a)*l*.5).toFixed(1)} ${(Math.sin(a)*l*.5+Math.random()*4).toFixed(1)}L${(Math.cos(a)*l).toFixed(1)} ${(Math.sin(a)*l).toFixed(1)}`; }
+    s.innerHTML = `<path d="${d}" fill="none" stroke="#fff" stroke-width="2"/><circle r="12" fill="none" stroke="#fff" stroke-width="1.5"/>`;
+    desk.appendChild(s); setTimeout(() => s.remove(), 1400);
+  }
+  function spawn(){
+    const [kind, text] = MSGS[Math.floor(Math.random()*MSGS.length)];
+    const p = document.createElement("div"); p.className = "pop win";
+    const w = Math.min(210, desk.clientWidth - 16);
+    p.style.width = w + "px";
+    p.style.left = Math.random() * (desk.clientWidth - w) + "px";
+    p.style.top = Math.random() * (desk.clientHeight - 130) + "px";
+    p.style.zIndex = 10 + Math.floor(Math.random()*30);
+    p.innerHTML = `<div class="bar"><b>${kind}</b><span class="btns"><i>×</i></span></div>
+      <div class="body"><div class="ico">!</div><div>${text}<div class="ok"><button class="b95" type="button" tabindex="-1">OK</button></div></div></div>`;
+    p.addEventListener("pointerdown", e => {
+      if (!running || p.dataset.dead) return;
+      p.dataset.dead = 1; alive--; score++; scoreEl.textContent = String(score).padStart(3,"0");
+      const r = desk.getBoundingClientRect(); crackAt(e.clientX - r.left, e.clientY - r.top);
+      p.classList.add("smash"); setTimeout(() => p.remove(), 360); updateHeat();
+    });
+    desk.appendChild(p); alive++; updateHeat();
+  }
+  function updateHeat(){ heat.style.width = Math.min(100, alive / LIMIT * 100) + "%"; }
+  function clearDesk(){ desk.querySelectorAll(".pop,.overlay,.crack").forEach(n => n.remove()); }
+  function end(won){
+    running = false; cancelAnimationFrame(raf);
+    const again = `<div><button class="b95 primary" type="button" data-again>Smash again</button></div>`;
+    const o = won
+      ? overlay(`<div class="inner"><div class="big">YOU BEAT WINDOWS</div><p>${score} pop-ups smashed in 30 seconds. Update progress: 37%, forever.</p>${again}</div>`, "start")
+      : overlay(`<div class="inner"><span class="tag"> FATAL ERROR </span><p>:( Your desktop drowned in pop-ups.</p><p>Smashed ${score} · Survived ${((performance.now()-t0)/1000).toFixed(1)}s</p><p>STOP CODE: TOO_MANY_POPUPS</p>${again}</div>`, "bsod");
+    o.querySelector("[data-again]").onclick = start;
+  }
+  function loop(now){
+    if (!running) return;
+    const el = (now - t0) / 1000, left = Math.max(0, DURATION - el);
+    timeEl.textContent = left.toFixed(1);
+    const every = Math.max(260, 900 - el * 26); // speeds up over time
+    if (now - spawnT > every){ spawnT = now; spawn(); if (el > 12 && Math.random() < .35) spawn(); }
+    if (alive > LIMIT) return end(false);
+    if (left <= 0) return end(true);
+    raf = requestAnimationFrame(loop);
+  }
+  function start(){
+    clearDesk(); score = 0; alive = 0; scoreEl.textContent = "000"; updateHeat();
+    running = true; t0 = spawnT = performance.now(); spawn(); spawn();
+    raf = requestAnimationFrame(loop);
+  }
+  $("startBtn").onclick = start;
+})();
+</script>
+</body>
+</html>
