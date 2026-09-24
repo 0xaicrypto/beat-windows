@@ -5,8 +5,16 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 24 Sep 2026 01:28:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 07:39:01 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Deep-reading an Apple Intelligence Report with pccvre</title>
+      <link>https://eclecticlight.co/2026/09/24/deep-reading-an-apple-intelligence-report-with-pccvre/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/09/24/deep-reading-an-apple-intelligence-report-with-pccvre/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Thu, 24 Sep 2026 06:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>[$] LWN.net Weekly Edition for September 24, 2026</title>
       <link>https://lwn.net/Articles/1094840/</link>
@@ -84,7 +92,7 @@
       <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT0lvR1N3OUpVakdkN050RDZGOHM0d0p4eXRwOUt6WTR0SUNSemtUVjZiT0VsZnQ3SW00OG9qaWlmSWtWLThLcU9DMk1HcDFEaFg0QjJPdXhTNzlENm5iTUZ1SE5oTU9ibWU5WG96SnVBSXQzSHpxaWdFaURScFVDb1pzazRzYnU0WWxTZmNpWVZwa2wxYVU3YUI0ZzVEbzdGa2g0Q2ZGQ3A5Sm1mcjc2T0JZTEk0TWZtcWRwWTRZb0JNX2c?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT0lvR1N3OUpVakdkN050RDZGOHM0d0p4eXRwOUt6WTR0SUNSemtUVjZiT0VsZnQ3SW00OG9qaWlmSWtWLThLcU9DMk1HcDFEaFg0QjJPdXhTNzlENm5iTUZ1SE5oTU9ibWU5WG96SnVBSXQzSHpxaWdFaURScFVDb1pzazRzYnU0WWxTZmNpWVZwa2wxYVU3YUI0ZzVEbzdGa2g0Q2ZGQ3A5Sm1mcjc2T0JZTEk0TWZtcWRwWTRZb0JNX2c?oc=5</guid>
       <category>android</category>
-      <source url="https://news.google.com/">chromeunboxed.com</source>
+      <source url="https://news.google.com/">Chrome Unboxed</source>
       <pubDate>Wed, 23 Sep 2026 17:05:18 GMT</pubDate>
     </item>
     <item>
@@ -325,7 +333,7 @@
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMipgFBVV95cUxPdkk0VTNBTUIzRUQzV3ItTFVEQXhZTllVZ1lGdUFMaEl6bk5vR0FyUlQ5dXNVSFB0ekJpNGZxb1ZXUEw0Yk9lS0h5bk5iMjlfQjNZYUw0ay0tM3VxMnphQmR0dFNZWF93N3puWGF0bXMyQTl6VTJteWJXdkJ6d2N0ZV9keURuVHl6ZndVSk40eXhZZUhYY213eVllTUhsRC1MTGdrdk13?oc=5</guid>
       <category>android</category>
       <source url="https://news.google.com/">PCWorld</source>
-      <pubDate>Tue, 22 Sep 2026 16:35:50 GMT</pubDate>
+      <pubDate>Tue, 22 Sep 2026 16:36:13 GMT</pubDate>
     </item>
     <item>
       <title>Siri AI Class-Action Lawsuit Settlement Website Is Now Live</title>
@@ -374,14 +382,6 @@
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Tue, 22 Sep 2026 06:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Sponsor] Mux: Turn Your Video Into Context</title>
-      <link>https://www.mux.com/?utm_campaign=fireball&amp;utm_source=DF</link>
-      <guid isPermaLink="true">https://www.mux.com/?utm_campaign=fireball&amp;utm_source=DF</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Mon, 21 Sep 2026 23:04:15 GMT</pubDate>
     </item>
     <item>
       <title>What do you actually use a laptop for, and would Googlebook be able to do it? [Poll]</title>

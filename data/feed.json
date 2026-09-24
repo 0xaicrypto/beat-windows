@@ -1,6 +1,14 @@
 {
-  "generated": "2026-09-24T01:28:26.655Z",
+  "generated": "2026-09-24T07:39:01.228Z",
   "items": [
+    {
+      "title": "Deep-reading an Apple Intelligence Report with pccvre",
+      "url": "https://eclecticlight.co/2026/09/24/deep-reading-an-apple-intelligence-report-with-pccvre/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-09-24T06:30:00.000Z"
+    },
     {
       "title": "[$] LWN.net Weekly Edition for September 24, 2026",
       "url": "https://lwn.net/Articles/1094840/",
@@ -76,7 +84,7 @@
     {
       "title": "Our first real look at Googlebook OS in the wild features CapCut, Figma, offline downloads, and games",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT0lvR1N3OUpVakdkN050RDZGOHM0d0p4eXRwOUt6WTR0SUNSemtUVjZiT0VsZnQ3SW00OG9qaWlmSWtWLThLcU9DMk1HcDFEaFg0QjJPdXhTNzlENm5iTUZ1SE5oTU9ibWU5WG96SnVBSXQzSHpxaWdFaURScFVDb1pzazRzYnU0WWxTZmNpWVZwa2wxYVU3YUI0ZzVEbzdGa2g0Q2ZGQ3A5Sm1mcjc2T0JZTEk0TWZtcWRwWTRZb0JNX2c?oc=5",
-      "source": "chromeunboxed.com",
+      "source": "Chrome Unboxed",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-23T17:05:18.000Z"
@@ -319,7 +327,7 @@
       "source": "PCWorld",
       "tag": "android",
       "site": "https://news.google.com/",
-      "date": "2026-09-22T16:35:50.000Z"
+      "date": "2026-09-22T16:36:13.000Z"
     },
     {
       "title": "Siri AI Class-Action Lawsuit Settlement Website Is Now Live",
@@ -368,14 +376,6 @@
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-09-22T06:30:00.000Z"
-    },
-    {
-      "title": "[Sponsor] Mux: Turn Your Video Into Context",
-      "url": "https://www.mux.com/?utm_campaign=fireball&utm_source=DF",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-09-21T23:04:15.000Z"
     },
     {
       "title": "What do you actually use a laptop for, and would Googlebook be able to do it? [Poll]",
