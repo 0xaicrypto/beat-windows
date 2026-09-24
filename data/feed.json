@@ -1,6 +1,38 @@
 {
-  "generated": "2026-09-24T18:27:16.255Z",
+  "generated": "2026-09-24T22:28:31.677Z",
   "items": [
+    {
+      "title": "ReactOS Lands Significant DirectX Stack Update From Wine For Enabling More Games",
+      "url": "https://www.phoronix.com/news/ReactOS-Updated-Wine-DirectX",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-24T21:43:49.000Z"
+    },
+    {
+      "title": "Joanna Stern Interviews Mark Zuckerberg",
+      "url": "https://thenewthings.com/p/exclusive-mark-zuckerberg-interview",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-09-24T20:53:03.000Z"
+    },
+    {
+      "title": "Meta Connect Keynote 2026",
+      "url": "https://www.youtube.com/watch?v=SdKFDIAGF24",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-09-24T20:30:01.000Z"
+    },
+    {
+      "title": "Ubuntu 26.10 Delivers Some Nice Gains For Intel Panther Lake / Framework Laptop 13 Pro",
+      "url": "https://www.phoronix.com/review/ubuntu-2610-panther-lake",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-24T18:46:13.000Z"
+    },
     {
       "title": "F-Droid 2.0: A new chapter for Android freedom",
       "url": "https://lwn.net/Articles/1096444/",
@@ -234,22 +266,6 @@
       "date": "2026-09-23T20:12:16.000Z"
     },
     {
-      "title": "Promotion Reminder For Ad-Free Viewing, Multi-Page Articles On A Single Page",
-      "url": "https://www.phoronix.com/news/September-2026-Phoronix-Ad-Free",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-23T20:00:00.000Z"
-    },
-    {
-      "title": "Lemonade Fixes AMD APU Model Streaming, Drops OpenMOSS ROCm As ~40x Slower Than Vulkan",
-      "url": "https://www.phoronix.com/news/Lemonade-2026.40-RC",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-23T19:41:24.000Z"
-    },
-    {
       "title": "App Store Scam of the Week: ‘Update My Phone & Apps: Guide’ by Tair Olzhasev",
       "url": "https://apps.apple.com/us/app/update-my-phone-apps-guide/id6753936837",
       "source": "Daring Fireball",
@@ -362,25 +378,9 @@
       "date": "2026-09-22T20:43:32.000Z"
     },
     {
-      "title": "Meta’s New Muse AI Agent App Overtakes ChatGPT as Top iPhone App",
-      "url": "https://9to5mac.com/2026/09/18/metas-new-muse-ai-agent-app-overtakes-chatgpt-as-top-iphone-app/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-09-22T20:12:41.000Z"
-    },
-    {
-      "title": "That About Wraps It Up for Stock Mac UI",
-      "url": "https://inessential.com/2026/09/22/that-about-wraps-it-up-for.html",
-      "source": "Lobsters · mac",
-      "tag": "macos",
-      "site": "https://lobste.rs/t/mac",
-      "date": "2026-09-22T19:29:53.000Z"
-    },
-    {
       "title": "Google’s new Googlebook OS is basically Android for laptops",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdkk0VTNBTUIzRUQzV3ItTFVEQXhZTllVZ1lGdUFMaEl6bk5vR0FyUlQ5dXNVSFB0ekJpNGZxb1ZXUEw0Yk9lS0h5bk5iMjlfQjNZYUw0ay0tM3VxMnphQmR0dFNZWF93N3puWGF0bXMyQTl6VTJteWJXdkJ6d2N0ZV9keURuVHl6ZndVSk40eXhZZUhYY213eVllTUhsRC1MTGdrdk13?oc=5",
-      "source": "PCWorld",
+      "source": "pcworld.com",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-22T16:36:13.000Z"
@@ -476,7 +476,7 @@
     {
       "title": "Googlebook OS hands-on: It’s Android, stupid",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoZGxiZHdmNmM5NjVyZlBxeDBSRE9oMzdaM0NVUDlmbUFfbWtzT1Z2d3FmQnItd0kwQnNTaDRodXhyVEVjS1k3NnZTVGxZVzNsY01XSEViTHJocDJwV1A0bWR6ajJySFNi?oc=5",
-      "source": "9to5Google",
+      "source": "9to5google.com",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-21T13:01:00.000Z"

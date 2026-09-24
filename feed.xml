@@ -5,8 +5,40 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 24 Sep 2026 18:27:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 22:28:31 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>ReactOS Lands Significant DirectX Stack Update From Wine For Enabling More Games</title>
+      <link>https://www.phoronix.com/news/ReactOS-Updated-Wine-DirectX</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/ReactOS-Updated-Wine-DirectX</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 24 Sep 2026 21:43:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Joanna Stern Interviews Mark Zuckerberg</title>
+      <link>https://thenewthings.com/p/exclusive-mark-zuckerberg-interview</link>
+      <guid isPermaLink="true">https://thenewthings.com/p/exclusive-mark-zuckerberg-interview</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Thu, 24 Sep 2026 20:53:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Meta Connect Keynote 2026</title>
+      <link>https://www.youtube.com/watch?v=SdKFDIAGF24</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=SdKFDIAGF24</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Thu, 24 Sep 2026 20:30:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ubuntu 26.10 Delivers Some Nice Gains For Intel Panther Lake / Framework Laptop 13 Pro</title>
+      <link>https://www.phoronix.com/review/ubuntu-2610-panther-lake</link>
+      <guid isPermaLink="true">https://www.phoronix.com/review/ubuntu-2610-panther-lake</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 24 Sep 2026 18:46:13 GMT</pubDate>
+    </item>
     <item>
       <title>F-Droid 2.0: A new chapter for Android freedom</title>
       <link>https://lwn.net/Articles/1096444/</link>
@@ -240,22 +272,6 @@
       <pubDate>Wed, 23 Sep 2026 20:12:16 GMT</pubDate>
     </item>
     <item>
-      <title>Promotion Reminder For Ad-Free Viewing, Multi-Page Articles On A Single Page</title>
-      <link>https://www.phoronix.com/news/September-2026-Phoronix-Ad-Free</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/September-2026-Phoronix-Ad-Free</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Wed, 23 Sep 2026 20:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Lemonade Fixes AMD APU Model Streaming, Drops OpenMOSS ROCm As ~40x Slower Than Vulkan</title>
-      <link>https://www.phoronix.com/news/Lemonade-2026.40-RC</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Lemonade-2026.40-RC</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Wed, 23 Sep 2026 19:41:24 GMT</pubDate>
-    </item>
-    <item>
       <title>App Store Scam of the Week: ‘Update My Phone &amp; Apps: Guide’ by Tair Olzhasev</title>
       <link>https://apps.apple.com/us/app/update-my-phone-apps-guide/id6753936837</link>
       <guid isPermaLink="true">https://apps.apple.com/us/app/update-my-phone-apps-guide/id6753936837</guid>
@@ -368,27 +384,11 @@
       <pubDate>Tue, 22 Sep 2026 20:43:32 GMT</pubDate>
     </item>
     <item>
-      <title>Meta’s New Muse AI Agent App Overtakes ChatGPT as Top iPhone App</title>
-      <link>https://9to5mac.com/2026/09/18/metas-new-muse-ai-agent-app-overtakes-chatgpt-as-top-iphone-app/</link>
-      <guid isPermaLink="true">https://9to5mac.com/2026/09/18/metas-new-muse-ai-agent-app-overtakes-chatgpt-as-top-iphone-app/</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Tue, 22 Sep 2026 20:12:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>That About Wraps It Up for Stock Mac UI</title>
-      <link>https://inessential.com/2026/09/22/that-about-wraps-it-up-for.html</link>
-      <guid isPermaLink="true">https://inessential.com/2026/09/22/that-about-wraps-it-up-for.html</guid>
-      <category>macos</category>
-      <source url="https://lobste.rs/t/mac">Lobsters · mac</source>
-      <pubDate>Tue, 22 Sep 2026 19:29:53 GMT</pubDate>
-    </item>
-    <item>
       <title>Google’s new Googlebook OS is basically Android for laptops</title>
       <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxPdkk0VTNBTUIzRUQzV3ItTFVEQXhZTllVZ1lGdUFMaEl6bk5vR0FyUlQ5dXNVSFB0ekJpNGZxb1ZXUEw0Yk9lS0h5bk5iMjlfQjNZYUw0ay0tM3VxMnphQmR0dFNZWF93N3puWGF0bXMyQTl6VTJteWJXdkJ6d2N0ZV9keURuVHl6ZndVSk40eXhZZUhYY213eVllTUhsRC1MTGdrdk13?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMipgFBVV95cUxPdkk0VTNBTUIzRUQzV3ItTFVEQXhZTllVZ1lGdUFMaEl6bk5vR0FyUlQ5dXNVSFB0ekJpNGZxb1ZXUEw0Yk9lS0h5bk5iMjlfQjNZYUw0ay0tM3VxMnphQmR0dFNZWF93N3puWGF0bXMyQTl6VTJteWJXdkJ6d2N0ZV9keURuVHl6ZndVSk40eXhZZUhYY213eVllTUhsRC1MTGdrdk13?oc=5</guid>
       <category>android</category>
-      <source url="https://news.google.com/">PCWorld</source>
+      <source url="https://news.google.com/">pcworld.com</source>
       <pubDate>Tue, 22 Sep 2026 16:36:13 GMT</pubDate>
     </item>
     <item>
