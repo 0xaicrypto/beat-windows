@@ -1,6 +1,22 @@
 {
-  "generated": "2026-09-23T22:21:07.420Z",
+  "generated": "2026-09-24T01:28:26.655Z",
   "items": [
+    {
+      "title": "[$] LWN.net Weekly Edition for September 24, 2026",
+      "url": "https://lwn.net/Articles/1094840/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-09-24T00:22:42.000Z"
+    },
+    {
+      "title": "Changes to App Tracking Transparency in the E.U.",
+      "url": "https://developer.apple.com/app-store/user-privacy-and-data-use/",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-09-23T23:41:46.000Z"
+    },
     {
       "title": "★ The iPhone 4 ‘Antennagate’ Press Conference Q&A — Finally",
       "url": "https://daringfireball.net/2026/09/iphone_4_antennagate_q_and_a",
@@ -56,6 +72,14 @@
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-09-23T17:31:23.000Z"
+    },
+    {
+      "title": "Our first real look at Googlebook OS in the wild features CapCut, Figma, offline downloads, and games",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT0lvR1N3OUpVakdkN050RDZGOHM0d0p4eXRwOUt6WTR0SUNSemtUVjZiT0VsZnQ3SW00OG9qaWlmSWtWLThLcU9DMk1HcDFEaFg0QjJPdXhTNzlENm5iTUZ1SE5oTU9ibWU5WG96SnVBSXQzSHpxaWdFaURScFVDb1pzazRzYnU0WWxTZmNpWVZwa2wxYVU3YUI0ZzVEbzdGa2g0Q2ZGQ3A5Sm1mcjc2T0JZTEk0TWZtcWRwWTRZb0JNX2c?oc=5",
+      "source": "chromeunboxed.com",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-09-23T17:05:18.000Z"
     },
     {
       "title": "[$] Ideas on modernizing the open-source desktop",
@@ -290,14 +314,6 @@
       "date": "2026-09-22T19:23:48.000Z"
     },
     {
-      "title": "Ubuntu Linux Maker Canonical Achieved $345M USD In Revenue For 2025",
-      "url": "https://www.phoronix.com/news/Ubuntu-Canonical-Did-345M-2025",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-22T18:26:13.000Z"
-    },
-    {
       "title": "Google’s new Googlebook OS is basically Android for laptops",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdkk0VTNBTUIzRUQzV3ItTFVEQXhZTllVZ1lGdUFMaEl6bk5vR0FyUlQ5dXNVSFB0ekJpNGZxb1ZXUEw0Yk9lS0h5bk5iMjlfQjNZYUw0ay0tM3VxMnphQmR0dFNZWF93N3puWGF0bXMyQTl6VTJteWJXdkJ6d2N0ZV9keURuVHl6ZndVSk40eXhZZUhYY213eVllTUhsRC1MTGdrdk13?oc=5",
       "source": "PCWorld",
@@ -360,14 +376,6 @@
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-09-21T23:04:15.000Z"
-    },
-    {
-      "title": "Lex Friedman Brings Back Strategery",
-      "url": "https://lexontech.org/strategery-is-back-and-im-the-developer",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-09-21T22:52:44.000Z"
     },
     {
       "title": "What do you actually use a laptop for, and would Googlebook be able to do it? [Poll]",
@@ -450,8 +458,8 @@
       "date": "2026-09-21T13:00:00.000Z"
     },
     {
-      "title": "Googlebooks feel like the first laptops built for Android owners",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcTUwRmlQU09wOTg2VHgweDhVaTBsc2NJUWNxYnhmQXIzNURNakhldzVHSzc2RnlWUnF4d29zVFAwSHEwb2JjWVpodC1PLUxzT3ZELVVsYmNTbWZUdnh6UFBlRVVIYkxOUFpsUGw5czl0Ujh0S2VlREhFLUx3OVFRRGFkRjZ3ellPSFdj?oc=5",
+      "title": "The long dream of the Googlebook",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOM2Rld19kU2ZlQ3ExNXlqampNRTl1V2dWbXpZM0FwOHFsRllsbWxQMWd0Qnk1ekk2ZFZ3eDBpVGV3eXdhbUFvOXRNMUN5enBlSzd5YmFtZm5tZkwxUXI2MG85RHRkTDllUTZ2RzIzWGFSSDNVNjYxbk1MN1dVLTJRcjN0elhFZw?oc=5",
       "source": "The Verge",
       "tag": "android",
       "site": "https://news.google.com/",
@@ -460,7 +468,7 @@
     {
       "title": "Hands-on with Googlebooks — Five models, the new Googlebook OS, and a Mac-style experience for Android users at premium prices",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTUEzZWd0akNEYVVOWjNEWXljc1MzekxWcEhnajJxZElTSmQxVUdFMy1rV2dOLUUza1kwUm9nTUFrRXFaaVZJX0piWlNBcy0yeXF1S3llWHJTWWNMbzhoaXFoWVJtVktHVHBBVDlZQnZmSTVLeDN3NlpwVUJsWXF2UlhHUEpvbDh1a0x6c3E5ZDdBN1ZGcDlEd0xYbmtqeENnX1d6TFVWaGhLdmVWd010SXJ4eENBMTA2LWpnNmJWSjc2MnpXSjFPUmhQVmpmSTdYWXFleUxocktOeUg0TDFUX2tmaG1ic1FmTlllcjJpckU?oc=5",
-      "source": "tomshardware.com",
+      "source": "Tom's Hardware",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-21T13:00:00.000Z"
@@ -469,14 +477,6 @@
       "title": "Googlebook OS: This is Google’s Android-based operating system for notebooks",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTmRZQ3lEZXRmczJPRlFIYnFCaVBlMHM4SVdhTDVHd3FjdUtTLTlCMUdCUlZ0aVdmTjF3Q3UyOHBiVHBobERIMUtBRWxKTGRGQlR5YlVGZGR5MndESFNBQ2hFR0lVWTJXV1dXdlNwNEkzam9WWlAwWmhDNE5RQ1lKMUV2Z2hudmoxc0s0MUd5RG8wQ3dDSkE0QVBVdHBDR0czUkthLWhlM3Y0SUczcUhhODhWMVBfZ1ZILVE?oc=5",
       "source": "heise online",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-09-21T13:00:00.000Z"
-    },
-    {
-      "title": "The long dream of the Googlebook",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOM2Rld19kU2ZlQ3ExNXlqampNRTl1V2dWbXpZM0FwOHFsRllsbWxQMWd0Qnk1ekk2ZFZ3eDBpVGV3eXdhbUFvOXRNMUN5enBlSzd5YmFtZm5tZkwxUXI2MG85RHRkTDllUTZ2RzIzWGFSSDNVNjYxbk1MN1dVLTJRcjN0elhFZw?oc=5",
-      "source": "The Verge",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-21T13:00:00.000Z"

@@ -5,8 +5,24 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Sep 2026 22:21:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 01:28:26 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[$] LWN.net Weekly Edition for September 24, 2026</title>
+      <link>https://lwn.net/Articles/1094840/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1094840/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Thu, 24 Sep 2026 00:22:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Changes to App Tracking Transparency in the E.U.</title>
+      <link>https://developer.apple.com/app-store/user-privacy-and-data-use/</link>
+      <guid isPermaLink="true">https://developer.apple.com/app-store/user-privacy-and-data-use/</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Wed, 23 Sep 2026 23:41:46 GMT</pubDate>
+    </item>
     <item>
       <title>★ The iPhone 4 ‘Antennagate’ Press Conference Q&amp;A — Finally</title>
       <link>https://daringfireball.net/2026/09/iphone_4_antennagate_q_and_a</link>
@@ -62,6 +78,14 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Wed, 23 Sep 2026 17:31:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Our first real look at Googlebook OS in the wild features CapCut, Figma, offline downloads, and games</title>
+      <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT0lvR1N3OUpVakdkN050RDZGOHM0d0p4eXRwOUt6WTR0SUNSemtUVjZiT0VsZnQ3SW00OG9qaWlmSWtWLThLcU9DMk1HcDFEaFg0QjJPdXhTNzlENm5iTUZ1SE5oTU9ibWU5WG96SnVBSXQzSHpxaWdFaURScFVDb1pzazRzYnU0WWxTZmNpWVZwa2wxYVU3YUI0ZzVEbzdGa2g0Q2ZGQ3A5Sm1mcjc2T0JZTEk0TWZtcWRwWTRZb0JNX2c?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT0lvR1N3OUpVakdkN050RDZGOHM0d0p4eXRwOUt6WTR0SUNSemtUVjZiT0VsZnQ3SW00OG9qaWlmSWtWLThLcU9DMk1HcDFEaFg0QjJPdXhTNzlENm5iTUZ1SE5oTU9ibWU5WG96SnVBSXQzSHpxaWdFaURScFVDb1pzazRzYnU0WWxTZmNpWVZwa2wxYVU3YUI0ZzVEbzdGa2g0Q2ZGQ3A5Sm1mcjc2T0JZTEk0TWZtcWRwWTRZb0JNX2c?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">chromeunboxed.com</source>
+      <pubDate>Wed, 23 Sep 2026 17:05:18 GMT</pubDate>
     </item>
     <item>
       <title>[$] Ideas on modernizing the open-source desktop</title>
@@ -296,14 +320,6 @@
       <pubDate>Tue, 22 Sep 2026 19:23:48 GMT</pubDate>
     </item>
     <item>
-      <title>Ubuntu Linux Maker Canonical Achieved $345M USD In Revenue For 2025</title>
-      <link>https://www.phoronix.com/news/Ubuntu-Canonical-Did-345M-2025</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Ubuntu-Canonical-Did-345M-2025</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Tue, 22 Sep 2026 18:26:13 GMT</pubDate>
-    </item>
-    <item>
       <title>Google’s new Googlebook OS is basically Android for laptops</title>
       <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxPdkk0VTNBTUIzRUQzV3ItTFVEQXhZTllVZ1lGdUFMaEl6bk5vR0FyUlQ5dXNVSFB0ekJpNGZxb1ZXUEw0Yk9lS0h5bk5iMjlfQjNZYUw0ay0tM3VxMnphQmR0dFNZWF93N3puWGF0bXMyQTl6VTJteWJXdkJ6d2N0ZV9keURuVHl6ZndVSk40eXhZZUhYY213eVllTUhsRC1MTGdrdk13?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMipgFBVV95cUxPdkk0VTNBTUIzRUQzV3ItTFVEQXhZTllVZ1lGdUFMaEl6bk5vR0FyUlQ5dXNVSFB0ekJpNGZxb1ZXUEw0Yk9lS0h5bk5iMjlfQjNZYUw0ay0tM3VxMnphQmR0dFNZWF93N3puWGF0bXMyQTl6VTJteWJXdkJ6d2N0ZV9keURuVHl6ZndVSk40eXhZZUhYY213eVllTUhsRC1MTGdrdk13?oc=5</guid>
@@ -368,14 +384,6 @@
       <pubDate>Mon, 21 Sep 2026 23:04:15 GMT</pubDate>
     </item>
     <item>
-      <title>Lex Friedman Brings Back Strategery</title>
-      <link>https://lexontech.org/strategery-is-back-and-im-the-developer</link>
-      <guid isPermaLink="true">https://lexontech.org/strategery-is-back-and-im-the-developer</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Mon, 21 Sep 2026 22:52:44 GMT</pubDate>
-    </item>
-    <item>
       <title>What do you actually use a laptop for, and would Googlebook be able to do it? [Poll]</title>
       <link>https://9to5google.com/2026/09/21/googlebook-laptop-poll/</link>
       <guid isPermaLink="true">https://9to5google.com/2026/09/21/googlebook-laptop-poll/</guid>
@@ -398,14 +406,6 @@
       <category>android</category>
       <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
       <pubDate>Mon, 21 Sep 2026 16:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Googlebook: The laptop your Android phone has been waiting for</title>
-      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWFVXakRXTHBpbWJqM0lCdmRVYkJKeWUzYVN4WVF4blZIT1FCaUZWZ2xvYUVGVDZkdGVRbFl0b2l2Q0pnYjVLUDF2ZUJjbURuYkVJUGY3QVZYQkE2dGpKbmpvTWVQYWtDczB6ZGwtUXF4VGJxcjA2cmtwY0EzYzZEQ0FaS3J1dTRVVzQw?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWFVXakRXTHBpbWJqM0lCdmRVYkJKeWUzYVN4WVF4blZIT1FCaUZWZ2xvYUVGVDZkdGVRbFl0b2l2Q0pnYjVLUDF2ZUJjbURuYkVJUGY3QVZYQkE2dGpKbmpvTWVQYWtDczB6ZGwtUXF4VGJxcjA2cmtwY0EzYzZEQ0FaS3J1dTRVVzQw?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">blog.google</source>
-      <pubDate>Mon, 21 Sep 2026 13:08:13 GMT</pubDate>
     </item>
   </channel>
 </rss>
