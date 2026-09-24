@@ -1,6 +1,110 @@
 {
-  "generated": "2026-09-24T13:35:59.858Z",
+  "generated": "2026-09-24T18:27:16.255Z",
   "items": [
+    {
+      "title": "F-Droid 2.0: A new chapter for Android freedom",
+      "url": "https://lwn.net/Articles/1096444/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-09-24T18:01:55.000Z"
+    },
+    {
+      "title": "Android’s Create My Widget ‘app’ detailed on phones, Googlebooks",
+      "url": "https://9to5google.com/2026/09/24/google-create-my-widget-app/",
+      "source": "9to5Google · Googlebook",
+      "tag": "android",
+      "site": "https://9to5google.com/guides/googlebook/",
+      "date": "2026-09-24T17:45:24.000Z"
+    },
+    {
+      "title": "Research into file-notification attacks on Linux",
+      "url": "https://lwn.net/Articles/1096431/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-09-24T17:40:36.000Z"
+    },
+    {
+      "title": "‘Apple Opens Apple Music Hall, a State-of-the-Art Live Music Venue in London’",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-opens-apple-music-hall-a-state-of-the-art-live-music-venue-in-london/",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-09-24T17:29:49.000Z"
+    },
+    {
+      "title": "COSMIC Epoch 1.9 Brings New Image Viewer & On-Screen Keyboard",
+      "url": "https://www.phoronix.com/news/COSMIC-Epoch-1.9-Released",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-24T17:11:51.000Z"
+    },
+    {
+      "title": "Ed Zitron’s AI Prediction Track Record",
+      "url": "https://danluu.com/zitron/",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-09-24T17:10:56.000Z"
+    },
+    {
+      "title": "Copland D11E4, Emulated in Your Browser",
+      "url": "https://www.pagetable.com/300",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-09-24T16:47:16.000Z"
+    },
+    {
+      "title": "AMD Posts GCC Compiler Patches For AVX10V1AUX ISA Support",
+      "url": "https://www.phoronix.com/news/GCC-Patches-AVX10V1AUX",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-24T16:12:57.000Z"
+    },
+    {
+      "title": "The Googlebook has an opportunity to build Android like nothing else [Video]",
+      "url": "https://9to5google.com/2026/09/24/googlebook-android/",
+      "source": "9to5Google · Googlebook",
+      "tag": "android",
+      "site": "https://9to5google.com/guides/googlebook/",
+      "date": "2026-09-24T16:00:00.000Z"
+    },
+    {
+      "title": "[$] Listening to the radio with Rust",
+      "url": "https://lwn.net/Articles/1095721/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-09-24T14:26:30.000Z"
+    },
+    {
+      "title": "The Kernel Report 2026 edition",
+      "url": "https://lwn.net/Articles/1096411/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-09-24T13:57:44.000Z"
+    },
+    {
+      "title": "Fedora Discussion Raises The Idea Of Replacing LibreOffice With Collabora Office",
+      "url": "https://www.phoronix.com/news/Fedora-Discuss-Collabora-Office",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-24T13:39:00.000Z"
+    },
+    {
+      "title": "KDE Plasma 6.8 Beta 2 Released With Union Theming Engine Maturing",
+      "url": "https://www.phoronix.com/news/KDE-Plasma-6.8-Beta-2",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-24T13:27:33.000Z"
+    },
     {
       "title": "Security updates for Thursday",
       "url": "https://lwn.net/Articles/1096407/",
@@ -170,30 +274,6 @@
       "date": "2026-09-23T17:05:18.000Z"
     },
     {
-      "title": "[$] Ideas on modernizing the open-source desktop",
-      "url": "https://lwn.net/Articles/1095425/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-09-23T15:39:30.000Z"
-    },
-    {
-      "title": "Intel Developing Their DXVK-IGDEXT For Improved Linux Gaming On Arc Graphics",
-      "url": "https://www.phoronix.com/news/DXVK-IGDEXT",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-23T14:54:44.000Z"
-    },
-    {
-      "title": "Systemd v262 released",
-      "url": "https://lwn.net/Articles/1096204/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-09-23T14:51:37.000Z"
-    },
-    {
       "title": "Super Intelligence, Indeed",
       "url": "https://bsky.app/profile/atrupar.com/post/3mw4it5l5fd23",
       "source": "Daring Fireball",
@@ -202,52 +282,12 @@
       "date": "2026-09-23T14:22:09.000Z"
     },
     {
-      "title": "Critical security vulnerabilities in the Radicle network protocol",
-      "url": "https://lwn.net/Articles/1096200/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-09-23T14:20:46.000Z"
-    },
-    {
-      "title": "Benchmarking Java Performance Of JDK 8 Through OpenJDK 27",
-      "url": "https://www.phoronix.com/review/java-8-openjdk-27-benchmarks",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-23T14:17:09.000Z"
-    },
-    {
-      "title": "Critical WordPress RCE vulnerability announced",
-      "url": "https://lwn.net/Articles/1096195/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-09-23T13:55:40.000Z"
-    },
-    {
       "title": "Googlebook vs. Chromebook: Everything You Need to Know About the New OS",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOVM1Y2xadjFzaHFyTmdmT1VTMUJ5WWFEQkZUREhpQ2M2d2VMQUJwY2VuUjc2Ty1KYnVhUERId3FfWkZINmZ0YmdCVkZFN1J2Q0k5dXJnb2UyMm5lLTlnMG1QT1NRdGdWUzhkSUJVcndacy11S0Vyc0dBVjB1Nlp6NFJPbzFNZ29iWndnelo5by1MZmlwNHlIR3lGYWtaMVNjRXpNTA?oc=5",
       "source": "Nokiamob",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-23T13:32:08.000Z"
-    },
-    {
-      "title": "Security updates for Wednesday",
-      "url": "https://lwn.net/Articles/1096191/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-09-23T13:20:48.000Z"
-    },
-    {
-      "title": "NTFS-3G Update Brings Many Security Fixes",
-      "url": "https://www.phoronix.com/news/NTFS-3G-2026.9.18",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-23T12:27:01.000Z"
     },
     {
       "title": "Brushstrokes: a summary history",
@@ -338,14 +378,6 @@
       "date": "2026-09-22T19:29:53.000Z"
     },
     {
-      "title": "Xcode 27.2 Now Supports a New JSON Project File Format",
-      "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_2-release-notes",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-09-22T19:25:52.000Z"
-    },
-    {
       "title": "Google’s new Googlebook OS is basically Android for laptops",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdkk0VTNBTUIzRUQzV3ItTFVEQXhZTllVZ1lGdUFMaEl6bk5vR0FyUlQ5dXNVSFB0ekJpNGZxb1ZXUEw0Yk9lS0h5bk5iMjlfQjNZYUw0ay0tM3VxMnphQmR0dFNZWF93N3puWGF0bXMyQTl6VTJteWJXdkJ6d2N0ZV9keURuVHl6ZndVSk40eXhZZUhYY213eVllTUhsRC1MTGdrdk13?oc=5",
       "source": "PCWorld",
@@ -354,28 +386,12 @@
       "date": "2026-09-22T16:36:13.000Z"
     },
     {
-      "title": "Siri AI Class-Action Lawsuit Settlement Website Is Now Live",
-      "url": "https://www.macrumors.com/2026/09/20/siri-ai-settlement-website-now-live/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-09-22T15:44:45.000Z"
-    },
-    {
       "title": "Soylent Googlebook is Android",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBreU9rLV9mNFhmbVNNZlFaWFp4ZkFqY2xtd04zSzZyYVdrTDRkUjNXcUVKeXZfQkFkMk8xVzJZM0Y3SG5NWG52WW8yQTlBalR0b0E?oc=5",
       "source": "spyglass.org",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-22T13:41:32.000Z"
-    },
-    {
-      "title": "Portraits of trees: Willow",
-      "url": "https://eclecticlight.co/2026/09/22/portraits-of-trees-willow/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-09-22T11:30:00.000Z"
     },
     {
       "title": "Googlebooks will live or die on the loyalty of a billion Android users",
@@ -388,7 +404,7 @@
     {
       "title": "Should your next laptop be a Googlebook?",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PYnpVRXotWUUwUEViN1NCVDRkUkZTWG9mZWRfc04zdVUtanJHRVlpT1NoUUN2LUN3NWpRcnhGV29DU3RFOEktVlJHeEtvTTNVbmJxQkQ4Umc4NzRheGZLbDNTdWtSdw?oc=5",
-      "source": "newatlas.com",
+      "source": "New Atlas",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-22T10:24:20.000Z"
@@ -464,22 +480,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-21T13:01:00.000Z"
-    },
-    {
-      "title": "Google fully details Googlebooks: $899+, October launch, & more",
-      "url": "https://9to5google.com/2026/09/21/googlebook-launch/",
-      "source": "9to5Google · Googlebook",
-      "tag": "android",
-      "site": "https://9to5google.com/guides/googlebook/",
-      "date": "2026-09-21T13:00:00.000Z"
-    },
-    {
-      "title": "The long dream of the Googlebook",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOM2Rld19kU2ZlQ3ExNXlqampNRTl1V2dWbXpZM0FwOHFsRllsbWxQMWd0Qnk1ekk2ZFZ3eDBpVGV3eXdhbUFvOXRNMUN5enBlSzd5YmFtZm5tZkwxUXI2MG85RHRkTDllUTZ2RzIzWGFSSDNVNjYxbk1MN1dVLTJRcjN0elhFZw?oc=5",
-      "source": "theverge.com",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-09-21T13:00:00.000Z"
     },
     {
       "title": "The Bikeshed email — PHKs Bikeshed",
@@ -560,14 +560,6 @@
       "tag": "bsd",
       "site": "https://lobste.rs/t/openbsd",
       "date": "2026-08-31T04:10:47.000Z"
-    },
-    {
-      "title": "Run OpenBSD on DigitalOcean for $4/month",
-      "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
-      "source": "Lobsters · openbsd",
-      "tag": "bsd",
-      "site": "https://lobste.rs/t/openbsd",
-      "date": "2026-08-25T16:44:37.000Z"
     }
   ]
 }
