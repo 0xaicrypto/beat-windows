@@ -5,8 +5,80 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 24 Sep 2026 07:39:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 13:35:59 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Security updates for Thursday</title>
+      <link>https://lwn.net/Articles/1096407/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1096407/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Thu, 24 Sep 2026 13:05:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>AlmaLinux Rolls Out New Software/Hardware Certification Portal, Self-Certify App</title>
+      <link>https://www.phoronix.com/news/AlmaLinux-New-Certification</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/AlmaLinux-New-Certification</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 24 Sep 2026 13:02:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Googlebooks will get full GeForce Now support ‘later this year’</title>
+      <link>https://9to5google.com/2026/09/24/nvidia-announces-googlebook-geforce-now-support/</link>
+      <guid isPermaLink="true">https://9to5google.com/2026/09/24/nvidia-announces-googlebook-geforce-now-support/</guid>
+      <category>android</category>
+      <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
+      <pubDate>Thu, 24 Sep 2026 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux Kernel Introducing New Taint Due To Fuzzing Bots Yielding Impractical Bug Reports</title>
+      <link>https://www.phoronix.com/news/Linux-Taint-Forced-Bind</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-Taint-Forced-Bind</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 24 Sep 2026 12:08:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mir 2.30 Released Now With Rust Required, Mir Roadmap Published</title>
+      <link>https://www.phoronix.com/news/Mir-2.30-Released</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Mir-2.30-Released</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 24 Sep 2026 11:51:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Painting a good story: Multiplex peak and decline</title>
+      <link>https://eclecticlight.co/2026/09/24/painting-a-good-story-multiplex-peak-and-decline/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/09/24/painting-a-good-story-multiplex-peak-and-decline/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Thu, 24 Sep 2026 11:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fwupd 2.1.8 Released With New Hardware Support From ASUS, Lenovo &amp; Others</title>
+      <link>https://www.phoronix.com/news/Fwupd-2.1.8-Released</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Fwupd-2.1.8-Released</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 24 Sep 2026 10:23:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>&quot;slab_tiny&quot; Boot Option Proposed For Tiny Linux Systems With Very Limited RAM</title>
+      <link>https://www.phoronix.com/news/Linux-Slab-Tiny-Boot-Option</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-Slab-Tiny-Boot-Option</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 24 Sep 2026 10:10:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux 7.4 DRM Infrastructure Better Supporting HDMI 2.0 With New Helpers</title>
+      <link>https://www.phoronix.com/news/Linux-7.4-DRM-Helpers-HDMI-2.0</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-DRM-Helpers-HDMI-2.0</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 24 Sep 2026 09:49:36 GMT</pubDate>
+    </item>
     <item>
       <title>Deep-reading an Apple Intelligence Report with pccvre</title>
       <link>https://eclecticlight.co/2026/09/24/deep-reading-an-apple-intelligence-report-with-pccvre/</link>
@@ -62,6 +134,14 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Wed, 23 Sep 2026 20:12:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Promotion Reminder For Ad-Free Viewing, Multi-Page Articles On A Single Page</title>
+      <link>https://www.phoronix.com/news/September-2026-Phoronix-Ad-Free</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/September-2026-Phoronix-Ad-Free</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Wed, 23 Sep 2026 20:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Lemonade Fixes AMD APU Model Streaming, Drops OpenMOSS ROCm As ~40x Slower Than Vulkan</title>
@@ -152,6 +232,14 @@
       <pubDate>Wed, 23 Sep 2026 13:55:40 GMT</pubDate>
     </item>
     <item>
+      <title>Googlebook vs. Chromebook: Everything You Need to Know About the New OS</title>
+      <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxQOVM1Y2xadjFzaHFyTmdmT1VTMUJ5WWFEQkZUREhpQ2M2d2VMQUJwY2VuUjc2Ty1KYnVhUERId3FfWkZINmZ0YmdCVkZFN1J2Q0k5dXJnb2UyMm5lLTlnMG1QT1NRdGdWUzhkSUJVcndacy11S0Vyc0dBVjB1Nlp6NFJPbzFNZ29iWndnelo5by1MZmlwNHlIR3lGYWtaMVNjRXpNTA?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMipAFBVV95cUxQOVM1Y2xadjFzaHFyTmdmT1VTMUJ5WWFEQkZUREhpQ2M2d2VMQUJwY2VuUjc2Ty1KYnVhUERId3FfWkZINmZ0YmdCVkZFN1J2Q0k5dXJnb2UyMm5lLTlnMG1QT1NRdGdWUzhkSUJVcndacy11S0Vyc0dBVjB1Nlp6NFJPbzFNZ29iWndnelo5by1MZmlwNHlIR3lGYWtaMVNjRXpNTA?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Nokiamob</source>
+      <pubDate>Wed, 23 Sep 2026 13:32:08 GMT</pubDate>
+    </item>
+    <item>
       <title>Security updates for Wednesday</title>
       <link>https://lwn.net/Articles/1096191/</link>
       <guid isPermaLink="true">https://lwn.net/Articles/1096191/</guid>
@@ -168,52 +256,12 @@
       <pubDate>Wed, 23 Sep 2026 12:27:01 GMT</pubDate>
     </item>
     <item>
-      <title>Qualcomm Posts Open-Source GPU Driver Patches For Adreno 850 One Day After Announcement</title>
-      <link>https://www.phoronix.com/news/Qualcomm-Adreno-850-Open-Source</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Qualcomm-Adreno-850-Open-Source</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Wed, 23 Sep 2026 11:45:48 GMT</pubDate>
-    </item>
-    <item>
       <title>Brushstrokes: a summary history</title>
       <link>https://eclecticlight.co/2026/09/23/brushstrokes-a-summary-history/</link>
       <guid isPermaLink="true">https://eclecticlight.co/2026/09/23/brushstrokes-a-summary-history/</guid>
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Wed, 23 Sep 2026 11:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>The GNOME LLM Policy That I Want</title>
-      <link>https://blogs.gnome.org/alatiera/2026/09/23/the-gnome-llm-policy-that-i-want/</link>
-      <guid isPermaLink="true">https://blogs.gnome.org/alatiera/2026/09/23/the-gnome-llm-policy-that-i-want/</guid>
-      <category>linux</category>
-      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
-      <pubDate>Wed, 23 Sep 2026 10:28:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>AMD Upstreams AVX10_V2_AUX Support Into LLVM Clang 24</title>
-      <link>https://www.phoronix.com/news/LLVM-Clang-AVX10_V2_AUX</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/LLVM-Clang-AVX10_V2_AUX</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Wed, 23 Sep 2026 10:25:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux 7.3 Reverting Logitech Bolt Receiver HID++ After Too Many Bugs Encountered</title>
-      <link>https://www.phoronix.com/news/Linux-Reverting-Logitech-Bolt</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-Reverting-Logitech-Bolt</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Wed, 23 Sep 2026 10:15:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Abandoning Scientific Linux Was a Mistake</title>
-      <link>https://blog.melashri.net/posts/scientific-linux-mistake/</link>
-      <guid isPermaLink="true">https://blog.melashri.net/posts/scientific-linux-mistake/</guid>
-      <category>linux</category>
-      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
-      <pubDate>Wed, 23 Sep 2026 09:53:20 GMT</pubDate>
     </item>
     <item>
       <title>Hello, Googlebook: The complete FAQ on Google’s Android-ChromeOS combo</title>
@@ -246,22 +294,6 @@
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Wed, 23 Sep 2026 06:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Promotion Reminder For Ad-Free Viewing, Multi-Page Articles On A Single Page</title>
-      <link>https://www.phoronix.com/news/September-2026-Phoronix-Ad-Free</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/September-2026-Phoronix-Ad-Free</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Wed, 23 Sep 2026 01:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Open-Source NVIDIA &quot;Nouveau&quot; Driver Sees Patches For HDMI Deep Color Support</title>
-      <link>https://www.phoronix.com/news/Nouveau-Deep-Color-Patches</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Nouveau-Deep-Color-Patches</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Wed, 23 Sep 2026 00:54:21 GMT</pubDate>
     </item>
     <item>
       <title>Meta’s Muse Logomark, Designed by Jessica Hische</title>
@@ -320,14 +352,6 @@
       <pubDate>Tue, 22 Sep 2026 19:25:52 GMT</pubDate>
     </item>
     <item>
-      <title>Linux 7.2 vs. Linux 7.3 Shows A Few Improvements With AMD Strix Halo</title>
-      <link>https://www.phoronix.com/news/Linux-7.3-Strix-Halo</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.3-Strix-Halo</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Tue, 22 Sep 2026 19:23:48 GMT</pubDate>
-    </item>
-    <item>
       <title>Google’s new Googlebook OS is basically Android for laptops</title>
       <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxPdkk0VTNBTUIzRUQzV3ItTFVEQXhZTllVZ1lGdUFMaEl6bk5vR0FyUlQ5dXNVSFB0ekJpNGZxb1ZXUEw0Yk9lS0h5bk5iMjlfQjNZYUw0ay0tM3VxMnphQmR0dFNZWF93N3puWGF0bXMyQTl6VTJteWJXdkJ6d2N0ZV9keURuVHl6ZndVSk40eXhZZUhYY213eVllTUhsRC1MTGdrdk13?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMipgFBVV95cUxPdkk0VTNBTUIzRUQzV3ItTFVEQXhZTllVZ1lGdUFMaEl6bk5vR0FyUlQ5dXNVSFB0ekJpNGZxb1ZXUEw0Yk9lS0h5bk5iMjlfQjNZYUw0ay0tM3VxMnphQmR0dFNZWF93N3puWGF0bXMyQTl6VTJteWJXdkJ6d2N0ZV9keURuVHl6ZndVSk40eXhZZUhYY213eVllTUhsRC1MTGdrdk13?oc=5</guid>
@@ -372,16 +396,8 @@
       <link>https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PYnpVRXotWUUwUEViN1NCVDRkUkZTWG9mZWRfc04zdVUtanJHRVlpT1NoUUN2LUN3NWpRcnhGV29DU3RFOEktVlJHeEtvTTNVbmJxQkQ4Umc4NzRheGZLbDNTdWtSdw?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PYnpVRXotWUUwUEViN1NCVDRkUkZTWG9mZWRfc04zdVUtanJHRVlpT1NoUUN2LUN3NWpRcnhGV29DU3RFOEktVlJHeEtvTTNVbmJxQkQ4Umc4NzRheGZLbDNTdWtSdw?oc=5</guid>
       <category>android</category>
-      <source url="https://news.google.com/">New Atlas</source>
+      <source url="https://news.google.com/">newatlas.com</source>
       <pubDate>Tue, 22 Sep 2026 10:24:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Read an Apple Intelligence Report</title>
-      <link>https://eclecticlight.co/2026/09/22/read-an-apple-intelligence-report/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/09/22/read-an-apple-intelligence-report/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Tue, 22 Sep 2026 06:30:00 GMT</pubDate>
     </item>
     <item>
       <title>What do you actually use a laptop for, and would Googlebook be able to do it? [Poll]</title>
@@ -390,22 +406,6 @@
       <category>android</category>
       <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
       <pubDate>Mon, 21 Sep 2026 20:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google’s new laptop OS is Android, ChromeOS and Linux mashed into one</title>
-      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxNb3UtdTI3VnZWRXRsXzBjYTc3eDZqeFJxTUxBbllseEdtZFNDUUctRDhCNVlMaEpmZVZKdnV6LXpzaUJtSFU3QUR0cnd6dnFGaTdqcHliRGRmOGRhVDNHN3pYQ2dJTnFxM0tYYVp3NUdCdy04c3dNVl9pOWNCRVZ6UFdyRFpJUVVSWFExd0VfaWJjYnJyQnp4TlhKTmVPQTZNSFVPZThzemI5dllqUmhpRkZQZw?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiswFBVV95cUxNb3UtdTI3VnZWRXRsXzBjYTc3eDZqeFJxTUxBbllseEdtZFNDUUctRDhCNVlMaEpmZVZKdnV6LXpzaUJtSFU3QUR0cnd6dnFGaTdqcHliRGRmOGRhVDNHN3pYQ2dJTnFxM0tYYVp3NUdCdy04c3dNVl9pOWNCRVZ6UFdyRFpJUVVSWFExd0VfaWJjYnJyQnp4TlhKTmVPQTZNSFVPZThzemI5dllqUmhpRkZQZw?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Notebookcheck</source>
-      <pubDate>Mon, 21 Sep 2026 17:16:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>MediaTek’s flagship laptop chip is the Dimensity CX C10 Max, debuts in a Lenovo Googlebook</title>
-      <link>https://9to5google.com/2026/09/21/mediatek-googlebook-dimensity-cx-c10-max/</link>
-      <guid isPermaLink="true">https://9to5google.com/2026/09/21/mediatek-googlebook-dimensity-cx-c10-max/</guid>
-      <category>android</category>
-      <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
-      <pubDate>Mon, 21 Sep 2026 16:05:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

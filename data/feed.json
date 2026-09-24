@@ -1,6 +1,78 @@
 {
-  "generated": "2026-09-24T07:39:01.228Z",
+  "generated": "2026-09-24T13:35:59.858Z",
   "items": [
+    {
+      "title": "Security updates for Thursday",
+      "url": "https://lwn.net/Articles/1096407/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-09-24T13:05:18.000Z"
+    },
+    {
+      "title": "AlmaLinux Rolls Out New Software/Hardware Certification Portal, Self-Certify App",
+      "url": "https://www.phoronix.com/news/AlmaLinux-New-Certification",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-24T13:02:47.000Z"
+    },
+    {
+      "title": "Googlebooks will get full GeForce Now support ‘later this year’",
+      "url": "https://9to5google.com/2026/09/24/nvidia-announces-googlebook-geforce-now-support/",
+      "source": "9to5Google · Googlebook",
+      "tag": "android",
+      "site": "https://9to5google.com/guides/googlebook/",
+      "date": "2026-09-24T13:00:00.000Z"
+    },
+    {
+      "title": "Linux Kernel Introducing New Taint Due To Fuzzing Bots Yielding Impractical Bug Reports",
+      "url": "https://www.phoronix.com/news/Linux-Taint-Forced-Bind",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-24T12:08:36.000Z"
+    },
+    {
+      "title": "Mir 2.30 Released Now With Rust Required, Mir Roadmap Published",
+      "url": "https://www.phoronix.com/news/Mir-2.30-Released",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-24T11:51:11.000Z"
+    },
+    {
+      "title": "Painting a good story: Multiplex peak and decline",
+      "url": "https://eclecticlight.co/2026/09/24/painting-a-good-story-multiplex-peak-and-decline/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-09-24T11:30:00.000Z"
+    },
+    {
+      "title": "Fwupd 2.1.8 Released With New Hardware Support From ASUS, Lenovo & Others",
+      "url": "https://www.phoronix.com/news/Fwupd-2.1.8-Released",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-24T10:23:18.000Z"
+    },
+    {
+      "title": "\"slab_tiny\" Boot Option Proposed For Tiny Linux Systems With Very Limited RAM",
+      "url": "https://www.phoronix.com/news/Linux-Slab-Tiny-Boot-Option",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-24T10:10:30.000Z"
+    },
+    {
+      "title": "Linux 7.4 DRM Infrastructure Better Supporting HDMI 2.0 With New Helpers",
+      "url": "https://www.phoronix.com/news/Linux-7.4-DRM-Helpers-HDMI-2.0",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-24T09:49:36.000Z"
+    },
     {
       "title": "Deep-reading an Apple Intelligence Report with pccvre",
       "url": "https://eclecticlight.co/2026/09/24/deep-reading-an-apple-intelligence-report-with-pccvre/",
@@ -56,6 +128,14 @@
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-09-23T20:12:16.000Z"
+    },
+    {
+      "title": "Promotion Reminder For Ad-Free Viewing, Multi-Page Articles On A Single Page",
+      "url": "https://www.phoronix.com/news/September-2026-Phoronix-Ad-Free",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-23T20:00:00.000Z"
     },
     {
       "title": "Lemonade Fixes AMD APU Model Streaming, Drops OpenMOSS ROCm As ~40x Slower Than Vulkan",
@@ -146,6 +226,14 @@
       "date": "2026-09-23T13:55:40.000Z"
     },
     {
+      "title": "Googlebook vs. Chromebook: Everything You Need to Know About the New OS",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOVM1Y2xadjFzaHFyTmdmT1VTMUJ5WWFEQkZUREhpQ2M2d2VMQUJwY2VuUjc2Ty1KYnVhUERId3FfWkZINmZ0YmdCVkZFN1J2Q0k5dXJnb2UyMm5lLTlnMG1QT1NRdGdWUzhkSUJVcndacy11S0Vyc0dBVjB1Nlp6NFJPbzFNZ29iWndnelo5by1MZmlwNHlIR3lGYWtaMVNjRXpNTA?oc=5",
+      "source": "Nokiamob",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-09-23T13:32:08.000Z"
+    },
+    {
       "title": "Security updates for Wednesday",
       "url": "https://lwn.net/Articles/1096191/",
       "source": "LWN",
@@ -162,52 +250,12 @@
       "date": "2026-09-23T12:27:01.000Z"
     },
     {
-      "title": "Qualcomm Posts Open-Source GPU Driver Patches For Adreno 850 One Day After Announcement",
-      "url": "https://www.phoronix.com/news/Qualcomm-Adreno-850-Open-Source",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-23T11:45:48.000Z"
-    },
-    {
       "title": "Brushstrokes: a summary history",
       "url": "https://eclecticlight.co/2026/09/23/brushstrokes-a-summary-history/",
       "source": "Eclectic Light",
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-09-23T11:30:00.000Z"
-    },
-    {
-      "title": "The GNOME LLM Policy That I Want",
-      "url": "https://blogs.gnome.org/alatiera/2026/09/23/the-gnome-llm-policy-that-i-want/",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-09-23T10:28:14.000Z"
-    },
-    {
-      "title": "AMD Upstreams AVX10_V2_AUX Support Into LLVM Clang 24",
-      "url": "https://www.phoronix.com/news/LLVM-Clang-AVX10_V2_AUX",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-23T10:25:58.000Z"
-    },
-    {
-      "title": "Linux 7.3 Reverting Logitech Bolt Receiver HID++ After Too Many Bugs Encountered",
-      "url": "https://www.phoronix.com/news/Linux-Reverting-Logitech-Bolt",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-23T10:15:37.000Z"
-    },
-    {
-      "title": "Abandoning Scientific Linux Was a Mistake",
-      "url": "https://blog.melashri.net/posts/scientific-linux-mistake/",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-09-23T09:53:20.000Z"
     },
     {
       "title": "Hello, Googlebook: The complete FAQ on Google’s Android-ChromeOS combo",
@@ -240,22 +288,6 @@
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-09-23T06:30:00.000Z"
-    },
-    {
-      "title": "Promotion Reminder For Ad-Free Viewing, Multi-Page Articles On A Single Page",
-      "url": "https://www.phoronix.com/news/September-2026-Phoronix-Ad-Free",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-23T01:00:00.000Z"
-    },
-    {
-      "title": "Open-Source NVIDIA \"Nouveau\" Driver Sees Patches For HDMI Deep Color Support",
-      "url": "https://www.phoronix.com/news/Nouveau-Deep-Color-Patches",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-23T00:54:21.000Z"
     },
     {
       "title": "Meta’s Muse Logomark, Designed by Jessica Hische",
@@ -314,14 +346,6 @@
       "date": "2026-09-22T19:25:52.000Z"
     },
     {
-      "title": "Linux 7.2 vs. Linux 7.3 Shows A Few Improvements With AMD Strix Halo",
-      "url": "https://www.phoronix.com/news/Linux-7.3-Strix-Halo",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-22T19:23:48.000Z"
-    },
-    {
       "title": "Google’s new Googlebook OS is basically Android for laptops",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdkk0VTNBTUIzRUQzV3ItTFVEQXhZTllVZ1lGdUFMaEl6bk5vR0FyUlQ5dXNVSFB0ekJpNGZxb1ZXUEw0Yk9lS0h5bk5iMjlfQjNZYUw0ay0tM3VxMnphQmR0dFNZWF93N3puWGF0bXMyQTl6VTJteWJXdkJ6d2N0ZV9keURuVHl6ZndVSk40eXhZZUhYY213eVllTUhsRC1MTGdrdk13?oc=5",
       "source": "PCWorld",
@@ -364,18 +388,10 @@
     {
       "title": "Should your next laptop be a Googlebook?",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PYnpVRXotWUUwUEViN1NCVDRkUkZTWG9mZWRfc04zdVUtanJHRVlpT1NoUUN2LUN3NWpRcnhGV29DU3RFOEktVlJHeEtvTTNVbmJxQkQ4Umc4NzRheGZLbDNTdWtSdw?oc=5",
-      "source": "New Atlas",
+      "source": "newatlas.com",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-22T10:24:20.000Z"
-    },
-    {
-      "title": "Read an Apple Intelligence Report",
-      "url": "https://eclecticlight.co/2026/09/22/read-an-apple-intelligence-report/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-09-22T06:30:00.000Z"
     },
     {
       "title": "What do you actually use a laptop for, and would Googlebook be able to do it? [Poll]",
@@ -460,23 +476,7 @@
     {
       "title": "The long dream of the Googlebook",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOM2Rld19kU2ZlQ3ExNXlqampNRTl1V2dWbXpZM0FwOHFsRllsbWxQMWd0Qnk1ekk2ZFZ3eDBpVGV3eXdhbUFvOXRNMUN5enBlSzd5YmFtZm5tZkwxUXI2MG85RHRkTDllUTZ2RzIzWGFSSDNVNjYxbk1MN1dVLTJRcjN0elhFZw?oc=5",
-      "source": "The Verge",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-09-21T13:00:00.000Z"
-    },
-    {
-      "title": "Hands-on with Googlebooks — Five models, the new Googlebook OS, and a Mac-style experience for Android users at premium prices",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTUEzZWd0akNEYVVOWjNEWXljc1MzekxWcEhnajJxZElTSmQxVUdFMy1rV2dOLUUza1kwUm9nTUFrRXFaaVZJX0piWlNBcy0yeXF1S3llWHJTWWNMbzhoaXFoWVJtVktHVHBBVDlZQnZmSTVLeDN3NlpwVUJsWXF2UlhHUEpvbDh1a0x6c3E5ZDdBN1ZGcDlEd0xYbmtqeENnX1d6TFVWaGhLdmVWd010SXJ4eENBMTA2LWpnNmJWSjc2MnpXSjFPUmhQVmpmSTdYWXFleUxocktOeUg0TDFUX2tmaG1ic1FmTlllcjJpckU?oc=5",
-      "source": "Tom's Hardware",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-09-21T13:00:00.000Z"
-    },
-    {
-      "title": "Googlebook OS: This is Google’s Android-based operating system for notebooks",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTmRZQ3lEZXRmczJPRlFIYnFCaVBlMHM4SVdhTDVHd3FjdUtTLTlCMUdCUlZ0aVdmTjF3Q3UyOHBiVHBobERIMUtBRWxKTGRGQlR5YlVGZGR5MndESFNBQ2hFR0lVWTJXV1dXdlNwNEkzam9WWlAwWmhDNE5RQ1lKMUV2Z2hudmoxc0s0MUd5RG8wQ3dDSkE0QVBVdHBDR0czUkthLWhlM3Y0SUczcUhhODhWMVBfZ1ZILVE?oc=5",
-      "source": "heise online",
+      "source": "theverge.com",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-21T13:00:00.000Z"
@@ -568,14 +568,6 @@
       "tag": "bsd",
       "site": "https://lobste.rs/t/openbsd",
       "date": "2026-08-25T16:44:37.000Z"
-    },
-    {
-      "title": "Migrating from Codeberg Pages to an OpenBSD VPS",
-      "url": "https://nemin.hu/vps/index.html",
-      "source": "Lobsters · openbsd",
-      "tag": "bsd",
-      "site": "https://lobste.rs/t/openbsd",
-      "date": "2026-08-25T10:42:16.000Z"
     }
   ]
 }
