@@ -1,6 +1,94 @@
 {
-  "generated": "2026-09-25T13:53:58.773Z",
+  "generated": "2026-09-25T18:41:35.920Z",
   "items": [
+    {
+      "title": "★ I’ll Wait",
+      "url": "https://daringfireball.net/2026/09/ill_wait",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-09-25T18:16:47.000Z"
+    },
+    {
+      "title": "Regarding the Provenance of Charm Within Meta",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-23/meta-debuts-a-dedicated-palm-sized-muse-charm-device-to-use-ai-on-the-go?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDIwNzg4MCwiZXhwIjoxNzkwODEyNjgwLCJhcnRpY2xlSWQiOiJUTFRUVUxUOU5KTFMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.k7amXXn8zTVQuiTpQIE0Q_IJY9ny_TINEpSrguxIva8&leadSource=article-gifting",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-09-25T17:07:33.000Z"
+    },
+    {
+      "title": "GDB 18.1 Debugger Brings Better Windows Support",
+      "url": "https://www.phoronix.com/news/GNU-Debugger-GDB-18.1",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-25T16:47:52.000Z"
+    },
+    {
+      "title": "Muse Looks Cute, but Looks Are Deceiving",
+      "url": "https://www.inc.com/jason-aten/meta-keeps-apologizing-for-muse-its-explanations-miss-the-point-entirely/91409363",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-09-25T16:38:39.000Z"
+    },
+    {
+      "title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
+      "url": "https://nyaa.sh/reviews/mac-mini-m6-emulation",
+      "source": "Lobsters · mac",
+      "tag": "macos",
+      "site": "https://lobste.rs/t/mac",
+      "date": "2026-09-25T16:28:39.000Z"
+    },
+    {
+      "title": "[$] How KDE got funding to add enterprise features",
+      "url": "https://lwn.net/Articles/1096245/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-09-25T15:59:55.000Z"
+    },
+    {
+      "title": "Redox OS Adds IO_uring-Like API, NUMA & Gets QEMU Working",
+      "url": "https://www.phoronix.com/news/Redox-OS-August-2026",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-25T15:51:38.000Z"
+    },
+    {
+      "title": "Two stable kernels for Friday",
+      "url": "https://lwn.net/Articles/1096818/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-09-25T15:13:25.000Z"
+    },
+    {
+      "title": "A summary from the 2026 Git Contributors' Summit",
+      "url": "https://lwn.net/Articles/1096819/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-09-25T15:12:05.000Z"
+    },
+    {
+      "title": "Approaching A 10 Second Linux Kernel Build",
+      "url": "https://www.phoronix.com/review/near-10-sec-kernel-build",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-25T14:46:26.000Z"
+    },
+    {
+      "title": "I Was Not Blown Away by Eli Tan’s ‘I Was Blown Away’ Review of Meta Muse",
+      "url": "https://www.nytimes.com/2026/09/22/technology/meta-muse-ai-agent.html?unlocked_article_code=1.D1E.Wram.T8Ww85vXKKYU",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-09-25T14:41:29.000Z"
+    },
     {
       "title": "Security updates for Friday",
       "url": "https://lwn.net/Articles/1096637/",
@@ -8,6 +96,14 @@
       "tag": "linux",
       "site": "https://lwn.net/",
       "date": "2026-09-25T13:17:10.000Z"
+    },
+    {
+      "title": "Best Laptops for Android Users in 2026: Googlebook, Galaxy Book and More",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSUjlOMFJHYTBic3Z6azlSS0J2M0EtSHlBLVFiMlozOTRaak9GZ1pvekpNcEhJT1NiMDl0NUtkN2J5djBXaEpmaVZpY19nek5LNG5xQ1c1bTNrb2xIZWlBOS1KeWhkWGNuY1VMYzZFcWtRU3I3cXhRWnhmNmFIVmM?oc=5",
+      "source": "TechRepublic",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-09-25T11:39:36.000Z"
     },
     {
       "title": "American in Paris, the brief paintings of Susan Watkins",
@@ -220,58 +316,10 @@
     {
       "title": "5 Googlebooks Announced for the New Android-Powered Laptop Era",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUUZWUFJZcFBGRVZiMHJMRDIxWjBvOU12LWxIWFRVbV9MNkRaYjI5SkJybW9UMk9pZFdjZXRzbTRpQWh0a1N4UXc3VFFIRGxNWmI5bU9LbFI3Rnh6TFhaVURLTXB0eDBsbk9EaUZpV2dqTHB0cHB6bFktRDE4ZUxCVmxmZWJoU1Br?oc=5",
-      "source": "The Gadgeteer",
+      "source": "the-gadgeteer.com",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-24T14:30:15.000Z"
-    },
-    {
-      "title": "[$] Listening to the radio with Rust",
-      "url": "https://lwn.net/Articles/1095721/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-09-24T14:26:30.000Z"
-    },
-    {
-      "title": "The Kernel Report 2026 edition",
-      "url": "https://lwn.net/Articles/1096411/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-09-24T13:57:44.000Z"
-    },
-    {
-      "title": "Fedora Discussion Raises The Idea Of Replacing LibreOffice With Collabora Office",
-      "url": "https://www.phoronix.com/news/Fedora-Discuss-Collabora-Office",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-24T13:39:00.000Z"
-    },
-    {
-      "title": "KDE Plasma 6.8 Beta 2 Released With Union Theming Engine Maturing",
-      "url": "https://www.phoronix.com/news/KDE-Plasma-6.8-Beta-2",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-24T13:27:33.000Z"
-    },
-    {
-      "title": "Security updates for Thursday",
-      "url": "https://lwn.net/Articles/1096407/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-09-24T13:05:18.000Z"
-    },
-    {
-      "title": "AlmaLinux Rolls Out New Software/Hardware Certification Portal, Self-Certify App",
-      "url": "https://www.phoronix.com/news/AlmaLinux-New-Certification",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-24T13:02:47.000Z"
     },
     {
       "title": "Googlebooks will get full GeForce Now support ‘later this year’",
@@ -346,28 +394,12 @@
       "date": "2026-09-23T17:05:18.000Z"
     },
     {
-      "title": "Super Intelligence, Indeed",
-      "url": "https://bsky.app/profile/atrupar.com/post/3mw4it5l5fd23",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-09-23T14:22:09.000Z"
-    },
-    {
       "title": "Googlebook vs. Chromebook: Everything You Need to Know About the New OS",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOVM1Y2xadjFzaHFyTmdmT1VTMUJ5WWFEQkZUREhpQ2M2d2VMQUJwY2VuUjc2Ty1KYnVhUERId3FfWkZINmZ0YmdCVkZFN1J2Q0k5dXJnb2UyMm5lLTlnMG1QT1NRdGdWUzhkSUJVcndacy11S0Vyc0dBVjB1Nlp6NFJPbzFNZ29iWndnelo5by1MZmlwNHlIR3lGYWtaMVNjRXpNTA?oc=5",
       "source": "Nokiamob",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-23T13:32:08.000Z"
-    },
-    {
-      "title": "Brushstrokes: a summary history",
-      "url": "https://eclecticlight.co/2026/09/23/brushstrokes-a-summary-history/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-09-23T11:30:00.000Z"
     },
     {
       "title": "Hello, Googlebook: The complete FAQ on Google’s Android-ChromeOS combo",
@@ -384,30 +416,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-23T07:17:10.000Z"
-    },
-    {
-      "title": "LogUI 1.1 build 90 fixes a menu glitch in macOS 27",
-      "url": "https://eclecticlight.co/2026/09/23/logui-1-1-build-90-fixes-a-menu-glitch-in-macos-27/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-09-23T07:00:00.000Z"
-    },
-    {
-      "title": "Checking an SSD trims in Golden Gate",
-      "url": "https://eclecticlight.co/2026/09/23/checking-an-ssd-trims-in-golden-gate/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-09-23T06:30:00.000Z"
-    },
-    {
-      "title": "Meta’s Muse Logomark, Designed by Jessica Hische",
-      "url": "https://thedieline.com/jessica-hische-metas-muse-and-the-ethical-landmines-of-design/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-09-22T22:51:09.000Z"
     },
     {
       "title": "Google’s new Googlebook OS is basically Android for laptops",
@@ -436,7 +444,7 @@
     {
       "title": "Should your next laptop be a Googlebook?",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PYnpVRXotWUUwUEViN1NCVDRkUkZTWG9mZWRfc04zdVUtanJHRVlpT1NoUUN2LUN3NWpRcnhGV29DU3RFOEktVlJHeEtvTTNVbmJxQkQ4Umc4NzRheGZLbDNTdWtSdw?oc=5",
-      "source": "newatlas.com",
+      "source": "New Atlas",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-22T10:24:20.000Z"
@@ -480,14 +488,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-21T13:05:00.000Z"
-    },
-    {
-      "title": "Googlebook hands-on: What makes a laptop, a laptop? [Video]",
-      "url": "https://9to5google.com/2026/09/21/googlebook-hands-on-what-makes-a-laptop-a-laptop-video/",
-      "source": "9to5Google · Googlebook",
-      "tag": "android",
-      "site": "https://9to5google.com/guides/googlebook/",
-      "date": "2026-09-21T13:02:00.000Z"
     },
     {
       "title": "The Bikeshed email — PHKs Bikeshed",
