@@ -1,6 +1,62 @@
 {
-  "generated": "2026-09-25T07:55:44.900Z",
+  "generated": "2026-09-25T13:53:58.773Z",
   "items": [
+    {
+      "title": "Security updates for Friday",
+      "url": "https://lwn.net/Articles/1096637/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-09-25T13:17:10.000Z"
+    },
+    {
+      "title": "American in Paris, the brief paintings of Susan Watkins",
+      "url": "https://eclecticlight.co/2026/09/25/american-in-paris-the-brief-paintings-of-susan-watkins/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-09-25T11:30:00.000Z"
+    },
+    {
+      "title": "Patches Posted For Enabling NVMe On All Apple M3 Based SoCs With Linux",
+      "url": "https://www.phoronix.com/news/NVMe-Apple-M3-Linux-Patches",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-25T10:27:51.000Z"
+    },
+    {
+      "title": "AMD Sends Out New Linux Patches Further Enhancing HDMI 2.1 Reliability",
+      "url": "https://www.phoronix.com/news/AMDGPU-HDMI-2.1-Reliability",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-25T10:12:09.000Z"
+    },
+    {
+      "title": "Last Call For The Autumn Special For Ad-Free Viewing & Supporting Linux Hardware Testing",
+      "url": "https://www.phoronix.com/news/Autumn-2026-Special-Final-Call",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-25T10:00:26.000Z"
+    },
+    {
+      "title": "Go's Improving SIMD Support, Platform-Independent SIMD Interface",
+      "url": "https://www.phoronix.com/news/Go-SIMD-2026",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-25T09:50:22.000Z"
+    },
+    {
+      "title": "Samba 4.25 Released With Experimental SMB3 Persistent Handles",
+      "url": "https://www.phoronix.com/news/Samba-4.25-Released",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-25T09:38:43.000Z"
+    },
     {
       "title": "XProtect Remediator 163 doesn’t run",
       "url": "https://eclecticlight.co/2026/09/25/xprotect-remediator-163-doesnt-run/",
@@ -226,22 +282,6 @@
       "date": "2026-09-24T13:00:00.000Z"
     },
     {
-      "title": "Linux Kernel Introducing New Taint Due To Fuzzing Bots Yielding Impractical Bug Reports",
-      "url": "https://www.phoronix.com/news/Linux-Taint-Forced-Bind",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-24T12:08:36.000Z"
-    },
-    {
-      "title": "Mir 2.30 Released Now With Rust Required, Mir Roadmap Published",
-      "url": "https://www.phoronix.com/news/Mir-2.30-Released",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-24T11:51:11.000Z"
-    },
-    {
       "title": "Painting a good story: Multiplex peak and decline",
       "url": "https://eclecticlight.co/2026/09/24/painting-a-good-story-multiplex-peak-and-decline/",
       "source": "Eclectic Light",
@@ -250,44 +290,12 @@
       "date": "2026-09-24T11:30:00.000Z"
     },
     {
-      "title": "Fwupd 2.1.8 Released With New Hardware Support From ASUS, Lenovo & Others",
-      "url": "https://www.phoronix.com/news/Fwupd-2.1.8-Released",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-24T10:23:18.000Z"
-    },
-    {
-      "title": "\"slab_tiny\" Boot Option Proposed For Tiny Linux Systems With Very Limited RAM",
-      "url": "https://www.phoronix.com/news/Linux-Slab-Tiny-Boot-Option",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-24T10:10:30.000Z"
-    },
-    {
-      "title": "Linux 7.4 DRM Infrastructure Better Supporting HDMI 2.0 With New Helpers",
-      "url": "https://www.phoronix.com/news/Linux-7.4-DRM-Helpers-HDMI-2.0",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-24T09:49:36.000Z"
-    },
-    {
       "title": "Deep-reading an Apple Intelligence Report with pccvre",
       "url": "https://eclecticlight.co/2026/09/24/deep-reading-an-apple-intelligence-report-with-pccvre/",
       "source": "Eclectic Light",
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-09-24T06:30:00.000Z"
-    },
-    {
-      "title": "[$] LWN.net Weekly Edition for September 24, 2026",
-      "url": "https://lwn.net/Articles/1094840/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-09-24T00:22:42.000Z"
     },
     {
       "title": "Changes to App Tracking Transparency in the E.U.",
@@ -402,14 +410,6 @@
       "date": "2026-09-22T22:51:09.000Z"
     },
     {
-      "title": "Meta’s New Muse AI Agent Read Jason Aten’s Messages Database",
-      "url": "https://www.inc.com/jason-aten/metas-new-muse-ai-agent-read-my-private-messages-i-never-asked-it-to/91408202",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-09-22T21:26:24.000Z"
-    },
-    {
       "title": "Google’s new Googlebook OS is basically Android for laptops",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdkk0VTNBTUIzRUQzV3ItTFVEQXhZTllVZ1lGdUFMaEl6bk5vR0FyUlQ5dXNVSFB0ekJpNGZxb1ZXUEw0Yk9lS0h5bk5iMjlfQjNZYUw0ay0tM3VxMnphQmR0dFNZWF93N3puWGF0bXMyQTl6VTJteWJXdkJ6d2N0ZV9keURuVHl6ZndVSk40eXhZZUhYY213eVllTUhsRC1MTGdrdk13?oc=5",
       "source": "PCWorld",
@@ -436,7 +436,7 @@
     {
       "title": "Should your next laptop be a Googlebook?",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PYnpVRXotWUUwUEViN1NCVDRkUkZTWG9mZWRfc04zdVUtanJHRVlpT1NoUUN2LUN3NWpRcnhGV29DU3RFOEktVlJHeEtvTTNVbmJxQkQ4Umc4NzRheGZLbDNTdWtSdw?oc=5",
-      "source": "New Atlas",
+      "source": "newatlas.com",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-22T10:24:20.000Z"

@@ -5,8 +5,64 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Sep 2026 07:55:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 13:53:58 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Security updates for Friday</title>
+      <link>https://lwn.net/Articles/1096637/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1096637/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Fri, 25 Sep 2026 13:17:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>American in Paris, the brief paintings of Susan Watkins</title>
+      <link>https://eclecticlight.co/2026/09/25/american-in-paris-the-brief-paintings-of-susan-watkins/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/09/25/american-in-paris-the-brief-paintings-of-susan-watkins/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Fri, 25 Sep 2026 11:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Patches Posted For Enabling NVMe On All Apple M3 Based SoCs With Linux</title>
+      <link>https://www.phoronix.com/news/NVMe-Apple-M3-Linux-Patches</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/NVMe-Apple-M3-Linux-Patches</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 25 Sep 2026 10:27:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMD Sends Out New Linux Patches Further Enhancing HDMI 2.1 Reliability</title>
+      <link>https://www.phoronix.com/news/AMDGPU-HDMI-2.1-Reliability</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/AMDGPU-HDMI-2.1-Reliability</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 25 Sep 2026 10:12:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Last Call For The Autumn Special For Ad-Free Viewing &amp; Supporting Linux Hardware Testing</title>
+      <link>https://www.phoronix.com/news/Autumn-2026-Special-Final-Call</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Autumn-2026-Special-Final-Call</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 25 Sep 2026 10:00:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Go's Improving SIMD Support, Platform-Independent SIMD Interface</title>
+      <link>https://www.phoronix.com/news/Go-SIMD-2026</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Go-SIMD-2026</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 25 Sep 2026 09:50:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Samba 4.25 Released With Experimental SMB3 Persistent Handles</title>
+      <link>https://www.phoronix.com/news/Samba-4.25-Released</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Samba-4.25-Released</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 25 Sep 2026 09:38:43 GMT</pubDate>
+    </item>
     <item>
       <title>XProtect Remediator 163 doesn’t run</title>
       <link>https://eclecticlight.co/2026/09/25/xprotect-remediator-163-doesnt-run/</link>
@@ -232,22 +288,6 @@
       <pubDate>Thu, 24 Sep 2026 13:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Linux Kernel Introducing New Taint Due To Fuzzing Bots Yielding Impractical Bug Reports</title>
-      <link>https://www.phoronix.com/news/Linux-Taint-Forced-Bind</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-Taint-Forced-Bind</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 24 Sep 2026 12:08:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mir 2.30 Released Now With Rust Required, Mir Roadmap Published</title>
-      <link>https://www.phoronix.com/news/Mir-2.30-Released</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Mir-2.30-Released</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 24 Sep 2026 11:51:11 GMT</pubDate>
-    </item>
-    <item>
       <title>Painting a good story: Multiplex peak and decline</title>
       <link>https://eclecticlight.co/2026/09/24/painting-a-good-story-multiplex-peak-and-decline/</link>
       <guid isPermaLink="true">https://eclecticlight.co/2026/09/24/painting-a-good-story-multiplex-peak-and-decline/</guid>
@@ -256,44 +296,12 @@
       <pubDate>Thu, 24 Sep 2026 11:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>Fwupd 2.1.8 Released With New Hardware Support From ASUS, Lenovo &amp; Others</title>
-      <link>https://www.phoronix.com/news/Fwupd-2.1.8-Released</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Fwupd-2.1.8-Released</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 24 Sep 2026 10:23:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>&quot;slab_tiny&quot; Boot Option Proposed For Tiny Linux Systems With Very Limited RAM</title>
-      <link>https://www.phoronix.com/news/Linux-Slab-Tiny-Boot-Option</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-Slab-Tiny-Boot-Option</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 24 Sep 2026 10:10:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux 7.4 DRM Infrastructure Better Supporting HDMI 2.0 With New Helpers</title>
-      <link>https://www.phoronix.com/news/Linux-7.4-DRM-Helpers-HDMI-2.0</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-DRM-Helpers-HDMI-2.0</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 24 Sep 2026 09:49:36 GMT</pubDate>
-    </item>
-    <item>
       <title>Deep-reading an Apple Intelligence Report with pccvre</title>
       <link>https://eclecticlight.co/2026/09/24/deep-reading-an-apple-intelligence-report-with-pccvre/</link>
       <guid isPermaLink="true">https://eclecticlight.co/2026/09/24/deep-reading-an-apple-intelligence-report-with-pccvre/</guid>
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Thu, 24 Sep 2026 06:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[$] LWN.net Weekly Edition for September 24, 2026</title>
-      <link>https://lwn.net/Articles/1094840/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1094840/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Thu, 24 Sep 2026 00:22:42 GMT</pubDate>
     </item>
     <item>
       <title>Changes to App Tracking Transparency in the E.U.</title>
@@ -398,14 +406,6 @@
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Wed, 23 Sep 2026 06:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Meta’s Muse Logomark, Designed by Jessica Hische</title>
-      <link>https://thedieline.com/jessica-hische-metas-muse-and-the-ethical-landmines-of-design/</link>
-      <guid isPermaLink="true">https://thedieline.com/jessica-hische-metas-muse-and-the-ethical-landmines-of-design/</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Tue, 22 Sep 2026 22:51:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
