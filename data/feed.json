@@ -1,6 +1,46 @@
 {
-  "generated": "2026-09-24T22:28:31.677Z",
+  "generated": "2026-09-25T01:35:36.840Z",
   "items": [
+    {
+      "title": "Launching FreeBSD/EC2 desktop AMIs",
+      "url": "https://www.daemonology.net/blog/2026-09-24-Launching-FreeBSD-EC2-desktop-AMIs.html",
+      "source": "Lobsters · freebsd",
+      "tag": "bsd",
+      "site": "https://lobste.rs/t/freebsd",
+      "date": "2026-09-25T01:17:51.000Z"
+    },
+    {
+      "title": "Linux Kernel Developers Consider Adding AGENTS.md To Help Guide AI/LLM Agents",
+      "url": "https://www.phoronix.com/news/Linux-Considers-AGENTS-MD",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-25T00:53:14.000Z"
+    },
+    {
+      "title": "Qualcomm Posts Patches For Enabling GPU Support In Their Snapdragon X2 Mahua SoC",
+      "url": "https://www.phoronix.com/news/Qualcomm-Mahua-GPU-Support",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-25T00:25:01.000Z"
+    },
+    {
+      "title": "After hands-on time with Googlebooks, I understand why Google is excited — and why buyers might hesitate",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5sczhldjFiZG9NT1RjVnJ1S296cUtydF9nYlA4bU5aeDlnYWZuTG9HRHVYY1BWa1JKdE8yZHJvbDdLdkpFWlFLWlBqZndVbnB5dWNESGIzTnM3ZnlLNnVHUGRrelJEck9ZcGxv?oc=5",
+      "source": "MakeUseOf",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-09-25T00:00:00.000Z"
+    },
+    {
+      "title": "Victoria Song on Meta Muse’s Cuteness",
+      "url": "https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IkFlVU9GbXpuZFUiLCJwIjoiL2NvbHVtbi85OTk5OTkvb3B0aW1pemVyLW1ldGEtbXVzZS1haS1jdXRlIiwiZXhwIjoxNzkwNzAxNDAwLCJpYXQiOjE3OTAyNjk0MDB9.chaHCz3wgiI4jn9EzA11I7fHhqQkEmn17aCiXtOBPEU",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-09-24T22:30:24.000Z"
+    },
     {
       "title": "ReactOS Lands Significant DirectX Stack Update From Wine For Enabling More Games",
       "url": "https://www.phoronix.com/news/ReactOS-Updated-Wine-DirectX",
@@ -104,6 +144,14 @@
       "tag": "android",
       "site": "https://9to5google.com/guides/googlebook/",
       "date": "2026-09-24T16:00:00.000Z"
+    },
+    {
+      "title": "5 Googlebooks Announced for the New Android-Powered Laptop Era",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUUZWUFJZcFBGRVZiMHJMRDIxWjBvOU12LWxIWFRVbV9MNkRaYjI5SkJybW9UMk9pZFdjZXRzbTRpQWh0a1N4UXc3VFFIRGxNWmI5bU9LbFI3Rnh6TFhaVURLTXB0eDBsbk9EaUZpV2dqTHB0cHB6bFktRDE4ZUxCVmxmZWJoU1Br?oc=5",
+      "source": "The Gadgeteer",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-09-24T14:30:15.000Z"
     },
     {
       "title": "[$] Listening to the radio with Rust",
@@ -242,22 +290,6 @@
       "date": "2026-09-23T22:15:05.000Z"
     },
     {
-      "title": "Debian Inference Portal Launches To Provide Free AI/LLM Inferencing To Debian Developers",
-      "url": "https://www.phoronix.com/news/Debian-Inference-Portal",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-23T21:08:01.000Z"
-    },
-    {
-      "title": "Qualcomm Talks Up Linux On Snapdragon X2 Laptops",
-      "url": "https://www.phoronix.com/news/Qualcomm-Talks-Up-X2-Linux",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-23T20:49:30.000Z"
-    },
-    {
       "title": "‘Prepare to Ship’ Is a Clever Software Solution That Allows iPhone 18 Pro Max to Ship With a Battery That Would Otherwise Exceed International Shipping Regulations",
       "url": "https://support.apple.com/en-us/127848",
       "source": "Daring Fireball",
@@ -370,17 +402,9 @@
       "date": "2026-09-22T20:51:12.000Z"
     },
     {
-      "title": "Amazon Blocks Meta’s Muse AI Assistant",
-      "url": "https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-new-standoff-over-agentic-shopping/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-09-22T20:43:32.000Z"
-    },
-    {
       "title": "Google’s new Googlebook OS is basically Android for laptops",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdkk0VTNBTUIzRUQzV3ItTFVEQXhZTllVZ1lGdUFMaEl6bk5vR0FyUlQ5dXNVSFB0ekJpNGZxb1ZXUEw0Yk9lS0h5bk5iMjlfQjNZYUw0ay0tM3VxMnphQmR0dFNZWF93N3puWGF0bXMyQTl6VTJteWJXdkJ6d2N0ZV9keURuVHl6ZndVSk40eXhZZUhYY213eVllTUhsRC1MTGdrdk13?oc=5",
-      "source": "pcworld.com",
+      "source": "PCWorld",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-22T16:36:13.000Z"
@@ -404,7 +428,7 @@
     {
       "title": "Should your next laptop be a Googlebook?",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PYnpVRXotWUUwUEViN1NCVDRkUkZTWG9mZWRfc04zdVUtanJHRVlpT1NoUUN2LUN3NWpRcnhGV29DU3RFOEktVlJHeEtvTTNVbmJxQkQ4Umc4NzRheGZLbDNTdWtSdw?oc=5",
-      "source": "New Atlas",
+      "source": "newatlas.com",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-22T10:24:20.000Z"
@@ -464,22 +488,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-21T13:01:17.000Z"
-    },
-    {
-      "title": "Googlebook OS hands-on: It’s Android, stupid",
-      "url": "https://9to5google.com/2026/09/21/googlebook-os-hands-on/",
-      "source": "9to5Google · Googlebook",
-      "tag": "android",
-      "site": "https://9to5google.com/guides/googlebook/",
-      "date": "2026-09-21T13:01:00.000Z"
-    },
-    {
-      "title": "Googlebook OS hands-on: It’s Android, stupid",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoZGxiZHdmNmM5NjVyZlBxeDBSRE9oMzdaM0NVUDlmbUFfbWtzT1Z2d3FmQnItd0kwQnNTaDRodXhyVEVjS1k3NnZTVGxZVzNsY01XSEViTHJocDJwV1A0bWR6ajJySFNi?oc=5",
-      "source": "9to5google.com",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-09-21T13:01:00.000Z"
     },
     {
       "title": "The Bikeshed email — PHKs Bikeshed",

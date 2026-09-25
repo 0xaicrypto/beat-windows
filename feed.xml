@@ -5,8 +5,48 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 24 Sep 2026 22:28:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 01:35:36 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Launching FreeBSD/EC2 desktop AMIs</title>
+      <link>https://www.daemonology.net/blog/2026-09-24-Launching-FreeBSD-EC2-desktop-AMIs.html</link>
+      <guid isPermaLink="true">https://www.daemonology.net/blog/2026-09-24-Launching-FreeBSD-EC2-desktop-AMIs.html</guid>
+      <category>bsd</category>
+      <source url="https://lobste.rs/t/freebsd">Lobsters · freebsd</source>
+      <pubDate>Fri, 25 Sep 2026 01:17:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux Kernel Developers Consider Adding AGENTS.md To Help Guide AI/LLM Agents</title>
+      <link>https://www.phoronix.com/news/Linux-Considers-AGENTS-MD</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-Considers-AGENTS-MD</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 25 Sep 2026 00:53:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qualcomm Posts Patches For Enabling GPU Support In Their Snapdragon X2 Mahua SoC</title>
+      <link>https://www.phoronix.com/news/Qualcomm-Mahua-GPU-Support</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Qualcomm-Mahua-GPU-Support</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 25 Sep 2026 00:25:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>After hands-on time with Googlebooks, I understand why Google is excited — and why buyers might hesitate</title>
+      <link>https://news.google.com/rss/articles/CBMia0FVX3lxTE5sczhldjFiZG9NT1RjVnJ1S296cUtydF9nYlA4bU5aeDlnYWZuTG9HRHVYY1BWa1JKdE8yZHJvbDdLdkpFWlFLWlBqZndVbnB5dWNESGIzTnM3ZnlLNnVHUGRrelJEck9ZcGxv?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMia0FVX3lxTE5sczhldjFiZG9NT1RjVnJ1S296cUtydF9nYlA4bU5aeDlnYWZuTG9HRHVYY1BWa1JKdE8yZHJvbDdLdkpFWlFLWlBqZndVbnB5dWNESGIzTnM3ZnlLNnVHUGRrelJEck9ZcGxv?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">MakeUseOf</source>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Victoria Song on Meta Muse’s Cuteness</title>
+      <link>https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IkFlVU9GbXpuZFUiLCJwIjoiL2NvbHVtbi85OTk5OTkvb3B0aW1pemVyLW1ldGEtbXVzZS1haS1jdXRlIiwiZXhwIjoxNzkwNzAxNDAwLCJpYXQiOjE3OTAyNjk0MDB9.chaHCz3wgiI4jn9EzA11I7fHhqQkEmn17aCiXtOBPEU</link>
+      <guid isPermaLink="true">https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IkFlVU9GbXpuZFUiLCJwIjoiL2NvbHVtbi85OTk5OTkvb3B0aW1pemVyLW1ldGEtbXVzZS1haS1jdXRlIiwiZXhwIjoxNzkwNzAxNDAwLCJpYXQiOjE3OTAyNjk0MDB9.chaHCz3wgiI4jn9EzA11I7fHhqQkEmn17aCiXtOBPEU</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Thu, 24 Sep 2026 22:30:24 GMT</pubDate>
+    </item>
     <item>
       <title>ReactOS Lands Significant DirectX Stack Update From Wine For Enabling More Games</title>
       <link>https://www.phoronix.com/news/ReactOS-Updated-Wine-DirectX</link>
@@ -110,6 +150,14 @@
       <category>android</category>
       <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
       <pubDate>Thu, 24 Sep 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>5 Googlebooks Announced for the New Android-Powered Laptop Era</title>
+      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUUZWUFJZcFBGRVZiMHJMRDIxWjBvOU12LWxIWFRVbV9MNkRaYjI5SkJybW9UMk9pZFdjZXRzbTRpQWh0a1N4UXc3VFFIRGxNWmI5bU9LbFI3Rnh6TFhaVURLTXB0eDBsbk9EaUZpV2dqTHB0cHB6bFktRDE4ZUxCVmxmZWJoU1Br?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUUZWUFJZcFBGRVZiMHJMRDIxWjBvOU12LWxIWFRVbV9MNkRaYjI5SkJybW9UMk9pZFdjZXRzbTRpQWh0a1N4UXc3VFFIRGxNWmI5bU9LbFI3Rnh6TFhaVURLTXB0eDBsbk9EaUZpV2dqTHB0cHB6bFktRDE4ZUxCVmxmZWJoU1Br?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">The Gadgeteer</source>
+      <pubDate>Thu, 24 Sep 2026 14:30:15 GMT</pubDate>
     </item>
     <item>
       <title>[$] Listening to the radio with Rust</title>
@@ -248,22 +296,6 @@
       <pubDate>Wed, 23 Sep 2026 22:15:05 GMT</pubDate>
     </item>
     <item>
-      <title>Debian Inference Portal Launches To Provide Free AI/LLM Inferencing To Debian Developers</title>
-      <link>https://www.phoronix.com/news/Debian-Inference-Portal</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Debian-Inference-Portal</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Wed, 23 Sep 2026 21:08:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Qualcomm Talks Up Linux On Snapdragon X2 Laptops</title>
-      <link>https://www.phoronix.com/news/Qualcomm-Talks-Up-X2-Linux</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Qualcomm-Talks-Up-X2-Linux</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Wed, 23 Sep 2026 20:49:30 GMT</pubDate>
-    </item>
-    <item>
       <title>‘Prepare to Ship’ Is a Clever Software Solution That Allows iPhone 18 Pro Max to Ship With a Battery That Would Otherwise Exceed International Shipping Regulations</title>
       <link>https://support.apple.com/en-us/127848</link>
       <guid isPermaLink="true">https://support.apple.com/en-us/127848</guid>
@@ -374,38 +406,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Tue, 22 Sep 2026 20:51:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Amazon Blocks Meta’s Muse AI Assistant</title>
-      <link>https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-new-standoff-over-agentic-shopping/</link>
-      <guid isPermaLink="true">https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-new-standoff-over-agentic-shopping/</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Tue, 22 Sep 2026 20:43:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google’s new Googlebook OS is basically Android for laptops</title>
-      <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxPdkk0VTNBTUIzRUQzV3ItTFVEQXhZTllVZ1lGdUFMaEl6bk5vR0FyUlQ5dXNVSFB0ekJpNGZxb1ZXUEw0Yk9lS0h5bk5iMjlfQjNZYUw0ay0tM3VxMnphQmR0dFNZWF93N3puWGF0bXMyQTl6VTJteWJXdkJ6d2N0ZV9keURuVHl6ZndVSk40eXhZZUhYY213eVllTUhsRC1MTGdrdk13?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMipgFBVV95cUxPdkk0VTNBTUIzRUQzV3ItTFVEQXhZTllVZ1lGdUFMaEl6bk5vR0FyUlQ5dXNVSFB0ekJpNGZxb1ZXUEw0Yk9lS0h5bk5iMjlfQjNZYUw0ay0tM3VxMnphQmR0dFNZWF93N3puWGF0bXMyQTl6VTJteWJXdkJ6d2N0ZV9keURuVHl6ZndVSk40eXhZZUhYY213eVllTUhsRC1MTGdrdk13?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">pcworld.com</source>
-      <pubDate>Tue, 22 Sep 2026 16:36:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Soylent Googlebook is Android</title>
-      <link>https://news.google.com/rss/articles/CBMiUkFVX3lxTFBreU9rLV9mNFhmbVNNZlFaWFp4ZkFqY2xtd04zSzZyYVdrTDRkUjNXcUVKeXZfQkFkMk8xVzJZM0Y3SG5NWG52WW8yQTlBalR0b0E?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiUkFVX3lxTFBreU9rLV9mNFhmbVNNZlFaWFp4ZkFqY2xtd04zSzZyYVdrTDRkUjNXcUVKeXZfQkFkMk8xVzJZM0Y3SG5NWG52WW8yQTlBalR0b0E?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">spyglass.org</source>
-      <pubDate>Tue, 22 Sep 2026 13:41:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Googlebooks will live or die on the loyalty of a billion Android users</title>
-      <link>https://9to5google.com/2026/09/22/googlebooks-will-live-or-die-on-the-loyalty-of-a-billion-android-users/</link>
-      <guid isPermaLink="true">https://9to5google.com/2026/09/22/googlebooks-will-live-or-die-on-the-loyalty-of-a-billion-android-users/</guid>
-      <category>android</category>
-      <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
-      <pubDate>Tue, 22 Sep 2026 11:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
