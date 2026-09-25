@@ -1,6 +1,14 @@
 {
-  "generated": "2026-09-25T01:35:36.840Z",
+  "generated": "2026-09-25T07:55:44.900Z",
   "items": [
+    {
+      "title": "XProtect Remediator 163 doesn’t run",
+      "url": "https://eclecticlight.co/2026/09/25/xprotect-remediator-163-doesnt-run/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-09-25T06:30:00.000Z"
+    },
     {
       "title": "Launching FreeBSD/EC2 desktop AMIs",
       "url": "https://www.daemonology.net/blog/2026-09-24-Launching-FreeBSD-EC2-desktop-AMIs.html",
@@ -64,6 +72,14 @@
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-09-24T20:30:01.000Z"
+    },
+    {
+      "title": "ASUS Googlebook 14: The First Gemini Intelligence AI Laptop",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTGdVbTNQV2RMZlctX3Y4WVdXQWFla0s5NExldGhYcmZQbXk2dTRSZkU1MDJ5S3RKb0ZzaUJPMFpvcERyMW0yejZBdDRvNjA2VmxJSkFmZlFqZ1JrOVVWcUhCUlBNS3Rjei1McGxrN05NSkxLTXlJMXFFRTFrTVRUNHM4SEM0cWt3eHc?oc=5",
+      "source": "ASUS Pressroom",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-09-24T19:31:00.000Z"
     },
     {
       "title": "Ubuntu 26.10 Delivers Some Nice Gains For Intel Panther Lake / Framework Laptop 13 Pro",
@@ -394,14 +410,6 @@
       "date": "2026-09-22T21:26:24.000Z"
     },
     {
-      "title": "Why Didn’t Google Build Muse?",
-      "url": "https://spyglass.org/why-didnt-google-build-muse/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-09-22T20:51:12.000Z"
-    },
-    {
       "title": "Google’s new Googlebook OS is basically Android for laptops",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdkk0VTNBTUIzRUQzV3ItTFVEQXhZTllVZ1lGdUFMaEl6bk5vR0FyUlQ5dXNVSFB0ekJpNGZxb1ZXUEw0Yk9lS0h5bk5iMjlfQjNZYUw0ay0tM3VxMnphQmR0dFNZWF93N3puWGF0bXMyQTl6VTJteWJXdkJ6d2N0ZV9keURuVHl6ZndVSk40eXhZZUhYY213eVllTUhsRC1MTGdrdk13?oc=5",
       "source": "PCWorld",
@@ -428,7 +436,7 @@
     {
       "title": "Should your next laptop be a Googlebook?",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PYnpVRXotWUUwUEViN1NCVDRkUkZTWG9mZWRfc04zdVUtanJHRVlpT1NoUUN2LUN3NWpRcnhGV29DU3RFOEktVlJHeEtvTTNVbmJxQkQ4Umc4NzRheGZLbDNTdWtSdw?oc=5",
-      "source": "newatlas.com",
+      "source": "New Atlas",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-22T10:24:20.000Z"
@@ -480,14 +488,6 @@
       "tag": "android",
       "site": "https://9to5google.com/guides/googlebook/",
       "date": "2026-09-21T13:02:00.000Z"
-    },
-    {
-      "title": "Googlebook is here, and we went hands-on with the new software in NYC [VIDEO]",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMFowblRhV3hMcXFkQVNYa3U5R2huMUtOdmZweHo3TkhLTVJ0NWdtTXVLbG4zR3ZLUmFyRHhQOG9KTVIwTkRMWGRocVozaVFGZktmT25JanpqNS1UN2FhbG9LdjJhTzQwMVQyUkF5QTg3cHE0X241dUJ2cEh5MDJYa1lnX2tZSjBCNVRubUhGVEt2N3p6MGVhU0wxdlpBcElxVWNJ?oc=5",
-      "source": "Chrome Unboxed",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-09-21T13:01:17.000Z"
     },
     {
       "title": "The Bikeshed email — PHKs Bikeshed",

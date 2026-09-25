@@ -5,8 +5,16 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Sep 2026 01:35:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 07:55:44 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>XProtect Remediator 163 doesn’t run</title>
+      <link>https://eclecticlight.co/2026/09/25/xprotect-remediator-163-doesnt-run/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/09/25/xprotect-remediator-163-doesnt-run/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Fri, 25 Sep 2026 06:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>Launching FreeBSD/EC2 desktop AMIs</title>
       <link>https://www.daemonology.net/blog/2026-09-24-Launching-FreeBSD-EC2-desktop-AMIs.html</link>
@@ -70,6 +78,14 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Thu, 24 Sep 2026 20:30:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>ASUS Googlebook 14: The First Gemini Intelligence AI Laptop</title>
+      <link>https://news.google.com/rss/articles/CBMiigFBVV95cUxOTGdVbTNQV2RMZlctX3Y4WVdXQWFla0s5NExldGhYcmZQbXk2dTRSZkU1MDJ5S3RKb0ZzaUJPMFpvcERyMW0yejZBdDRvNjA2VmxJSkFmZlFqZ1JrOVVWcUhCUlBNS3Rjei1McGxrN05NSkxLTXlJMXFFRTFrTVRUNHM4SEM0cWt3eHc?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiigFBVV95cUxOTGdVbTNQV2RMZlctX3Y4WVdXQWFla0s5NExldGhYcmZQbXk2dTRSZkU1MDJ5S3RKb0ZzaUJPMFpvcERyMW0yejZBdDRvNjA2VmxJSkFmZlFqZ1JrOVVWcUhCUlBNS3Rjei1McGxrN05NSkxLTXlJMXFFRTFrTVRUNHM4SEM0cWt3eHc?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">ASUS Pressroom</source>
+      <pubDate>Thu, 24 Sep 2026 19:31:00 GMT</pubDate>
     </item>
     <item>
       <title>Ubuntu 26.10 Delivers Some Nice Gains For Intel Panther Lake / Framework Laptop 13 Pro</title>
@@ -390,22 +406,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Tue, 22 Sep 2026 22:51:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Meta’s New Muse AI Agent Read Jason Aten’s Messages Database</title>
-      <link>https://www.inc.com/jason-aten/metas-new-muse-ai-agent-read-my-private-messages-i-never-asked-it-to/91408202</link>
-      <guid isPermaLink="true">https://www.inc.com/jason-aten/metas-new-muse-ai-agent-read-my-private-messages-i-never-asked-it-to/91408202</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Tue, 22 Sep 2026 21:26:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why Didn’t Google Build Muse?</title>
-      <link>https://spyglass.org/why-didnt-google-build-muse/</link>
-      <guid isPermaLink="true">https://spyglass.org/why-didnt-google-build-muse/</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Tue, 22 Sep 2026 20:51:12 GMT</pubDate>
     </item>
   </channel>
 </rss>
