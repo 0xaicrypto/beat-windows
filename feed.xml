@@ -5,8 +5,80 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 26 Sep 2026 07:49:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 13:10:47 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Tuning a Server for Benchmarking</title>
+      <link>https://david.alvarezrosa.com/posts/tuning-a-server-for-benchmarking/</link>
+      <guid isPermaLink="true">https://david.alvarezrosa.com/posts/tuning-a-server-for-benchmarking/</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Sat, 26 Sep 2026 11:48:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Critics against art: How British landscape painting was killed</title>
+      <link>https://eclecticlight.co/2026/09/26/critics-against-art-how-british-landscape-painting-was-killed/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/09/26/critics-against-art-how-british-landscape-painting-was-killed/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Sat, 26 Sep 2026 11:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI Bug Fixes, Crescent Island Power Brake &amp; Nouveau Fixes For Linux 7.3-rc5 DRM</title>
+      <link>https://www.phoronix.com/news/Linux-7.3-rc5-DRM</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.3-rc5-DRM</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sat, 26 Sep 2026 11:13:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wisp Makes It Easier To Manage Btrfs Snapshots From The GNOME Desktop</title>
+      <link>https://www.phoronix.com/news/GNOME-Wisp-Btrfs-Snapshots</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/GNOME-Wisp-Btrfs-Snapshots</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sat, 26 Sep 2026 10:45:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMDXDNA Linux Driver Being Enhanced For Current NPU3 Hardware</title>
+      <link>https://www.phoronix.com/news/AMDXDNA-NPU3-Enhancements</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/AMDXDNA-NPU3-Enhancements</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sat, 26 Sep 2026 10:33:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>I thought I'd never pay $1,000 for a Googlebook, but Google convinced me otherwise</title>
+      <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxOemtHZEJ1N1JEcmszdVRKV2huRU5qZmlUSmxidjk5RGhrcHN3TDl3alZhS0o0ZUUtMDZHbVFOQkgtbVBHU0lQZXp1STMwQlhNM19OdUJSbF9EVll4NHRsRDJSQi1BV3VMU3BSSjR2MWZXX0QxUmtqV1M5a3g3dUhoX3RmMlBtSDdVaTA5NA?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMijAFBVV95cUxOemtHZEJ1N1JEcmszdVRKV2huRU5qZmlUSmxidjk5RGhrcHN3TDl3alZhS0o0ZUUtMDZHbVFOQkgtbVBHU0lQZXp1STMwQlhNM19OdUJSbF9EVll4NHRsRDJSQi1BV3VMU3BSSjR2MWZXX0QxUmtqV1M5a3g3dUhoX3RmMlBtSDdVaTA5NA?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Android Police</source>
+      <pubDate>Sat, 26 Sep 2026 10:00:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>KDE Plasma 6.8 Continues With Last Minute Tweaks &amp; Fixes</title>
+      <link>https://www.phoronix.com/news/Plasma-6.8-Last-Minute-UI-Fixes</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Plasma-6.8-Last-Minute-UI-Fixes</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sat, 26 Sep 2026 09:56:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Suggestion to replace LibreOffice with Collabora as default on Fedora</title>
+      <link>https://www.phoronix.com/news/Fedora-Discuss-Collabora-Office</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Fedora-Discuss-Collabora-Office</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Sat, 26 Sep 2026 09:13:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Saturday Mac riddles 379</title>
+      <link>https://eclecticlight.co/2026/09/26/saturday-mac-riddles-379/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/09/26/saturday-mac-riddles-379/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Sat, 26 Sep 2026 08:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>AI at work: Privacy, PCC and prompts</title>
       <link>https://eclecticlight.co/2026/09/26/ai-at-work-privacy-pcc-and-prompts/</link>
@@ -264,14 +336,6 @@
       <pubDate>Fri, 25 Sep 2026 00:53:14 GMT</pubDate>
     </item>
     <item>
-      <title>Qualcomm Posts Patches For Enabling GPU Support In Their Snapdragon X2 Mahua SoC</title>
-      <link>https://www.phoronix.com/news/Qualcomm-Mahua-GPU-Support</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Qualcomm-Mahua-GPU-Support</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 25 Sep 2026 00:25:01 GMT</pubDate>
-    </item>
-    <item>
       <title>After hands-on time with Googlebooks, I understand why Google is excited — and why buyers might hesitate</title>
       <link>https://news.google.com/rss/articles/CBMia0FVX3lxTE5sczhldjFiZG9NT1RjVnJ1S296cUtydF9nYlA4bU5aeDlnYWZuTG9HRHVYY1BWa1JKdE8yZHJvbDdLdkpFWlFLWlBqZndVbnB5dWNESGIzTnM3ZnlLNnVHUGRrelJEck9ZcGxv?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMia0FVX3lxTE5sczhldjFiZG9NT1RjVnJ1S296cUtydF9nYlA4bU5aeDlnYWZuTG9HRHVYY1BWa1JKdE8yZHJvbDdLdkpFWlFLWlBqZndVbnB5dWNESGIzTnM3ZnlLNnVHUGRrelJEck9ZcGxv?oc=5</guid>
@@ -286,14 +350,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Thu, 24 Sep 2026 22:30:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>ReactOS Lands Significant DirectX Stack Update From Wine For Enabling More Games</title>
-      <link>https://www.phoronix.com/news/ReactOS-Updated-Wine-DirectX</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/ReactOS-Updated-Wine-DirectX</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 24 Sep 2026 21:43:49 GMT</pubDate>
     </item>
     <item>
       <title>Joanna Stern Interviews Mark Zuckerberg</title>
@@ -320,22 +376,6 @@
       <pubDate>Thu, 24 Sep 2026 19:31:00 GMT</pubDate>
     </item>
     <item>
-      <title>Ubuntu 26.10 Delivers Some Nice Gains For Intel Panther Lake / Framework Laptop 13 Pro</title>
-      <link>https://www.phoronix.com/review/ubuntu-2610-panther-lake</link>
-      <guid isPermaLink="true">https://www.phoronix.com/review/ubuntu-2610-panther-lake</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 24 Sep 2026 18:46:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>F-Droid 2.0: A new chapter for Android freedom</title>
-      <link>https://lwn.net/Articles/1096444/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1096444/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Thu, 24 Sep 2026 18:01:55 GMT</pubDate>
-    </item>
-    <item>
       <title>Android’s Create My Widget ‘app’ detailed on phones, Googlebooks</title>
       <link>https://9to5google.com/2026/09/24/google-create-my-widget-app/</link>
       <guid isPermaLink="true">https://9to5google.com/2026/09/24/google-create-my-widget-app/</guid>
@@ -344,28 +384,12 @@
       <pubDate>Thu, 24 Sep 2026 17:45:24 GMT</pubDate>
     </item>
     <item>
-      <title>Research into file-notification attacks on Linux</title>
-      <link>https://lwn.net/Articles/1096431/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1096431/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Thu, 24 Sep 2026 17:40:36 GMT</pubDate>
-    </item>
-    <item>
       <title>‘Apple Opens Apple Music Hall, a State-of-the-Art Live Music Venue in London’</title>
       <link>https://www.apple.com/newsroom/2026/09/apple-opens-apple-music-hall-a-state-of-the-art-live-music-venue-in-london/</link>
       <guid isPermaLink="true">https://www.apple.com/newsroom/2026/09/apple-opens-apple-music-hall-a-state-of-the-art-live-music-venue-in-london/</guid>
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Thu, 24 Sep 2026 17:29:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>COSMIC Epoch 1.9 Brings New Image Viewer &amp; On-Screen Keyboard</title>
-      <link>https://www.phoronix.com/news/COSMIC-Epoch-1.9-Released</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/COSMIC-Epoch-1.9-Released</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 24 Sep 2026 17:11:51 GMT</pubDate>
     </item>
     <item>
       <title>Ed Zitron’s AI Prediction Track Record</title>
@@ -382,30 +406,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Thu, 24 Sep 2026 16:47:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Googlebook has an opportunity to build Android like nothing else [Video]</title>
-      <link>https://9to5google.com/2026/09/24/googlebook-android/</link>
-      <guid isPermaLink="true">https://9to5google.com/2026/09/24/googlebook-android/</guid>
-      <category>android</category>
-      <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
-      <pubDate>Thu, 24 Sep 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>5 Googlebooks Announced for the New Android-Powered Laptop Era</title>
-      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUUZWUFJZcFBGRVZiMHJMRDIxWjBvOU12LWxIWFRVbV9MNkRaYjI5SkJybW9UMk9pZFdjZXRzbTRpQWh0a1N4UXc3VFFIRGxNWmI5bU9LbFI3Rnh6TFhaVURLTXB0eDBsbk9EaUZpV2dqTHB0cHB6bFktRDE4ZUxCVmxmZWJoU1Br?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUUZWUFJZcFBGRVZiMHJMRDIxWjBvOU12LWxIWFRVbV9MNkRaYjI5SkJybW9UMk9pZFdjZXRzbTRpQWh0a1N4UXc3VFFIRGxNWmI5bU9LbFI3Rnh6TFhaVURLTXB0eDBsbk9EaUZpV2dqTHB0cHB6bFktRDE4ZUxCVmxmZWJoU1Br?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">the-gadgeteer.com</source>
-      <pubDate>Thu, 24 Sep 2026 14:30:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Googlebooks will get full GeForce Now support ‘later this year’</title>
-      <link>https://9to5google.com/2026/09/24/nvidia-announces-googlebook-geforce-now-support/</link>
-      <guid isPermaLink="true">https://9to5google.com/2026/09/24/nvidia-announces-googlebook-geforce-now-support/</guid>
-      <category>android</category>
-      <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
-      <pubDate>Thu, 24 Sep 2026 13:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

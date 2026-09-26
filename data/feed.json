@@ -1,6 +1,78 @@
 {
-  "generated": "2026-09-26T07:49:18.754Z",
+  "generated": "2026-09-26T13:10:47.940Z",
   "items": [
+    {
+      "title": "Tuning a Server for Benchmarking",
+      "url": "https://david.alvarezrosa.com/posts/tuning-a-server-for-benchmarking/",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-09-26T11:48:40.000Z"
+    },
+    {
+      "title": "Critics against art: How British landscape painting was killed",
+      "url": "https://eclecticlight.co/2026/09/26/critics-against-art-how-british-landscape-painting-was-killed/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-09-26T11:30:00.000Z"
+    },
+    {
+      "title": "AI Bug Fixes, Crescent Island Power Brake & Nouveau Fixes For Linux 7.3-rc5 DRM",
+      "url": "https://www.phoronix.com/news/Linux-7.3-rc5-DRM",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-26T11:13:16.000Z"
+    },
+    {
+      "title": "Wisp Makes It Easier To Manage Btrfs Snapshots From The GNOME Desktop",
+      "url": "https://www.phoronix.com/news/GNOME-Wisp-Btrfs-Snapshots",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-26T10:45:13.000Z"
+    },
+    {
+      "title": "AMDXDNA Linux Driver Being Enhanced For Current NPU3 Hardware",
+      "url": "https://www.phoronix.com/news/AMDXDNA-NPU3-Enhancements",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-26T10:33:18.000Z"
+    },
+    {
+      "title": "I thought I'd never pay $1,000 for a Googlebook, but Google convinced me otherwise",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOemtHZEJ1N1JEcmszdVRKV2huRU5qZmlUSmxidjk5RGhrcHN3TDl3alZhS0o0ZUUtMDZHbVFOQkgtbVBHU0lQZXp1STMwQlhNM19OdUJSbF9EVll4NHRsRDJSQi1BV3VMU3BSSjR2MWZXX0QxUmtqV1M5a3g3dUhoX3RmMlBtSDdVaTA5NA?oc=5",
+      "source": "Android Police",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-09-26T10:00:10.000Z"
+    },
+    {
+      "title": "KDE Plasma 6.8 Continues With Last Minute Tweaks & Fixes",
+      "url": "https://www.phoronix.com/news/Plasma-6.8-Last-Minute-UI-Fixes",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-26T09:56:52.000Z"
+    },
+    {
+      "title": "Suggestion to replace LibreOffice with Collabora as default on Fedora",
+      "url": "https://www.phoronix.com/news/Fedora-Discuss-Collabora-Office",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-09-26T09:13:15.000Z"
+    },
+    {
+      "title": "Saturday Mac riddles 379",
+      "url": "https://eclecticlight.co/2026/09/26/saturday-mac-riddles-379/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-09-26T08:00:00.000Z"
+    },
     {
       "title": "AI at work: Privacy, PCC and prompts",
       "url": "https://eclecticlight.co/2026/09/26/ai-at-work-privacy-pcc-and-prompts/",
@@ -258,14 +330,6 @@
       "date": "2026-09-25T00:53:14.000Z"
     },
     {
-      "title": "Qualcomm Posts Patches For Enabling GPU Support In Their Snapdragon X2 Mahua SoC",
-      "url": "https://www.phoronix.com/news/Qualcomm-Mahua-GPU-Support",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-25T00:25:01.000Z"
-    },
-    {
       "title": "After hands-on time with Googlebooks, I understand why Google is excited — and why buyers might hesitate",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5sczhldjFiZG9NT1RjVnJ1S296cUtydF9nYlA4bU5aeDlnYWZuTG9HRHVYY1BWa1JKdE8yZHJvbDdLdkpFWlFLWlBqZndVbnB5dWNESGIzTnM3ZnlLNnVHUGRrelJEck9ZcGxv?oc=5",
       "source": "MakeUseOf",
@@ -280,14 +344,6 @@
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-09-24T22:30:24.000Z"
-    },
-    {
-      "title": "ReactOS Lands Significant DirectX Stack Update From Wine For Enabling More Games",
-      "url": "https://www.phoronix.com/news/ReactOS-Updated-Wine-DirectX",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-24T21:43:49.000Z"
     },
     {
       "title": "Joanna Stern Interviews Mark Zuckerberg",
@@ -314,22 +370,6 @@
       "date": "2026-09-24T19:31:00.000Z"
     },
     {
-      "title": "Ubuntu 26.10 Delivers Some Nice Gains For Intel Panther Lake / Framework Laptop 13 Pro",
-      "url": "https://www.phoronix.com/review/ubuntu-2610-panther-lake",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-24T18:46:13.000Z"
-    },
-    {
-      "title": "F-Droid 2.0: A new chapter for Android freedom",
-      "url": "https://lwn.net/Articles/1096444/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-09-24T18:01:55.000Z"
-    },
-    {
       "title": "Android’s Create My Widget ‘app’ detailed on phones, Googlebooks",
       "url": "https://9to5google.com/2026/09/24/google-create-my-widget-app/",
       "source": "9to5Google · Googlebook",
@@ -338,28 +378,12 @@
       "date": "2026-09-24T17:45:24.000Z"
     },
     {
-      "title": "Research into file-notification attacks on Linux",
-      "url": "https://lwn.net/Articles/1096431/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-09-24T17:40:36.000Z"
-    },
-    {
       "title": "‘Apple Opens Apple Music Hall, a State-of-the-Art Live Music Venue in London’",
       "url": "https://www.apple.com/newsroom/2026/09/apple-opens-apple-music-hall-a-state-of-the-art-live-music-venue-in-london/",
       "source": "Daring Fireball",
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-09-24T17:29:49.000Z"
-    },
-    {
-      "title": "COSMIC Epoch 1.9 Brings New Image Viewer & On-Screen Keyboard",
-      "url": "https://www.phoronix.com/news/COSMIC-Epoch-1.9-Released",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-24T17:11:51.000Z"
     },
     {
       "title": "Ed Zitron’s AI Prediction Track Record",
@@ -388,7 +412,7 @@
     {
       "title": "5 Googlebooks Announced for the New Android-Powered Laptop Era",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUUZWUFJZcFBGRVZiMHJMRDIxWjBvOU12LWxIWFRVbV9MNkRaYjI5SkJybW9UMk9pZFdjZXRzbTRpQWh0a1N4UXc3VFFIRGxNWmI5bU9LbFI3Rnh6TFhaVURLTXB0eDBsbk9EaUZpV2dqTHB0cHB6bFktRDE4ZUxCVmxmZWJoU1Br?oc=5",
-      "source": "the-gadgeteer.com",
+      "source": "The Gadgeteer",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-24T14:30:15.000Z"
@@ -400,22 +424,6 @@
       "tag": "android",
       "site": "https://9to5google.com/guides/googlebook/",
       "date": "2026-09-24T13:00:00.000Z"
-    },
-    {
-      "title": "Painting a good story: Multiplex peak and decline",
-      "url": "https://eclecticlight.co/2026/09/24/painting-a-good-story-multiplex-peak-and-decline/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-09-24T11:30:00.000Z"
-    },
-    {
-      "title": "Deep-reading an Apple Intelligence Report with pccvre",
-      "url": "https://eclecticlight.co/2026/09/24/deep-reading-an-apple-intelligence-report-with-pccvre/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-09-24T06:30:00.000Z"
     },
     {
       "title": "Our first real look at Googlebook OS in the wild features CapCut, Figma, offline downloads, and games",
@@ -480,14 +488,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-22T10:24:20.000Z"
-    },
-    {
-      "title": "What do you actually use a laptop for, and would Googlebook be able to do it? [Poll]",
-      "url": "https://9to5google.com/2026/09/21/googlebook-laptop-poll/",
-      "source": "9to5Google · Googlebook",
-      "tag": "android",
-      "site": "https://9to5google.com/guides/googlebook/",
-      "date": "2026-09-21T20:00:00.000Z"
     },
     {
       "title": "The Bikeshed email — PHKs Bikeshed",
