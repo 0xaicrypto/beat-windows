@@ -5,8 +5,56 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 26 Sep 2026 13:10:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 17:15:06 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Microsoft Took the ‘Copilot+ PC’ Brand Out Behind the Shed</title>
+      <link>https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding</link>
+      <guid isPermaLink="true">https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Sat, 26 Sep 2026 16:53:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>&quot;Toolpak&quot; Being Devised By GNOME OS Developers, Akin To Flatpak For Tools</title>
+      <link>https://www.phoronix.com/news/Toolpak</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Toolpak</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sat, 26 Sep 2026 16:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Talk Show: ‘I’m Thinking X, Not X’</title>
+      <link>https://daringfireball.net/thetalkshow/2026/09/25/ep-455</link>
+      <guid isPermaLink="true">https://daringfireball.net/thetalkshow/2026/09/25/ep-455</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Sat, 26 Sep 2026 16:21:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>I wasn't sure about Googlebooks, but after playing with two Snapdragon-powered laptops, I'm actually considering switching</title>
+      <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxQeEVmRHhENUVDYzhOcUFORkNNZ09MRE5wcHpXQUY4cGV3ZGFtX2RoeW1UR3ByQWxfb3ZCTXVlbEdiamNONC0zODVod0dFUFR4NzIwWXBBbTdySUxSdUZiRXNDa0EzUGR6RURlSTlYM1ZkSU1HdkFvM1p4Y2FldHFrSmItdFJ5dmJKNG8tbVJ0SGRodw?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMikgFBVV95cUxQeEVmRHhENUVDYzhOcUFORkNNZ09MRE5wcHpXQUY4cGV3ZGFtX2RoeW1UR3ByQWxfb3ZCTXVlbEdiamNONC0zODVod0dFUFR4NzIwWXBBbTdySUxSdUZiRXNDa0EzUGR6RURlSTlYM1ZkSU1HdkFvM1p4Y2FldHFrSmItdFJ5dmJKNG8tbVJ0SGRodw?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Android Central</source>
+      <pubDate>Sat, 26 Sep 2026 15:08:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>MM Change Slated For Linux 7.4 Yields +22904539.81% In One Metric, More Modest Wins In Others</title>
+      <link>https://www.phoronix.com/news/Linux-7.4-Refill-Sheaves-Barn</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-Refill-Sheaves-Barn</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sat, 26 Sep 2026 15:07:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>GDB 18.1 released</title>
+      <link>https://lwn.net/Articles/1096897/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1096897/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Sat, 26 Sep 2026 15:03:20 GMT</pubDate>
+    </item>
     <item>
       <title>Tuning a Server for Benchmarking</title>
       <link>https://david.alvarezrosa.com/posts/tuning-a-server-for-benchmarking/</link>
@@ -296,22 +344,6 @@
       <pubDate>Fri, 25 Sep 2026 10:00:26 GMT</pubDate>
     </item>
     <item>
-      <title>Go's Improving SIMD Support, Platform-Independent SIMD Interface</title>
-      <link>https://www.phoronix.com/news/Go-SIMD-2026</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Go-SIMD-2026</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 25 Sep 2026 09:50:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Samba 4.25 Released With Experimental SMB3 Persistent Handles</title>
-      <link>https://www.phoronix.com/news/Samba-4.25-Released</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Samba-4.25-Released</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 25 Sep 2026 09:38:43 GMT</pubDate>
-    </item>
-    <item>
       <title>XProtect Remediator 163 doesn’t run</title>
       <link>https://eclecticlight.co/2026/09/25/xprotect-remediator-163-doesnt-run/</link>
       <guid isPermaLink="true">https://eclecticlight.co/2026/09/25/xprotect-remediator-163-doesnt-run/</guid>
@@ -326,14 +358,6 @@
       <category>bsd</category>
       <source url="https://lobste.rs/t/freebsd">Lobsters · freebsd</source>
       <pubDate>Fri, 25 Sep 2026 01:17:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux Kernel Developers Consider Adding AGENTS.md To Help Guide AI/LLM Agents</title>
-      <link>https://www.phoronix.com/news/Linux-Considers-AGENTS-MD</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-Considers-AGENTS-MD</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 25 Sep 2026 00:53:14 GMT</pubDate>
     </item>
     <item>
       <title>After hands-on time with Googlebooks, I understand why Google is excited — and why buyers might hesitate</title>
@@ -382,30 +406,6 @@
       <category>android</category>
       <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
       <pubDate>Thu, 24 Sep 2026 17:45:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>‘Apple Opens Apple Music Hall, a State-of-the-Art Live Music Venue in London’</title>
-      <link>https://www.apple.com/newsroom/2026/09/apple-opens-apple-music-hall-a-state-of-the-art-live-music-venue-in-london/</link>
-      <guid isPermaLink="true">https://www.apple.com/newsroom/2026/09/apple-opens-apple-music-hall-a-state-of-the-art-live-music-venue-in-london/</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Thu, 24 Sep 2026 17:29:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ed Zitron’s AI Prediction Track Record</title>
-      <link>https://danluu.com/zitron/</link>
-      <guid isPermaLink="true">https://danluu.com/zitron/</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Thu, 24 Sep 2026 17:10:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Copland D11E4, Emulated in Your Browser</title>
-      <link>https://www.pagetable.com/300</link>
-      <guid isPermaLink="true">https://www.pagetable.com/300</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Thu, 24 Sep 2026 16:47:16 GMT</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,6 +1,54 @@
 {
-  "generated": "2026-09-26T13:10:47.940Z",
+  "generated": "2026-09-26T17:15:06.460Z",
   "items": [
+    {
+      "title": "Microsoft Took the ‘Copilot+ PC’ Brand Out Behind the Shed",
+      "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-09-26T16:53:14.000Z"
+    },
+    {
+      "title": "\"Toolpak\" Being Devised By GNOME OS Developers, Akin To Flatpak For Tools",
+      "url": "https://www.phoronix.com/news/Toolpak",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-26T16:50:00.000Z"
+    },
+    {
+      "title": "The Talk Show: ‘I’m Thinking X, Not X’",
+      "url": "https://daringfireball.net/thetalkshow/2026/09/25/ep-455",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-09-26T16:21:38.000Z"
+    },
+    {
+      "title": "I wasn't sure about Googlebooks, but after playing with two Snapdragon-powered laptops, I'm actually considering switching",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeEVmRHhENUVDYzhOcUFORkNNZ09MRE5wcHpXQUY4cGV3ZGFtX2RoeW1UR3ByQWxfb3ZCTXVlbEdiamNONC0zODVod0dFUFR4NzIwWXBBbTdySUxSdUZiRXNDa0EzUGR6RURlSTlYM1ZkSU1HdkFvM1p4Y2FldHFrSmItdFJ5dmJKNG8tbVJ0SGRodw?oc=5",
+      "source": "Android Central",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-09-26T15:08:00.000Z"
+    },
+    {
+      "title": "MM Change Slated For Linux 7.4 Yields +22904539.81% In One Metric, More Modest Wins In Others",
+      "url": "https://www.phoronix.com/news/Linux-7.4-Refill-Sheaves-Barn",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-26T15:07:42.000Z"
+    },
+    {
+      "title": "GDB 18.1 released",
+      "url": "https://lwn.net/Articles/1096897/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-09-26T15:03:20.000Z"
+    },
     {
       "title": "Tuning a Server for Benchmarking",
       "url": "https://david.alvarezrosa.com/posts/tuning-a-server-for-benchmarking/",
@@ -290,22 +338,6 @@
       "date": "2026-09-25T10:00:26.000Z"
     },
     {
-      "title": "Go's Improving SIMD Support, Platform-Independent SIMD Interface",
-      "url": "https://www.phoronix.com/news/Go-SIMD-2026",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-25T09:50:22.000Z"
-    },
-    {
-      "title": "Samba 4.25 Released With Experimental SMB3 Persistent Handles",
-      "url": "https://www.phoronix.com/news/Samba-4.25-Released",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-25T09:38:43.000Z"
-    },
-    {
       "title": "XProtect Remediator 163 doesn’t run",
       "url": "https://eclecticlight.co/2026/09/25/xprotect-remediator-163-doesnt-run/",
       "source": "Eclectic Light",
@@ -320,14 +352,6 @@
       "tag": "bsd",
       "site": "https://lobste.rs/t/freebsd",
       "date": "2026-09-25T01:17:51.000Z"
-    },
-    {
-      "title": "Linux Kernel Developers Consider Adding AGENTS.md To Help Guide AI/LLM Agents",
-      "url": "https://www.phoronix.com/news/Linux-Considers-AGENTS-MD",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-25T00:53:14.000Z"
     },
     {
       "title": "After hands-on time with Googlebooks, I understand why Google is excited — and why buyers might hesitate",
@@ -384,22 +408,6 @@
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-09-24T17:29:49.000Z"
-    },
-    {
-      "title": "Ed Zitron’s AI Prediction Track Record",
-      "url": "https://danluu.com/zitron/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-09-24T17:10:56.000Z"
-    },
-    {
-      "title": "Copland D11E4, Emulated in Your Browser",
-      "url": "https://www.pagetable.com/300",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-09-24T16:47:16.000Z"
     },
     {
       "title": "The Googlebook has an opportunity to build Android like nothing else [Video]",
@@ -480,14 +488,6 @@
       "tag": "android",
       "site": "https://9to5google.com/guides/googlebook/",
       "date": "2026-09-22T11:00:00.000Z"
-    },
-    {
-      "title": "Should your next laptop be a Googlebook?",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PYnpVRXotWUUwUEViN1NCVDRkUkZTWG9mZWRfc04zdVUtanJHRVlpT1NoUUN2LUN3NWpRcnhGV29DU3RFOEktVlJHeEtvTTNVbmJxQkQ4Umc4NzRheGZLbDNTdWtSdw?oc=5",
-      "source": "New Atlas",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-09-22T10:24:20.000Z"
     },
     {
       "title": "The Bikeshed email — PHKs Bikeshed",
