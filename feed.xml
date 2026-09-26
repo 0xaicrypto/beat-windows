@@ -5,8 +5,48 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 26 Sep 2026 17:15:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 19:56:23 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Apple’s Other Recent ‘Duo’</title>
+      <link>https://support.apple.com/en-us/111812</link>
+      <guid isPermaLink="true">https://support.apple.com/en-us/111812</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Sat, 26 Sep 2026 19:41:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dissecting House of Apple 2 on modern glibc</title>
+      <link>https://jazho76.github.io/house_of_apple_2/</link>
+      <guid isPermaLink="true">https://jazho76.github.io/house_of_apple_2/</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Sat, 26 Sep 2026 19:31:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>How I Found a $113,337 AF_ALG Linux Local Privilege Escalation Before Copy Fail</title>
+      <link>https://idnsec.com/research/linux-local-privilege-escalation-with-af-alg/</link>
+      <guid isPermaLink="true">https://idnsec.com/research/linux-local-privilege-escalation-with-af-alg/</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Sat, 26 Sep 2026 19:29:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Introducing Toolpak</title>
+      <link>https://blogs.gnome.org/alatiera/2026/09/26/introducing-toolpak/</link>
+      <guid isPermaLink="true">https://blogs.gnome.org/alatiera/2026/09/26/introducing-toolpak/</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Sat, 26 Sep 2026 19:25:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>International Standard Paper Sizes</title>
+      <link>https://www.cl.cam.ac.uk/~mgk25/iso-paper.html</link>
+      <guid isPermaLink="true">https://www.cl.cam.ac.uk/~mgk25/iso-paper.html</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Sat, 26 Sep 2026 18:46:24 GMT</pubDate>
+    </item>
     <item>
       <title>Microsoft Took the ‘Copilot+ PC’ Brand Out Behind the Shed</title>
       <link>https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding</link>
@@ -100,7 +140,7 @@
       <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxOemtHZEJ1N1JEcmszdVRKV2huRU5qZmlUSmxidjk5RGhrcHN3TDl3alZhS0o0ZUUtMDZHbVFOQkgtbVBHU0lQZXp1STMwQlhNM19OdUJSbF9EVll4NHRsRDJSQi1BV3VMU3BSSjR2MWZXX0QxUmtqV1M5a3g3dUhoX3RmMlBtSDdVaTA5NA?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMijAFBVV95cUxOemtHZEJ1N1JEcmszdVRKV2huRU5qZmlUSmxidjk5RGhrcHN3TDl3alZhS0o0ZUUtMDZHbVFOQkgtbVBHU0lQZXp1STMwQlhNM19OdUJSbF9EVll4NHRsRDJSQi1BV3VMU3BSSjR2MWZXX0QxUmtqV1M5a3g3dUhoX3RmMlBtSDdVaTA5NA?oc=5</guid>
       <category>android</category>
-      <source url="https://news.google.com/">Android Police</source>
+      <source url="https://news.google.com/">androidpolice.com</source>
       <pubDate>Sat, 26 Sep 2026 10:00:10 GMT</pubDate>
     </item>
     <item>
@@ -142,6 +182,14 @@
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Sat, 26 Sep 2026 06:19:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Last Call For The Autumn Special For Ad-Free Viewing &amp; Supporting Linux Hardware Testing</title>
+      <link>https://www.phoronix.com/news/Autumn-2026-Special-Final-Call</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Autumn-2026-Special-Final-Call</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sat, 26 Sep 2026 01:00:26 GMT</pubDate>
     </item>
     <item>
       <title>Mr. Choyka Is Apparently Doing Well</title>
@@ -296,14 +344,6 @@
       <pubDate>Fri, 25 Sep 2026 14:41:29 GMT</pubDate>
     </item>
     <item>
-      <title>Security updates for Friday</title>
-      <link>https://lwn.net/Articles/1096637/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1096637/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Fri, 25 Sep 2026 13:17:10 GMT</pubDate>
-    </item>
-    <item>
       <title>Best Laptops for Android Users in 2026: Googlebook, Galaxy Book and More</title>
       <link>https://news.google.com/rss/articles/CBMif0FVX3lxTFBSUjlOMFJHYTBic3Z6azlSS0J2M0EtSHlBLVFiMlozOTRaak9GZ1pvekpNcEhJT1NiMDl0NUtkN2J5djBXaEpmaVZpY19nek5LNG5xQ1c1bTNrb2xIZWlBOS1KeWhkWGNuY1VMYzZFcWtRU3I3cXhRWnhmNmFIVmM?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMif0FVX3lxTFBSUjlOMFJHYTBic3Z6azlSS0J2M0EtSHlBLVFiMlozOTRaak9GZ1pvekpNcEhJT1NiMDl0NUtkN2J5djBXaEpmaVZpY19nek5LNG5xQ1c1bTNrb2xIZWlBOS1KeWhkWGNuY1VMYzZFcWtRU3I3cXhRWnhmNmFIVmM?oc=5</guid>
@@ -318,30 +358,6 @@
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Fri, 25 Sep 2026 11:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Patches Posted For Enabling NVMe On All Apple M3 Based SoCs With Linux</title>
-      <link>https://www.phoronix.com/news/NVMe-Apple-M3-Linux-Patches</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/NVMe-Apple-M3-Linux-Patches</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 25 Sep 2026 10:27:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>AMD Sends Out New Linux Patches Further Enhancing HDMI 2.1 Reliability</title>
-      <link>https://www.phoronix.com/news/AMDGPU-HDMI-2.1-Reliability</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/AMDGPU-HDMI-2.1-Reliability</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 25 Sep 2026 10:12:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Last Call For The Autumn Special For Ad-Free Viewing &amp; Supporting Linux Hardware Testing</title>
-      <link>https://www.phoronix.com/news/Autumn-2026-Special-Final-Call</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Autumn-2026-Special-Final-Call</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 25 Sep 2026 10:00:26 GMT</pubDate>
     </item>
     <item>
       <title>XProtect Remediator 163 doesn’t run</title>
@@ -384,28 +400,12 @@
       <pubDate>Thu, 24 Sep 2026 20:53:03 GMT</pubDate>
     </item>
     <item>
-      <title>Meta Connect Keynote 2026</title>
-      <link>https://www.youtube.com/watch?v=SdKFDIAGF24</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=SdKFDIAGF24</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Thu, 24 Sep 2026 20:30:01 GMT</pubDate>
-    </item>
-    <item>
       <title>ASUS Googlebook 14: The First Gemini Intelligence AI Laptop</title>
       <link>https://news.google.com/rss/articles/CBMiigFBVV95cUxOTGdVbTNQV2RMZlctX3Y4WVdXQWFla0s5NExldGhYcmZQbXk2dTRSZkU1MDJ5S3RKb0ZzaUJPMFpvcERyMW0yejZBdDRvNjA2VmxJSkFmZlFqZ1JrOVVWcUhCUlBNS3Rjei1McGxrN05NSkxLTXlJMXFFRTFrTVRUNHM4SEM0cWt3eHc?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiigFBVV95cUxOTGdVbTNQV2RMZlctX3Y4WVdXQWFla0s5NExldGhYcmZQbXk2dTRSZkU1MDJ5S3RKb0ZzaUJPMFpvcERyMW0yejZBdDRvNjA2VmxJSkFmZlFqZ1JrOVVWcUhCUlBNS3Rjei1McGxrN05NSkxLTXlJMXFFRTFrTVRUNHM4SEM0cWt3eHc?oc=5</guid>
       <category>android</category>
       <source url="https://news.google.com/">ASUS Pressroom</source>
       <pubDate>Thu, 24 Sep 2026 19:31:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Android’s Create My Widget ‘app’ detailed on phones, Googlebooks</title>
-      <link>https://9to5google.com/2026/09/24/google-create-my-widget-app/</link>
-      <guid isPermaLink="true">https://9to5google.com/2026/09/24/google-create-my-widget-app/</guid>
-      <category>android</category>
-      <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
-      <pubDate>Thu, 24 Sep 2026 17:45:24 GMT</pubDate>
     </item>
   </channel>
 </rss>
