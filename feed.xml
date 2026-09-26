@@ -5,8 +5,24 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Sep 2026 22:26:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 01:38:24 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Mr. Choyka Is Apparently Doing Well</title>
+      <link>https://www.usatoday.com/story/sports/golf/2020/02/02/golf-amateur-gary-choyka-sinks-two-holes-one-same-round/4639969002/</link>
+      <guid isPermaLink="true">https://www.usatoday.com/story/sports/golf/2020/02/02/golf-amateur-gary-choyka-sinks-two-holes-one-same-round/4639969002/</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Fri, 25 Sep 2026 23:50:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>New FUTEX Syscalls Back To Being Worked On For Helping Valve's ARM64 Gaming Ambitions</title>
+      <link>https://www.phoronix.com/news/FUTEX-Robust-List2-Syscalls</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/FUTEX-Robust-List2-Syscalls</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 25 Sep 2026 22:42:16 GMT</pubDate>
+    </item>
     <item>
       <title>Googlebook Cheat Sheet: Price, Models, Gemini Features, and Everything to Know</title>
       <link>https://news.google.com/rss/articles/CBMic0FVX3lxTE00QUNlWUFPNDhwTEJpRDFTNGYtd1JzcURqZVNDRUY4RndObXVDWmNpU0pLdl84cWQ4Rm9FbGltUkduSDA4QkRJVjRJQ2QtRnR2VDdQcGdsMnAzbkYzN0l5a1dLU0tWM2w3LW9sU0syMU5tOU0?oc=5</link>
@@ -336,14 +352,6 @@
       <pubDate>Thu, 24 Sep 2026 16:47:16 GMT</pubDate>
     </item>
     <item>
-      <title>AMD Posts GCC Compiler Patches For AVX10V1AUX ISA Support</title>
-      <link>https://www.phoronix.com/news/GCC-Patches-AVX10V1AUX</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/GCC-Patches-AVX10V1AUX</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 24 Sep 2026 16:12:57 GMT</pubDate>
-    </item>
-    <item>
       <title>The Googlebook has an opportunity to build Android like nothing else [Video]</title>
       <link>https://9to5google.com/2026/09/24/googlebook-android/</link>
       <guid isPermaLink="true">https://9to5google.com/2026/09/24/googlebook-android/</guid>
@@ -356,7 +364,7 @@
       <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUUZWUFJZcFBGRVZiMHJMRDIxWjBvOU12LWxIWFRVbV9MNkRaYjI5SkJybW9UMk9pZFdjZXRzbTRpQWh0a1N4UXc3VFFIRGxNWmI5bU9LbFI3Rnh6TFhaVURLTXB0eDBsbk9EaUZpV2dqTHB0cHB6bFktRDE4ZUxCVmxmZWJoU1Br?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUUZWUFJZcFBGRVZiMHJMRDIxWjBvOU12LWxIWFRVbV9MNkRaYjI5SkJybW9UMk9pZFdjZXRzbTRpQWh0a1N4UXc3VFFIRGxNWmI5bU9LbFI3Rnh6TFhaVURLTXB0eDBsbk9EaUZpV2dqTHB0cHB6bFktRDE4ZUxCVmxmZWJoU1Br?oc=5</guid>
       <category>android</category>
-      <source url="https://news.google.com/">the-gadgeteer.com</source>
+      <source url="https://news.google.com/">The Gadgeteer</source>
       <pubDate>Thu, 24 Sep 2026 14:30:15 GMT</pubDate>
     </item>
     <item>
@@ -398,14 +406,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Wed, 23 Sep 2026 22:15:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>‘Prepare to Ship’ Is a Clever Software Solution That Allows iPhone 18 Pro Max to Ship With a Battery That Would Otherwise Exceed International Shipping Regulations</title>
-      <link>https://support.apple.com/en-us/127848</link>
-      <guid isPermaLink="true">https://support.apple.com/en-us/127848</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Wed, 23 Sep 2026 20:12:16 GMT</pubDate>
     </item>
   </channel>
 </rss>

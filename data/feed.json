@@ -1,6 +1,22 @@
 {
-  "generated": "2026-09-25T22:26:45.535Z",
+  "generated": "2026-09-26T01:38:24.870Z",
   "items": [
+    {
+      "title": "Mr. Choyka Is Apparently Doing Well",
+      "url": "https://www.usatoday.com/story/sports/golf/2020/02/02/golf-amateur-gary-choyka-sinks-two-holes-one-same-round/4639969002/",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-09-25T23:50:45.000Z"
+    },
+    {
+      "title": "New FUTEX Syscalls Back To Being Worked On For Helping Valve's ARM64 Gaming Ambitions",
+      "url": "https://www.phoronix.com/news/FUTEX-Robust-List2-Syscalls",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-25T22:42:16.000Z"
+    },
     {
       "title": "Googlebook Cheat Sheet: Price, Models, Gemini Features, and Everything to Know",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE00QUNlWUFPNDhwTEJpRDFTNGYtd1JzcURqZVNDRUY4RndObXVDWmNpU0pLdl84cWQ4Rm9FbGltUkduSDA4QkRJVjRJQ2QtRnR2VDdQcGdsMnAzbkYzN0l5a1dLU0tWM2w3LW9sU0syMU5tOU0?oc=5",
@@ -330,14 +346,6 @@
       "date": "2026-09-24T16:47:16.000Z"
     },
     {
-      "title": "AMD Posts GCC Compiler Patches For AVX10V1AUX ISA Support",
-      "url": "https://www.phoronix.com/news/GCC-Patches-AVX10V1AUX",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-24T16:12:57.000Z"
-    },
-    {
       "title": "The Googlebook has an opportunity to build Android like nothing else [Video]",
       "url": "https://9to5google.com/2026/09/24/googlebook-android/",
       "source": "9to5Google · Googlebook",
@@ -348,7 +356,7 @@
     {
       "title": "5 Googlebooks Announced for the New Android-Powered Laptop Era",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUUZWUFJZcFBGRVZiMHJMRDIxWjBvOU12LWxIWFRVbV9MNkRaYjI5SkJybW9UMk9pZFdjZXRzbTRpQWh0a1N4UXc3VFFIRGxNWmI5bU9LbFI3Rnh6TFhaVURLTXB0eDBsbk9EaUZpV2dqTHB0cHB6bFktRDE4ZUxCVmxmZWJoU1Br?oc=5",
-      "source": "the-gadgeteer.com",
+      "source": "The Gadgeteer",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-24T14:30:15.000Z"
@@ -394,14 +402,6 @@
       "date": "2026-09-23T22:15:05.000Z"
     },
     {
-      "title": "‘Prepare to Ship’ Is a Clever Software Solution That Allows iPhone 18 Pro Max to Ship With a Battery That Would Otherwise Exceed International Shipping Regulations",
-      "url": "https://support.apple.com/en-us/127848",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-09-23T20:12:16.000Z"
-    },
-    {
       "title": "Our first real look at Googlebook OS in the wild features CapCut, Figma, offline downloads, and games",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT0lvR1N3OUpVakdkN050RDZGOHM0d0p4eXRwOUt6WTR0SUNSemtUVjZiT0VsZnQ3SW00OG9qaWlmSWtWLThLcU9DMk1HcDFEaFg0QjJPdXhTNzlENm5iTUZ1SE5oTU9ibWU5WG96SnVBSXQzSHpxaWdFaURScFVDb1pzazRzYnU0WWxTZmNpWVZwa2wxYVU3YUI0ZzVEbzdGa2g0Q2ZGQ3A5Sm1mcjc2T0JZTEk0TWZtcWRwWTRZb0JNX2c?oc=5",
       "source": "Chrome Unboxed",
@@ -436,7 +436,7 @@
     {
       "title": "Google’s new Googlebook OS is basically Android for laptops",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdkk0VTNBTUIzRUQzV3ItTFVEQXhZTllVZ1lGdUFMaEl6bk5vR0FyUlQ5dXNVSFB0ekJpNGZxb1ZXUEw0Yk9lS0h5bk5iMjlfQjNZYUw0ay0tM3VxMnphQmR0dFNZWF93N3puWGF0bXMyQTl6VTJteWJXdkJ6d2N0ZV9keURuVHl6ZndVSk40eXhZZUhYY213eVllTUhsRC1MTGdrdk13?oc=5",
-      "source": "pcworld.com",
+      "source": "PCWorld",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-22T16:36:13.000Z"
