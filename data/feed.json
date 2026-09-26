@@ -1,6 +1,22 @@
 {
-  "generated": "2026-09-26T19:56:23.933Z",
+  "generated": "2026-09-26T22:56:06.419Z",
   "items": [
+    {
+      "title": "Reelizer Returns",
+      "url": "https://www.reelizer.com/",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-09-26T21:08:08.000Z"
+    },
+    {
+      "title": "Alexandr Wang: ‘Why I’m Building Muse’",
+      "url": "https://x.com/alexandr_wang/status/2103551714536439951",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-09-26T20:34:54.000Z"
+    },
     {
       "title": "Apple’s Other Recent ‘Duo’",
       "url": "https://support.apple.com/en-us/111812",
@@ -132,7 +148,7 @@
     {
       "title": "I thought I'd never pay $1,000 for a Googlebook, but Google convinced me otherwise",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOemtHZEJ1N1JEcmszdVRKV2huRU5qZmlUSmxidjk5RGhrcHN3TDl3alZhS0o0ZUUtMDZHbVFOQkgtbVBHU0lQZXp1STMwQlhNM19OdUJSbF9EVll4NHRsRDJSQi1BV3VMU3BSSjR2MWZXX0QxUmtqV1M5a3g3dUhoX3RmMlBtSDdVaTA5NA?oc=5",
-      "source": "androidpolice.com",
+      "source": "Android Police",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-26T10:00:10.000Z"
@@ -228,7 +244,7 @@
     {
       "title": "Googlebook OS: Google manager Kuscher explains the switch to Android",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd1pXYXNBZXdZLWVUYTI4VlhJcmZiell5VktjdXNpcHU3M2RXbXdzRzdNVXpLa0N0N2pmV2M4UlpEUXhPV3FydDJMcnJPRXJ2WlowYlJEb2dEUjgydVd3NG9TVTlNZlBuUkF4RUQweG1zeG5PZkV6aGFpLVZibXVGcTJxaDByaGhJb0FDN0xJMm1Rd1lPblFYand3OEs1S2stTzkyaHJONjRxdncyZGdJ?oc=5",
-      "source": "heise online",
+      "source": "heise.de",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-25T19:22:00.000Z"
@@ -376,22 +392,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-25T00:00:00.000Z"
-    },
-    {
-      "title": "Victoria Song on Meta Muse’s Cuteness",
-      "url": "https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IkFlVU9GbXpuZFUiLCJwIjoiL2NvbHVtbi85OTk5OTkvb3B0aW1pemVyLW1ldGEtbXVzZS1haS1jdXRlIiwiZXhwIjoxNzkwNzAxNDAwLCJpYXQiOjE3OTAyNjk0MDB9.chaHCz3wgiI4jn9EzA11I7fHhqQkEmn17aCiXtOBPEU",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-09-24T22:30:24.000Z"
-    },
-    {
-      "title": "Joanna Stern Interviews Mark Zuckerberg",
-      "url": "https://thenewthings.com/p/exclusive-mark-zuckerberg-interview",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-09-24T20:53:03.000Z"
     },
     {
       "title": "ASUS Googlebook 14: The First Gemini Intelligence AI Laptop",

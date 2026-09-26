@@ -5,8 +5,24 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 26 Sep 2026 19:56:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 22:56:06 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Reelizer Returns</title>
+      <link>https://www.reelizer.com/</link>
+      <guid isPermaLink="true">https://www.reelizer.com/</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Sat, 26 Sep 2026 21:08:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Alexandr Wang: ‘Why I’m Building Muse’</title>
+      <link>https://x.com/alexandr_wang/status/2103551714536439951</link>
+      <guid isPermaLink="true">https://x.com/alexandr_wang/status/2103551714536439951</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Sat, 26 Sep 2026 20:34:54 GMT</pubDate>
+    </item>
     <item>
       <title>Apple’s Other Recent ‘Duo’</title>
       <link>https://support.apple.com/en-us/111812</link>
@@ -140,7 +156,7 @@
       <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxOemtHZEJ1N1JEcmszdVRKV2huRU5qZmlUSmxidjk5RGhrcHN3TDl3alZhS0o0ZUUtMDZHbVFOQkgtbVBHU0lQZXp1STMwQlhNM19OdUJSbF9EVll4NHRsRDJSQi1BV3VMU3BSSjR2MWZXX0QxUmtqV1M5a3g3dUhoX3RmMlBtSDdVaTA5NA?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMijAFBVV95cUxOemtHZEJ1N1JEcmszdVRKV2huRU5qZmlUSmxidjk5RGhrcHN3TDl3alZhS0o0ZUUtMDZHbVFOQkgtbVBHU0lQZXp1STMwQlhNM19OdUJSbF9EVll4NHRsRDJSQi1BV3VMU3BSSjR2MWZXX0QxUmtqV1M5a3g3dUhoX3RmMlBtSDdVaTA5NA?oc=5</guid>
       <category>android</category>
-      <source url="https://news.google.com/">androidpolice.com</source>
+      <source url="https://news.google.com/">Android Police</source>
       <pubDate>Sat, 26 Sep 2026 10:00:10 GMT</pubDate>
     </item>
     <item>
@@ -236,7 +252,7 @@
       <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxPd1pXYXNBZXdZLWVUYTI4VlhJcmZiell5VktjdXNpcHU3M2RXbXdzRzdNVXpLa0N0N2pmV2M4UlpEUXhPV3FydDJMcnJPRXJ2WlowYlJEb2dEUjgydVd3NG9TVTlNZlBuUkF4RUQweG1zeG5PZkV6aGFpLVZibXVGcTJxaDByaGhJb0FDN0xJMm1Rd1lPblFYand3OEs1S2stTzkyaHJONjRxdncyZGdJ?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMirwFBVV95cUxPd1pXYXNBZXdZLWVUYTI4VlhJcmZiell5VktjdXNpcHU3M2RXbXdzRzdNVXpLa0N0N2pmV2M4UlpEUXhPV3FydDJMcnJPRXJ2WlowYlJEb2dEUjgydVd3NG9TVTlNZlBuUkF4RUQweG1zeG5PZkV6aGFpLVZibXVGcTJxaDByaGhJb0FDN0xJMm1Rd1lPblFYand3OEs1S2stTzkyaHJONjRxdncyZGdJ?oc=5</guid>
       <category>android</category>
-      <source url="https://news.google.com/">heise online</source>
+      <source url="https://news.google.com/">heise.de</source>
       <pubDate>Fri, 25 Sep 2026 19:22:00 GMT</pubDate>
     </item>
     <item>
@@ -382,22 +398,6 @@
       <category>android</category>
       <source url="https://news.google.com/">MakeUseOf</source>
       <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Victoria Song on Meta Muse’s Cuteness</title>
-      <link>https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IkFlVU9GbXpuZFUiLCJwIjoiL2NvbHVtbi85OTk5OTkvb3B0aW1pemVyLW1ldGEtbXVzZS1haS1jdXRlIiwiZXhwIjoxNzkwNzAxNDAwLCJpYXQiOjE3OTAyNjk0MDB9.chaHCz3wgiI4jn9EzA11I7fHhqQkEmn17aCiXtOBPEU</link>
-      <guid isPermaLink="true">https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IkFlVU9GbXpuZFUiLCJwIjoiL2NvbHVtbi85OTk5OTkvb3B0aW1pemVyLW1ldGEtbXVzZS1haS1jdXRlIiwiZXhwIjoxNzkwNzAxNDAwLCJpYXQiOjE3OTAyNjk0MDB9.chaHCz3wgiI4jn9EzA11I7fHhqQkEmn17aCiXtOBPEU</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Thu, 24 Sep 2026 22:30:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Joanna Stern Interviews Mark Zuckerberg</title>
-      <link>https://thenewthings.com/p/exclusive-mark-zuckerberg-interview</link>
-      <guid isPermaLink="true">https://thenewthings.com/p/exclusive-mark-zuckerberg-interview</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Thu, 24 Sep 2026 20:53:03 GMT</pubDate>
     </item>
     <item>
       <title>ASUS Googlebook 14: The First Gemini Intelligence AI Laptop</title>
