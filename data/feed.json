@@ -1,6 +1,22 @@
 {
-  "generated": "2026-09-26T01:38:24.870Z",
+  "generated": "2026-09-26T07:49:18.754Z",
   "items": [
+    {
+      "title": "AI at work: Privacy, PCC and prompts",
+      "url": "https://eclecticlight.co/2026/09/26/ai-at-work-privacy-pcc-and-prompts/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-09-26T07:00:00.000Z"
+    },
+    {
+      "title": "Apple has just released an update to XProtect for macOS Sequoia and later",
+      "url": "https://eclecticlight.co/2026/09/26/apple-has-just-released-an-update-to-xprotect-for-macos-sequoia-and-later-2/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-09-26T06:19:58.000Z"
+    },
     {
       "title": "Mr. Choyka Is Apparently Doing Well",
       "url": "https://www.usatoday.com/story/sports/golf/2020/02/02/golf-amateur-gary-choyka-sinks-two-holes-one-same-round/4639969002/",
@@ -20,7 +36,7 @@
     {
       "title": "Googlebook Cheat Sheet: Price, Models, Gemini Features, and Everything to Know",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE00QUNlWUFPNDhwTEJpRDFTNGYtd1JzcURqZVNDRUY4RndObXVDWmNpU0pLdl84cWQ4Rm9FbGltUkduSDA4QkRJVjRJQ2QtRnR2VDdQcGdsMnAzbkYzN0l5a1dLU0tWM2w3LW9sU0syMU5tOU0?oc=5",
-      "source": "TechRepublic",
+      "source": "techrepublic.com",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-25T21:27:43.000Z"
@@ -40,6 +56,22 @@
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-09-25T19:45:44.000Z"
+    },
+    {
+      "title": "Googlebook OS: Google manager Kuscher explains the switch to Android",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd1pXYXNBZXdZLWVUYTI4VlhJcmZiell5VktjdXNpcHU3M2RXbXdzRzdNVXpLa0N0N2pmV2M4UlpEUXhPV3FydDJMcnJPRXJ2WlowYlJEb2dEUjgydVd3NG9TVTlNZlBuUkF4RUQweG1zeG5PZkV6aGFpLVZibXVGcTJxaDByaGhJb0FDN0xJMm1Rd1lPblFYand3OEs1S2stTzkyaHJONjRxdncyZGdJ?oc=5",
+      "source": "heise online",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-09-25T19:22:00.000Z"
+    },
+    {
+      "title": "Android Circuit: Googlebook Questions, OnePlus 16 Appears, Honor X9e Launch",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNclM5SkVKTExKeTFEQk9tU19BN1lFNEdVZnlJZFZ4MjZ0NS1jblJiZ0pfd2dtcHNNYXVaQS1Gc1RMM1hzLXFaSkZMenE5eERZVnEzRVRlbzFiV29WZzRlNWN0RkNsV2FGZTdlcFpNTWZ4MFEyNTFyRnAzNnl5Tm5IYms4NkFaVGNIdXpfV0R0aUgwejNJWXpJLXdaRQ?oc=5",
+      "source": "Currently.com",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-09-25T18:45:30.000Z"
     },
     {
       "title": "Android Circuit: Googlebook Questions, OnePlus 16 Appears, Honor X9e Launch",
@@ -356,7 +388,7 @@
     {
       "title": "5 Googlebooks Announced for the New Android-Powered Laptop Era",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUUZWUFJZcFBGRVZiMHJMRDIxWjBvOU12LWxIWFRVbV9MNkRaYjI5SkJybW9UMk9pZFdjZXRzbTRpQWh0a1N4UXc3VFFIRGxNWmI5bU9LbFI3Rnh6TFhaVURLTXB0eDBsbk9EaUZpV2dqTHB0cHB6bFktRDE4ZUxCVmxmZWJoU1Br?oc=5",
-      "source": "The Gadgeteer",
+      "source": "the-gadgeteer.com",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-24T14:30:15.000Z"
@@ -384,22 +416,6 @@
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-09-24T06:30:00.000Z"
-    },
-    {
-      "title": "Changes to App Tracking Transparency in the E.U.",
-      "url": "https://developer.apple.com/app-store/user-privacy-and-data-use/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-09-23T23:41:46.000Z"
-    },
-    {
-      "title": "★ The iPhone 4 ‘Antennagate’ Press Conference Q&A — Finally",
-      "url": "https://daringfireball.net/2026/09/iphone_4_antennagate_q_and_a",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-09-23T22:15:05.000Z"
     },
     {
       "title": "Our first real look at Googlebook OS in the wild features CapCut, Figma, offline downloads, and games",
@@ -472,22 +488,6 @@
       "tag": "android",
       "site": "https://9to5google.com/guides/googlebook/",
       "date": "2026-09-21T20:00:00.000Z"
-    },
-    {
-      "title": "Google’s new laptop OS is Android, ChromeOS and Linux mashed into one",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb3UtdTI3VnZWRXRsXzBjYTc3eDZqeFJxTUxBbllseEdtZFNDUUctRDhCNVlMaEpmZVZKdnV6LXpzaUJtSFU3QUR0cnd6dnFGaTdqcHliRGRmOGRhVDNHN3pYQ2dJTnFxM0tYYVp3NUdCdy04c3dNVl9pOWNCRVZ6UFdyRFpJUVVSWFExd0VfaWJjYnJyQnp4TlhKTmVPQTZNSFVPZThzemI5dllqUmhpRkZQZw?oc=5",
-      "source": "Notebookcheck",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-09-21T17:16:00.000Z"
-    },
-    {
-      "title": "MediaTek’s flagship laptop chip is the Dimensity CX C10 Max, debuts in a Lenovo Googlebook",
-      "url": "https://9to5google.com/2026/09/21/mediatek-googlebook-dimensity-cx-c10-max/",
-      "source": "9to5Google · Googlebook",
-      "tag": "android",
-      "site": "https://9to5google.com/guides/googlebook/",
-      "date": "2026-09-21T16:05:00.000Z"
     },
     {
       "title": "The Bikeshed email — PHKs Bikeshed",
