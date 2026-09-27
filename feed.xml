@@ -5,8 +5,24 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 27 Sep 2026 01:31:59 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 08:18:09 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Last Week on My Mac: Spinning plates</title>
+      <link>https://eclecticlight.co/2026/09/27/last-week-on-my-mac-spinning-plates/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/09/27/last-week-on-my-mac-spinning-plates/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Sun, 27 Sep 2026 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Game of Trees 0.129 released</title>
+      <link>https://undeadly.org/cgi?action=article;sid=20260927043653</link>
+      <guid isPermaLink="true">https://undeadly.org/cgi?action=article;sid=20260927043653</guid>
+      <category>bsd</category>
+      <source url="https://undeadly.org/">undeadly</source>
+      <pubDate>Sun, 27 Sep 2026 04:36:53 GMT</pubDate>
+    </item>
     <item>
       <title>Improved GPU Reset Coming For Raspberry Pi Boards With Linux 7.4</title>
       <link>https://www.phoronix.com/news/Linux-7.4-Better-RPI-GPU-Reset</link>
@@ -376,14 +392,6 @@
       <pubDate>Fri, 25 Sep 2026 11:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>XProtect Remediator 163 doesn’t run</title>
-      <link>https://eclecticlight.co/2026/09/25/xprotect-remediator-163-doesnt-run/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/09/25/xprotect-remediator-163-doesnt-run/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Fri, 25 Sep 2026 06:30:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Launching FreeBSD/EC2 desktop AMIs</title>
       <link>https://www.daemonology.net/blog/2026-09-24-Launching-FreeBSD-EC2-desktop-AMIs.html</link>
       <guid isPermaLink="true">https://www.daemonology.net/blog/2026-09-24-Launching-FreeBSD-EC2-desktop-AMIs.html</guid>
@@ -398,14 +406,6 @@
       <category>android</category>
       <source url="https://news.google.com/">MakeUseOf</source>
       <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>ASUS Googlebook 14: The First Gemini Intelligence AI Laptop</title>
-      <link>https://news.google.com/rss/articles/CBMiigFBVV95cUxOTGdVbTNQV2RMZlctX3Y4WVdXQWFla0s5NExldGhYcmZQbXk2dTRSZkU1MDJ5S3RKb0ZzaUJPMFpvcERyMW0yejZBdDRvNjA2VmxJSkFmZlFqZ1JrOVVWcUhCUlBNS3Rjei1McGxrN05NSkxLTXlJMXFFRTFrTVRUNHM4SEM0cWt3eHc?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiigFBVV95cUxOTGdVbTNQV2RMZlctX3Y4WVdXQWFla0s5NExldGhYcmZQbXk2dTRSZkU1MDJ5S3RKb0ZzaUJPMFpvcERyMW0yejZBdDRvNjA2VmxJSkFmZlFqZ1JrOVVWcUhCUlBNS3Rjei1McGxrN05NSkxLTXlJMXFFRTFrTVRUNHM4SEM0cWt3eHc?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">ASUS Pressroom</source>
-      <pubDate>Thu, 24 Sep 2026 19:31:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

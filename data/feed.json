@@ -1,6 +1,22 @@
 {
-  "generated": "2026-09-27T01:31:59.033Z",
+  "generated": "2026-09-27T08:18:09.056Z",
   "items": [
+    {
+      "title": "Last Week on My Mac: Spinning plates",
+      "url": "https://eclecticlight.co/2026/09/27/last-week-on-my-mac-spinning-plates/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-09-27T07:00:00.000Z"
+    },
+    {
+      "title": "Game of Trees 0.129 released",
+      "url": "https://undeadly.org/cgi?action=article;sid=20260927043653",
+      "source": "undeadly",
+      "tag": "bsd",
+      "site": "https://undeadly.org/",
+      "date": "2026-09-27T04:36:53.000Z"
+    },
     {
       "title": "Improved GPU Reset Coming For Raspberry Pi Boards With Linux 7.4",
       "url": "https://www.phoronix.com/news/Linux-7.4-Better-RPI-GPU-Reset",
@@ -370,14 +386,6 @@
       "date": "2026-09-25T11:30:00.000Z"
     },
     {
-      "title": "XProtect Remediator 163 doesn’t run",
-      "url": "https://eclecticlight.co/2026/09/25/xprotect-remediator-163-doesnt-run/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-09-25T06:30:00.000Z"
-    },
-    {
       "title": "Launching FreeBSD/EC2 desktop AMIs",
       "url": "https://www.daemonology.net/blog/2026-09-24-Launching-FreeBSD-EC2-desktop-AMIs.html",
       "source": "Lobsters · freebsd",
@@ -496,14 +504,6 @@
       "tag": "bsd",
       "site": "https://lobste.rs/t/freebsd",
       "date": "2026-09-18T19:46:10.000Z"
-    },
-    {
-      "title": "GEFS, the \"Good Enough File System\" on the horizon for OpenBSD",
-      "url": "https://undeadly.org/cgi?action=article;sid=20260918115729",
-      "source": "undeadly",
-      "tag": "bsd",
-      "site": "https://undeadly.org/",
-      "date": "2026-09-18T11:57:29.000Z"
     },
     {
       "title": "Gothub lists",
