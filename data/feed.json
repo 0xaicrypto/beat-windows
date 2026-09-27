@@ -1,6 +1,14 @@
 {
-  "generated": "2026-09-26T22:56:06.419Z",
+  "generated": "2026-09-27T01:31:59.033Z",
   "items": [
+    {
+      "title": "Improved GPU Reset Coming For Raspberry Pi Boards With Linux 7.4",
+      "url": "https://www.phoronix.com/news/Linux-7.4-Better-RPI-GPU-Reset",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-27T00:45:33.000Z"
+    },
     {
       "title": "Reelizer Returns",
       "url": "https://www.reelizer.com/",
@@ -336,14 +344,6 @@
       "tag": "linux",
       "site": "https://lwn.net/",
       "date": "2026-09-25T15:12:05.000Z"
-    },
-    {
-      "title": "Approaching A 10 Second Linux Kernel Build",
-      "url": "https://www.phoronix.com/review/near-10-sec-kernel-build",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-25T14:46:26.000Z"
     },
     {
       "title": "I Was Not Blown Away by Eli Tan’s ‘I Was Blown Away’ Review of Meta Muse",

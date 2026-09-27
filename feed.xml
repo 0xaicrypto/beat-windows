@@ -5,8 +5,16 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 26 Sep 2026 22:56:06 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 01:31:59 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Improved GPU Reset Coming For Raspberry Pi Boards With Linux 7.4</title>
+      <link>https://www.phoronix.com/news/Linux-7.4-Better-RPI-GPU-Reset</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-Better-RPI-GPU-Reset</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sun, 27 Sep 2026 00:45:33 GMT</pubDate>
+    </item>
     <item>
       <title>Reelizer Returns</title>
       <link>https://www.reelizer.com/</link>
@@ -342,14 +350,6 @@
       <category>linux</category>
       <source url="https://lwn.net/">LWN</source>
       <pubDate>Fri, 25 Sep 2026 15:12:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Approaching A 10 Second Linux Kernel Build</title>
-      <link>https://www.phoronix.com/review/near-10-sec-kernel-build</link>
-      <guid isPermaLink="true">https://www.phoronix.com/review/near-10-sec-kernel-build</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 25 Sep 2026 14:46:26 GMT</pubDate>
     </item>
     <item>
       <title>I Was Not Blown Away by Eli Tan’s ‘I Was Blown Away’ Review of Meta Muse</title>
