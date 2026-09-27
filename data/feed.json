@@ -1,6 +1,30 @@
 {
-  "generated": "2026-09-27T14:43:32.778Z",
+  "generated": "2026-09-27T19:01:00.803Z",
   "items": [
+    {
+      "title": "Budgie 10.10.3 Released With Favorites In Budgie Menu, Labwc Bridge Improvements",
+      "url": "https://www.phoronix.com/news/Budgie-10.10.3-Released",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-27T17:37:07.000Z"
+    },
+    {
+      "title": "postmarketOS rebrands as Nura",
+      "url": "https://nura.eco/blog/2026/09/27/nura-rename/",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-09-27T17:34:21.000Z"
+    },
+    {
+      "title": "Deshittification Part 2: Bypassing the App Store Gatekeeper",
+      "url": "https://fabricati-diem.inform.social/post/deshittification-as-a-service-part2-bypassing-the-app-store-gatekeeper/",
+      "source": "Lobsters · openbsd",
+      "tag": "bsd",
+      "site": "https://lobste.rs/t/openbsd",
+      "date": "2026-09-27T14:47:13.000Z"
+    },
     {
       "title": "Linux Kernel's LZ4 Compression Code Being Resynced For Better Performance & Cleanliness",
       "url": "https://www.phoronix.com/news/Linux-LZ4-Clean-Resync",
@@ -274,14 +298,6 @@
       "date": "2026-09-25T23:50:45.000Z"
     },
     {
-      "title": "New FUTEX Syscalls Back To Being Worked On For Helping Valve's ARM64 Gaming Ambitions",
-      "url": "https://www.phoronix.com/news/FUTEX-Robust-List2-Syscalls",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-25T22:42:16.000Z"
-    },
-    {
       "title": "Googlebook Cheat Sheet: Price, Models, Gemini Features, and Everything to Know",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE00QUNlWUFPNDhwTEJpRDFTNGYtd1JzcURqZVNDRUY4RndObXVDWmNpU0pLdl84cWQ4Rm9FbGltUkduSDA4QkRJVjRJQ2QtRnR2VDdQcGdsMnAzbkYzN0l5a1dLU0tWM2w3LW9sU0syMU5tOU0?oc=5",
       "source": "techrepublic.com",
@@ -308,7 +324,7 @@
     {
       "title": "Googlebook OS: Google manager Kuscher explains the switch to Android",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd1pXYXNBZXdZLWVUYTI4VlhJcmZiell5VktjdXNpcHU3M2RXbXdzRzdNVXpLa0N0N2pmV2M4UlpEUXhPV3FydDJMcnJPRXJ2WlowYlJEb2dEUjgydVd3NG9TVTlNZlBuUkF4RUQweG1zeG5PZkV6aGFpLVZibXVGcTJxaDByaGhJb0FDN0xJMm1Rd1lPblFYand3OEs1S2stTzkyaHJONjRxdncyZGdJ?oc=5",
-      "source": "Heise Online",
+      "source": "heise online",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-25T19:22:00.000Z"
@@ -344,14 +360,6 @@
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-09-25T17:07:33.000Z"
-    },
-    {
-      "title": "GDB 18.1 Debugger Brings Better Windows Support",
-      "url": "https://www.phoronix.com/news/GNU-Debugger-GDB-18.1",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-25T16:47:52.000Z"
     },
     {
       "title": "Muse Looks Cute, but Looks Are Deceiving",
@@ -428,7 +436,7 @@
     {
       "title": "5 Googlebooks Announced for the New Android-Powered Laptop Era",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUUZWUFJZcFBGRVZiMHJMRDIxWjBvOU12LWxIWFRVbV9MNkRaYjI5SkJybW9UMk9pZFdjZXRzbTRpQWh0a1N4UXc3VFFIRGxNWmI5bU9LbFI3Rnh6TFhaVURLTXB0eDBsbk9EaUZpV2dqTHB0cHB6bFktRDE4ZUxCVmxmZWJoU1Br?oc=5",
-      "source": "The Gadgeteer",
+      "source": "the-gadgeteer.com",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-24T14:30:15.000Z"

@@ -5,8 +5,32 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 27 Sep 2026 14:43:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 19:01:00 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Budgie 10.10.3 Released With Favorites In Budgie Menu, Labwc Bridge Improvements</title>
+      <link>https://www.phoronix.com/news/Budgie-10.10.3-Released</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Budgie-10.10.3-Released</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sun, 27 Sep 2026 17:37:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>postmarketOS rebrands as Nura</title>
+      <link>https://nura.eco/blog/2026/09/27/nura-rename/</link>
+      <guid isPermaLink="true">https://nura.eco/blog/2026/09/27/nura-rename/</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Sun, 27 Sep 2026 17:34:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deshittification Part 2: Bypassing the App Store Gatekeeper</title>
+      <link>https://fabricati-diem.inform.social/post/deshittification-as-a-service-part2-bypassing-the-app-store-gatekeeper/</link>
+      <guid isPermaLink="true">https://fabricati-diem.inform.social/post/deshittification-as-a-service-part2-bypassing-the-app-store-gatekeeper/</guid>
+      <category>bsd</category>
+      <source url="https://lobste.rs/t/openbsd">Lobsters · openbsd</source>
+      <pubDate>Sun, 27 Sep 2026 14:47:13 GMT</pubDate>
+    </item>
     <item>
       <title>Linux Kernel's LZ4 Compression Code Being Resynced For Better Performance &amp; Cleanliness</title>
       <link>https://www.phoronix.com/news/Linux-LZ4-Clean-Resync</link>
@@ -280,14 +304,6 @@
       <pubDate>Fri, 25 Sep 2026 23:50:45 GMT</pubDate>
     </item>
     <item>
-      <title>New FUTEX Syscalls Back To Being Worked On For Helping Valve's ARM64 Gaming Ambitions</title>
-      <link>https://www.phoronix.com/news/FUTEX-Robust-List2-Syscalls</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/FUTEX-Robust-List2-Syscalls</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 25 Sep 2026 22:42:16 GMT</pubDate>
-    </item>
-    <item>
       <title>Googlebook Cheat Sheet: Price, Models, Gemini Features, and Everything to Know</title>
       <link>https://news.google.com/rss/articles/CBMic0FVX3lxTE00QUNlWUFPNDhwTEJpRDFTNGYtd1JzcURqZVNDRUY4RndObXVDWmNpU0pLdl84cWQ4Rm9FbGltUkduSDA4QkRJVjRJQ2QtRnR2VDdQcGdsMnAzbkYzN0l5a1dLU0tWM2w3LW9sU0syMU5tOU0?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMic0FVX3lxTE00QUNlWUFPNDhwTEJpRDFTNGYtd1JzcURqZVNDRUY4RndObXVDWmNpU0pLdl84cWQ4Rm9FbGltUkduSDA4QkRJVjRJQ2QtRnR2VDdQcGdsMnAzbkYzN0l5a1dLU0tWM2w3LW9sU0syMU5tOU0?oc=5</guid>
@@ -316,7 +332,7 @@
       <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxPd1pXYXNBZXdZLWVUYTI4VlhJcmZiell5VktjdXNpcHU3M2RXbXdzRzdNVXpLa0N0N2pmV2M4UlpEUXhPV3FydDJMcnJPRXJ2WlowYlJEb2dEUjgydVd3NG9TVTlNZlBuUkF4RUQweG1zeG5PZkV6aGFpLVZibXVGcTJxaDByaGhJb0FDN0xJMm1Rd1lPblFYand3OEs1S2stTzkyaHJONjRxdncyZGdJ?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMirwFBVV95cUxPd1pXYXNBZXdZLWVUYTI4VlhJcmZiell5VktjdXNpcHU3M2RXbXdzRzdNVXpLa0N0N2pmV2M4UlpEUXhPV3FydDJMcnJPRXJ2WlowYlJEb2dEUjgydVd3NG9TVTlNZlBuUkF4RUQweG1zeG5PZkV6aGFpLVZibXVGcTJxaDByaGhJb0FDN0xJMm1Rd1lPblFYand3OEs1S2stTzkyaHJONjRxdncyZGdJ?oc=5</guid>
       <category>android</category>
-      <source url="https://news.google.com/">Heise Online</source>
+      <source url="https://news.google.com/">heise online</source>
       <pubDate>Fri, 25 Sep 2026 19:22:00 GMT</pubDate>
     </item>
     <item>
@@ -350,14 +366,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Fri, 25 Sep 2026 17:07:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>GDB 18.1 Debugger Brings Better Windows Support</title>
-      <link>https://www.phoronix.com/news/GNU-Debugger-GDB-18.1</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/GNU-Debugger-GDB-18.1</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 25 Sep 2026 16:47:52 GMT</pubDate>
     </item>
     <item>
       <title>Muse Looks Cute, but Looks Are Deceiving</title>
@@ -398,14 +406,6 @@
       <category>bsd</category>
       <source url="https://lobste.rs/t/freebsd">Lobsters · freebsd</source>
       <pubDate>Fri, 25 Sep 2026 01:17:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>After hands-on time with Googlebooks, I understand why Google is excited — and why buyers might hesitate</title>
-      <link>https://news.google.com/rss/articles/CBMia0FVX3lxTE5sczhldjFiZG9NT1RjVnJ1S296cUtydF9nYlA4bU5aeDlnYWZuTG9HRHVYY1BWa1JKdE8yZHJvbDdLdkpFWlFLWlBqZndVbnB5dWNESGIzTnM3ZnlLNnVHUGRrelJEck9ZcGxv?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMia0FVX3lxTE5sczhldjFiZG9NT1RjVnJ1S296cUtydF9nYlA4bU5aeDlnYWZuTG9HRHVYY1BWa1JKdE8yZHJvbDdLdkpFWlFLWlBqZndVbnB5dWNESGIzTnM3ZnlLNnVHUGRrelJEck9ZcGxv?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">MakeUseOf</source>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
