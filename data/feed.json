@@ -1,6 +1,54 @@
 {
-  "generated": "2026-09-27T08:18:09.056Z",
+  "generated": "2026-09-27T14:43:32.778Z",
   "items": [
+    {
+      "title": "Linux Kernel's LZ4 Compression Code Being Resynced For Better Performance & Cleanliness",
+      "url": "https://www.phoronix.com/news/Linux-LZ4-Clean-Resync",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-27T13:16:20.000Z"
+    },
+    {
+      "title": "OpenBSD -current has moved to version 8.0",
+      "url": "https://undeadly.org/cgi?action=article;sid=20260927120854",
+      "source": "undeadly",
+      "tag": "bsd",
+      "site": "https://undeadly.org/",
+      "date": "2026-09-27T12:08:54.000Z"
+    },
+    {
+      "title": "Critics against art: How John Singer Sargent was erased",
+      "url": "https://eclecticlight.co/2026/09/27/critics-against-art-how-john-singer-sargent-was-erased/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-09-27T11:30:00.000Z"
+    },
+    {
+      "title": "Intel Delivers A Significant Memory Hotplugging Performance Optimization For Linux",
+      "url": "https://www.phoronix.com/news/Linux-7.4-Faster-RAM-Hotplug",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-27T10:49:05.000Z"
+    },
+    {
+      "title": "New Linux Patches For Supporting Lenovo ThinkPad X1 Carbon G14's Second Camera",
+      "url": "https://www.phoronix.com/news/Linux-X1-Carbon-G14-MIPI-Cam",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-27T10:33:00.000Z"
+    },
+    {
+      "title": "New Patch Series Working Toward DRBD 9 Support In The Linux Kernel",
+      "url": "https://www.phoronix.com/news/Linux-Patches-Toward-DRBD-9",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-27T10:23:07.000Z"
+    },
     {
       "title": "Last Week on My Mac: Spinning plates",
       "url": "https://eclecticlight.co/2026/09/27/last-week-on-my-mac-spinning-plates/",
@@ -8,14 +56,6 @@
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-09-27T07:00:00.000Z"
-    },
-    {
-      "title": "Game of Trees 0.129 released",
-      "url": "https://undeadly.org/cgi?action=article;sid=20260927043653",
-      "source": "undeadly",
-      "tag": "bsd",
-      "site": "https://undeadly.org/",
-      "date": "2026-09-27T04:36:53.000Z"
     },
     {
       "title": "Improved GPU Reset Coming For Raspberry Pi Boards With Linux 7.4",
@@ -268,7 +308,7 @@
     {
       "title": "Googlebook OS: Google manager Kuscher explains the switch to Android",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd1pXYXNBZXdZLWVUYTI4VlhJcmZiell5VktjdXNpcHU3M2RXbXdzRzdNVXpLa0N0N2pmV2M4UlpEUXhPV3FydDJMcnJPRXJ2WlowYlJEb2dEUjgydVd3NG9TVTlNZlBuUkF4RUQweG1zeG5PZkV6aGFpLVZibXVGcTJxaDByaGhJb0FDN0xJMm1Rd1lPblFYand3OEs1S2stTzkyaHJONjRxdncyZGdJ?oc=5",
-      "source": "heise.de",
+      "source": "Heise Online",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-25T19:22:00.000Z"
@@ -330,38 +370,6 @@
       "date": "2026-09-25T16:28:39.000Z"
     },
     {
-      "title": "[$] How KDE got funding to add enterprise features",
-      "url": "https://lwn.net/Articles/1096245/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-09-25T15:59:55.000Z"
-    },
-    {
-      "title": "Redox OS Adds IO_uring-Like API, NUMA & Gets QEMU Working",
-      "url": "https://www.phoronix.com/news/Redox-OS-August-2026",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-25T15:51:38.000Z"
-    },
-    {
-      "title": "Two stable kernels for Friday",
-      "url": "https://lwn.net/Articles/1096818/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-09-25T15:13:25.000Z"
-    },
-    {
-      "title": "A summary from the 2026 Git Contributors' Summit",
-      "url": "https://lwn.net/Articles/1096819/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-09-25T15:12:05.000Z"
-    },
-    {
       "title": "I Was Not Blown Away by Eli Tan’s ‘I Was Blown Away’ Review of Meta Muse",
       "url": "https://www.nytimes.com/2026/09/22/technology/meta-muse-ai-agent.html?unlocked_article_code=1.D1E.Wram.T8Ww85vXKKYU",
       "source": "Daring Fireball",
@@ -376,14 +384,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-25T11:39:36.000Z"
-    },
-    {
-      "title": "American in Paris, the brief paintings of Susan Watkins",
-      "url": "https://eclecticlight.co/2026/09/25/american-in-paris-the-brief-paintings-of-susan-watkins/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-09-25T11:30:00.000Z"
     },
     {
       "title": "Launching FreeBSD/EC2 desktop AMIs",
@@ -442,6 +442,14 @@
       "date": "2026-09-24T13:00:00.000Z"
     },
     {
+      "title": "5 Reasons Googlebook OS Could Be Google’s Most Interesting Laptop Move Yet",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZUZaY2V2dkZ1OXFOV2owZ2RsZDZLN2xsMGtMUXFNQjB6T1NzTWl6cVRJdEI1VTVsaHl5VXJ1WTJoVVZqTS1xX2taR0tFaWVmSXJLbEQxZHBKdjgtRktHYkdqMXNReGZVdldoU0N5YkZzc3JXRm5RRGRMLTlvQXFyWXFWOGRpeU8ySlE?oc=5",
+      "source": "The Gadgeteer",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-09-24T10:30:49.000Z"
+    },
+    {
       "title": "Our first real look at Googlebook OS in the wild features CapCut, Figma, offline downloads, and games",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT0lvR1N3OUpVakdkN050RDZGOHM0d0p4eXRwOUt6WTR0SUNSemtUVjZiT0VsZnQ3SW00OG9qaWlmSWtWLThLcU9DMk1HcDFEaFg0QjJPdXhTNzlENm5iTUZ1SE5oTU9ibWU5WG96SnVBSXQzSHpxaWdFaURScFVDb1pzazRzYnU0WWxTZmNpWVZwa2wxYVU3YUI0ZzVEbzdGa2g0Q2ZGQ3A5Sm1mcjc2T0JZTEk0TWZtcWRwWTRZb0JNX2c?oc=5",
       "source": "Chrome Unboxed",
@@ -488,14 +496,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-22T13:41:32.000Z"
-    },
-    {
-      "title": "Googlebooks will live or die on the loyalty of a billion Android users",
-      "url": "https://9to5google.com/2026/09/22/googlebooks-will-live-or-die-on-the-loyalty-of-a-billion-android-users/",
-      "source": "9to5Google · Googlebook",
-      "tag": "android",
-      "site": "https://9to5google.com/guides/googlebook/",
-      "date": "2026-09-22T11:00:00.000Z"
     },
     {
       "title": "The Bikeshed email — PHKs Bikeshed",

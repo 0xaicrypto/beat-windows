@@ -5,8 +5,56 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 27 Sep 2026 08:18:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 14:43:32 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Linux Kernel's LZ4 Compression Code Being Resynced For Better Performance &amp; Cleanliness</title>
+      <link>https://www.phoronix.com/news/Linux-LZ4-Clean-Resync</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-LZ4-Clean-Resync</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sun, 27 Sep 2026 13:16:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenBSD -current has moved to version 8.0</title>
+      <link>https://undeadly.org/cgi?action=article;sid=20260927120854</link>
+      <guid isPermaLink="true">https://undeadly.org/cgi?action=article;sid=20260927120854</guid>
+      <category>bsd</category>
+      <source url="https://undeadly.org/">undeadly</source>
+      <pubDate>Sun, 27 Sep 2026 12:08:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Critics against art: How John Singer Sargent was erased</title>
+      <link>https://eclecticlight.co/2026/09/27/critics-against-art-how-john-singer-sargent-was-erased/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/09/27/critics-against-art-how-john-singer-sargent-was-erased/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Sun, 27 Sep 2026 11:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Intel Delivers A Significant Memory Hotplugging Performance Optimization For Linux</title>
+      <link>https://www.phoronix.com/news/Linux-7.4-Faster-RAM-Hotplug</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-Faster-RAM-Hotplug</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sun, 27 Sep 2026 10:49:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>New Linux Patches For Supporting Lenovo ThinkPad X1 Carbon G14's Second Camera</title>
+      <link>https://www.phoronix.com/news/Linux-X1-Carbon-G14-MIPI-Cam</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-X1-Carbon-G14-MIPI-Cam</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sun, 27 Sep 2026 10:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>New Patch Series Working Toward DRBD 9 Support In The Linux Kernel</title>
+      <link>https://www.phoronix.com/news/Linux-Patches-Toward-DRBD-9</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-Patches-Toward-DRBD-9</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sun, 27 Sep 2026 10:23:07 GMT</pubDate>
+    </item>
     <item>
       <title>Last Week on My Mac: Spinning plates</title>
       <link>https://eclecticlight.co/2026/09/27/last-week-on-my-mac-spinning-plates/</link>
@@ -14,14 +62,6 @@
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Sun, 27 Sep 2026 07:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Game of Trees 0.129 released</title>
-      <link>https://undeadly.org/cgi?action=article;sid=20260927043653</link>
-      <guid isPermaLink="true">https://undeadly.org/cgi?action=article;sid=20260927043653</guid>
-      <category>bsd</category>
-      <source url="https://undeadly.org/">undeadly</source>
-      <pubDate>Sun, 27 Sep 2026 04:36:53 GMT</pubDate>
     </item>
     <item>
       <title>Improved GPU Reset Coming For Raspberry Pi Boards With Linux 7.4</title>
@@ -276,7 +316,7 @@
       <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxPd1pXYXNBZXdZLWVUYTI4VlhJcmZiell5VktjdXNpcHU3M2RXbXdzRzdNVXpLa0N0N2pmV2M4UlpEUXhPV3FydDJMcnJPRXJ2WlowYlJEb2dEUjgydVd3NG9TVTlNZlBuUkF4RUQweG1zeG5PZkV6aGFpLVZibXVGcTJxaDByaGhJb0FDN0xJMm1Rd1lPblFYand3OEs1S2stTzkyaHJONjRxdncyZGdJ?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMirwFBVV95cUxPd1pXYXNBZXdZLWVUYTI4VlhJcmZiell5VktjdXNpcHU3M2RXbXdzRzdNVXpLa0N0N2pmV2M4UlpEUXhPV3FydDJMcnJPRXJ2WlowYlJEb2dEUjgydVd3NG9TVTlNZlBuUkF4RUQweG1zeG5PZkV6aGFpLVZibXVGcTJxaDByaGhJb0FDN0xJMm1Rd1lPblFYand3OEs1S2stTzkyaHJONjRxdncyZGdJ?oc=5</guid>
       <category>android</category>
-      <source url="https://news.google.com/">heise.de</source>
+      <source url="https://news.google.com/">Heise Online</source>
       <pubDate>Fri, 25 Sep 2026 19:22:00 GMT</pubDate>
     </item>
     <item>
@@ -336,38 +376,6 @@
       <pubDate>Fri, 25 Sep 2026 16:28:39 GMT</pubDate>
     </item>
     <item>
-      <title>[$] How KDE got funding to add enterprise features</title>
-      <link>https://lwn.net/Articles/1096245/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1096245/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Fri, 25 Sep 2026 15:59:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Redox OS Adds IO_uring-Like API, NUMA &amp; Gets QEMU Working</title>
-      <link>https://www.phoronix.com/news/Redox-OS-August-2026</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Redox-OS-August-2026</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 25 Sep 2026 15:51:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Two stable kernels for Friday</title>
-      <link>https://lwn.net/Articles/1096818/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1096818/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Fri, 25 Sep 2026 15:13:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>A summary from the 2026 Git Contributors' Summit</title>
-      <link>https://lwn.net/Articles/1096819/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1096819/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Fri, 25 Sep 2026 15:12:05 GMT</pubDate>
-    </item>
-    <item>
       <title>I Was Not Blown Away by Eli Tan’s ‘I Was Blown Away’ Review of Meta Muse</title>
       <link>https://www.nytimes.com/2026/09/22/technology/meta-muse-ai-agent.html?unlocked_article_code=1.D1E.Wram.T8Ww85vXKKYU</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/09/22/technology/meta-muse-ai-agent.html?unlocked_article_code=1.D1E.Wram.T8Ww85vXKKYU</guid>
@@ -382,14 +390,6 @@
       <category>android</category>
       <source url="https://news.google.com/">TechRepublic</source>
       <pubDate>Fri, 25 Sep 2026 11:39:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>American in Paris, the brief paintings of Susan Watkins</title>
-      <link>https://eclecticlight.co/2026/09/25/american-in-paris-the-brief-paintings-of-susan-watkins/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/09/25/american-in-paris-the-brief-paintings-of-susan-watkins/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Fri, 25 Sep 2026 11:30:00 GMT</pubDate>
     </item>
     <item>
       <title>Launching FreeBSD/EC2 desktop AMIs</title>
