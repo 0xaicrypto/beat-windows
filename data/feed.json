@@ -1,6 +1,38 @@
 {
-  "generated": "2026-09-27T19:01:00.803Z",
+  "generated": "2026-09-27T22:16:49.278Z",
   "items": [
+    {
+      "title": "Kernel prepatch 7.3-rc5",
+      "url": "https://lwn.net/Articles/1096959/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-09-27T21:40:51.000Z"
+    },
+    {
+      "title": "Linux 7.3-rc5 Released: \"Another Week, Another Large RC\"",
+      "url": "https://www.phoronix.com/news/Linux-7.3-rc5-Released",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-27T21:17:21.000Z"
+    },
+    {
+      "title": "Mux: Turn Your Video Into Context",
+      "url": "https://www.mux.com/?utm_campaign=fireball&utm_source=DF",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-09-27T20:22:00.000Z"
+    },
+    {
+      "title": "Katie Notopoulos on Alexandr Wang’s ‘Faux-Hallmark Pap’",
+      "url": "https://x.com/katienotopoulos/status/2103993429659386026",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-09-27T20:21:43.000Z"
+    },
     {
       "title": "Budgie 10.10.3 Released With Favorites In Budgie Menu, Labwc Bridge Improvements",
       "url": "https://www.phoronix.com/news/Budgie-10.10.3-Released",
@@ -250,14 +282,6 @@
       "date": "2026-09-26T09:56:52.000Z"
     },
     {
-      "title": "Suggestion to replace LibreOffice with Collabora as default on Fedora",
-      "url": "https://www.phoronix.com/news/Fedora-Discuss-Collabora-Office",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-09-26T09:13:15.000Z"
-    },
-    {
       "title": "Saturday Mac riddles 379",
       "url": "https://eclecticlight.co/2026/09/26/saturday-mac-riddles-379/",
       "source": "Eclectic Light",
@@ -280,14 +304,6 @@
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-09-26T06:19:58.000Z"
-    },
-    {
-      "title": "Last Call For The Autumn Special For Ad-Free Viewing & Supporting Linux Hardware Testing",
-      "url": "https://www.phoronix.com/news/Autumn-2026-Special-Final-Call",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-26T01:00:26.000Z"
     },
     {
       "title": "Mr. Choyka Is Apparently Doing Well",
@@ -370,22 +386,6 @@
       "date": "2026-09-25T16:38:39.000Z"
     },
     {
-      "title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
-      "url": "https://nyaa.sh/reviews/mac-mini-m6-emulation",
-      "source": "Lobsters · mac",
-      "tag": "macos",
-      "site": "https://lobste.rs/t/mac",
-      "date": "2026-09-25T16:28:39.000Z"
-    },
-    {
-      "title": "I Was Not Blown Away by Eli Tan’s ‘I Was Blown Away’ Review of Meta Muse",
-      "url": "https://www.nytimes.com/2026/09/22/technology/meta-muse-ai-agent.html?unlocked_article_code=1.D1E.Wram.T8Ww85vXKKYU",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-09-25T14:41:29.000Z"
-    },
-    {
       "title": "Best Laptops for Android Users in 2026: Googlebook, Galaxy Book and More",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSUjlOMFJHYTBic3Z6azlSS0J2M0EtSHlBLVFiMlozOTRaak9GZ1pvekpNcEhJT1NiMDl0NUtkN2J5djBXaEpmaVZpY19nek5LNG5xQ1c1bTNrb2xIZWlBOS1KeWhkWGNuY1VMYzZFcWtRU3I3cXhRWnhmNmFIVmM?oc=5",
       "source": "TechRepublic",
@@ -436,7 +436,7 @@
     {
       "title": "5 Googlebooks Announced for the New Android-Powered Laptop Era",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUUZWUFJZcFBGRVZiMHJMRDIxWjBvOU12LWxIWFRVbV9MNkRaYjI5SkJybW9UMk9pZFdjZXRzbTRpQWh0a1N4UXc3VFFIRGxNWmI5bU9LbFI3Rnh6TFhaVURLTXB0eDBsbk9EaUZpV2dqTHB0cHB6bFktRDE4ZUxCVmxmZWJoU1Br?oc=5",
-      "source": "the-gadgeteer.com",
+      "source": "The Gadgeteer",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-24T14:30:15.000Z"

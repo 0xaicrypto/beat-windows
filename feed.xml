@@ -5,8 +5,40 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 27 Sep 2026 19:01:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 22:16:49 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Kernel prepatch 7.3-rc5</title>
+      <link>https://lwn.net/Articles/1096959/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1096959/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Sun, 27 Sep 2026 21:40:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux 7.3-rc5 Released: &quot;Another Week, Another Large RC&quot;</title>
+      <link>https://www.phoronix.com/news/Linux-7.3-rc5-Released</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.3-rc5-Released</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sun, 27 Sep 2026 21:17:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mux: Turn Your Video Into Context</title>
+      <link>https://www.mux.com/?utm_campaign=fireball&amp;utm_source=DF</link>
+      <guid isPermaLink="true">https://www.mux.com/?utm_campaign=fireball&amp;utm_source=DF</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Sun, 27 Sep 2026 20:22:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Katie Notopoulos on Alexandr Wang’s ‘Faux-Hallmark Pap’</title>
+      <link>https://x.com/katienotopoulos/status/2103993429659386026</link>
+      <guid isPermaLink="true">https://x.com/katienotopoulos/status/2103993429659386026</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Sun, 27 Sep 2026 20:21:43 GMT</pubDate>
+    </item>
     <item>
       <title>Budgie 10.10.3 Released With Favorites In Budgie Menu, Labwc Bridge Improvements</title>
       <link>https://www.phoronix.com/news/Budgie-10.10.3-Released</link>
@@ -256,14 +288,6 @@
       <pubDate>Sat, 26 Sep 2026 09:56:52 GMT</pubDate>
     </item>
     <item>
-      <title>Suggestion to replace LibreOffice with Collabora as default on Fedora</title>
-      <link>https://www.phoronix.com/news/Fedora-Discuss-Collabora-Office</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Fedora-Discuss-Collabora-Office</guid>
-      <category>linux</category>
-      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
-      <pubDate>Sat, 26 Sep 2026 09:13:15 GMT</pubDate>
-    </item>
-    <item>
       <title>Saturday Mac riddles 379</title>
       <link>https://eclecticlight.co/2026/09/26/saturday-mac-riddles-379/</link>
       <guid isPermaLink="true">https://eclecticlight.co/2026/09/26/saturday-mac-riddles-379/</guid>
@@ -286,14 +310,6 @@
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Sat, 26 Sep 2026 06:19:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Last Call For The Autumn Special For Ad-Free Viewing &amp; Supporting Linux Hardware Testing</title>
-      <link>https://www.phoronix.com/news/Autumn-2026-Special-Final-Call</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Autumn-2026-Special-Final-Call</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Sat, 26 Sep 2026 01:00:26 GMT</pubDate>
     </item>
     <item>
       <title>Mr. Choyka Is Apparently Doing Well</title>
@@ -374,22 +390,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Fri, 25 Sep 2026 16:38:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini</title>
-      <link>https://nyaa.sh/reviews/mac-mini-m6-emulation</link>
-      <guid isPermaLink="true">https://nyaa.sh/reviews/mac-mini-m6-emulation</guid>
-      <category>macos</category>
-      <source url="https://lobste.rs/t/mac">Lobsters · mac</source>
-      <pubDate>Fri, 25 Sep 2026 16:28:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>I Was Not Blown Away by Eli Tan’s ‘I Was Blown Away’ Review of Meta Muse</title>
-      <link>https://www.nytimes.com/2026/09/22/technology/meta-muse-ai-agent.html?unlocked_article_code=1.D1E.Wram.T8Ww85vXKKYU</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/22/technology/meta-muse-ai-agent.html?unlocked_article_code=1.D1E.Wram.T8Ww85vXKKYU</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Fri, 25 Sep 2026 14:41:29 GMT</pubDate>
     </item>
     <item>
       <title>Best Laptops for Android Users in 2026: Googlebook, Galaxy Book and More</title>
