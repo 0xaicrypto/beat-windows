@@ -5,8 +5,112 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 28 Sep 2026 15:34:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 22:07:01 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Thoughts on Flash (2010)</title>
+      <link>https://web.archive.org/web/20100501010616/http://www.apple.com/hotnews/thoughts-on-flash/</link>
+      <guid isPermaLink="true">https://web.archive.org/web/20100501010616/http://www.apple.com/hotnews/thoughts-on-flash/</guid>
+      <category>macos</category>
+      <source url="https://lobste.rs/t/mac">Lobsters · mac</source>
+      <pubDate>Mon, 28 Sep 2026 21:43:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Muse, Instagram, and VLC Lookalike Rip-Offs in the Mac App Store</title>
+      <link>https://lapcatsoftware.com/articles/2026/9/8.html</link>
+      <guid isPermaLink="true">https://lapcatsoftware.com/articles/2026/9/8.html</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Mon, 28 Sep 2026 19:50:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google Will Support ChromeOS Until 2034 As It Shifts To Googlebook OS</title>
+      <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxNendhdGlHRFRSYnZ6MVNzbFhPVmZzeVNOaTYtY3ktdHIyaDNSTi0zR19QRF9yVmZoRE81VlpYbHduVFhhbFl5MkF6RG93bWNJWTNRVXRJYXBBMmJRRUlBV3JHMk9kNHF0Q2ttdl9NUHM3NURpU1B5VGZSUVNHc1BHTUlrUkd6cWVxaUx3THN4UXczODRvVGpvcThodnFHSEFLVGI2elZB?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMipgFBVV95cUxNendhdGlHRFRSYnZ6MVNzbFhPVmZzeVNOaTYtY3ktdHIyaDNSTi0zR19QRF9yVmZoRE81VlpYbHduVFhhbFl5MkF6RG93bWNJWTNRVXRJYXBBMmJRRUlBV3JHMk9kNHF0Q2ttdl9NUHM3NURpU1B5VGZSUVNHc1BHTUlrUkd6cWVxaUx3THN4UXczODRvVGpvcThodnFHSEFLVGI2elZB?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Engadget</source>
+      <pubDate>Mon, 28 Sep 2026 19:36:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>NVIDIA Developing &quot;Display Config Server&quot; To Improve Linux/Wayland On Display Walls</title>
+      <link>https://www.phoronix.com/news/NVIDIA-Display-Config-Server</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/NVIDIA-Display-Config-Server</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Mon, 28 Sep 2026 19:22:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>SIMDjson 5.0 Released: Still Making JSON Parsing Even Faster</title>
+      <link>https://www.phoronix.com/news/SIMDjson-5.0</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/SIMDjson-5.0</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Mon, 28 Sep 2026 19:01:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>★ Spitballing Predictions for Apple’s October</title>
+      <link>https://daringfireball.net/2026/09/spitballing_predictions_for_apples_october</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/09/spitballing_predictions_for_apples_october</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Mon, 28 Sep 2026 18:43:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Even Google Search agrees that ‘Googlebook’ wasn’t a very good name choice</title>
+      <link>https://9to5google.com/2026/09/28/even-google-search-agrees-that-googlebook-wasnt-a-very-good-name-choice/</link>
+      <guid isPermaLink="true">https://9to5google.com/2026/09/28/even-google-search-agrees-that-googlebook-wasnt-a-very-good-name-choice/</guid>
+      <category>android</category>
+      <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
+      <pubDate>Mon, 28 Sep 2026 18:25:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Git v2.56.0 released</title>
+      <link>https://lwn.net/Articles/1097213/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1097213/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Mon, 28 Sep 2026 17:33:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apple has just released updates to Golden Gate 27.0.1, 26.7.1 and 15.8.1</title>
+      <link>https://eclecticlight.co/2026/09/28/apple-has-just-released-updates-to-golden-gate-27-0-1-26-7-1-and-15-8-1/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/09/28/apple-has-just-released-updates-to-golden-gate-27-0-1-26-7-1-and-15-8-1/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Mon, 28 Sep 2026 17:27:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lenovo’s first Googlebook actually costs $200 less than announced, and it’s not the only one</title>
+      <link>https://9to5google.com/2026/09/28/lenovo-googlebook-price/</link>
+      <guid isPermaLink="true">https://9to5google.com/2026/09/28/lenovo-googlebook-price/</guid>
+      <category>android</category>
+      <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
+      <pubDate>Mon, 28 Sep 2026 16:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Duo-Man</title>
+      <link>https://x.com/viditb/status/2104103592726765722</link>
+      <guid isPermaLink="true">https://x.com/viditb/status/2104103592726765722</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Mon, 28 Sep 2026 16:35:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>HardenedBSD August / September 2026 Status Report</title>
+      <link>https://hardenedbsd.org/article/shawn-webb/2026-09-27/hardenedbsd-august-september-2026-status-report</link>
+      <guid isPermaLink="true">https://hardenedbsd.org/article/shawn-webb/2026-09-27/hardenedbsd-august-september-2026-status-report</guid>
+      <category>bsd</category>
+      <source url="https://lobste.rs/t/freebsd">Lobsters · freebsd</source>
+      <pubDate>Mon, 28 Sep 2026 16:14:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fedora 45 To Feature Smoother Experience For Snapdragon X1 Laptops</title>
+      <link>https://www.phoronix.com/news/Fedora-45-Snapdragon-X1</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Fedora-45-Snapdragon-X1</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Mon, 28 Sep 2026 16:07:16 GMT</pubDate>
+    </item>
     <item>
       <title>Google will let some Chromebooks upgrade to Googlebook OS</title>
       <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxNUC14Z1lzVWpNb25GcElodWg4aUxTck9fV1F2dkpBbklhLTROd0pSVGE5UmpOXzZtQWMyLW5ONnBpQktZcjBVY2tMR2huS2hMdDU1TUVMRERmdk1SMWpBUlRPSEhxdThUSTFpTVNZd2JzNzRRNnNyWlJsSUxfTHpCVFVwcmhBbzJ5ZnVSQld6VGhfV01IcmFtOHhXaTF2NklNSXVYeQ?oc=5</link>
@@ -76,7 +180,7 @@
       <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxOaTN3WXdEWldTWjNDWjFFTHpNX1hkX215bjI0TkoyY2RDWjFBa3ctbndZZ2RsTFpjR1BQcVM0S0NtbzliYXQ2RmRyTmJvd2tobTdhUG5Qa2thb1hFbjc0MVhUd2kzc0lMemJQb21pQm5NYnJOQ2o2V1pTRUtxSHNVcEtXNWpXRW02UVFVeERrVQ?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMijwFBVV95cUxOaTN3WXdEWldTWjNDWjFFTHpNX1hkX215bjI0TkoyY2RDWjFBa3ctbndZZ2RsTFpjR1BQcVM0S0NtbzliYXQ2RmRyTmJvd2tobTdhUG5Qa2thb1hFbjc0MVhUd2kzc0lMemJQb21pQm5NYnJOQ2o2V1pTRUtxSHNVcEtXNWpXRW02UVFVeERrVQ?oc=5</guid>
       <category>android</category>
-      <source url="https://news.google.com/">mashable.com</source>
+      <source url="https://news.google.com/">Mashable</source>
       <pubDate>Mon, 28 Sep 2026 12:24:02 GMT</pubDate>
     </item>
     <item>
@@ -256,28 +360,12 @@
       <pubDate>Sun, 27 Sep 2026 10:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>New Patch Series Working Toward DRBD 9 Support In The Linux Kernel</title>
-      <link>https://www.phoronix.com/news/Linux-Patches-Toward-DRBD-9</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-Patches-Toward-DRBD-9</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Sun, 27 Sep 2026 10:23:07 GMT</pubDate>
-    </item>
-    <item>
       <title>Last Week on My Mac: Spinning plates</title>
       <link>https://eclecticlight.co/2026/09/27/last-week-on-my-mac-spinning-plates/</link>
       <guid isPermaLink="true">https://eclecticlight.co/2026/09/27/last-week-on-my-mac-spinning-plates/</guid>
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Sun, 27 Sep 2026 07:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Improved GPU Reset Coming For Raspberry Pi Boards With Linux 7.4</title>
-      <link>https://www.phoronix.com/news/Linux-7.4-Better-RPI-GPU-Reset</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-Better-RPI-GPU-Reset</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Sun, 27 Sep 2026 00:45:33 GMT</pubDate>
     </item>
     <item>
       <title>Reelizer Returns</title>
@@ -304,22 +392,6 @@
       <pubDate>Sat, 26 Sep 2026 19:41:39 GMT</pubDate>
     </item>
     <item>
-      <title>Dissecting House of Apple 2 on modern glibc</title>
-      <link>https://jazho76.github.io/house_of_apple_2/</link>
-      <guid isPermaLink="true">https://jazho76.github.io/house_of_apple_2/</guid>
-      <category>linux</category>
-      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
-      <pubDate>Sat, 26 Sep 2026 19:31:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>How I Found a $113,337 AF_ALG Linux Local Privilege Escalation Before Copy Fail</title>
-      <link>https://idnsec.com/research/linux-local-privilege-escalation-with-af-alg/</link>
-      <guid isPermaLink="true">https://idnsec.com/research/linux-local-privilege-escalation-with-af-alg/</guid>
-      <category>linux</category>
-      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
-      <pubDate>Sat, 26 Sep 2026 19:29:50 GMT</pubDate>
-    </item>
-    <item>
       <title>International Standard Paper Sizes</title>
       <link>https://www.cl.cam.ac.uk/~mgk25/iso-paper.html</link>
       <guid isPermaLink="true">https://www.cl.cam.ac.uk/~mgk25/iso-paper.html</guid>
@@ -334,78 +406,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Sat, 26 Sep 2026 16:53:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Talk Show: ‘I’m Thinking X, Not X’</title>
-      <link>https://daringfireball.net/thetalkshow/2026/09/25/ep-455</link>
-      <guid isPermaLink="true">https://daringfireball.net/thetalkshow/2026/09/25/ep-455</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Sat, 26 Sep 2026 16:21:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>I wasn't sure about Googlebooks, but after playing with two Snapdragon-powered laptops, I'm actually considering switching</title>
-      <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxQeEVmRHhENUVDYzhOcUFORkNNZ09MRE5wcHpXQUY4cGV3ZGFtX2RoeW1UR3ByQWxfb3ZCTXVlbEdiamNONC0zODVod0dFUFR4NzIwWXBBbTdySUxSdUZiRXNDa0EzUGR6RURlSTlYM1ZkSU1HdkFvM1p4Y2FldHFrSmItdFJ5dmJKNG8tbVJ0SGRodw?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMikgFBVV95cUxQeEVmRHhENUVDYzhOcUFORkNNZ09MRE5wcHpXQUY4cGV3ZGFtX2RoeW1UR3ByQWxfb3ZCTXVlbEdiamNONC0zODVod0dFUFR4NzIwWXBBbTdySUxSdUZiRXNDa0EzUGR6RURlSTlYM1ZkSU1HdkFvM1p4Y2FldHFrSmItdFJ5dmJKNG8tbVJ0SGRodw?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Android Central</source>
-      <pubDate>Sat, 26 Sep 2026 15:08:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Critics against art: How British landscape painting was killed</title>
-      <link>https://eclecticlight.co/2026/09/26/critics-against-art-how-british-landscape-painting-was-killed/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/09/26/critics-against-art-how-british-landscape-painting-was-killed/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Sat, 26 Sep 2026 11:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>I thought I'd never pay $1,000 for a Googlebook, but Google convinced me otherwise</title>
-      <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxOemtHZEJ1N1JEcmszdVRKV2huRU5qZmlUSmxidjk5RGhrcHN3TDl3alZhS0o0ZUUtMDZHbVFOQkgtbVBHU0lQZXp1STMwQlhNM19OdUJSbF9EVll4NHRsRDJSQi1BV3VMU3BSSjR2MWZXX0QxUmtqV1M5a3g3dUhoX3RmMlBtSDdVaTA5NA?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMijAFBVV95cUxOemtHZEJ1N1JEcmszdVRKV2huRU5qZmlUSmxidjk5RGhrcHN3TDl3alZhS0o0ZUUtMDZHbVFOQkgtbVBHU0lQZXp1STMwQlhNM19OdUJSbF9EVll4NHRsRDJSQi1BV3VMU3BSSjR2MWZXX0QxUmtqV1M5a3g3dUhoX3RmMlBtSDdVaTA5NA?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Android Police</source>
-      <pubDate>Sat, 26 Sep 2026 10:00:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Saturday Mac riddles 379</title>
-      <link>https://eclecticlight.co/2026/09/26/saturday-mac-riddles-379/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/09/26/saturday-mac-riddles-379/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Sat, 26 Sep 2026 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI at work: Privacy, PCC and prompts</title>
-      <link>https://eclecticlight.co/2026/09/26/ai-at-work-privacy-pcc-and-prompts/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/09/26/ai-at-work-privacy-pcc-and-prompts/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Sat, 26 Sep 2026 07:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple has just released an update to XProtect for macOS Sequoia and later</title>
-      <link>https://eclecticlight.co/2026/09/26/apple-has-just-released-an-update-to-xprotect-for-macos-sequoia-and-later-2/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/09/26/apple-has-just-released-an-update-to-xprotect-for-macos-sequoia-and-later-2/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Sat, 26 Sep 2026 06:19:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mr. Choyka Is Apparently Doing Well</title>
-      <link>https://www.usatoday.com/story/sports/golf/2020/02/02/golf-amateur-gary-choyka-sinks-two-holes-one-same-round/4639969002/</link>
-      <guid isPermaLink="true">https://www.usatoday.com/story/sports/golf/2020/02/02/golf-amateur-gary-choyka-sinks-two-holes-one-same-round/4639969002/</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Fri, 25 Sep 2026 23:50:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Googlebook Cheat Sheet: Price, Models, Gemini Features, and Everything to Know</title>
-      <link>https://news.google.com/rss/articles/CBMic0FVX3lxTE00QUNlWUFPNDhwTEJpRDFTNGYtd1JzcURqZVNDRUY4RndObXVDWmNpU0pLdl84cWQ4Rm9FbGltUkduSDA4QkRJVjRJQ2QtRnR2VDdQcGdsMnAzbkYzN0l5a1dLU0tWM2w3LW9sU0syMU5tOU0?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMic0FVX3lxTE00QUNlWUFPNDhwTEJpRDFTNGYtd1JzcURqZVNDRUY4RndObXVDWmNpU0pLdl84cWQ4Rm9FbGltUkduSDA4QkRJVjRJQ2QtRnR2VDdQcGdsMnAzbkYzN0l5a1dLU0tWM2w3LW9sU0syMU5tOU0?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">techrepublic.com</source>
-      <pubDate>Fri, 25 Sep 2026 21:27:43 GMT</pubDate>
     </item>
   </channel>
 </rss>
