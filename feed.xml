@@ -5,8 +5,16 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 27 Sep 2026 22:16:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 00:55:14 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>EX-ARRR: Sailing the 0-click Seas</title>
+      <link>https://ironpeak.be/blog/ex-arrr-sailing-the-0-click-seas/</link>
+      <guid isPermaLink="true">https://ironpeak.be/blog/ex-arrr-sailing-the-0-click-seas/</guid>
+      <category>macos</category>
+      <source url="https://lobste.rs/t/mac">Lobsters · mac</source>
+      <pubDate>Sun, 27 Sep 2026 23:32:38 GMT</pubDate>
+    </item>
     <item>
       <title>Kernel prepatch 7.3-rc5</title>
       <link>https://lwn.net/Articles/1096959/</link>
@@ -382,14 +390,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Fri, 25 Sep 2026 17:07:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Muse Looks Cute, but Looks Are Deceiving</title>
-      <link>https://www.inc.com/jason-aten/meta-keeps-apologizing-for-muse-its-explanations-miss-the-point-entirely/91409363</link>
-      <guid isPermaLink="true">https://www.inc.com/jason-aten/meta-keeps-apologizing-for-muse-its-explanations-miss-the-point-entirely/91409363</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Fri, 25 Sep 2026 16:38:39 GMT</pubDate>
     </item>
     <item>
       <title>Best Laptops for Android Users in 2026: Googlebook, Galaxy Book and More</title>
