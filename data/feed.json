@@ -1,6 +1,30 @@
 {
-  "generated": "2026-09-28T00:55:14.974Z",
+  "generated": "2026-09-28T07:01:42.503Z",
   "items": [
+    {
+      "title": "Silently updated security data files in Golden Gate",
+      "url": "https://eclecticlight.co/2026/09/28/silently-updated-security-data-files-in-golden-gate/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-09-28T06:30:00.000Z"
+    },
+    {
+      "title": "Your Chromebook could soon get Google’s new Googlebook experience",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcTB0SWVCN1JEajlicnJBUkhZWWJJTW1keE1qeHFvR0lWdVBMYTctY21kR2RJM0VVN21RRXFaVUl1RXRYbWo4WVFLc1hic0xhWUhxVzV3a2pCSDU2TzRmZWxGSFBkMWhNdDJydGhBRmJrUmR1TDBWLWRBelItVEU5eGhaamRSVHpSZThJUEdkbVpvOEVEWlZXaHREb05TSXpyUGN5OTBUcHM?oc=5",
+      "source": "Digital Trends",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-09-28T06:23:24.000Z"
+    },
+    {
+      "title": "The first 5 Googlebook laptops are here, with an OS that blends Android and Gemini",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaTN3WXdEWldTWjNDWjFFTHpNX1hkX215bjI0TkoyY2RDWjFBa3ctbndZZ2RsTFpjR1BQcVM0S0NtbzliYXQ2RmRyTmJvd2tobTdhUG5Qa2thb1hFbjc0MVhUd2kzc0lMemJQb21pQm5NYnJOQ2o2V1pTRUtxSHNVcEtXNWpXRW02UVFVeERrVQ?oc=5",
+      "source": "mashable.com",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-09-28T03:31:58.000Z"
+    },
     {
       "title": "EX-ARRR: Sailing the 0-click Seas",
       "url": "https://ironpeak.be/blog/ex-arrr-sailing-the-0-click-seas/",
@@ -378,14 +402,6 @@
       "date": "2026-09-25T18:16:47.000Z"
     },
     {
-      "title": "Regarding the Provenance of Charm Within Meta",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-23/meta-debuts-a-dedicated-palm-sized-muse-charm-device-to-use-ai-on-the-go?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDIwNzg4MCwiZXhwIjoxNzkwODEyNjgwLCJhcnRpY2xlSWQiOiJUTFRUVUxUOU5KTFMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.k7amXXn8zTVQuiTpQIE0Q_IJY9ny_TINEpSrguxIva8&leadSource=article-gifting",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-09-25T17:07:33.000Z"
-    },
-    {
       "title": "Best Laptops for Android Users in 2026: Googlebook, Galaxy Book and More",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSUjlOMFJHYTBic3Z6azlSS0J2M0EtSHlBLVFiMlozOTRaak9GZ1pvekpNcEhJT1NiMDl0NUtkN2J5djBXaEpmaVZpY19nek5LNG5xQ1c1bTNrb2xIZWlBOS1KeWhkWGNuY1VMYzZFcWtRU3I3cXhRWnhmNmFIVmM?oc=5",
       "source": "TechRepublic",
@@ -488,22 +504,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-23T07:17:10.000Z"
-    },
-    {
-      "title": "Google’s new Googlebook OS is basically Android for laptops",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdkk0VTNBTUIzRUQzV3ItTFVEQXhZTllVZ1lGdUFMaEl6bk5vR0FyUlQ5dXNVSFB0ekJpNGZxb1ZXUEw0Yk9lS0h5bk5iMjlfQjNZYUw0ay0tM3VxMnphQmR0dFNZWF93N3puWGF0bXMyQTl6VTJteWJXdkJ6d2N0ZV9keURuVHl6ZndVSk40eXhZZUhYY213eVllTUhsRC1MTGdrdk13?oc=5",
-      "source": "PCWorld",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-09-22T16:36:13.000Z"
-    },
-    {
-      "title": "Soylent Googlebook is Android",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBreU9rLV9mNFhmbVNNZlFaWFp4ZkFqY2xtd04zSzZyYVdrTDRkUjNXcUVKeXZfQkFkMk8xVzJZM0Y3SG5NWG52WW8yQTlBalR0b0E?oc=5",
-      "source": "spyglass.org",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-09-22T13:41:32.000Z"
     },
     {
       "title": "The Bikeshed email — PHKs Bikeshed",

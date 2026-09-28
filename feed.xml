@@ -5,8 +5,32 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 28 Sep 2026 00:55:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 07:01:42 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Silently updated security data files in Golden Gate</title>
+      <link>https://eclecticlight.co/2026/09/28/silently-updated-security-data-files-in-golden-gate/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/09/28/silently-updated-security-data-files-in-golden-gate/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Mon, 28 Sep 2026 06:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Your Chromebook could soon get Google’s new Googlebook experience</title>
+      <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcTB0SWVCN1JEajlicnJBUkhZWWJJTW1keE1qeHFvR0lWdVBMYTctY21kR2RJM0VVN21RRXFaVUl1RXRYbWo4WVFLc1hic0xhWUhxVzV3a2pCSDU2TzRmZWxGSFBkMWhNdDJydGhBRmJrUmR1TDBWLWRBelItVEU5eGhaamRSVHpSZThJUEdkbVpvOEVEWlZXaHREb05TSXpyUGN5OTBUcHM?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcTB0SWVCN1JEajlicnJBUkhZWWJJTW1keE1qeHFvR0lWdVBMYTctY21kR2RJM0VVN21RRXFaVUl1RXRYbWo4WVFLc1hic0xhWUhxVzV3a2pCSDU2TzRmZWxGSFBkMWhNdDJydGhBRmJrUmR1TDBWLWRBelItVEU5eGhaamRSVHpSZThJUEdkbVpvOEVEWlZXaHREb05TSXpyUGN5OTBUcHM?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Digital Trends</source>
+      <pubDate>Mon, 28 Sep 2026 06:23:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>The first 5 Googlebook laptops are here, with an OS that blends Android and Gemini</title>
+      <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxOaTN3WXdEWldTWjNDWjFFTHpNX1hkX215bjI0TkoyY2RDWjFBa3ctbndZZ2RsTFpjR1BQcVM0S0NtbzliYXQ2RmRyTmJvd2tobTdhUG5Qa2thb1hFbjc0MVhUd2kzc0lMemJQb21pQm5NYnJOQ2o2V1pTRUtxSHNVcEtXNWpXRW02UVFVeERrVQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMijwFBVV95cUxOaTN3WXdEWldTWjNDWjFFTHpNX1hkX215bjI0TkoyY2RDWjFBa3ctbndZZ2RsTFpjR1BQcVM0S0NtbzliYXQ2RmRyTmJvd2tobTdhUG5Qa2thb1hFbjc0MVhUd2kzc0lMemJQb21pQm5NYnJOQ2o2V1pTRUtxSHNVcEtXNWpXRW02UVFVeERrVQ?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">mashable.com</source>
+      <pubDate>Mon, 28 Sep 2026 03:31:58 GMT</pubDate>
+    </item>
     <item>
       <title>EX-ARRR: Sailing the 0-click Seas</title>
       <link>https://ironpeak.be/blog/ex-arrr-sailing-the-0-click-seas/</link>
@@ -382,30 +406,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Fri, 25 Sep 2026 18:16:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Regarding the Provenance of Charm Within Meta</title>
-      <link>https://www.bloomberg.com/news/articles/2026-09-23/meta-debuts-a-dedicated-palm-sized-muse-charm-device-to-use-ai-on-the-go?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDIwNzg4MCwiZXhwIjoxNzkwODEyNjgwLCJhcnRpY2xlSWQiOiJUTFRUVUxUOU5KTFMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.k7amXXn8zTVQuiTpQIE0Q_IJY9ny_TINEpSrguxIva8&amp;leadSource=article-gifting</link>
-      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-09-23/meta-debuts-a-dedicated-palm-sized-muse-charm-device-to-use-ai-on-the-go?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDIwNzg4MCwiZXhwIjoxNzkwODEyNjgwLCJhcnRpY2xlSWQiOiJUTFRUVUxUOU5KTFMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.k7amXXn8zTVQuiTpQIE0Q_IJY9ny_TINEpSrguxIva8&amp;leadSource=article-gifting</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Fri, 25 Sep 2026 17:07:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Best Laptops for Android Users in 2026: Googlebook, Galaxy Book and More</title>
-      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTFBSUjlOMFJHYTBic3Z6azlSS0J2M0EtSHlBLVFiMlozOTRaak9GZ1pvekpNcEhJT1NiMDl0NUtkN2J5djBXaEpmaVZpY19nek5LNG5xQ1c1bTNrb2xIZWlBOS1KeWhkWGNuY1VMYzZFcWtRU3I3cXhRWnhmNmFIVmM?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMif0FVX3lxTFBSUjlOMFJHYTBic3Z6azlSS0J2M0EtSHlBLVFiMlozOTRaak9GZ1pvekpNcEhJT1NiMDl0NUtkN2J5djBXaEpmaVZpY19nek5LNG5xQ1c1bTNrb2xIZWlBOS1KeWhkWGNuY1VMYzZFcWtRU3I3cXhRWnhmNmFIVmM?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">TechRepublic</source>
-      <pubDate>Fri, 25 Sep 2026 11:39:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Launching FreeBSD/EC2 desktop AMIs</title>
-      <link>https://www.daemonology.net/blog/2026-09-24-Launching-FreeBSD-EC2-desktop-AMIs.html</link>
-      <guid isPermaLink="true">https://www.daemonology.net/blog/2026-09-24-Launching-FreeBSD-EC2-desktop-AMIs.html</guid>
-      <category>bsd</category>
-      <source url="https://lobste.rs/t/freebsd">Lobsters · freebsd</source>
-      <pubDate>Fri, 25 Sep 2026 01:17:51 GMT</pubDate>
     </item>
   </channel>
 </rss>
