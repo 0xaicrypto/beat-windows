@@ -1,6 +1,142 @@
 {
-  "generated": "2026-09-29T08:38:33.903Z",
+  "generated": "2026-09-29T15:57:33.198Z",
   "items": [
+    {
+      "title": "[$] The kernel from a PostgreSQL point of view",
+      "url": "https://lwn.net/Articles/1096827/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-09-29T15:42:30.000Z"
+    },
+    {
+      "title": "Security updates for Tuesday",
+      "url": "https://lwn.net/Articles/1097466/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-09-29T15:38:42.000Z"
+    },
+    {
+      "title": "Follow-Up on my Spitballed Predictions for Apple’s October",
+      "url": "https://daringfireball.net/2026/09/spitballing_predictions_for_apples_october",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-09-29T15:08:19.000Z"
+    },
+    {
+      "title": "Lenovo Googlebook 15 Land in U.S on Oct 4: 15.3-inch OLED Under 3 lb ~$1,100",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbjc5XzJnaF9KSm1oYkNPS25vTnpoc2RvTE9NeVE3SnF6NzNXQUUxckZINDJWU3RtNmxyRl9yeTVPTmNGeUZISEd3dklUc1htTDVETjB5WTNxbWYxVGI4dkxlSWFCV1AwQnU3RTBxVDBZdG1oN3dXYV94Qk4xVlhRMHgwb0VUd2ZfMFBwUDNvQUlKWGdtN2pSaGhMNktxN2hvdGdIU3ExNTg0RFk?oc=5",
+      "source": "Ubergizmo",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-09-29T14:43:00.000Z"
+    },
+    {
+      "title": "Google Will Stop Supporting ChromeOS in 2034, But Promises Googlebook OS Upgrade for \"Many Devices\"",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOS0ktTGt1U1ktVXRSNkJ6TUtndEcxZ292NW11cXNHMGdWM0lSVDhDOVlwMkx3MFlTRXljQkpFSVRxZ2haSzBQb3h2YU9OdWtRdHo3M0pjUGlPamliNE5DYjlVR2VKVTRyRGU5aHJFM3lmV3ZuN3pXdmd5dWowLWI5MUs5VGhwdW1majdMYWxGdm9wSTJiNERsUUVKeGdzRHh4c1RFdFhuT3ZQVXZyYkN5VW4tdVVMRWdBU3h2Y1lsZVFrV1lBWG9mT1NZaHJSdw?oc=5",
+      "source": "Thurrott.com",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-09-29T14:31:28.000Z"
+    },
+    {
+      "title": "Destroy Any Website",
+      "url": "https://destroy.spritefusion.com/",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-09-29T14:29:28.000Z"
+    },
+    {
+      "title": "hw-monitor 0.6 Released With Per-Process GPU Usage & Memory Reporting",
+      "url": "https://www.phoronix.com/news/hw-monitor-0.6",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-29T14:23:58.000Z"
+    },
+    {
+      "title": "NOCL Making Progress As Mesa Gallium/OpenCL Atop NVIDIA CUDA",
+      "url": "https://www.phoronix.com/news/NOCL-OpenCL-CUDA",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-29T13:53:05.000Z"
+    },
+    {
+      "title": "Mesa 26.3 Enables Intel's New Jay Shader Compiler By Default, Compile Times 55% Faster Or 66% Faster Than Windows",
+      "url": "https://www.phoronix.com/news/Mesa-26.3-Intel-Jay-Compiler",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-29T12:31:30.000Z"
+    },
+    {
+      "title": "BPF-Based Display Panel Drivers Being Explored For Linux",
+      "url": "https://www.phoronix.com/news/Linux-BPF-Panel-Drivers",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-29T12:10:26.000Z"
+    },
+    {
+      "title": "D7VK Reaches Maturity For Older Direct3D APIs Atop Vulkan",
+      "url": "https://www.phoronix.com/news/D7VK-2.3-Released",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-29T11:43:30.000Z"
+    },
+    {
+      "title": "Hero or hooligan: Heracles wrestles for a wife",
+      "url": "https://eclecticlight.co/2026/09/29/hero-or-hooligan-heracles-wrestles-for-a-wife/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-09-29T11:30:00.000Z"
+    },
+    {
+      "title": "Large Folios Able To Deliver Big Performance Gains For FUSE With Linux 7.4",
+      "url": "https://www.phoronix.com/news/FUSE-Large-Folios",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-29T10:30:23.000Z"
+    },
+    {
+      "title": "Igalia Improving The Firefox Experience For Valve's Steam Deck",
+      "url": "https://www.phoronix.com/news/Steam-Deck-Better-Firefox",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-29T10:15:26.000Z"
+    },
+    {
+      "title": "AMD Ryzen Zen 6 CPU Power Values Being Further Tuned For Linux",
+      "url": "https://www.phoronix.com/news/AMD-Zen-6-More-Client-Tuning",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-29T09:59:57.000Z"
+    },
+    {
+      "title": "Google Sets Mid-2034 End Date for ChromeOS Updates as Googlebook OS Takes Over",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMmd3MWJlWWFXc3VtOVI5d3NXVmt1WmtidEJ5U2pqd2RfUVRxamVHcjFTdlV0M21PSWRRQXEtbU1tRzMxblg0QkZuZzBvNDVCbDZ0TWRwNXhHQVltT1VoQldpbklLaXBOa1BEaEhRV1NiazV4dmFxYmJ0NkJEYTZlVlRfSXJWYU45bUNBYQ?oc=5",
+      "source": "Technology Org",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-09-29T09:41:59.000Z"
+    },
+    {
+      "title": "CoW — a stacking window manager for Wayland",
+      "url": "https://cow-wm.codeberg.page/cow/",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-09-29T09:07:37.000Z"
+    },
     {
       "title": "Apple has released an update to XProtect for all macOS",
       "url": "https://eclecticlight.co/2026/09/29/apple-has-released-an-update-to-xprotect-for-all-macos-41/",
@@ -24,6 +160,14 @@
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-09-29T02:15:36.000Z"
+    },
+    {
+      "title": "Newer Chromebooks Will Be Able to Upgrade to Googlebook OS",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVFl6QmhsbFdZV09QTzVXbG9JREszQmNRY1V0SkJERmMzTXJ3dklfdmtxTlRPbHlJU0RiNC1nOE5SNC1RRHhQVTdRbFdxUjd6NEMtUW9KQnUxZWxjQm1Ya2NDNExGUERnQkJsLXNoZUZFcWttaEhtRVlmVmZmU2dKNWlMZzRVSkpHQjcwZnFR?oc=5",
+      "source": "PCMag",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-09-29T02:11:03.000Z"
     },
     {
       "title": "‘When Did Google Get So F-Ing Weird?’",
@@ -64,14 +208,6 @@
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-09-28T22:41:40.000Z"
-    },
-    {
-      "title": "Newer Chromebooks Will Be Able to Upgrade to Googlebook OS",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVFl6QmhsbFdZV09QTzVXbG9JREszQmNRY1V0SkJERmMzTXJ3dklfdmtxTlRPbHlJU0RiNC1nOE5SNC1RRHhQVTdRbFdxUjd6NEMtUW9KQnUxZWxjQm1Ya2NDNExGUERnQkJsLXNoZUZFcWttaEhtRVlmVmZmU2dKNWlMZzRVSkpHQjcwZnFR?oc=5",
-      "source": "PCMag",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-09-28T22:06:13.000Z"
     },
     {
       "title": "Thoughts on Flash (2010)",
@@ -120,14 +256,6 @@
       "tag": "linux",
       "site": "https://www.phoronix.com/",
       "date": "2026-09-28T19:01:16.000Z"
-    },
-    {
-      "title": "★ Spitballing Predictions for Apple’s October",
-      "url": "https://daringfireball.net/2026/09/spitballing_predictions_for_apples_october",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-09-28T18:43:48.000Z"
     },
     {
       "title": "Even Google Search agrees that ‘Googlebook’ wasn’t a very good name choice",
@@ -250,14 +378,6 @@
       "date": "2026-09-28T13:20:24.000Z"
     },
     {
-      "title": "NVIDIA Vera SMT Performance Benchmarks",
-      "url": "https://www.phoronix.com/review/nvidia-vera-smt",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-28T12:54:23.000Z"
-    },
-    {
       "title": "In memoriam Helen Allingham and her paintings of a lost England",
       "url": "https://eclecticlight.co/2026/09/28/in-memoriam-helen-allingham-and-her-paintings-of-a-lost-england/",
       "source": "Eclectic Light",
@@ -266,44 +386,12 @@
       "date": "2026-09-28T11:30:00.000Z"
     },
     {
-      "title": "AMD PerfOpt To Deliver New Performance Optimization For AMD iGPUs With Linux 7.4",
-      "url": "https://www.phoronix.com/news/AMD-PerfOpt-Linux-7.4",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-28T11:26:08.000Z"
-    },
-    {
       "title": "Googlebook OS will be available for some Chromebooks.",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBTb1N0V1hPTVUtMENEazRkb2NBOW1teEp2aUhYTWt0WnFyVHF4ek5IOXRoTzc2Z3cxUTVQUWJZZ2wyZUtobmpyS054c1U2TlhtTHpEdXFWbUZBZDQ2VGJ2U3ctQ0k3R3dyREphNjVmbkdpeE1KOVNVQmZ1TQ?oc=5",
       "source": "The Verge",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-28T10:32:28.000Z"
-    },
-    {
-      "title": "openSUSE Leap 16.1 RC Released With New Immutable Mode",
-      "url": "https://www.phoronix.com/news/openSUSE-Leap-16.1-RC",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-28T10:20:22.000Z"
-    },
-    {
-      "title": "Linux 7.4 To Introduce The Steal Governor For Helping Virtualized Workloads",
-      "url": "https://www.phoronix.com/news/Linux-7.4-Land-Steal-Governor",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-28T10:12:53.000Z"
-    },
-    {
-      "title": "Shotcut 26.9 Video Editor Brings UI Improvements, Automatic Audio Ducking",
-      "url": "https://www.phoronix.com/news/Shotcut-26.9",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-28T09:44:50.000Z"
     },
     {
       "title": "Solutions to Saturday Mac riddles 379",
@@ -338,22 +426,6 @@
       "date": "2026-09-27T23:32:38.000Z"
     },
     {
-      "title": "Kernel prepatch 7.3-rc5",
-      "url": "https://lwn.net/Articles/1096959/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-09-27T21:40:51.000Z"
-    },
-    {
-      "title": "Linux 7.3-rc5 Released: \"Another Week, Another Large RC\"",
-      "url": "https://www.phoronix.com/news/Linux-7.3-rc5-Released",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-27T21:17:21.000Z"
-    },
-    {
       "title": "Mux: Turn Your Video Into Context",
       "url": "https://www.mux.com/?utm_campaign=fireball&utm_source=DF",
       "source": "Daring Fireball",
@@ -370,22 +442,6 @@
       "date": "2026-09-27T20:21:43.000Z"
     },
     {
-      "title": "Budgie 10.10.3 Released With Favorites In Budgie Menu, Labwc Bridge Improvements",
-      "url": "https://www.phoronix.com/news/Budgie-10.10.3-Released",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-27T17:37:07.000Z"
-    },
-    {
-      "title": "postmarketOS rebrands as Nura",
-      "url": "https://nura.eco/blog/2026/09/27/nura-rename/",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-09-27T17:34:21.000Z"
-    },
-    {
       "title": "Deshittification Part 2: Bypassing the App Store Gatekeeper",
       "url": "https://fabricati-diem.inform.social/post/deshittification-as-a-service-part2-bypassing-the-app-store-gatekeeper/",
       "source": "Lobsters · openbsd",
@@ -394,44 +450,12 @@
       "date": "2026-09-27T14:47:13.000Z"
     },
     {
-      "title": "Linux Kernel's LZ4 Compression Code Being Resynced For Better Performance & Cleanliness",
-      "url": "https://www.phoronix.com/news/Linux-LZ4-Clean-Resync",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-27T13:16:20.000Z"
-    },
-    {
       "title": "OpenBSD -current has moved to version 8.0",
       "url": "https://undeadly.org/cgi?action=article;sid=20260927120854",
       "source": "undeadly",
       "tag": "bsd",
       "site": "https://undeadly.org/",
       "date": "2026-09-27T12:08:54.000Z"
-    },
-    {
-      "title": "Critics against art: How John Singer Sargent was erased",
-      "url": "https://eclecticlight.co/2026/09/27/critics-against-art-how-john-singer-sargent-was-erased/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-09-27T11:30:00.000Z"
-    },
-    {
-      "title": "Intel Delivers A Significant Memory Hotplugging Performance Optimization For Linux",
-      "url": "https://www.phoronix.com/news/Linux-7.4-Faster-RAM-Hotplug",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-27T10:49:05.000Z"
-    },
-    {
-      "title": "Last Week on My Mac: Spinning plates",
-      "url": "https://eclecticlight.co/2026/09/27/last-week-on-my-mac-spinning-plates/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-09-27T07:00:00.000Z"
     },
     {
       "title": "I wasn't sure about Googlebooks, but after playing with two Snapdragon-powered laptops, I'm actually considering switching",
@@ -482,36 +506,12 @@
       "date": "2026-09-25T18:45:30.000Z"
     },
     {
-      "title": "Best Laptops for Android Users in 2026: Googlebook, Galaxy Book and More",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSUjlOMFJHYTBic3Z6azlSS0J2M0EtSHlBLVFiMlozOTRaak9GZ1pvekpNcEhJT1NiMDl0NUtkN2J5djBXaEpmaVZpY19nek5LNG5xQ1c1bTNrb2xIZWlBOS1KeWhkWGNuY1VMYzZFcWtRU3I3cXhRWnhmNmFIVmM?oc=5",
-      "source": "TechRepublic",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-09-25T11:39:36.000Z"
-    },
-    {
       "title": "Launching FreeBSD/EC2 desktop AMIs",
       "url": "https://www.daemonology.net/blog/2026-09-24-Launching-FreeBSD-EC2-desktop-AMIs.html",
       "source": "Lobsters · freebsd",
       "tag": "bsd",
       "site": "https://lobste.rs/t/freebsd",
       "date": "2026-09-25T01:17:51.000Z"
-    },
-    {
-      "title": "After hands-on time with Googlebooks, I understand why Google is excited — and why buyers might hesitate",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5sczhldjFiZG9NT1RjVnJ1S296cUtydF9nYlA4bU5aeDlnYWZuTG9HRHVYY1BWa1JKdE8yZHJvbDdLdkpFWlFLWlBqZndVbnB5dWNESGIzTnM3ZnlLNnVHUGRrelJEck9ZcGxv?oc=5",
-      "source": "MakeUseOf",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-09-25T00:00:00.000Z"
-    },
-    {
-      "title": "ASUS Googlebook 14: The First Gemini Intelligence AI Laptop",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTGdVbTNQV2RMZlctX3Y4WVdXQWFla0s5NExldGhYcmZQbXk2dTRSZkU1MDJ5S3RKb0ZzaUJPMFpvcERyMW0yejZBdDRvNjA2VmxJSkFmZlFqZ1JrOVVWcUhCUlBNS3Rjei1McGxrN05NSkxLTXlJMXFFRTFrTVRUNHM4SEM0cWt3eHc?oc=5",
-      "source": "ASUS Pressroom",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-09-24T19:31:00.000Z"
     },
     {
       "title": "The Bikeshed email — PHKs Bikeshed",
