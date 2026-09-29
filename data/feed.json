@@ -1,6 +1,86 @@
 {
-  "generated": "2026-09-29T15:57:33.198Z",
+  "generated": "2026-09-29T20:52:20.996Z",
   "items": [
+    {
+      "title": "Googlebook OS Is Here. Your Chromebook Might Get It. ChromeOS Won't.",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcE8xbWNhR1pJVFZWYmNkcnNITFVtRUdSVDg1WTkzNUZ6ZENIRDlQTlZwd3phbUNGS3hHdUpEUGd3eEhwSzB6LUlpLVdHNXJEMThfcmVDblZacGg4WHRYakswTzl5R0oySkpBdEQzaHJCdzJ6VXEyUEFFeE9GeThXR1RCOUNNSV9OSHZMekdsdVg?oc=5",
+      "source": "Vocal",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-09-29T19:34:09.000Z"
+    },
+    {
+      "title": "Nura (postmarketOS): The road to daily-drivable mainline phones",
+      "url": "https://postmarketos.org/blog/2026/09/29/road-to-main-category/",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-09-29T19:20:05.000Z"
+    },
+    {
+      "title": "AMD Boosting AI/LLM Performance For Radeon iGPUs As Much As 18~23% With Linux 7.4",
+      "url": "https://www.phoronix.com/review/amd-perfopt",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-29T18:57:00.000Z"
+    },
+    {
+      "title": "The Googlebook marketing push starts with Henry Cavill and his mustache",
+      "url": "https://9to5google.com/2026/09/29/googlebook-henry-cavill-marketing/",
+      "source": "9to5Google · Googlebook",
+      "tag": "android",
+      "site": "https://9to5google.com/guides/googlebook/",
+      "date": "2026-09-29T18:39:00.000Z"
+    },
+    {
+      "title": "[$] Native support for Rust on the GPU",
+      "url": "https://lwn.net/Articles/1095731/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-09-29T17:57:20.000Z"
+    },
+    {
+      "title": "Microsoft Announces General Availability Of WSLC: Linux Containers On Windows",
+      "url": "https://www.phoronix.com/news/Microsoft-WSLC-Linux-Containers",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-29T17:09:12.000Z"
+    },
+    {
+      "title": "Branch Target Reuse, BTR: New Spectre V2 Attack Targeting JIT Compilers",
+      "url": "https://www.phoronix.com/news/Branch-Target-Reuse-BTR",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-29T17:00:00.000Z"
+    },
+    {
+      "title": "Google Ends ChromeOS in 2034, Bets on Googlebook OS [2026]",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5tUW1mdm1XRjd1b3pmRHZ4Z2tmQkVZMXhVallRR0pOVWZfUzctVjlmbmJPR1hKb1BldWlXaEl4UHN0MVdEVmpfQTF4dkt0Q0x3bDU5ZmhqRVhNaFZqMU9KemFNTzhtZ3U0WGx6QXRNTnBHbGw2?oc=5",
+      "source": "shattered.io",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-09-29T16:26:58.000Z"
+    },
+    {
+      "title": "New Ubuntu Concept ISO For Snapdragon Laptops Brings First X2 Laptop Support",
+      "url": "https://www.phoronix.com/news/Ubuntu-26.10-Snapdragon-Concept",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-29T16:15:36.000Z"
+    },
+    {
+      "title": "Meta Releases OpenZL 0.3 With Decompression Speed 144% Faster Than Zstd",
+      "url": "https://www.phoronix.com/news/OpenZL-0.3-Released",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-29T16:06:44.000Z"
+    },
     {
       "title": "[$] The kernel from a PostgreSQL point of view",
       "url": "https://lwn.net/Articles/1096827/",
@@ -162,14 +242,6 @@
       "date": "2026-09-29T02:15:36.000Z"
     },
     {
-      "title": "Newer Chromebooks Will Be Able to Upgrade to Googlebook OS",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVFl6QmhsbFdZV09QTzVXbG9JREszQmNRY1V0SkJERmMzTXJ3dklfdmtxTlRPbHlJU0RiNC1nOE5SNC1RRHhQVTdRbFdxUjd6NEMtUW9KQnUxZWxjQm1Ya2NDNExGUERnQkJsLXNoZUZFcWttaEhtRVlmVmZmU2dKNWlMZzRVSkpHQjcwZnFR?oc=5",
-      "source": "PCMag",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-09-29T02:11:03.000Z"
-    },
-    {
       "title": "‘When Did Google Get So F-Ing Weird?’",
       "url": "https://sancho.bearblog.dev/google-weird/",
       "source": "Daring Fireball",
@@ -250,12 +322,12 @@
       "date": "2026-09-28T19:22:08.000Z"
     },
     {
-      "title": "SIMDjson 5.0 Released: Still Making JSON Parsing Even Faster",
-      "url": "https://www.phoronix.com/news/SIMDjson-5.0",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-28T19:01:16.000Z"
+      "title": "Newer Chromebooks Will Be Able to Upgrade to Googlebook OS",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVFl6QmhsbFdZV09QTzVXbG9JREszQmNRY1V0SkJERmMzTXJ3dklfdmtxTlRPbHlJU0RiNC1nOE5SNC1RRHhQVTdRbFdxUjd6NEMtUW9KQnUxZWxjQm1Ya2NDNExGUERnQkJsLXNoZUZFcWttaEhtRVlmVmZmU2dKNWlMZzRVSkpHQjcwZnFR?oc=5",
+      "source": "PCMag",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-09-28T18:29:05.000Z"
     },
     {
       "title": "Even Google Search agrees that ‘Googlebook’ wasn’t a very good name choice",
@@ -264,14 +336,6 @@
       "tag": "android",
       "site": "https://9to5google.com/guides/googlebook/",
       "date": "2026-09-28T18:25:00.000Z"
-    },
-    {
-      "title": "Git v2.56.0 released",
-      "url": "https://lwn.net/Articles/1097213/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-09-28T17:33:58.000Z"
     },
     {
       "title": "Apple has just released updates to Golden Gate 27.0.1, 26.7.1 and 15.8.1",
@@ -314,28 +378,12 @@
       "date": "2026-09-28T16:14:23.000Z"
     },
     {
-      "title": "Fedora 45 To Feature Smoother Experience For Snapdragon X1 Laptops",
-      "url": "https://www.phoronix.com/news/Fedora-45-Snapdragon-X1",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-28T16:07:16.000Z"
-    },
-    {
       "title": "Google will let some Chromebooks upgrade to Googlebook OS",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUC14Z1lzVWpNb25GcElodWg4aUxTck9fV1F2dkpBbklhLTROd0pSVGE5UmpOXzZtQWMyLW5ONnBpQktZcjBVY2tMR2huS2hMdDU1TUVMRERmdk1SMWpBUlRPSEhxdThUSTFpTVNZd2JzNzRRNnNyWlJsSUxfTHpCVFVwcmhBbzJ5ZnVSQld6VGhfV01IcmFtOHhXaTF2NklNSXVYeQ?oc=5",
       "source": "PCWorld",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-28T15:22:41.000Z"
-    },
-    {
-      "title": "[$] Reducing undefined behavior in the C language",
-      "url": "https://lwn.net/Articles/1095811/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-09-28T15:16:22.000Z"
     },
     {
       "title": "Google says Chromebook updates end in 2034, ‘many’ models move to Googlebook OS",
@@ -352,30 +400,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-28T15:15:00.000Z"
-    },
-    {
-      "title": "Security updates for Monday",
-      "url": "https://lwn.net/Articles/1097191/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-09-28T15:08:05.000Z"
-    },
-    {
-      "title": "Firefox 157 Now Available With Visual Refresh, WebRTC Hardware AV1 Decode",
-      "url": "https://www.phoronix.com/news/Firefox-157-Released",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-28T14:46:28.000Z"
-    },
-    {
-      "title": "Flatpak 1.18.4 Released With Important Security Fixes",
-      "url": "https://www.phoronix.com/news/Flatpak-1.18.4-Released",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-28T13:20:24.000Z"
     },
     {
       "title": "In memoriam Helen Allingham and her paintings of a lost England",
@@ -482,36 +506,20 @@
       "date": "2026-09-25T21:27:43.000Z"
     },
     {
-      "title": "Googlebook OS: Google manager Kuscher explains the switch to Android",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd1pXYXNBZXdZLWVUYTI4VlhJcmZiell5VktjdXNpcHU3M2RXbXdzRzdNVXpLa0N0N2pmV2M4UlpEUXhPV3FydDJMcnJPRXJ2WlowYlJEb2dEUjgydVd3NG9TVTlNZlBuUkF4RUQweG1zeG5PZkV6aGFpLVZibXVGcTJxaDByaGhJb0FDN0xJMm1Rd1lPblFYand3OEs1S2stTzkyaHJONjRxdncyZGdJ?oc=5",
-      "source": "heise online",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-09-25T19:22:00.000Z"
-    },
-    {
-      "title": "Android Circuit: Googlebook Questions, OnePlus 16 Appears, Honor X9e Launch",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNclM5SkVKTExKeTFEQk9tU19BN1lFNEdVZnlJZFZ4MjZ0NS1jblJiZ0pfd2dtcHNNYXVaQS1Gc1RMM1hzLXFaSkZMenE5eERZVnEzRVRlbzFiV29WZzRlNWN0RkNsV2FGZTdlcFpNTWZ4MFEyNTFyRnAzNnl5Tm5IYms4NkFaVGNIdXpfV0R0aUgwejNJWXpJLXdaRQ?oc=5",
-      "source": "Currently.com",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-09-25T18:45:30.000Z"
-    },
-    {
-      "title": "Android Circuit: Googlebook Questions, OnePlus 16 Appears, Honor X9e Launch",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQXlGbGMydkpVY0dfMms3TFo0NXpZc3M0a2JZaldIdEp6YW9OZFVOY1lNOFlrbWFDWndCcGJFbm1lSE9scU4yRXVHTl9nMExIaW9yYkdqNWZHWFdSOVB4UmpmdFc2eVFsVndDRWg2WFZ5Mkc5TDd6bF9GQS1vYUhzS3NabzFwLVZjQWFKQWVxeUV2WGZ0N2JMc3E3NHpDbVlXM2JXYk9yOFllelozcFdWTEQ0dUV5ZHR5Y1Qydy1veVVCMWdpVl9VU2JONWNMVzBUZG9qQkp2QUJDZms?oc=5",
-      "source": "Forbes",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-09-25T18:45:30.000Z"
-    },
-    {
       "title": "Launching FreeBSD/EC2 desktop AMIs",
       "url": "https://www.daemonology.net/blog/2026-09-24-Launching-FreeBSD-EC2-desktop-AMIs.html",
       "source": "Lobsters · freebsd",
       "tag": "bsd",
       "site": "https://lobste.rs/t/freebsd",
       "date": "2026-09-25T01:17:51.000Z"
+    },
+    {
+      "title": "Overview of AOOSTAR WTR Pro on *BSD",
+      "url": "https://www.tumfatig.net/2026/overview-of-aoostar-wtr-pro-on-bsd/",
+      "source": "Lobsters · openbsd",
+      "tag": "bsd",
+      "site": "https://lobste.rs/t/openbsd",
+      "date": "2026-09-21T11:00:40.000Z"
     },
     {
       "title": "The Bikeshed email — PHKs Bikeshed",
