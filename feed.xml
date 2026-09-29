@@ -5,8 +5,32 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Sep 2026 02:02:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 08:38:33 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Apple has released an update to XProtect for all macOS</title>
+      <link>https://eclecticlight.co/2026/09/29/apple-has-released-an-update-to-xprotect-for-all-macos-41/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/09/29/apple-has-released-an-update-to-xprotect-for-all-macos-41/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Tue, 29 Sep 2026 06:30:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Create an external boot disk in Golden Gate</title>
+      <link>https://eclecticlight.co/2026/09/29/create-an-external-boot-disk-in-golden-gate/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/09/29/create-an-external-boot-disk-in-golden-gate/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Tue, 29 Sep 2026 06:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bastardica</title>
+      <link>https://bastardica.mitpit.com/</link>
+      <guid isPermaLink="true">https://bastardica.mitpit.com/</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Tue, 29 Sep 2026 02:15:36 GMT</pubDate>
+    </item>
     <item>
       <title>‘When Did Google Get So F-Ing Weird?’</title>
       <link>https://sancho.bearblog.dev/google-weird/</link>
@@ -142,6 +166,14 @@
       <category>android</category>
       <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
       <pubDate>Mon, 28 Sep 2026 16:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google confirms ChromeOS phase out in 2034 — 10-year support lifetime cut short for some devices, company says it will support transition to Googlebook OS</title>
+      <link>https://news.google.com/rss/articles/CBMilwJBVV95cUxOMnNhTzhOeW13V0hrbm85SlN4aU1iNF9JNWFBNU1tM3l4Z19nSHNZUTBXNS1iUUphUFdoZVhxeU9zT05WbW9CcjQ2MmZnWDN1ZVhtUVphRnlEUlg2c2w1VjNpNkJLQzEyVGh0LXB4MWFfdFhzQlF6UDZ4eU1GTmNnYmdTNHFSaUJnMnlUb1pRRjh0MEFiWU9PaEg1Rjd5U3BvNGg3dTRLNVk0UWZVNWhVenhSYnhRSzJ3Vnp1MndPTktJc2E0NG1QbFdndTIyckhvNDQ3c01KaGo5VVV2Z2puVjRFeTMyYms0V3phTjFjZ0Vfd1hCTXFEUDhuQUxKcG9icE53dFl3MHZpRTV0bW1uQUZFNW1uVFU?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMilwJBVV95cUxOMnNhTzhOeW13V0hrbm85SlN4aU1iNF9JNWFBNU1tM3l4Z19nSHNZUTBXNS1iUUphUFdoZVhxeU9zT05WbW9CcjQ2MmZnWDN1ZVhtUVphRnlEUlg2c2w1VjNpNkJLQzEyVGh0LXB4MWFfdFhzQlF6UDZ4eU1GTmNnYmdTNHFSaUJnMnlUb1pRRjh0MEFiWU9PaEg1Rjd5U3BvNGg3dTRLNVk0UWZVNWhVenhSYnhRSzJ3Vnp1MndPTktJc2E0NG1QbFdndTIyckhvNDQ3c01KaGo5VVV2Z2puVjRFeTMyYms0V3phTjFjZ0Vfd1hCTXFEUDhuQUxKcG9icE53dFl3MHZpRTV0bW1uQUZFNW1uVFU?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">tomshardware.com</source>
+      <pubDate>Mon, 28 Sep 2026 16:38:07 GMT</pubDate>
     </item>
     <item>
       <title>Duo-Man</title>
@@ -374,38 +406,6 @@
       <category>linux</category>
       <source url="https://www.phoronix.com/">Phoronix</source>
       <pubDate>Sun, 27 Sep 2026 13:16:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenBSD -current has moved to version 8.0</title>
-      <link>https://undeadly.org/cgi?action=article;sid=20260927120854</link>
-      <guid isPermaLink="true">https://undeadly.org/cgi?action=article;sid=20260927120854</guid>
-      <category>bsd</category>
-      <source url="https://undeadly.org/">undeadly</source>
-      <pubDate>Sun, 27 Sep 2026 12:08:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Critics against art: How John Singer Sargent was erased</title>
-      <link>https://eclecticlight.co/2026/09/27/critics-against-art-how-john-singer-sargent-was-erased/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/09/27/critics-against-art-how-john-singer-sargent-was-erased/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Sun, 27 Sep 2026 11:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Intel Delivers A Significant Memory Hotplugging Performance Optimization For Linux</title>
-      <link>https://www.phoronix.com/news/Linux-7.4-Faster-RAM-Hotplug</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-Faster-RAM-Hotplug</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Sun, 27 Sep 2026 10:49:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Last Week on My Mac: Spinning plates</title>
-      <link>https://eclecticlight.co/2026/09/27/last-week-on-my-mac-spinning-plates/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/09/27/last-week-on-my-mac-spinning-plates/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Sun, 27 Sep 2026 07:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,6 +1,30 @@
 {
-  "generated": "2026-09-29T02:02:40.070Z",
+  "generated": "2026-09-29T08:38:33.903Z",
   "items": [
+    {
+      "title": "Apple has released an update to XProtect for all macOS",
+      "url": "https://eclecticlight.co/2026/09/29/apple-has-released-an-update-to-xprotect-for-all-macos-41/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-09-29T06:30:33.000Z"
+    },
+    {
+      "title": "Create an external boot disk in Golden Gate",
+      "url": "https://eclecticlight.co/2026/09/29/create-an-external-boot-disk-in-golden-gate/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-09-29T06:30:00.000Z"
+    },
+    {
+      "title": "Bastardica",
+      "url": "https://bastardica.mitpit.com/",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-09-29T02:15:36.000Z"
+    },
     {
       "title": "‘When Did Google Get So F-Ing Weird?’",
       "url": "https://sancho.bearblog.dev/google-weird/",
@@ -136,6 +160,14 @@
       "tag": "android",
       "site": "https://9to5google.com/guides/googlebook/",
       "date": "2026-09-28T16:50:00.000Z"
+    },
+    {
+      "title": "Google confirms ChromeOS phase out in 2034 — 10-year support lifetime cut short for some devices, company says it will support transition to Googlebook OS",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOMnNhTzhOeW13V0hrbm85SlN4aU1iNF9JNWFBNU1tM3l4Z19nSHNZUTBXNS1iUUphUFdoZVhxeU9zT05WbW9CcjQ2MmZnWDN1ZVhtUVphRnlEUlg2c2w1VjNpNkJLQzEyVGh0LXB4MWFfdFhzQlF6UDZ4eU1GTmNnYmdTNHFSaUJnMnlUb1pRRjh0MEFiWU9PaEg1Rjd5U3BvNGg3dTRLNVk0UWZVNWhVenhSYnhRSzJ3Vnp1MndPTktJc2E0NG1QbFdndTIyckhvNDQ3c01KaGo5VVV2Z2puVjRFeTMyYms0V3phTjFjZ0Vfd1hCTXFEUDhuQUxKcG9icE53dFl3MHZpRTV0bW1uQUZFNW1uVFU?oc=5",
+      "source": "tomshardware.com",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-09-28T16:38:07.000Z"
     },
     {
       "title": "Duo-Man",
@@ -402,30 +434,6 @@
       "date": "2026-09-27T07:00:00.000Z"
     },
     {
-      "title": "Reelizer Returns",
-      "url": "https://www.reelizer.com/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-09-26T21:08:08.000Z"
-    },
-    {
-      "title": "Alexandr Wang: ‘Why I’m Building Muse’",
-      "url": "https://x.com/alexandr_wang/status/2103551714536439951",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-09-26T20:34:54.000Z"
-    },
-    {
-      "title": "Apple’s Other Recent ‘Duo’",
-      "url": "https://support.apple.com/en-us/111812",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-09-26T19:41:39.000Z"
-    },
-    {
       "title": "I wasn't sure about Googlebooks, but after playing with two Snapdragon-powered laptops, I'm actually considering switching",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeEVmRHhENUVDYzhOcUFORkNNZ09MRE5wcHpXQUY4cGV3ZGFtX2RoeW1UR3ByQWxfb3ZCTXVlbEdiamNONC0zODVod0dFUFR4NzIwWXBBbTdySUxSdUZiRXNDa0EzUGR6RURlSTlYM1ZkSU1HdkFvM1p4Y2FldHFrSmItdFJ5dmJKNG8tbVJ0SGRodw?oc=5",
       "source": "Android Central",
@@ -504,14 +512,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-24T19:31:00.000Z"
-    },
-    {
-      "title": "Android’s Create My Widget ‘app’ detailed on phones, Googlebooks",
-      "url": "https://9to5google.com/2026/09/24/google-create-my-widget-app/",
-      "source": "9to5Google · Googlebook",
-      "tag": "android",
-      "site": "https://9to5google.com/guides/googlebook/",
-      "date": "2026-09-24T17:45:24.000Z"
     },
     {
       "title": "The Bikeshed email — PHKs Bikeshed",
