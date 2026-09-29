@@ -5,8 +5,56 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 28 Sep 2026 22:07:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 02:02:40 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>‘When Did Google Get So F-Ing Weird?’</title>
+      <link>https://sancho.bearblog.dev/google-weird/</link>
+      <guid isPermaLink="true">https://sancho.bearblog.dev/google-weird/</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Tue, 29 Sep 2026 01:51:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Joanna Stern Pokes the Pickle</title>
+      <link>https://www.youtube.com/watch?v=YNqYEMuoQAI</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=YNqYEMuoQAI</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Tue, 29 Sep 2026 01:42:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why Stolen Device Protection Makes Passwords Safer</title>
+      <link>https://sixcolors.com/post/2026/09/stolen-device-protection-passwords-glenn/</link>
+      <guid isPermaLink="true">https://sixcolors.com/post/2026/09/stolen-device-protection-passwords-glenn/</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Tue, 29 Sep 2026 00:43:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>&quot;Shiva&quot; Being Developed For Mesa Vulkan Drivers, Akin To Gallium3D</title>
+      <link>https://www.phoronix.com/news/Mesa-Shiva-For-Vulkan</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Mesa-Shiva-For-Vulkan</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Tue, 29 Sep 2026 00:32:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jeremy Stern’s Profile of Mark Zuckerberg for Colossus</title>
+      <link>https://colossus.com/article/mark-zuckerberg-profile/</link>
+      <guid isPermaLink="true">https://colossus.com/article/mark-zuckerberg-profile/</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Mon, 28 Sep 2026 22:41:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Newer Chromebooks Will Be Able to Upgrade to Googlebook OS</title>
+      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxQVFl6QmhsbFdZV09QTzVXbG9JREszQmNRY1V0SkJERmMzTXJ3dklfdmtxTlRPbHlJU0RiNC1nOE5SNC1RRHhQVTdRbFdxUjd6NEMtUW9KQnUxZWxjQm1Ya2NDNExGUERnQkJsLXNoZUZFcWttaEhtRVlmVmZmU2dKNWlMZzRVSkpHQjcwZnFR?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMijgFBVV95cUxQVFl6QmhsbFdZV09QTzVXbG9JREszQmNRY1V0SkJERmMzTXJ3dklfdmtxTlRPbHlJU0RiNC1nOE5SNC1RRHhQVTdRbFdxUjd6NEMtUW9KQnUxZWxjQm1Ya2NDNExGUERnQkJsLXNoZUZFcWttaEhtRVlmVmZmU2dKNWlMZzRVSkpHQjcwZnFR?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">PCMag</source>
+      <pubDate>Mon, 28 Sep 2026 22:06:13 GMT</pubDate>
+    </item>
     <item>
       <title>Thoughts on Flash (2010)</title>
       <link>https://web.archive.org/web/20100501010616/http://www.apple.com/hotnews/thoughts-on-flash/</link>
@@ -14,6 +62,14 @@
       <category>macos</category>
       <source url="https://lobste.rs/t/mac">Lobsters · mac</source>
       <pubDate>Mon, 28 Sep 2026 21:43:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>The first 5 Googlebook laptops are here, with an OS that blends Android and Gemini</title>
+      <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxOaTN3WXdEWldTWjNDWjFFTHpNX1hkX215bjI0TkoyY2RDWjFBa3ctbndZZ2RsTFpjR1BQcVM0S0NtbzliYXQ2RmRyTmJvd2tobTdhUG5Qa2thb1hFbjc0MVhUd2kzc0lMemJQb21pQm5NYnJOQ2o2V1pTRUtxSHNVcEtXNWpXRW02UVFVeERrVQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMijwFBVV95cUxOaTN3WXdEWldTWjNDWjFFTHpNX1hkX215bjI0TkoyY2RDWjFBa3ctbndZZ2RsTFpjR1BQcVM0S0NtbzliYXQ2RmRyTmJvd2tobTdhUG5Qa2thb1hFbjc0MVhUd2kzc0lMemJQb21pQm5NYnJOQ2o2V1pTRUtxSHNVcEtXNWpXRW02UVFVeERrVQ?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Mashable</source>
+      <pubDate>Mon, 28 Sep 2026 21:39:58 GMT</pubDate>
     </item>
     <item>
       <title>Muse, Instagram, and VLC Lookalike Rip-Offs in the Mac App Store</title>
@@ -174,14 +230,6 @@
       <category>linux</category>
       <source url="https://www.phoronix.com/">Phoronix</source>
       <pubDate>Mon, 28 Sep 2026 12:54:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>The first 5 Googlebook laptops are here, with an OS that blends Android and Gemini</title>
-      <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxOaTN3WXdEWldTWjNDWjFFTHpNX1hkX215bjI0TkoyY2RDWjFBa3ctbndZZ2RsTFpjR1BQcVM0S0NtbzliYXQ2RmRyTmJvd2tobTdhUG5Qa2thb1hFbjc0MVhUd2kzc0lMemJQb21pQm5NYnJOQ2o2V1pTRUtxSHNVcEtXNWpXRW02UVFVeERrVQ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMijwFBVV95cUxOaTN3WXdEWldTWjNDWjFFTHpNX1hkX215bjI0TkoyY2RDWjFBa3ctbndZZ2RsTFpjR1BQcVM0S0NtbzliYXQ2RmRyTmJvd2tobTdhUG5Qa2thb1hFbjc0MVhUd2kzc0lMemJQb21pQm5NYnJOQ2o2V1pTRUtxSHNVcEtXNWpXRW02UVFVeERrVQ?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Mashable</source>
-      <pubDate>Mon, 28 Sep 2026 12:24:02 GMT</pubDate>
     </item>
     <item>
       <title>In memoriam Helen Allingham and her paintings of a lost England</title>
@@ -352,60 +400,12 @@
       <pubDate>Sun, 27 Sep 2026 10:49:05 GMT</pubDate>
     </item>
     <item>
-      <title>New Linux Patches For Supporting Lenovo ThinkPad X1 Carbon G14's Second Camera</title>
-      <link>https://www.phoronix.com/news/Linux-X1-Carbon-G14-MIPI-Cam</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-X1-Carbon-G14-MIPI-Cam</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Sun, 27 Sep 2026 10:33:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Last Week on My Mac: Spinning plates</title>
       <link>https://eclecticlight.co/2026/09/27/last-week-on-my-mac-spinning-plates/</link>
       <guid isPermaLink="true">https://eclecticlight.co/2026/09/27/last-week-on-my-mac-spinning-plates/</guid>
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Sun, 27 Sep 2026 07:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Reelizer Returns</title>
-      <link>https://www.reelizer.com/</link>
-      <guid isPermaLink="true">https://www.reelizer.com/</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Sat, 26 Sep 2026 21:08:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Alexandr Wang: ‘Why I’m Building Muse’</title>
-      <link>https://x.com/alexandr_wang/status/2103551714536439951</link>
-      <guid isPermaLink="true">https://x.com/alexandr_wang/status/2103551714536439951</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Sat, 26 Sep 2026 20:34:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple’s Other Recent ‘Duo’</title>
-      <link>https://support.apple.com/en-us/111812</link>
-      <guid isPermaLink="true">https://support.apple.com/en-us/111812</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Sat, 26 Sep 2026 19:41:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>International Standard Paper Sizes</title>
-      <link>https://www.cl.cam.ac.uk/~mgk25/iso-paper.html</link>
-      <guid isPermaLink="true">https://www.cl.cam.ac.uk/~mgk25/iso-paper.html</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Sat, 26 Sep 2026 18:46:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Took the ‘Copilot+ PC’ Brand Out Behind the Shed</title>
-      <link>https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding</link>
-      <guid isPermaLink="true">https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Sat, 26 Sep 2026 16:53:14 GMT</pubDate>
     </item>
   </channel>
 </rss>
