@@ -5,8 +5,16 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Sep 2026 20:52:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 00:32:20 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Firefox 157.0 released</title>
+      <link>https://lwn.net/Articles/1097495/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1097495/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Tue, 29 Sep 2026 21:47:51 GMT</pubDate>
+    </item>
     <item>
       <title>Googlebook OS Is Here. Your Chromebook Might Get It. ChromeOS Won't.</title>
       <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxNcE8xbWNhR1pJVFZWYmNkcnNITFVtRUdSVDg1WTkzNUZ6ZENIRDlQTlZwd3phbUNGS3hHdUpEUGd3eEhwSzB6LUlpLVdHNXJEMThfcmVDblZacGg4WHRYakswTzl5R0oySkpBdEQzaHJCdzJ6VXEyUEFFeE9GeThXR1RCOUNNSV9OSHZMekdsdVg?oc=5</link>
@@ -40,6 +48,14 @@
       <pubDate>Tue, 29 Sep 2026 18:39:00 GMT</pubDate>
     </item>
     <item>
+      <title>Game on: Henry Cavill is putting Googlebook to the test</title>
+      <link>https://news.google.com/rss/articles/CBMingFBVV95cUxON0NNLVBCMVp5ZnlkbkI0NFJqWWJLU1RUUnJQcU5rU0lTVXJPTE9lOGYwT1laU2o5bmc3c2RzR1FPMHNZSVBFYTVPWHpOQm5kc1dsSmNIaVU3RzlBbzRHWXB5aDR3aGZ2VVd0TnpQdUh0M0ktSkl0MFdaSm9QLXNxWDgxRzF0Z0Jqc0xacGpIejByWU4wMU9GMlVhc2dpdw?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMingFBVV95cUxON0NNLVBCMVp5ZnlkbkI0NFJqWWJLU1RUUnJQcU5rU0lTVXJPTE9lOGYwT1laU2o5bmc3c2RzR1FPMHNZSVBFYTVPWHpOQm5kc1dsSmNIaVU3RzlBbzRHWXB5aDR3aGZ2VVd0TnpQdUh0M0ktSkl0MFdaSm9QLXNxWDgxRzF0Z0Jqc0xacGpIejByWU4wMU9GMlVhc2dpdw?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">blog.google</source>
+      <pubDate>Tue, 29 Sep 2026 18:10:04 GMT</pubDate>
+    </item>
+    <item>
       <title>[$] Native support for Rust on the GPU</title>
       <link>https://lwn.net/Articles/1095731/</link>
       <guid isPermaLink="true">https://lwn.net/Articles/1095731/</guid>
@@ -69,7 +85,7 @@
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMidEFVX3lxTE5tUW1mdm1XRjd1b3pmRHZ4Z2tmQkVZMXhVallRR0pOVWZfUzctVjlmbmJPR1hKb1BldWlXaEl4UHN0MVdEVmpfQTF4dkt0Q0x3bDU5ZmhqRVhNaFZqMU9KemFNTzhtZ3U0WGx6QXRNTnBHbGw2?oc=5</guid>
       <category>android</category>
       <source url="https://news.google.com/">shattered.io</source>
-      <pubDate>Tue, 29 Sep 2026 16:26:58 GMT</pubDate>
+      <pubDate>Tue, 29 Sep 2026 16:52:12 GMT</pubDate>
     </item>
     <item>
       <title>New Ubuntu Concept ISO For Snapdragon Laptops Brings First X2 Laptop Support</title>
@@ -150,6 +166,14 @@
       <category>linux</category>
       <source url="https://www.phoronix.com/">Phoronix</source>
       <pubDate>Tue, 29 Sep 2026 13:53:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>I Got My Hands on All the New Googlebooks. Are They Better Than Chromebooks?</title>
+      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNGhDUDRTT1Y5MUdsNVZTNDBWeEdLX1hKRm1ld2ZtMzRjMXpid1VoWUQ3RzFpdmpHRlBOaklfY2xkMUc1NzREbEw4RlBuMFgtSWVySG0zVHpYZGdWYnJOM3hCRGI4RWtScFA0STFVaVVkQXY0TmRuWFpxUWthUmppVWpzaDJfVy1NMTBvaE5YWVczM0otRUNUWnAwRG9melBDTHJMc2djakdhSmM?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNGhDUDRTT1Y5MUdsNVZTNDBWeEdLX1hKRm1ld2ZtMzRjMXpid1VoWUQ3RzFpdmpHRlBOaklfY2xkMUc1NzREbEw4RlBuMFgtSWVySG0zVHpYZGdWYnJOM3hCRGI4RWtScFA0STFVaVVkQXY0TmRuWFpxUWthUmppVWpzaDJfVy1NMTBvaE5YWVczM0otRUNUWnAwRG9melBDTHJMc2djakdhSmM?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">PCMag</source>
+      <pubDate>Tue, 29 Sep 2026 13:00:14 GMT</pubDate>
     </item>
     <item>
       <title>Mesa 26.3 Enables Intel's New Jay Shader Compiler By Default, Compile Times 55% Faster Or 66% Faster Than Windows</title>
@@ -320,14 +344,6 @@
       <pubDate>Mon, 28 Sep 2026 19:36:57 GMT</pubDate>
     </item>
     <item>
-      <title>NVIDIA Developing &quot;Display Config Server&quot; To Improve Linux/Wayland On Display Walls</title>
-      <link>https://www.phoronix.com/news/NVIDIA-Display-Config-Server</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/NVIDIA-Display-Config-Server</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Mon, 28 Sep 2026 19:22:08 GMT</pubDate>
-    </item>
-    <item>
       <title>Newer Chromebooks Will Be Able to Upgrade to Googlebook OS</title>
       <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxQVFl6QmhsbFdZV09QTzVXbG9JREszQmNRY1V0SkJERmMzTXJ3dklfdmtxTlRPbHlJU0RiNC1nOE5SNC1RRHhQVTdRbFdxUjd6NEMtUW9KQnUxZWxjQm1Ya2NDNExGUERnQkJsLXNoZUZFcWttaEhtRVlmVmZmU2dKNWlMZzRVSkpHQjcwZnFR?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMijgFBVV95cUxQVFl6QmhsbFdZV09QTzVXbG9JREszQmNRY1V0SkJERmMzTXJ3dklfdmtxTlRPbHlJU0RiNC1nOE5SNC1RRHhQVTdRbFdxUjd6NEMtUW9KQnUxZWxjQm1Ya2NDNExGUERnQkJsLXNoZUZFcWttaEhtRVlmVmZmU2dKNWlMZzRVSkpHQjcwZnFR?oc=5</guid>
@@ -390,22 +406,6 @@
       <category>android</category>
       <source url="https://news.google.com/">PCWorld</source>
       <pubDate>Mon, 28 Sep 2026 15:22:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google says Chromebook updates end in 2034, ‘many’ models move to Googlebook OS</title>
-      <link>https://9to5google.com/2026/09/28/google-details-chromebook-updates-through-2034-many-models-move-to-googlebook-os/</link>
-      <guid isPermaLink="true">https://9to5google.com/2026/09/28/google-details-chromebook-updates-through-2034-many-models-move-to-googlebook-os/</guid>
-      <category>android</category>
-      <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
-      <pubDate>Mon, 28 Sep 2026 15:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google says Chromebook updates end in 2034, ‘many’ models move to Googlebook OS</title>
-      <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxPeVVIWUN5NU93aTNFTE1pa1hoay1TSXhuUzBmREtoRU15YlNranVzdnFqazVXQzFILU5uQVAzZzVhWDZEM056LUl1OXprQWdwSFc3R3dwZkdvRkM2bjBHMGNvRllDT18ta1NzR1V6TTVQSTZfR3RJY3dWR0N3d3kzdVpzX2ZhRXJxRWlSblpvN3lJX1Y1Rm9qR3pYcDFBY2FwLTNxOVNpZGx4a2ZFN0d0ZWUtOEktdw?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMitgFBVV95cUxPeVVIWUN5NU93aTNFTE1pa1hoay1TSXhuUzBmREtoRU15YlNranVzdnFqazVXQzFILU5uQVAzZzVhWDZEM056LUl1OXprQWdwSFc3R3dwZkdvRkM2bjBHMGNvRllDT18ta1NzR1V6TTVQSTZfR3RJY3dWR0N3d3kzdVpzX2ZhRXJxRWlSblpvN3lJX1Y1Rm9qR3pYcDFBY2FwLTNxOVNpZGx4a2ZFN0d0ZWUtOEktdw?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">9to5Google</source>
-      <pubDate>Mon, 28 Sep 2026 15:15:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

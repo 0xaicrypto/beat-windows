@@ -1,6 +1,14 @@
 {
-  "generated": "2026-09-29T20:52:20.996Z",
+  "generated": "2026-09-30T00:32:20.325Z",
   "items": [
+    {
+      "title": "Firefox 157.0 released",
+      "url": "https://lwn.net/Articles/1097495/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-09-29T21:47:51.000Z"
+    },
     {
       "title": "Googlebook OS Is Here. Your Chromebook Might Get It. ChromeOS Won't.",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcE8xbWNhR1pJVFZWYmNkcnNITFVtRUdSVDg1WTkzNUZ6ZENIRDlQTlZwd3phbUNGS3hHdUpEUGd3eEhwSzB6LUlpLVdHNXJEMThfcmVDblZacGg4WHRYakswTzl5R0oySkpBdEQzaHJCdzJ6VXEyUEFFeE9GeThXR1RCOUNNSV9OSHZMekdsdVg?oc=5",
@@ -34,6 +42,14 @@
       "date": "2026-09-29T18:39:00.000Z"
     },
     {
+      "title": "Game on: Henry Cavill is putting Googlebook to the test",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxON0NNLVBCMVp5ZnlkbkI0NFJqWWJLU1RUUnJQcU5rU0lTVXJPTE9lOGYwT1laU2o5bmc3c2RzR1FPMHNZSVBFYTVPWHpOQm5kc1dsSmNIaVU3RzlBbzRHWXB5aDR3aGZ2VVd0TnpQdUh0M0ktSkl0MFdaSm9QLXNxWDgxRzF0Z0Jqc0xacGpIejByWU4wMU9GMlVhc2dpdw?oc=5",
+      "source": "blog.google",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-09-29T18:10:04.000Z"
+    },
+    {
       "title": "[$] Native support for Rust on the GPU",
       "url": "https://lwn.net/Articles/1095731/",
       "source": "LWN",
@@ -63,7 +79,7 @@
       "source": "shattered.io",
       "tag": "android",
       "site": "https://news.google.com/",
-      "date": "2026-09-29T16:26:58.000Z"
+      "date": "2026-09-29T16:52:12.000Z"
     },
     {
       "title": "New Ubuntu Concept ISO For Snapdragon Laptops Brings First X2 Laptop Support",
@@ -144,6 +160,14 @@
       "tag": "linux",
       "site": "https://www.phoronix.com/",
       "date": "2026-09-29T13:53:05.000Z"
+    },
+    {
+      "title": "I Got My Hands on All the New Googlebooks. Are They Better Than Chromebooks?",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNGhDUDRTT1Y5MUdsNVZTNDBWeEdLX1hKRm1ld2ZtMzRjMXpid1VoWUQ3RzFpdmpHRlBOaklfY2xkMUc1NzREbEw4RlBuMFgtSWVySG0zVHpYZGdWYnJOM3hCRGI4RWtScFA0STFVaVVkQXY0TmRuWFpxUWthUmppVWpzaDJfVy1NMTBvaE5YWVczM0otRUNUWnAwRG9melBDTHJMc2djakdhSmM?oc=5",
+      "source": "PCMag",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-09-29T13:00:14.000Z"
     },
     {
       "title": "Mesa 26.3 Enables Intel's New Jay Shader Compiler By Default, Compile Times 55% Faster Or 66% Faster Than Windows",
@@ -314,14 +338,6 @@
       "date": "2026-09-28T19:36:57.000Z"
     },
     {
-      "title": "NVIDIA Developing \"Display Config Server\" To Improve Linux/Wayland On Display Walls",
-      "url": "https://www.phoronix.com/news/NVIDIA-Display-Config-Server",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-28T19:22:08.000Z"
-    },
-    {
       "title": "Newer Chromebooks Will Be Able to Upgrade to Googlebook OS",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVFl6QmhsbFdZV09QTzVXbG9JREszQmNRY1V0SkJERmMzTXJ3dklfdmtxTlRPbHlJU0RiNC1nOE5SNC1RRHhQVTdRbFdxUjd6NEMtUW9KQnUxZWxjQm1Ya2NDNExGUERnQkJsLXNoZUZFcWttaEhtRVlmVmZmU2dKNWlMZzRVSkpHQjcwZnFR?oc=5",
       "source": "PCMag",
@@ -488,22 +504,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-26T15:08:00.000Z"
-    },
-    {
-      "title": "I thought I'd never pay $1,000 for a Googlebook, but Google convinced me otherwise",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOemtHZEJ1N1JEcmszdVRKV2huRU5qZmlUSmxidjk5RGhrcHN3TDl3alZhS0o0ZUUtMDZHbVFOQkgtbVBHU0lQZXp1STMwQlhNM19OdUJSbF9EVll4NHRsRDJSQi1BV3VMU3BSSjR2MWZXX0QxUmtqV1M5a3g3dUhoX3RmMlBtSDdVaTA5NA?oc=5",
-      "source": "Android Police",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-09-26T10:00:10.000Z"
-    },
-    {
-      "title": "Googlebook Cheat Sheet: Price, Models, Gemini Features, and Everything to Know",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE00QUNlWUFPNDhwTEJpRDFTNGYtd1JzcURqZVNDRUY4RndObXVDWmNpU0pLdl84cWQ4Rm9FbGltUkduSDA4QkRJVjRJQ2QtRnR2VDdQcGdsMnAzbkYzN0l5a1dLU0tWM2w3LW9sU0syMU5tOU0?oc=5",
-      "source": "techrepublic.com",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-09-25T21:27:43.000Z"
     },
     {
       "title": "Launching FreeBSD/EC2 desktop AMIs",
