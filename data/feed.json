@@ -1,6 +1,30 @@
 {
-  "generated": "2026-09-30T19:26:39.180Z",
+  "generated": "2026-09-30T23:55:29.544Z",
   "items": [
+    {
+      "title": "Google Antigravity Googlebook app hits the Play Store",
+      "url": "https://9to5google.com/2026/09/30/google-antigravity-play-store/",
+      "source": "9to5Google · Googlebook",
+      "tag": "android",
+      "site": "https://9to5google.com/guides/googlebook/",
+      "date": "2026-09-30T21:58:54.000Z"
+    },
+    {
+      "title": "[Sponsor] WorkOS: How SSO Works and the Fastest Way to Add It",
+      "url": "https://workos.com/guide/the-developers-guide-to-sso?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-09-30T20:17:32.000Z"
+    },
+    {
+      "title": "Gurman Reports Apple Is Launching New ‘Smart Home’ Products on October 13",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-30/apple-is-finally-ready-to-enter-its-next-big-category-the-smart-home?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDc3MDk0MywiZXhwIjoxNzkxMzc1NzQzLCJhcnRpY2xlSWQiOiJUTTM0SDRUOTZPU0cwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.11wEtJfuMwCkznTkepXugZ2wuZTmxO9CdsNJLAcBd1M",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-09-30T20:14:31.000Z"
+    },
     {
       "title": "Anthropic’s IPO Prospectus Is a Fucking Doozy",
       "url": "https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/",
@@ -44,7 +68,7 @@
     {
       "title": "ChromeOS vs Googlebook OS: Support, Apps and Upgrades",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBEYzJaMXBYSHdJb1hCbTE2Y3oydnZFTldZZ1JoUmd3WDNKRmRJdXlQS0dLX01DOVNqVkw5MEl5OW85d1gtUjJFSG5jdHJjLTlmQzVOSTBJZWhNVzNlNFZ0QU9zXzBwX3JjZzgxQjVfVktjMUgxU3Vr?oc=5",
-      "source": "techrepublic.com",
+      "source": "TechRepublic",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-30T16:00:31.000Z"
@@ -464,30 +488,6 @@
       "tag": "android",
       "site": "https://9to5google.com/guides/googlebook/",
       "date": "2026-09-28T15:15:00.000Z"
-    },
-    {
-      "title": "Google says Chromebook updates end in 2034, ‘many’ models move to Googlebook OS",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeVVIWUN5NU93aTNFTE1pa1hoay1TSXhuUzBmREtoRU15YlNranVzdnFqazVXQzFILU5uQVAzZzVhWDZEM056LUl1OXprQWdwSFc3R3dwZkdvRkM2bjBHMGNvRllDT18ta1NzR1V6TTVQSTZfR3RJY3dWR0N3d3kzdVpzX2ZhRXJxRWlSblpvN3lJX1Y1Rm9qR3pYcDFBY2FwLTNxOVNpZGx4a2ZFN0d0ZWUtOEktdw?oc=5",
-      "source": "9to5Google",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-09-28T15:15:00.000Z"
-    },
-    {
-      "title": "In memoriam Helen Allingham and her paintings of a lost England",
-      "url": "https://eclecticlight.co/2026/09/28/in-memoriam-helen-allingham-and-her-paintings-of-a-lost-england/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-09-28T11:30:00.000Z"
-    },
-    {
-      "title": "Solutions to Saturday Mac riddles 379",
-      "url": "https://eclecticlight.co/2026/09/28/solutions-to-saturday-mac-riddles-379/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-09-28T08:00:00.000Z"
     },
     {
       "title": "Deshittification Part 2: Bypassing the App Store Gatekeeper",

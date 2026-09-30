@@ -5,8 +5,32 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 30 Sep 2026 19:26:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 23:55:29 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Google Antigravity Googlebook app hits the Play Store</title>
+      <link>https://9to5google.com/2026/09/30/google-antigravity-play-store/</link>
+      <guid isPermaLink="true">https://9to5google.com/2026/09/30/google-antigravity-play-store/</guid>
+      <category>android</category>
+      <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
+      <pubDate>Wed, 30 Sep 2026 21:58:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Sponsor] WorkOS: How SSO Works and the Fastest Way to Add It</title>
+      <link>https://workos.com/guide/the-developers-guide-to-sso?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026</link>
+      <guid isPermaLink="true">https://workos.com/guide/the-developers-guide-to-sso?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Wed, 30 Sep 2026 20:17:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gurman Reports Apple Is Launching New ‘Smart Home’ Products on October 13</title>
+      <link>https://www.bloomberg.com/news/articles/2026-09-30/apple-is-finally-ready-to-enter-its-next-big-category-the-smart-home?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDc3MDk0MywiZXhwIjoxNzkxMzc1NzQzLCJhcnRpY2xlSWQiOiJUTTM0SDRUOTZPU0cwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.11wEtJfuMwCkznTkepXugZ2wuZTmxO9CdsNJLAcBd1M</link>
+      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-09-30/apple-is-finally-ready-to-enter-its-next-big-category-the-smart-home?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDc3MDk0MywiZXhwIjoxNzkxMzc1NzQzLCJhcnRpY2xlSWQiOiJUTTM0SDRUOTZPU0cwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.11wEtJfuMwCkznTkepXugZ2wuZTmxO9CdsNJLAcBd1M</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Wed, 30 Sep 2026 20:14:31 GMT</pubDate>
+    </item>
     <item>
       <title>Anthropic’s IPO Prospectus Is a Fucking Doozy</title>
       <link>https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/</link>
@@ -52,7 +76,7 @@
       <link>https://news.google.com/rss/articles/CBMid0FVX3lxTFBEYzJaMXBYSHdJb1hCbTE2Y3oydnZFTldZZ1JoUmd3WDNKRmRJdXlQS0dLX01DOVNqVkw5MEl5OW85d1gtUjJFSG5jdHJjLTlmQzVOSTBJZWhNVzNlNFZ0QU9zXzBwX3JjZzgxQjVfVktjMUgxU3Vr?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMid0FVX3lxTFBEYzJaMXBYSHdJb1hCbTE2Y3oydnZFTldZZ1JoUmd3WDNKRmRJdXlQS0dLX01DOVNqVkw5MEl5OW85d1gtUjJFSG5jdHJjLTlmQzVOSTBJZWhNVzNlNFZ0QU9zXzBwX3JjZzgxQjVfVktjMUgxU3Vr?oc=5</guid>
       <category>android</category>
-      <source url="https://news.google.com/">techrepublic.com</source>
+      <source url="https://news.google.com/">TechRepublic</source>
       <pubDate>Wed, 30 Sep 2026 16:00:31 GMT</pubDate>
     </item>
     <item>
@@ -382,30 +406,6 @@
       <category>android</category>
       <source url="https://news.google.com/">Mashable</source>
       <pubDate>Mon, 28 Sep 2026 21:39:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Muse, Instagram, and VLC Lookalike Rip-Offs in the Mac App Store</title>
-      <link>https://lapcatsoftware.com/articles/2026/9/8.html</link>
-      <guid isPermaLink="true">https://lapcatsoftware.com/articles/2026/9/8.html</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Mon, 28 Sep 2026 19:50:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google Will Support ChromeOS Until 2034 As It Shifts To Googlebook OS</title>
-      <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxNendhdGlHRFRSYnZ6MVNzbFhPVmZzeVNOaTYtY3ktdHIyaDNSTi0zR19QRF9yVmZoRE81VlpYbHduVFhhbFl5MkF6RG93bWNJWTNRVXRJYXBBMmJRRUlBV3JHMk9kNHF0Q2ttdl9NUHM3NURpU1B5VGZSUVNHc1BHTUlrUkd6cWVxaUx3THN4UXczODRvVGpvcThodnFHSEFLVGI2elZB?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMipgFBVV95cUxNendhdGlHRFRSYnZ6MVNzbFhPVmZzeVNOaTYtY3ktdHIyaDNSTi0zR19QRF9yVmZoRE81VlpYbHduVFhhbFl5MkF6RG93bWNJWTNRVXRJYXBBMmJRRUlBV3JHMk9kNHF0Q2ttdl9NUHM3NURpU1B5VGZSUVNHc1BHTUlrUkd6cWVxaUx3THN4UXczODRvVGpvcThodnFHSEFLVGI2elZB?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Engadget</source>
-      <pubDate>Mon, 28 Sep 2026 19:36:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Newer Chromebooks Will Be Able to Upgrade to Googlebook OS</title>
-      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxQVFl6QmhsbFdZV09QTzVXbG9JREszQmNRY1V0SkJERmMzTXJ3dklfdmtxTlRPbHlJU0RiNC1nOE5SNC1RRHhQVTdRbFdxUjd6NEMtUW9KQnUxZWxjQm1Ya2NDNExGUERnQkJsLXNoZUZFcWttaEhtRVlmVmZmU2dKNWlMZzRVSkpHQjcwZnFR?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMijgFBVV95cUxQVFl6QmhsbFdZV09QTzVXbG9JREszQmNRY1V0SkJERmMzTXJ3dklfdmtxTlRPbHlJU0RiNC1nOE5SNC1RRHhQVTdRbFdxUjd6NEMtUW9KQnUxZWxjQm1Ya2NDNExGUERnQkJsLXNoZUZFcWttaEhtRVlmVmZmU2dKNWlMZzRVSkpHQjcwZnFR?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">PCMag</source>
-      <pubDate>Mon, 28 Sep 2026 18:29:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
