@@ -5,8 +5,48 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 30 Sep 2026 00:32:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 06:48:43 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>How does APFS handle encryption keys?</title>
+      <link>https://eclecticlight.co/2026/09/30/how-does-apfs-handle-encryption-keys/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/09/30/how-does-apfs-handle-encryption-keys/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Wed, 30 Sep 2026 06:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apple has released another update to XProtect for all macOS</title>
+      <link>https://eclecticlight.co/2026/09/30/apple-has-released-another-update-to-xprotect-for-all-macos/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/09/30/apple-has-released-another-update-to-xprotect-for-all-macos/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Wed, 30 Sep 2026 06:02:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fake Express Packages on npm Spread a Linux Worm</title>
+      <link>https://safedep.io/dirtyblanket-express-impersonation-npm</link>
+      <guid isPermaLink="true">https://safedep.io/dirtyblanket-express-impersonation-npm</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Wed, 30 Sep 2026 04:05:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Googlebook Launches with Intel Core Ultra Series 3 Processors</title>
+      <link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRC1Edk83QjdDemRmenpkRzcwdWxmU0VoM1lDbXNqXzFvbG9IaFpNZ3pqRERzaFVtM3pXaElGSzlhM3dJcnUxeHlzQ1FRbVZBWlFhTFJ3RXo5WnljUzJhN2ZqeHkzQ2JIOUVmQUh0aXNoOFNGZlozRTFlNm02OEV1T2VJYUNwa3lmeldGU2ZQSUFrczBvOXBMYXNNVmsyekc1VVpDRnVMRVF2Q0hMMXZ5WDVERGtkWWtxZU0tdWR1Z2dWRnNLNFBRVWNHQktsVTRKMWww?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRC1Edk83QjdDemRmenpkRzcwdWxmU0VoM1lDbXNqXzFvbG9IaFpNZ3pqRERzaFVtM3pXaElGSzlhM3dJcnUxeHlzQ1FRbVZBWlFhTFJ3RXo5WnljUzJhN2ZqeHkzQ2JIOUVmQUh0aXNoOFNGZlozRTFlNm02OEV1T2VJYUNwa3lmeldGU2ZQSUFrczBvOXBMYXNNVmsyekc1VVpDRnVMRVF2Q0hMMXZ5WDVERGtkWWtxZU0tdWR1Z2dWRnNLNFBRVWNHQktsVTRKMWww?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Intel</source>
+      <pubDate>Wed, 30 Sep 2026 00:51:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Archinstall 4.5 For Arch Linux Brings AArch64 Improvements, RT Kernel Options</title>
+      <link>https://www.phoronix.com/news/Arch-Linux-Archinstall-4.5</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Arch-Linux-Archinstall-4.5</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Wed, 30 Sep 2026 00:25:51 GMT</pubDate>
+    </item>
     <item>
       <title>Firefox 157.0 released</title>
       <link>https://lwn.net/Articles/1097495/</link>
@@ -240,14 +280,6 @@
       <pubDate>Tue, 29 Sep 2026 09:41:59 GMT</pubDate>
     </item>
     <item>
-      <title>CoW — a stacking window manager for Wayland</title>
-      <link>https://cow-wm.codeberg.page/cow/</link>
-      <guid isPermaLink="true">https://cow-wm.codeberg.page/cow/</guid>
-      <category>linux</category>
-      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
-      <pubDate>Tue, 29 Sep 2026 09:07:37 GMT</pubDate>
-    </item>
-    <item>
       <title>Apple has released an update to XProtect for all macOS</title>
       <link>https://eclecticlight.co/2026/09/29/apple-has-released-an-update-to-xprotect-for-all-macos-41/</link>
       <guid isPermaLink="true">https://eclecticlight.co/2026/09/29/apple-has-released-an-update-to-xprotect-for-all-macos-41/</guid>
@@ -294,14 +326,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Tue, 29 Sep 2026 00:43:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>&quot;Shiva&quot; Being Developed For Mesa Vulkan Drivers, Akin To Gallium3D</title>
-      <link>https://www.phoronix.com/news/Mesa-Shiva-For-Vulkan</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Mesa-Shiva-For-Vulkan</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Tue, 29 Sep 2026 00:32:08 GMT</pubDate>
     </item>
     <item>
       <title>Jeremy Stern’s Profile of Mark Zuckerberg for Colossus</title>
@@ -382,30 +406,6 @@
       <category>android</category>
       <source url="https://news.google.com/">tomshardware.com</source>
       <pubDate>Mon, 28 Sep 2026 16:38:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Duo-Man</title>
-      <link>https://x.com/viditb/status/2104103592726765722</link>
-      <guid isPermaLink="true">https://x.com/viditb/status/2104103592726765722</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Mon, 28 Sep 2026 16:35:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>HardenedBSD August / September 2026 Status Report</title>
-      <link>https://hardenedbsd.org/article/shawn-webb/2026-09-27/hardenedbsd-august-september-2026-status-report</link>
-      <guid isPermaLink="true">https://hardenedbsd.org/article/shawn-webb/2026-09-27/hardenedbsd-august-september-2026-status-report</guid>
-      <category>bsd</category>
-      <source url="https://lobste.rs/t/freebsd">Lobsters · freebsd</source>
-      <pubDate>Mon, 28 Sep 2026 16:14:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google will let some Chromebooks upgrade to Googlebook OS</title>
-      <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxNUC14Z1lzVWpNb25GcElodWg4aUxTck9fV1F2dkpBbklhLTROd0pSVGE5UmpOXzZtQWMyLW5ONnBpQktZcjBVY2tMR2huS2hMdDU1TUVMRERmdk1SMWpBUlRPSEhxdThUSTFpTVNZd2JzNzRRNnNyWlJsSUxfTHpCVFVwcmhBbzJ5ZnVSQld6VGhfV01IcmFtOHhXaTF2NklNSXVYeQ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMipAFBVV95cUxNUC14Z1lzVWpNb25GcElodWg4aUxTck9fV1F2dkpBbklhLTROd0pSVGE5UmpOXzZtQWMyLW5ONnBpQktZcjBVY2tMR2huS2hMdDU1TUVMRERmdk1SMWpBUlRPSEhxdThUSTFpTVNZd2JzNzRRNnNyWlJsSUxfTHpCVFVwcmhBbzJ5ZnVSQld6VGhfV01IcmFtOHhXaTF2NklNSXVYeQ?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">PCWorld</source>
-      <pubDate>Mon, 28 Sep 2026 15:22:41 GMT</pubDate>
     </item>
   </channel>
 </rss>

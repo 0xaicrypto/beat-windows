@@ -1,6 +1,46 @@
 {
-  "generated": "2026-09-30T00:32:20.325Z",
+  "generated": "2026-09-30T06:48:43.857Z",
   "items": [
+    {
+      "title": "How does APFS handle encryption keys?",
+      "url": "https://eclecticlight.co/2026/09/30/how-does-apfs-handle-encryption-keys/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-09-30T06:30:00.000Z"
+    },
+    {
+      "title": "Apple has released another update to XProtect for all macOS",
+      "url": "https://eclecticlight.co/2026/09/30/apple-has-released-another-update-to-xprotect-for-all-macos/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-09-30T06:02:26.000Z"
+    },
+    {
+      "title": "Fake Express Packages on npm Spread a Linux Worm",
+      "url": "https://safedep.io/dirtyblanket-express-impersonation-npm",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-09-30T04:05:15.000Z"
+    },
+    {
+      "title": "Googlebook Launches with Intel Core Ultra Series 3 Processors",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRC1Edk83QjdDemRmenpkRzcwdWxmU0VoM1lDbXNqXzFvbG9IaFpNZ3pqRERzaFVtM3pXaElGSzlhM3dJcnUxeHlzQ1FRbVZBWlFhTFJ3RXo5WnljUzJhN2ZqeHkzQ2JIOUVmQUh0aXNoOFNGZlozRTFlNm02OEV1T2VJYUNwa3lmeldGU2ZQSUFrczBvOXBMYXNNVmsyekc1VVpDRnVMRVF2Q0hMMXZ5WDVERGtkWWtxZU0tdWR1Z2dWRnNLNFBRVWNHQktsVTRKMWww?oc=5",
+      "source": "Intel",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-09-30T00:51:46.000Z"
+    },
+    {
+      "title": "Archinstall 4.5 For Arch Linux Brings AArch64 Improvements, RT Kernel Options",
+      "url": "https://www.phoronix.com/news/Arch-Linux-Archinstall-4.5",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-30T00:25:51.000Z"
+    },
     {
       "title": "Firefox 157.0 released",
       "url": "https://lwn.net/Articles/1097495/",
@@ -234,14 +274,6 @@
       "date": "2026-09-29T09:41:59.000Z"
     },
     {
-      "title": "CoW — a stacking window manager for Wayland",
-      "url": "https://cow-wm.codeberg.page/cow/",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-09-29T09:07:37.000Z"
-    },
-    {
       "title": "Apple has released an update to XProtect for all macOS",
       "url": "https://eclecticlight.co/2026/09/29/apple-has-released-an-update-to-xprotect-for-all-macos-41/",
       "source": "Eclectic Light",
@@ -288,14 +320,6 @@
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-09-29T00:43:51.000Z"
-    },
-    {
-      "title": "\"Shiva\" Being Developed For Mesa Vulkan Drivers, Akin To Gallium3D",
-      "url": "https://www.phoronix.com/news/Mesa-Shiva-For-Vulkan",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-29T00:32:08.000Z"
     },
     {
       "title": "Jeremy Stern’s Profile of Mark Zuckerberg for Colossus",
@@ -466,22 +490,6 @@
       "date": "2026-09-27T23:32:38.000Z"
     },
     {
-      "title": "Mux: Turn Your Video Into Context",
-      "url": "https://www.mux.com/?utm_campaign=fireball&utm_source=DF",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-09-27T20:22:00.000Z"
-    },
-    {
-      "title": "Katie Notopoulos on Alexandr Wang’s ‘Faux-Hallmark Pap’",
-      "url": "https://x.com/katienotopoulos/status/2103993429659386026",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-09-27T20:21:43.000Z"
-    },
-    {
       "title": "Deshittification Part 2: Bypassing the App Store Gatekeeper",
       "url": "https://fabricati-diem.inform.social/post/deshittification-as-a-service-part2-bypassing-the-app-store-gatekeeper/",
       "source": "Lobsters · openbsd",
@@ -496,14 +504,6 @@
       "tag": "bsd",
       "site": "https://undeadly.org/",
       "date": "2026-09-27T12:08:54.000Z"
-    },
-    {
-      "title": "I wasn't sure about Googlebooks, but after playing with two Snapdragon-powered laptops, I'm actually considering switching",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeEVmRHhENUVDYzhOcUFORkNNZ09MRE5wcHpXQUY4cGV3ZGFtX2RoeW1UR3ByQWxfb3ZCTXVlbEdiamNONC0zODVod0dFUFR4NzIwWXBBbTdySUxSdUZiRXNDa0EzUGR6RURlSTlYM1ZkSU1HdkFvM1p4Y2FldHFrSmItdFJ5dmJKNG8tbVJ0SGRodw?oc=5",
-      "source": "Android Central",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-09-26T15:08:00.000Z"
     },
     {
       "title": "Launching FreeBSD/EC2 desktop AMIs",
@@ -584,14 +584,6 @@
       "tag": "bsd",
       "site": "https://news.ycombinator.com/",
       "date": "2026-09-02T17:44:24.000Z"
-    },
-    {
-      "title": "Repeating Ourselves Less with M4",
-      "url": "https://nemin.hu/httpd-macros/index.html",
-      "source": "Lobsters · openbsd",
-      "tag": "bsd",
-      "site": "https://lobste.rs/t/openbsd",
-      "date": "2026-08-31T04:10:47.000Z"
     }
   ]
 }
