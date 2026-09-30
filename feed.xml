@@ -5,8 +5,104 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 30 Sep 2026 06:48:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 13:50:30 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Security updates for Wednesday</title>
+      <link>https://lwn.net/Articles/1097753/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1097753/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Wed, 30 Sep 2026 13:20:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qt 6.12 LTS Released With QML Hot Reloading, StyleKit In Experimental Form</title>
+      <link>https://www.phoronix.com/news/Qt-6.12-LTS-Released</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Qt-6.12-LTS-Released</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Wed, 30 Sep 2026 13:20:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rusticl Had A Great Year For Rust OpenCL In Mesa With 3.1 Support, More Drivers</title>
+      <link>https://www.phoronix.com/news/Rusticl-2026</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Rusticl-2026</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Wed, 30 Sep 2026 13:03:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux 7.4 To Support The NPU On AMD Ryzen AI Max 400 Series &quot;Gorgon Halo&quot;</title>
+      <link>https://www.phoronix.com/news/AMD-Gorgon-Halo-NPU-LInux</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/AMD-Gorgon-Halo-NPU-LInux</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Wed, 30 Sep 2026 12:20:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dumb Servers, Smart Clients: Distributing Images with Quarry</title>
+      <link>https://amutable.com/blog/distributing-images-quarry</link>
+      <guid isPermaLink="true">https://amutable.com/blog/distributing-images-quarry</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Wed, 30 Sep 2026 12:18:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>snowdesktop: Immutable Debian desktop for developers</title>
+      <link>https://github.com/frostyard/snowdesktop</link>
+      <guid isPermaLink="true">https://github.com/frostyard/snowdesktop</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Wed, 30 Sep 2026 11:51:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Portraits of trees: Pine</title>
+      <link>https://eclecticlight.co/2026/09/30/portraits-of-trees-pine/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/09/30/portraits-of-trees-pine/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Wed, 30 Sep 2026 11:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Proposal To Set ARM64 Kernel Stack Size At Boot Time To Reduce Memory Consumption</title>
+      <link>https://www.phoronix.com/news/ARM64-Linux-Stack-Size-Boot</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/ARM64-Linux-Stack-Size-Boot</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Wed, 30 Sep 2026 10:27:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Intel Media Driver 2026Q3 Introduces Crescent Island Support</title>
+      <link>https://www.phoronix.com/news/Intel-Media-Crescent-Island</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Intel-Media-Crescent-Island</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Wed, 30 Sep 2026 10:11:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>I bought a Chromebook instead of waiting for Googlebooks; here's why</title>
+      <link>https://news.google.com/rss/articles/CBMiekFVX3lxTE82X3U3T2RWYXo5WWpqMnROQ3dhVmpERWViUmdBSVhubVdFYV80VlJYa3JoX0ZwTWpNckF5aDAzNWZZQlBBRnFHX190RmFWU0l2akVlLXZtclZRZFdNa3NlZlBGQzJHRVhTRDhvS1lEYmZWTWcxVjNhUzBn?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiekFVX3lxTE82X3U3T2RWYXo5WWpqMnROQ3dhVmpERWViUmdBSVhubVdFYV80VlJYa3JoX0ZwTWpNckF5aDAzNWZZQlBBRnFHX190RmFWU0l2akVlLXZtclZRZFdNa3NlZlBGQzJHRVhTRDhvS1lEYmZWTWcxVjNhUzBn?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Android Police</source>
+      <pubDate>Wed, 30 Sep 2026 10:00:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mesa Developers To Work Toward Eliminating TGSI IR</title>
+      <link>https://www.phoronix.com/news/Mesa-Toward-Eliminating-TGSI</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Mesa-Toward-Eliminating-TGSI</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Wed, 30 Sep 2026 09:55:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Googlebook Launches with Intel Core Ultra Series 3 Processors</title>
+      <link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRC1Edk83QjdDemRmenpkRzcwdWxmU0VoM1lDbXNqXzFvbG9IaFpNZ3pqRERzaFVtM3pXaElGSzlhM3dJcnUxeHlzQ1FRbVZBWlFhTFJ3RXo5WnljUzJhN2ZqeHkzQ2JIOUVmQUh0aXNoOFNGZlozRTFlNm02OEV1T2VJYUNwa3lmeldGU2ZQSUFrczBvOXBMYXNNVmsyekc1VVpDRnVMRVF2Q0hMMXZ5WDVERGtkWWtxZU0tdWR1Z2dWRnNLNFBRVWNHQktsVTRKMWww?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRC1Edk83QjdDemRmenpkRzcwdWxmU0VoM1lDbXNqXzFvbG9IaFpNZ3pqRERzaFVtM3pXaElGSzlhM3dJcnUxeHlzQ1FRbVZBWlFhTFJ3RXo5WnljUzJhN2ZqeHkzQ2JIOUVmQUh0aXNoOFNGZlozRTFlNm02OEV1T2VJYUNwa3lmeldGU2ZQSUFrczBvOXBMYXNNVmsyekc1VVpDRnVMRVF2Q0hMMXZ5WDVERGtkWWtxZU0tdWR1Z2dWRnNLNFBRVWNHQktsVTRKMWww?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Intel</source>
+      <pubDate>Wed, 30 Sep 2026 09:17:04 GMT</pubDate>
+    </item>
     <item>
       <title>How does APFS handle encryption keys?</title>
       <link>https://eclecticlight.co/2026/09/30/how-does-apfs-handle-encryption-keys/</link>
@@ -30,14 +126,6 @@
       <category>linux</category>
       <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
       <pubDate>Wed, 30 Sep 2026 04:05:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Googlebook Launches with Intel Core Ultra Series 3 Processors</title>
-      <link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRC1Edk83QjdDemRmenpkRzcwdWxmU0VoM1lDbXNqXzFvbG9IaFpNZ3pqRERzaFVtM3pXaElGSzlhM3dJcnUxeHlzQ1FRbVZBWlFhTFJ3RXo5WnljUzJhN2ZqeHkzQ2JIOUVmQUh0aXNoOFNGZlozRTFlNm02OEV1T2VJYUNwa3lmeldGU2ZQSUFrczBvOXBMYXNNVmsyekc1VVpDRnVMRVF2Q0hMMXZ5WDVERGtkWWtxZU0tdWR1Z2dWRnNLNFBRVWNHQktsVTRKMWww?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRC1Edk83QjdDemRmenpkRzcwdWxmU0VoM1lDbXNqXzFvbG9IaFpNZ3pqRERzaFVtM3pXaElGSzlhM3dJcnUxeHlzQ1FRbVZBWlFhTFJ3RXo5WnljUzJhN2ZqeHkzQ2JIOUVmQUh0aXNoOFNGZlozRTFlNm02OEV1T2VJYUNwa3lmeldGU2ZQSUFrczBvOXBMYXNNVmsyekc1VVpDRnVMRVF2Q0hMMXZ5WDVERGtkWWtxZU0tdWR1Z2dWRnNLNFBRVWNHQktsVTRKMWww?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Intel</source>
-      <pubDate>Wed, 30 Sep 2026 00:51:46 GMT</pubDate>
     </item>
     <item>
       <title>Archinstall 4.5 For Arch Linux Brings AArch64 Improvements, RT Kernel Options</title>
@@ -152,14 +240,6 @@
       <pubDate>Tue, 29 Sep 2026 15:42:30 GMT</pubDate>
     </item>
     <item>
-      <title>Security updates for Tuesday</title>
-      <link>https://lwn.net/Articles/1097466/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1097466/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Tue, 29 Sep 2026 15:38:42 GMT</pubDate>
-    </item>
-    <item>
       <title>Follow-Up on my Spitballed Predictions for Apple’s October</title>
       <link>https://daringfireball.net/2026/09/spitballing_predictions_for_apples_october</link>
       <guid isPermaLink="true">https://daringfireball.net/2026/09/spitballing_predictions_for_apples_october</guid>
@@ -192,22 +272,6 @@
       <pubDate>Tue, 29 Sep 2026 14:29:28 GMT</pubDate>
     </item>
     <item>
-      <title>hw-monitor 0.6 Released With Per-Process GPU Usage &amp; Memory Reporting</title>
-      <link>https://www.phoronix.com/news/hw-monitor-0.6</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/hw-monitor-0.6</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Tue, 29 Sep 2026 14:23:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>NOCL Making Progress As Mesa Gallium/OpenCL Atop NVIDIA CUDA</title>
-      <link>https://www.phoronix.com/news/NOCL-OpenCL-CUDA</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/NOCL-OpenCL-CUDA</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Tue, 29 Sep 2026 13:53:05 GMT</pubDate>
-    </item>
-    <item>
       <title>I Got My Hands on All the New Googlebooks. Are They Better Than Chromebooks?</title>
       <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNGhDUDRTT1Y5MUdsNVZTNDBWeEdLX1hKRm1ld2ZtMzRjMXpid1VoWUQ3RzFpdmpHRlBOaklfY2xkMUc1NzREbEw4RlBuMFgtSWVySG0zVHpYZGdWYnJOM3hCRGI4RWtScFA0STFVaVVkQXY0TmRuWFpxUWthUmppVWpzaDJfVy1NMTBvaE5YWVczM0otRUNUWnAwRG9melBDTHJMc2djakdhSmM?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNGhDUDRTT1Y5MUdsNVZTNDBWeEdLX1hKRm1ld2ZtMzRjMXpid1VoWUQ3RzFpdmpHRlBOaklfY2xkMUc1NzREbEw4RlBuMFgtSWVySG0zVHpYZGdWYnJOM3hCRGI4RWtScFA0STFVaVVkQXY0TmRuWFpxUWthUmppVWpzaDJfVy1NMTBvaE5YWVczM0otRUNUWnAwRG9melBDTHJMc2djakdhSmM?oc=5</guid>
@@ -216,60 +280,12 @@
       <pubDate>Tue, 29 Sep 2026 13:00:14 GMT</pubDate>
     </item>
     <item>
-      <title>Mesa 26.3 Enables Intel's New Jay Shader Compiler By Default, Compile Times 55% Faster Or 66% Faster Than Windows</title>
-      <link>https://www.phoronix.com/news/Mesa-26.3-Intel-Jay-Compiler</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Mesa-26.3-Intel-Jay-Compiler</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Tue, 29 Sep 2026 12:31:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>BPF-Based Display Panel Drivers Being Explored For Linux</title>
-      <link>https://www.phoronix.com/news/Linux-BPF-Panel-Drivers</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-BPF-Panel-Drivers</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Tue, 29 Sep 2026 12:10:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>D7VK Reaches Maturity For Older Direct3D APIs Atop Vulkan</title>
-      <link>https://www.phoronix.com/news/D7VK-2.3-Released</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/D7VK-2.3-Released</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Tue, 29 Sep 2026 11:43:30 GMT</pubDate>
-    </item>
-    <item>
       <title>Hero or hooligan: Heracles wrestles for a wife</title>
       <link>https://eclecticlight.co/2026/09/29/hero-or-hooligan-heracles-wrestles-for-a-wife/</link>
       <guid isPermaLink="true">https://eclecticlight.co/2026/09/29/hero-or-hooligan-heracles-wrestles-for-a-wife/</guid>
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Tue, 29 Sep 2026 11:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Large Folios Able To Deliver Big Performance Gains For FUSE With Linux 7.4</title>
-      <link>https://www.phoronix.com/news/FUSE-Large-Folios</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/FUSE-Large-Folios</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Tue, 29 Sep 2026 10:30:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Igalia Improving The Firefox Experience For Valve's Steam Deck</title>
-      <link>https://www.phoronix.com/news/Steam-Deck-Better-Firefox</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Steam-Deck-Better-Firefox</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Tue, 29 Sep 2026 10:15:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>AMD Ryzen Zen 6 CPU Power Values Being Further Tuned For Linux</title>
-      <link>https://www.phoronix.com/news/AMD-Zen-6-More-Client-Tuning</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/AMD-Zen-6-More-Client-Tuning</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Tue, 29 Sep 2026 09:59:57 GMT</pubDate>
     </item>
     <item>
       <title>Google Sets Mid-2034 End Date for ChromeOS Updates as Googlebook OS Takes Over</title>
@@ -390,22 +406,6 @@
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Mon, 28 Sep 2026 17:27:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Lenovo’s first Googlebook actually costs $200 less than announced, and it’s not the only one</title>
-      <link>https://9to5google.com/2026/09/28/lenovo-googlebook-price/</link>
-      <guid isPermaLink="true">https://9to5google.com/2026/09/28/lenovo-googlebook-price/</guid>
-      <category>android</category>
-      <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
-      <pubDate>Mon, 28 Sep 2026 16:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google confirms ChromeOS phase out in 2034 — 10-year support lifetime cut short for some devices, company says it will support transition to Googlebook OS</title>
-      <link>https://news.google.com/rss/articles/CBMilwJBVV95cUxOMnNhTzhOeW13V0hrbm85SlN4aU1iNF9JNWFBNU1tM3l4Z19nSHNZUTBXNS1iUUphUFdoZVhxeU9zT05WbW9CcjQ2MmZnWDN1ZVhtUVphRnlEUlg2c2w1VjNpNkJLQzEyVGh0LXB4MWFfdFhzQlF6UDZ4eU1GTmNnYmdTNHFSaUJnMnlUb1pRRjh0MEFiWU9PaEg1Rjd5U3BvNGg3dTRLNVk0UWZVNWhVenhSYnhRSzJ3Vnp1MndPTktJc2E0NG1QbFdndTIyckhvNDQ3c01KaGo5VVV2Z2puVjRFeTMyYms0V3phTjFjZ0Vfd1hCTXFEUDhuQUxKcG9icE53dFl3MHZpRTV0bW1uQUZFNW1uVFU?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMilwJBVV95cUxOMnNhTzhOeW13V0hrbm85SlN4aU1iNF9JNWFBNU1tM3l4Z19nSHNZUTBXNS1iUUphUFdoZVhxeU9zT05WbW9CcjQ2MmZnWDN1ZVhtUVphRnlEUlg2c2w1VjNpNkJLQzEyVGh0LXB4MWFfdFhzQlF6UDZ4eU1GTmNnYmdTNHFSaUJnMnlUb1pRRjh0MEFiWU9PaEg1Rjd5U3BvNGg3dTRLNVk0UWZVNWhVenhSYnhRSzJ3Vnp1MndPTktJc2E0NG1QbFdndTIyckhvNDQ3c01KaGo5VVV2Z2puVjRFeTMyYms0V3phTjFjZ0Vfd1hCTXFEUDhuQUxKcG9icE53dFl3MHZpRTV0bW1uQUZFNW1uVFU?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">tomshardware.com</source>
-      <pubDate>Mon, 28 Sep 2026 16:38:07 GMT</pubDate>
     </item>
   </channel>
 </rss>

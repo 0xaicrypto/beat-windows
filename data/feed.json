@@ -1,6 +1,102 @@
 {
-  "generated": "2026-09-30T06:48:43.857Z",
+  "generated": "2026-09-30T13:50:30.187Z",
   "items": [
+    {
+      "title": "Security updates for Wednesday",
+      "url": "https://lwn.net/Articles/1097753/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-09-30T13:20:42.000Z"
+    },
+    {
+      "title": "Qt 6.12 LTS Released With QML Hot Reloading, StyleKit In Experimental Form",
+      "url": "https://www.phoronix.com/news/Qt-6.12-LTS-Released",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-30T13:20:00.000Z"
+    },
+    {
+      "title": "Rusticl Had A Great Year For Rust OpenCL In Mesa With 3.1 Support, More Drivers",
+      "url": "https://www.phoronix.com/news/Rusticl-2026",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-30T13:03:20.000Z"
+    },
+    {
+      "title": "Linux 7.4 To Support The NPU On AMD Ryzen AI Max 400 Series \"Gorgon Halo\"",
+      "url": "https://www.phoronix.com/news/AMD-Gorgon-Halo-NPU-LInux",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-30T12:20:14.000Z"
+    },
+    {
+      "title": "Dumb Servers, Smart Clients: Distributing Images with Quarry",
+      "url": "https://amutable.com/blog/distributing-images-quarry",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-09-30T12:18:22.000Z"
+    },
+    {
+      "title": "snowdesktop: Immutable Debian desktop for developers",
+      "url": "https://github.com/frostyard/snowdesktop",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-09-30T11:51:27.000Z"
+    },
+    {
+      "title": "Portraits of trees: Pine",
+      "url": "https://eclecticlight.co/2026/09/30/portraits-of-trees-pine/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-09-30T11:30:00.000Z"
+    },
+    {
+      "title": "Proposal To Set ARM64 Kernel Stack Size At Boot Time To Reduce Memory Consumption",
+      "url": "https://www.phoronix.com/news/ARM64-Linux-Stack-Size-Boot",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-30T10:27:00.000Z"
+    },
+    {
+      "title": "Intel Media Driver 2026Q3 Introduces Crescent Island Support",
+      "url": "https://www.phoronix.com/news/Intel-Media-Crescent-Island",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-30T10:11:06.000Z"
+    },
+    {
+      "title": "I bought a Chromebook instead of waiting for Googlebooks; here's why",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE82X3U3T2RWYXo5WWpqMnROQ3dhVmpERWViUmdBSVhubVdFYV80VlJYa3JoX0ZwTWpNckF5aDAzNWZZQlBBRnFHX190RmFWU0l2akVlLXZtclZRZFdNa3NlZlBGQzJHRVhTRDhvS1lEYmZWTWcxVjNhUzBn?oc=5",
+      "source": "Android Police",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-09-30T10:00:10.000Z"
+    },
+    {
+      "title": "Mesa Developers To Work Toward Eliminating TGSI IR",
+      "url": "https://www.phoronix.com/news/Mesa-Toward-Eliminating-TGSI",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-30T09:55:14.000Z"
+    },
+    {
+      "title": "Googlebook Launches with Intel Core Ultra Series 3 Processors",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRC1Edk83QjdDemRmenpkRzcwdWxmU0VoM1lDbXNqXzFvbG9IaFpNZ3pqRERzaFVtM3pXaElGSzlhM3dJcnUxeHlzQ1FRbVZBWlFhTFJ3RXo5WnljUzJhN2ZqeHkzQ2JIOUVmQUh0aXNoOFNGZlozRTFlNm02OEV1T2VJYUNwa3lmeldGU2ZQSUFrczBvOXBMYXNNVmsyekc1VVpDRnVMRVF2Q0hMMXZ5WDVERGtkWWtxZU0tdWR1Z2dWRnNLNFBRVWNHQktsVTRKMWww?oc=5",
+      "source": "Intel",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-09-30T09:17:04.000Z"
+    },
     {
       "title": "How does APFS handle encryption keys?",
       "url": "https://eclecticlight.co/2026/09/30/how-does-apfs-handle-encryption-keys/",
@@ -24,14 +120,6 @@
       "tag": "linux",
       "site": "https://lobste.rs/t/linux",
       "date": "2026-09-30T04:05:15.000Z"
-    },
-    {
-      "title": "Googlebook Launches with Intel Core Ultra Series 3 Processors",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRC1Edk83QjdDemRmenpkRzcwdWxmU0VoM1lDbXNqXzFvbG9IaFpNZ3pqRERzaFVtM3pXaElGSzlhM3dJcnUxeHlzQ1FRbVZBWlFhTFJ3RXo5WnljUzJhN2ZqeHkzQ2JIOUVmQUh0aXNoOFNGZlozRTFlNm02OEV1T2VJYUNwa3lmeldGU2ZQSUFrczBvOXBMYXNNVmsyekc1VVpDRnVMRVF2Q0hMMXZ5WDVERGtkWWtxZU0tdWR1Z2dWRnNLNFBRVWNHQktsVTRKMWww?oc=5",
-      "source": "Intel",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-09-30T00:51:46.000Z"
     },
     {
       "title": "Archinstall 4.5 For Arch Linux Brings AArch64 Improvements, RT Kernel Options",
@@ -146,14 +234,6 @@
       "date": "2026-09-29T15:42:30.000Z"
     },
     {
-      "title": "Security updates for Tuesday",
-      "url": "https://lwn.net/Articles/1097466/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-09-29T15:38:42.000Z"
-    },
-    {
       "title": "Follow-Up on my Spitballed Predictions for Apple’s October",
       "url": "https://daringfireball.net/2026/09/spitballing_predictions_for_apples_october",
       "source": "Daring Fireball",
@@ -186,22 +266,6 @@
       "date": "2026-09-29T14:29:28.000Z"
     },
     {
-      "title": "hw-monitor 0.6 Released With Per-Process GPU Usage & Memory Reporting",
-      "url": "https://www.phoronix.com/news/hw-monitor-0.6",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-29T14:23:58.000Z"
-    },
-    {
-      "title": "NOCL Making Progress As Mesa Gallium/OpenCL Atop NVIDIA CUDA",
-      "url": "https://www.phoronix.com/news/NOCL-OpenCL-CUDA",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-29T13:53:05.000Z"
-    },
-    {
       "title": "I Got My Hands on All the New Googlebooks. Are They Better Than Chromebooks?",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNGhDUDRTT1Y5MUdsNVZTNDBWeEdLX1hKRm1ld2ZtMzRjMXpid1VoWUQ3RzFpdmpHRlBOaklfY2xkMUc1NzREbEw4RlBuMFgtSWVySG0zVHpYZGdWYnJOM3hCRGI4RWtScFA0STFVaVVkQXY0TmRuWFpxUWthUmppVWpzaDJfVy1NMTBvaE5YWVczM0otRUNUWnAwRG9melBDTHJMc2djakdhSmM?oc=5",
       "source": "PCMag",
@@ -210,60 +274,12 @@
       "date": "2026-09-29T13:00:14.000Z"
     },
     {
-      "title": "Mesa 26.3 Enables Intel's New Jay Shader Compiler By Default, Compile Times 55% Faster Or 66% Faster Than Windows",
-      "url": "https://www.phoronix.com/news/Mesa-26.3-Intel-Jay-Compiler",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-29T12:31:30.000Z"
-    },
-    {
-      "title": "BPF-Based Display Panel Drivers Being Explored For Linux",
-      "url": "https://www.phoronix.com/news/Linux-BPF-Panel-Drivers",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-29T12:10:26.000Z"
-    },
-    {
-      "title": "D7VK Reaches Maturity For Older Direct3D APIs Atop Vulkan",
-      "url": "https://www.phoronix.com/news/D7VK-2.3-Released",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-29T11:43:30.000Z"
-    },
-    {
       "title": "Hero or hooligan: Heracles wrestles for a wife",
       "url": "https://eclecticlight.co/2026/09/29/hero-or-hooligan-heracles-wrestles-for-a-wife/",
       "source": "Eclectic Light",
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-09-29T11:30:00.000Z"
-    },
-    {
-      "title": "Large Folios Able To Deliver Big Performance Gains For FUSE With Linux 7.4",
-      "url": "https://www.phoronix.com/news/FUSE-Large-Folios",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-29T10:30:23.000Z"
-    },
-    {
-      "title": "Igalia Improving The Firefox Experience For Valve's Steam Deck",
-      "url": "https://www.phoronix.com/news/Steam-Deck-Better-Firefox",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-29T10:15:26.000Z"
-    },
-    {
-      "title": "AMD Ryzen Zen 6 CPU Power Values Being Further Tuned For Linux",
-      "url": "https://www.phoronix.com/news/AMD-Zen-6-More-Client-Tuning",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-29T09:59:57.000Z"
     },
     {
       "title": "Google Sets Mid-2034 End Date for ChromeOS Updates as Googlebook OS Takes Over",
@@ -472,22 +488,6 @@
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-09-28T06:30:00.000Z"
-    },
-    {
-      "title": "Your Chromebook could soon get Google’s new Googlebook experience",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcTB0SWVCN1JEajlicnJBUkhZWWJJTW1keE1qeHFvR0lWdVBMYTctY21kR2RJM0VVN21RRXFaVUl1RXRYbWo4WVFLc1hic0xhWUhxVzV3a2pCSDU2TzRmZWxGSFBkMWhNdDJydGhBRmJrUmR1TDBWLWRBelItVEU5eGhaamRSVHpSZThJUEdkbVpvOEVEWlZXaHREb05TSXpyUGN5OTBUcHM?oc=5",
-      "source": "Digital Trends",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-09-28T06:23:24.000Z"
-    },
-    {
-      "title": "EX-ARRR: Sailing the 0-click Seas",
-      "url": "https://ironpeak.be/blog/ex-arrr-sailing-the-0-click-seas/",
-      "source": "Lobsters · mac",
-      "tag": "macos",
-      "site": "https://lobste.rs/t/mac",
-      "date": "2026-09-27T23:32:38.000Z"
     },
     {
       "title": "Deshittification Part 2: Bypassing the App Store Gatekeeper",
