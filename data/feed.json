@@ -1,6 +1,110 @@
 {
-  "generated": "2026-09-30T13:50:30.187Z",
+  "generated": "2026-09-30T19:26:39.180Z",
   "items": [
+    {
+      "title": "Anthropic’s IPO Prospectus Is a Fucking Doozy",
+      "url": "https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-09-30T19:23:42.000Z"
+    },
+    {
+      "title": "More AI In Open-Source, CachyOS, Ryzen AI Halo, Framework Laptop 13 Pro & Other Q3 Hits",
+      "url": "https://www.phoronix.com/news/Q3-2026-Highlights",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-30T18:57:43.000Z"
+    },
+    {
+      "title": "EDG C/C++ Front-End Open-Sourced",
+      "url": "https://www.phoronix.com/news/EDG-CPP-Open-Sourced",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-30T17:53:32.000Z"
+    },
+    {
+      "title": "Googlebook Launches with Intel Core Ultra Series 3 Processors",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRC1Edk83QjdDemRmenpkRzcwdWxmU0VoM1lDbXNqXzFvbG9IaFpNZ3pqRERzaFVtM3pXaElGSzlhM3dJcnUxeHlzQ1FRbVZBWlFhTFJ3RXo5WnljUzJhN2ZqeHkzQ2JIOUVmQUh0aXNoOFNGZlozRTFlNm02OEV1T2VJYUNwa3lmeldGU2ZQSUFrczBvOXBMYXNNVmsyekc1VVpDRnVMRVF2Q0hMMXZ5WDVERGtkWWtxZU0tdWR1Z2dWRnNLNFBRVWNHQktsVTRKMWww?oc=5",
+      "source": "intel.com",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-09-30T16:50:55.000Z"
+    },
+    {
+      "title": "Postgres on, vs, with Linux",
+      "url": "https://youtu.be/isATpooTax8",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-09-30T16:35:41.000Z"
+    },
+    {
+      "title": "ChromeOS vs Googlebook OS: Support, Apps and Upgrades",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBEYzJaMXBYSHdJb1hCbTE2Y3oydnZFTldZZ1JoUmd3WDNKRmRJdXlQS0dLX01DOVNqVkw5MEl5OW85d1gtUjJFSG5jdHJjLTlmQzVOSTBJZWhNVzNlNFZ0QU9zXzBwX3JjZzgxQjVfVktjMUgxU3Vr?oc=5",
+      "source": "techrepublic.com",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-09-30T16:00:31.000Z"
+    },
+    {
+      "title": "[$] The year in Plasma and what's ahead",
+      "url": "https://lwn.net/Articles/1096518/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-09-30T15:31:42.000Z"
+    },
+    {
+      "title": "Kernel Recipes videos posted",
+      "url": "https://lwn.net/Articles/1097802/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-09-30T15:24:51.000Z"
+    },
+    {
+      "title": "Framework Desktop With AMD Ryzen AI Max+ PRO 495 Starts Out At $6799 USD",
+      "url": "https://www.phoronix.com/news/Framework-Desktop-Gorgon-Halo",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-30T15:15:58.000Z"
+    },
+    {
+      "title": "OpenJDK vs. GraalVM vs. Eclipse Temurin vs. Semeru Java Performance",
+      "url": "https://www.phoronix.com/review/openjdk-graalvm-temurin-semeru",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-09-30T14:42:29.000Z"
+    },
+    {
+      "title": "Reports from the 2026 Python Language Summit",
+      "url": "https://lwn.net/Articles/1097761/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-09-30T14:32:36.000Z"
+    },
+    {
+      "title": "[$] Comparing Chromium development at Google and Igalia",
+      "url": "https://lwn.net/Articles/1094721/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-09-30T14:16:19.000Z"
+    },
+    {
+      "title": "The Linux Foundation Technical Advisory Board 2026 election approaches",
+      "url": "https://lwn.net/Articles/1097758/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-09-30T13:55:20.000Z"
+    },
     {
       "title": "Security updates for Wednesday",
       "url": "https://lwn.net/Articles/1097753/",
@@ -90,14 +194,6 @@
       "date": "2026-09-30T09:55:14.000Z"
     },
     {
-      "title": "Googlebook Launches with Intel Core Ultra Series 3 Processors",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRC1Edk83QjdDemRmenpkRzcwdWxmU0VoM1lDbXNqXzFvbG9IaFpNZ3pqRERzaFVtM3pXaElGSzlhM3dJcnUxeHlzQ1FRbVZBWlFhTFJ3RXo5WnljUzJhN2ZqeHkzQ2JIOUVmQUh0aXNoOFNGZlozRTFlNm02OEV1T2VJYUNwa3lmeldGU2ZQSUFrczBvOXBMYXNNVmsyekc1VVpDRnVMRVF2Q0hMMXZ5WDVERGtkWWtxZU0tdWR1Z2dWRnNLNFBRVWNHQktsVTRKMWww?oc=5",
-      "source": "Intel",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-09-30T09:17:04.000Z"
-    },
-    {
       "title": "How does APFS handle encryption keys?",
       "url": "https://eclecticlight.co/2026/09/30/how-does-apfs-handle-encryption-keys/",
       "source": "Eclectic Light",
@@ -122,44 +218,12 @@
       "date": "2026-09-30T04:05:15.000Z"
     },
     {
-      "title": "Archinstall 4.5 For Arch Linux Brings AArch64 Improvements, RT Kernel Options",
-      "url": "https://www.phoronix.com/news/Arch-Linux-Archinstall-4.5",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-30T00:25:51.000Z"
-    },
-    {
-      "title": "Firefox 157.0 released",
-      "url": "https://lwn.net/Articles/1097495/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-09-29T21:47:51.000Z"
-    },
-    {
       "title": "Googlebook OS Is Here. Your Chromebook Might Get It. ChromeOS Won't.",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcE8xbWNhR1pJVFZWYmNkcnNITFVtRUdSVDg1WTkzNUZ6ZENIRDlQTlZwd3phbUNGS3hHdUpEUGd3eEhwSzB6LUlpLVdHNXJEMThfcmVDblZacGg4WHRYakswTzl5R0oySkpBdEQzaHJCdzJ6VXEyUEFFeE9GeThXR1RCOUNNSV9OSHZMekdsdVg?oc=5",
       "source": "Vocal",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-29T19:34:09.000Z"
-    },
-    {
-      "title": "Nura (postmarketOS): The road to daily-drivable mainline phones",
-      "url": "https://postmarketos.org/blog/2026/09/29/road-to-main-category/",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-09-29T19:20:05.000Z"
-    },
-    {
-      "title": "AMD Boosting AI/LLM Performance For Radeon iGPUs As Much As 18~23% With Linux 7.4",
-      "url": "https://www.phoronix.com/review/amd-perfopt",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-29T18:57:00.000Z"
     },
     {
       "title": "The Googlebook marketing push starts with Henry Cavill and his mustache",
@@ -178,60 +242,12 @@
       "date": "2026-09-29T18:10:04.000Z"
     },
     {
-      "title": "[$] Native support for Rust on the GPU",
-      "url": "https://lwn.net/Articles/1095731/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-09-29T17:57:20.000Z"
-    },
-    {
-      "title": "Microsoft Announces General Availability Of WSLC: Linux Containers On Windows",
-      "url": "https://www.phoronix.com/news/Microsoft-WSLC-Linux-Containers",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-29T17:09:12.000Z"
-    },
-    {
-      "title": "Branch Target Reuse, BTR: New Spectre V2 Attack Targeting JIT Compilers",
-      "url": "https://www.phoronix.com/news/Branch-Target-Reuse-BTR",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-29T17:00:00.000Z"
-    },
-    {
       "title": "Google Ends ChromeOS in 2034, Bets on Googlebook OS [2026]",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5tUW1mdm1XRjd1b3pmRHZ4Z2tmQkVZMXhVallRR0pOVWZfUzctVjlmbmJPR1hKb1BldWlXaEl4UHN0MVdEVmpfQTF4dkt0Q0x3bDU5ZmhqRVhNaFZqMU9KemFNTzhtZ3U0WGx6QXRNTnBHbGw2?oc=5",
       "source": "shattered.io",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-29T16:52:12.000Z"
-    },
-    {
-      "title": "New Ubuntu Concept ISO For Snapdragon Laptops Brings First X2 Laptop Support",
-      "url": "https://www.phoronix.com/news/Ubuntu-26.10-Snapdragon-Concept",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-29T16:15:36.000Z"
-    },
-    {
-      "title": "Meta Releases OpenZL 0.3 With Decompression Speed 144% Faster Than Zstd",
-      "url": "https://www.phoronix.com/news/OpenZL-0.3-Released",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-29T16:06:44.000Z"
-    },
-    {
-      "title": "[$] The kernel from a PostgreSQL point of view",
-      "url": "https://lwn.net/Articles/1096827/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-09-29T15:42:30.000Z"
     },
     {
       "title": "Follow-Up on my Spitballed Predictions for Apple’s October",
@@ -466,28 +482,12 @@
       "date": "2026-09-28T11:30:00.000Z"
     },
     {
-      "title": "Googlebook OS will be available for some Chromebooks.",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBTb1N0V1hPTVUtMENEazRkb2NBOW1teEp2aUhYTWt0WnFyVHF4ek5IOXRoTzc2Z3cxUTVQUWJZZ2wyZUtobmpyS054c1U2TlhtTHpEdXFWbUZBZDQ2VGJ2U3ctQ0k3R3dyREphNjVmbkdpeE1KOVNVQmZ1TQ?oc=5",
-      "source": "The Verge",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-09-28T10:32:28.000Z"
-    },
-    {
       "title": "Solutions to Saturday Mac riddles 379",
       "url": "https://eclecticlight.co/2026/09/28/solutions-to-saturday-mac-riddles-379/",
       "source": "Eclectic Light",
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-09-28T08:00:00.000Z"
-    },
-    {
-      "title": "Silently updated security data files in Golden Gate",
-      "url": "https://eclecticlight.co/2026/09/28/silently-updated-security-data-files-in-golden-gate/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-09-28T06:30:00.000Z"
     },
     {
       "title": "Deshittification Part 2: Bypassing the App Store Gatekeeper",
