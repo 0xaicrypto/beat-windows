@@ -5,8 +5,104 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Oct 2026 06:05:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 13:27:11 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Rust 1.99.0 released</title>
+      <link>https://lwn.net/Articles/1098068/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1098068/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Thu, 01 Oct 2026 13:25:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Security updates for Thursday</title>
+      <link>https://lwn.net/Articles/1098067/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1098067/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Thu, 01 Oct 2026 13:12:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMD RMPOPT Optimization Queued Ahead Of Linux 7.4</title>
+      <link>https://www.phoronix.com/news/AMD-RMPOPT-For-Linux-7.4</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/AMD-RMPOPT-For-Linux-7.4</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 01 Oct 2026 12:52:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Clearing Out Linux's Old 32-bit ARM Platform Code Is Itself A Challenge</title>
+      <link>https://www.phoronix.com/news/Clearing-Old-ARM-Code-Challenge</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Clearing-Old-ARM-Code-Challenge</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 01 Oct 2026 12:04:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Painting a good story: Multiplex returns</title>
+      <link>https://eclecticlight.co/2026/10/01/painting-a-good-story-multiplex-returns/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/10/01/painting-a-good-story-multiplex-returns/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Thu, 01 Oct 2026 11:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Intel Optimization Zone 1.2 Released With New Guides &amp; Recommendations</title>
+      <link>https://www.phoronix.com/news/Intel-Optimization-Zone-1.2</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Intel-Optimization-Zone-1.2</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 01 Oct 2026 11:06:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>NVIDIA Olympus SMT Optimizations For Vera CPU Showing 3~6% Performance Gains</title>
+      <link>https://www.phoronix.com/news/NVIDIA-Olympus-SMT-Better</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/NVIDIA-Olympus-SMT-Better</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 01 Oct 2026 10:27:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qualcomm Continues Doing More For Their Open-Source Linux Graphics Drivers</title>
+      <link>https://www.phoronix.com/news/Qualcomm-More-OSS-GPU-2026</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Qualcomm-More-OSS-GPU-2026</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 01 Oct 2026 10:17:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>New Linux Patches Trying To Mainline Renesas SH7305 CPU Support</title>
+      <link>https://www.phoronix.com/news/Renesas-SH7305-Linux-Patches</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Renesas-SH7305-Linux-Patches</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 01 Oct 2026 09:55:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Raspberry Pi 5 2GB Price Increases To $77.50 USD</title>
+      <link>https://www.phoronix.com/news/Raspberry-Pi-5-2GB-Price-77.50</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Raspberry-Pi-5-2GB-Price-77.50</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 01 Oct 2026 09:29:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenBSD -current is now &quot;8.0-current&quot;</title>
+      <link>https://undeadly.org/cgi?action=article;sid=20261001091454</link>
+      <guid isPermaLink="true">https://undeadly.org/cgi?action=article;sid=20261001091454</guid>
+      <category>bsd</category>
+      <source url="https://undeadly.org/">undeadly</source>
+      <pubDate>Thu, 01 Oct 2026 09:14:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Browse Apple Intelligence Reports with AIRer, a new app</title>
+      <link>https://eclecticlight.co/2026/10/01/browse-apple-intelligence-reports-with-airer-a-new-app/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/10/01/browse-apple-intelligence-reports-with-airer-a-new-app/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Thu, 01 Oct 2026 06:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>OpenMandriva ROME 26.09 Released With More AI Apps, Snaps &amp; PGO + LTO Optimizations</title>
       <link>https://www.phoronix.com/news/OpenMandriva-ROME-26.09</link>
@@ -100,7 +196,7 @@
       <link>https://news.google.com/rss/articles/CBMid0FVX3lxTFBEYzJaMXBYSHdJb1hCbTE2Y3oydnZFTldZZ1JoUmd3WDNKRmRJdXlQS0dLX01DOVNqVkw5MEl5OW85d1gtUjJFSG5jdHJjLTlmQzVOSTBJZWhNVzNlNFZ0QU9zXzBwX3JjZzgxQjVfVktjMUgxU3Vr?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMid0FVX3lxTFBEYzJaMXBYSHdJb1hCbTE2Y3oydnZFTldZZ1JoUmd3WDNKRmRJdXlQS0dLX01DOVNqVkw5MEl5OW85d1gtUjJFSG5jdHJjLTlmQzVOSTBJZWhNVzNlNFZ0QU9zXzBwX3JjZzgxQjVfVktjMUgxU3Vr?oc=5</guid>
       <category>android</category>
-      <source url="https://news.google.com/">TechRepublic</source>
+      <source url="https://news.google.com/">techrepublic.com</source>
       <pubDate>Wed, 30 Sep 2026 16:00:31 GMT</pubDate>
     </item>
     <item>
@@ -144,84 +240,12 @@
       <pubDate>Wed, 30 Sep 2026 14:32:36 GMT</pubDate>
     </item>
     <item>
-      <title>[$] Comparing Chromium development at Google and Igalia</title>
-      <link>https://lwn.net/Articles/1094721/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1094721/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Wed, 30 Sep 2026 14:16:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Linux Foundation Technical Advisory Board 2026 election approaches</title>
-      <link>https://lwn.net/Articles/1097758/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1097758/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Wed, 30 Sep 2026 13:55:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Security updates for Wednesday</title>
-      <link>https://lwn.net/Articles/1097753/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1097753/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Wed, 30 Sep 2026 13:20:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Qt 6.12 LTS Released With QML Hot Reloading, StyleKit In Experimental Form</title>
-      <link>https://www.phoronix.com/news/Qt-6.12-LTS-Released</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Qt-6.12-LTS-Released</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Wed, 30 Sep 2026 13:20:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rusticl Had A Great Year For Rust OpenCL In Mesa With 3.1 Support, More Drivers</title>
-      <link>https://www.phoronix.com/news/Rusticl-2026</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Rusticl-2026</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Wed, 30 Sep 2026 13:03:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux 7.4 To Support The NPU On AMD Ryzen AI Max 400 Series &quot;Gorgon Halo&quot;</title>
-      <link>https://www.phoronix.com/news/AMD-Gorgon-Halo-NPU-LInux</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/AMD-Gorgon-Halo-NPU-LInux</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Wed, 30 Sep 2026 12:20:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dumb Servers, Smart Clients: Distributing Images with Quarry</title>
-      <link>https://amutable.com/blog/distributing-images-quarry</link>
-      <guid isPermaLink="true">https://amutable.com/blog/distributing-images-quarry</guid>
-      <category>linux</category>
-      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
-      <pubDate>Wed, 30 Sep 2026 12:18:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>snowdesktop: Immutable Debian desktop for developers</title>
-      <link>https://github.com/frostyard/snowdesktop</link>
-      <guid isPermaLink="true">https://github.com/frostyard/snowdesktop</guid>
-      <category>linux</category>
-      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
-      <pubDate>Wed, 30 Sep 2026 11:51:27 GMT</pubDate>
-    </item>
-    <item>
       <title>Portraits of trees: Pine</title>
       <link>https://eclecticlight.co/2026/09/30/portraits-of-trees-pine/</link>
       <guid isPermaLink="true">https://eclecticlight.co/2026/09/30/portraits-of-trees-pine/</guid>
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Wed, 30 Sep 2026 11:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Proposal To Set ARM64 Kernel Stack Size At Boot Time To Reduce Memory Consumption</title>
-      <link>https://www.phoronix.com/news/ARM64-Linux-Stack-Size-Boot</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/ARM64-Linux-Stack-Size-Boot</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Wed, 30 Sep 2026 10:27:00 GMT</pubDate>
     </item>
     <item>
       <title>I bought a Chromebook instead of waiting for Googlebooks; here's why</title>
@@ -382,30 +406,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Tue, 29 Sep 2026 00:43:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Jeremy Stern’s Profile of Mark Zuckerberg for Colossus</title>
-      <link>https://colossus.com/article/mark-zuckerberg-profile/</link>
-      <guid isPermaLink="true">https://colossus.com/article/mark-zuckerberg-profile/</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Mon, 28 Sep 2026 22:41:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Thoughts on Flash (2010)</title>
-      <link>https://web.archive.org/web/20100501010616/http://www.apple.com/hotnews/thoughts-on-flash/</link>
-      <guid isPermaLink="true">https://web.archive.org/web/20100501010616/http://www.apple.com/hotnews/thoughts-on-flash/</guid>
-      <category>macos</category>
-      <source url="https://lobste.rs/t/mac">Lobsters · mac</source>
-      <pubDate>Mon, 28 Sep 2026 21:43:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>The first 5 Googlebook laptops are here, with an OS that blends Android and Gemini</title>
-      <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxOaTN3WXdEWldTWjNDWjFFTHpNX1hkX215bjI0TkoyY2RDWjFBa3ctbndZZ2RsTFpjR1BQcVM0S0NtbzliYXQ2RmRyTmJvd2tobTdhUG5Qa2thb1hFbjc0MVhUd2kzc0lMemJQb21pQm5NYnJOQ2o2V1pTRUtxSHNVcEtXNWpXRW02UVFVeERrVQ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMijwFBVV95cUxOaTN3WXdEWldTWjNDWjFFTHpNX1hkX215bjI0TkoyY2RDWjFBa3ctbndZZ2RsTFpjR1BQcVM0S0NtbzliYXQ2RmRyTmJvd2tobTdhUG5Qa2thb1hFbjc0MVhUd2kzc0lMemJQb21pQm5NYnJOQ2o2V1pTRUtxSHNVcEtXNWpXRW02UVFVeERrVQ?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Mashable</source>
-      <pubDate>Mon, 28 Sep 2026 21:39:58 GMT</pubDate>
     </item>
   </channel>
 </rss>

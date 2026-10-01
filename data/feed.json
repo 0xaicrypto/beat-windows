@@ -1,6 +1,102 @@
 {
-  "generated": "2026-10-01T06:05:08.798Z",
+  "generated": "2026-10-01T13:27:11.014Z",
   "items": [
+    {
+      "title": "Rust 1.99.0 released",
+      "url": "https://lwn.net/Articles/1098068/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-01T13:25:17.000Z"
+    },
+    {
+      "title": "Security updates for Thursday",
+      "url": "https://lwn.net/Articles/1098067/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-01T13:12:52.000Z"
+    },
+    {
+      "title": "AMD RMPOPT Optimization Queued Ahead Of Linux 7.4",
+      "url": "https://www.phoronix.com/news/AMD-RMPOPT-For-Linux-7.4",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-01T12:52:00.000Z"
+    },
+    {
+      "title": "Clearing Out Linux's Old 32-bit ARM Platform Code Is Itself A Challenge",
+      "url": "https://www.phoronix.com/news/Clearing-Old-ARM-Code-Challenge",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-01T12:04:18.000Z"
+    },
+    {
+      "title": "Painting a good story: Multiplex returns",
+      "url": "https://eclecticlight.co/2026/10/01/painting-a-good-story-multiplex-returns/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-10-01T11:30:00.000Z"
+    },
+    {
+      "title": "Intel Optimization Zone 1.2 Released With New Guides & Recommendations",
+      "url": "https://www.phoronix.com/news/Intel-Optimization-Zone-1.2",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-01T11:06:11.000Z"
+    },
+    {
+      "title": "NVIDIA Olympus SMT Optimizations For Vera CPU Showing 3~6% Performance Gains",
+      "url": "https://www.phoronix.com/news/NVIDIA-Olympus-SMT-Better",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-01T10:27:41.000Z"
+    },
+    {
+      "title": "Qualcomm Continues Doing More For Their Open-Source Linux Graphics Drivers",
+      "url": "https://www.phoronix.com/news/Qualcomm-More-OSS-GPU-2026",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-01T10:17:00.000Z"
+    },
+    {
+      "title": "New Linux Patches Trying To Mainline Renesas SH7305 CPU Support",
+      "url": "https://www.phoronix.com/news/Renesas-SH7305-Linux-Patches",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-01T09:55:08.000Z"
+    },
+    {
+      "title": "Raspberry Pi 5 2GB Price Increases To $77.50 USD",
+      "url": "https://www.phoronix.com/news/Raspberry-Pi-5-2GB-Price-77.50",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-01T09:29:41.000Z"
+    },
+    {
+      "title": "OpenBSD -current is now \"8.0-current\"",
+      "url": "https://undeadly.org/cgi?action=article;sid=20261001091454",
+      "source": "undeadly",
+      "tag": "bsd",
+      "site": "https://undeadly.org/",
+      "date": "2026-10-01T09:14:54.000Z"
+    },
+    {
+      "title": "Browse Apple Intelligence Reports with AIRer, a new app",
+      "url": "https://eclecticlight.co/2026/10/01/browse-apple-intelligence-reports-with-airer-a-new-app/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-10-01T06:30:00.000Z"
+    },
     {
       "title": "OpenMandriva ROME 26.09 Released With More AI Apps, Snaps & PGO + LTO Optimizations",
       "url": "https://www.phoronix.com/news/OpenMandriva-ROME-26.09",
@@ -92,7 +188,7 @@
     {
       "title": "ChromeOS vs Googlebook OS: Support, Apps and Upgrades",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBEYzJaMXBYSHdJb1hCbTE2Y3oydnZFTldZZ1JoUmd3WDNKRmRJdXlQS0dLX01DOVNqVkw5MEl5OW85d1gtUjJFSG5jdHJjLTlmQzVOSTBJZWhNVzNlNFZ0QU9zXzBwX3JjZzgxQjVfVktjMUgxU3Vr?oc=5",
-      "source": "TechRepublic",
+      "source": "techrepublic.com",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-30T16:00:31.000Z"
@@ -138,84 +234,12 @@
       "date": "2026-09-30T14:32:36.000Z"
     },
     {
-      "title": "[$] Comparing Chromium development at Google and Igalia",
-      "url": "https://lwn.net/Articles/1094721/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-09-30T14:16:19.000Z"
-    },
-    {
-      "title": "The Linux Foundation Technical Advisory Board 2026 election approaches",
-      "url": "https://lwn.net/Articles/1097758/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-09-30T13:55:20.000Z"
-    },
-    {
-      "title": "Security updates for Wednesday",
-      "url": "https://lwn.net/Articles/1097753/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-09-30T13:20:42.000Z"
-    },
-    {
-      "title": "Qt 6.12 LTS Released With QML Hot Reloading, StyleKit In Experimental Form",
-      "url": "https://www.phoronix.com/news/Qt-6.12-LTS-Released",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-30T13:20:00.000Z"
-    },
-    {
-      "title": "Rusticl Had A Great Year For Rust OpenCL In Mesa With 3.1 Support, More Drivers",
-      "url": "https://www.phoronix.com/news/Rusticl-2026",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-30T13:03:20.000Z"
-    },
-    {
-      "title": "Linux 7.4 To Support The NPU On AMD Ryzen AI Max 400 Series \"Gorgon Halo\"",
-      "url": "https://www.phoronix.com/news/AMD-Gorgon-Halo-NPU-LInux",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-30T12:20:14.000Z"
-    },
-    {
-      "title": "Dumb Servers, Smart Clients: Distributing Images with Quarry",
-      "url": "https://amutable.com/blog/distributing-images-quarry",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-09-30T12:18:22.000Z"
-    },
-    {
-      "title": "snowdesktop: Immutable Debian desktop for developers",
-      "url": "https://github.com/frostyard/snowdesktop",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-09-30T11:51:27.000Z"
-    },
-    {
       "title": "Portraits of trees: Pine",
       "url": "https://eclecticlight.co/2026/09/30/portraits-of-trees-pine/",
       "source": "Eclectic Light",
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-09-30T11:30:00.000Z"
-    },
-    {
-      "title": "Proposal To Set ARM64 Kernel Stack Size At Boot Time To Reduce Memory Consumption",
-      "url": "https://www.phoronix.com/news/ARM64-Linux-Stack-Size-Boot",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-30T10:27:00.000Z"
     },
     {
       "title": "I bought a Chromebook instead of waiting for Googlebooks; here's why",
@@ -434,14 +458,6 @@
       "date": "2026-09-28T18:25:00.000Z"
     },
     {
-      "title": "Apple has just released updates to Golden Gate 27.0.1, 26.7.1 and 15.8.1",
-      "url": "https://eclecticlight.co/2026/09/28/apple-has-just-released-updates-to-golden-gate-27-0-1-26-7-1-and-15-8-1/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-09-28T17:27:01.000Z"
-    },
-    {
       "title": "Lenovo’s first Googlebook actually costs $200 less than announced, and it’s not the only one",
       "url": "https://9to5google.com/2026/09/28/lenovo-googlebook-price/",
       "source": "9to5Google · Googlebook",
@@ -456,14 +472,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-28T16:38:07.000Z"
-    },
-    {
-      "title": "Duo-Man",
-      "url": "https://x.com/viditb/status/2104103592726765722",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-09-28T16:35:02.000Z"
     },
     {
       "title": "HardenedBSD August / September 2026 Status Report",
@@ -496,14 +504,6 @@
       "tag": "bsd",
       "site": "https://lobste.rs/t/openbsd",
       "date": "2026-09-27T14:47:13.000Z"
-    },
-    {
-      "title": "OpenBSD -current has moved to version 8.0",
-      "url": "https://undeadly.org/cgi?action=article;sid=20260927120854",
-      "source": "undeadly",
-      "tag": "bsd",
-      "site": "https://undeadly.org/",
-      "date": "2026-09-27T12:08:54.000Z"
     },
     {
       "title": "Launching FreeBSD/EC2 desktop AMIs",
