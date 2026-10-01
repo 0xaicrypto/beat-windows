@@ -1,6 +1,22 @@
 {
-  "generated": "2026-10-01T19:36:00.047Z",
+  "generated": "2026-10-01T23:56:15.398Z",
   "items": [
+    {
+      "title": "Fedora 45 Beta Performance: The Satisfyingly Boring Benchmarks",
+      "url": "https://www.phoronix.com/review/fedora-45-beta-benchmarks",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-01T20:57:58.000Z"
+    },
+    {
+      "title": "Mesa Drops Its Poorly Maintained & Rarely Used Direct3D 10 User-Mode Driver",
+      "url": "https://www.phoronix.com/news/Mesa-Drops-Direct3D-10-UMD",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-01T20:00:08.000Z"
+    },
     {
       "title": "Ubuntu 26.10 Beta Released With Linux 7.3 Kernel, GNOME 51 Desktop",
       "url": "https://www.phoronix.com/news/Ubuntu-26.10-Beta-Released",
@@ -202,14 +218,6 @@
       "date": "2026-09-30T18:57:43.000Z"
     },
     {
-      "title": "EDG C/C++ Front-End Open-Sourced",
-      "url": "https://www.phoronix.com/news/EDG-CPP-Open-Sourced",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-30T17:53:32.000Z"
-    },
-    {
       "title": "Googlebook Launches with Intel Core Ultra Series 3 Processors",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRC1Edk83QjdDemRmenpkRzcwdWxmU0VoM1lDbXNqXzFvbG9IaFpNZ3pqRERzaFVtM3pXaElGSzlhM3dJcnUxeHlzQ1FRbVZBWlFhTFJ3RXo5WnljUzJhN2ZqeHkzQ2JIOUVmQUh0aXNoOFNGZlozRTFlNm02OEV1T2VJYUNwa3lmeldGU2ZQSUFrczBvOXBMYXNNVmsyekc1VVpDRnVMRVF2Q0hMMXZ5WDVERGtkWWtxZU0tdWR1Z2dWRnNLNFBRVWNHQktsVTRKMWww?oc=5",
       "source": "intel.com",
@@ -218,17 +226,9 @@
       "date": "2026-09-30T16:50:55.000Z"
     },
     {
-      "title": "Postgres on, vs, with Linux",
-      "url": "https://youtu.be/isATpooTax8",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-09-30T16:35:41.000Z"
-    },
-    {
       "title": "ChromeOS vs Googlebook OS: Support, Apps and Upgrades",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBEYzJaMXBYSHdJb1hCbTE2Y3oydnZFTldZZ1JoUmd3WDNKRmRJdXlQS0dLX01DOVNqVkw5MEl5OW85d1gtUjJFSG5jdHJjLTlmQzVOSTBJZWhNVzNlNFZ0QU9zXzBwX3JjZzgxQjVfVktjMUgxU3Vr?oc=5",
-      "source": "techrepublic.com",
+      "source": "TechRepublic",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-30T16:00:31.000Z"

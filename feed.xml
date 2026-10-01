@@ -5,8 +5,24 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Oct 2026 19:36:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 23:56:15 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Fedora 45 Beta Performance: The Satisfyingly Boring Benchmarks</title>
+      <link>https://www.phoronix.com/review/fedora-45-beta-benchmarks</link>
+      <guid isPermaLink="true">https://www.phoronix.com/review/fedora-45-beta-benchmarks</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 01 Oct 2026 20:57:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mesa Drops Its Poorly Maintained &amp; Rarely Used Direct3D 10 User-Mode Driver</title>
+      <link>https://www.phoronix.com/news/Mesa-Drops-Direct3D-10-UMD</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Mesa-Drops-Direct3D-10-UMD</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 01 Oct 2026 20:00:08 GMT</pubDate>
+    </item>
     <item>
       <title>Ubuntu 26.10 Beta Released With Linux 7.3 Kernel, GNOME 51 Desktop</title>
       <link>https://www.phoronix.com/news/Ubuntu-26.10-Beta-Released</link>
@@ -208,14 +224,6 @@
       <pubDate>Wed, 30 Sep 2026 18:57:43 GMT</pubDate>
     </item>
     <item>
-      <title>EDG C/C++ Front-End Open-Sourced</title>
-      <link>https://www.phoronix.com/news/EDG-CPP-Open-Sourced</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/EDG-CPP-Open-Sourced</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Wed, 30 Sep 2026 17:53:32 GMT</pubDate>
-    </item>
-    <item>
       <title>Googlebook Launches with Intel Core Ultra Series 3 Processors</title>
       <link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRC1Edk83QjdDemRmenpkRzcwdWxmU0VoM1lDbXNqXzFvbG9IaFpNZ3pqRERzaFVtM3pXaElGSzlhM3dJcnUxeHlzQ1FRbVZBWlFhTFJ3RXo5WnljUzJhN2ZqeHkzQ2JIOUVmQUh0aXNoOFNGZlozRTFlNm02OEV1T2VJYUNwa3lmeldGU2ZQSUFrczBvOXBMYXNNVmsyekc1VVpDRnVMRVF2Q0hMMXZ5WDVERGtkWWtxZU0tdWR1Z2dWRnNLNFBRVWNHQktsVTRKMWww?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRC1Edk83QjdDemRmenpkRzcwdWxmU0VoM1lDbXNqXzFvbG9IaFpNZ3pqRERzaFVtM3pXaElGSzlhM3dJcnUxeHlzQ1FRbVZBWlFhTFJ3RXo5WnljUzJhN2ZqeHkzQ2JIOUVmQUh0aXNoOFNGZlozRTFlNm02OEV1T2VJYUNwa3lmeldGU2ZQSUFrczBvOXBMYXNNVmsyekc1VVpDRnVMRVF2Q0hMMXZ5WDVERGtkWWtxZU0tdWR1Z2dWRnNLNFBRVWNHQktsVTRKMWww?oc=5</guid>
@@ -224,19 +232,11 @@
       <pubDate>Wed, 30 Sep 2026 16:50:55 GMT</pubDate>
     </item>
     <item>
-      <title>Postgres on, vs, with Linux</title>
-      <link>https://youtu.be/isATpooTax8</link>
-      <guid isPermaLink="true">https://youtu.be/isATpooTax8</guid>
-      <category>linux</category>
-      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
-      <pubDate>Wed, 30 Sep 2026 16:35:41 GMT</pubDate>
-    </item>
-    <item>
       <title>ChromeOS vs Googlebook OS: Support, Apps and Upgrades</title>
       <link>https://news.google.com/rss/articles/CBMid0FVX3lxTFBEYzJaMXBYSHdJb1hCbTE2Y3oydnZFTldZZ1JoUmd3WDNKRmRJdXlQS0dLX01DOVNqVkw5MEl5OW85d1gtUjJFSG5jdHJjLTlmQzVOSTBJZWhNVzNlNFZ0QU9zXzBwX3JjZzgxQjVfVktjMUgxU3Vr?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMid0FVX3lxTFBEYzJaMXBYSHdJb1hCbTE2Y3oydnZFTldZZ1JoUmd3WDNKRmRJdXlQS0dLX01DOVNqVkw5MEl5OW85d1gtUjJFSG5jdHJjLTlmQzVOSTBJZWhNVzNlNFZ0QU9zXzBwX3JjZzgxQjVfVktjMUgxU3Vr?oc=5</guid>
       <category>android</category>
-      <source url="https://news.google.com/">techrepublic.com</source>
+      <source url="https://news.google.com/">TechRepublic</source>
       <pubDate>Wed, 30 Sep 2026 16:00:31 GMT</pubDate>
     </item>
     <item>
