@@ -1,6 +1,30 @@
 {
-  "generated": "2026-09-30T23:55:29.544Z",
+  "generated": "2026-10-01T06:05:08.798Z",
   "items": [
+    {
+      "title": "OpenMandriva ROME 26.09 Released With More AI Apps, Snaps & PGO + LTO Optimizations",
+      "url": "https://www.phoronix.com/news/OpenMandriva-ROME-26.09",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-01T01:36:25.000Z"
+    },
+    {
+      "title": "[$] LWN.net Weekly Edition for October 1, 2026",
+      "url": "https://lwn.net/Articles/1096293/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-01T00:30:07.000Z"
+    },
+    {
+      "title": "Valve's Work On Foveated Rendering For The Open-Source Turnip Driver On The Steam Frame",
+      "url": "https://www.phoronix.com/news/Steam-Frame-Turnip-Foveated",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-01T00:18:48.000Z"
+    },
     {
       "title": "Google Antigravity Googlebook app hits the Play Store",
       "url": "https://9to5google.com/2026/09/30/google-antigravity-play-store/",
@@ -194,28 +218,12 @@
       "date": "2026-09-30T10:27:00.000Z"
     },
     {
-      "title": "Intel Media Driver 2026Q3 Introduces Crescent Island Support",
-      "url": "https://www.phoronix.com/news/Intel-Media-Crescent-Island",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-30T10:11:06.000Z"
-    },
-    {
       "title": "I bought a Chromebook instead of waiting for Googlebooks; here's why",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE82X3U3T2RWYXo5WWpqMnROQ3dhVmpERWViUmdBSVhubVdFYV80VlJYa3JoX0ZwTWpNckF5aDAzNWZZQlBBRnFHX190RmFWU0l2akVlLXZtclZRZFdNa3NlZlBGQzJHRVhTRDhvS1lEYmZWTWcxVjNhUzBn?oc=5",
       "source": "Android Police",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-30T10:00:10.000Z"
-    },
-    {
-      "title": "Mesa Developers To Work Toward Eliminating TGSI IR",
-      "url": "https://www.phoronix.com/news/Mesa-Toward-Eliminating-TGSI",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-30T09:55:14.000Z"
     },
     {
       "title": "How does APFS handle encryption keys?",
@@ -232,14 +240,6 @@
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-09-30T06:02:26.000Z"
-    },
-    {
-      "title": "Fake Express Packages on npm Spread a Linux Worm",
-      "url": "https://safedep.io/dirtyblanket-express-impersonation-npm",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-09-30T04:05:15.000Z"
     },
     {
       "title": "Googlebook OS Is Here. Your Chromebook Might Get It. ChromeOS Won't.",

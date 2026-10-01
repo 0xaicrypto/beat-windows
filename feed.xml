@@ -5,8 +5,32 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 30 Sep 2026 23:55:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 06:05:08 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>OpenMandriva ROME 26.09 Released With More AI Apps, Snaps &amp; PGO + LTO Optimizations</title>
+      <link>https://www.phoronix.com/news/OpenMandriva-ROME-26.09</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/OpenMandriva-ROME-26.09</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 01 Oct 2026 01:36:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>[$] LWN.net Weekly Edition for October 1, 2026</title>
+      <link>https://lwn.net/Articles/1096293/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1096293/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Thu, 01 Oct 2026 00:30:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Valve's Work On Foveated Rendering For The Open-Source Turnip Driver On The Steam Frame</title>
+      <link>https://www.phoronix.com/news/Steam-Frame-Turnip-Foveated</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Steam-Frame-Turnip-Foveated</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 01 Oct 2026 00:18:48 GMT</pubDate>
+    </item>
     <item>
       <title>Google Antigravity Googlebook app hits the Play Store</title>
       <link>https://9to5google.com/2026/09/30/google-antigravity-play-store/</link>
@@ -200,28 +224,12 @@
       <pubDate>Wed, 30 Sep 2026 10:27:00 GMT</pubDate>
     </item>
     <item>
-      <title>Intel Media Driver 2026Q3 Introduces Crescent Island Support</title>
-      <link>https://www.phoronix.com/news/Intel-Media-Crescent-Island</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Intel-Media-Crescent-Island</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Wed, 30 Sep 2026 10:11:06 GMT</pubDate>
-    </item>
-    <item>
       <title>I bought a Chromebook instead of waiting for Googlebooks; here's why</title>
       <link>https://news.google.com/rss/articles/CBMiekFVX3lxTE82X3U3T2RWYXo5WWpqMnROQ3dhVmpERWViUmdBSVhubVdFYV80VlJYa3JoX0ZwTWpNckF5aDAzNWZZQlBBRnFHX190RmFWU0l2akVlLXZtclZRZFdNa3NlZlBGQzJHRVhTRDhvS1lEYmZWTWcxVjNhUzBn?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiekFVX3lxTE82X3U3T2RWYXo5WWpqMnROQ3dhVmpERWViUmdBSVhubVdFYV80VlJYa3JoX0ZwTWpNckF5aDAzNWZZQlBBRnFHX190RmFWU0l2akVlLXZtclZRZFdNa3NlZlBGQzJHRVhTRDhvS1lEYmZWTWcxVjNhUzBn?oc=5</guid>
       <category>android</category>
       <source url="https://news.google.com/">Android Police</source>
       <pubDate>Wed, 30 Sep 2026 10:00:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mesa Developers To Work Toward Eliminating TGSI IR</title>
-      <link>https://www.phoronix.com/news/Mesa-Toward-Eliminating-TGSI</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Mesa-Toward-Eliminating-TGSI</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Wed, 30 Sep 2026 09:55:14 GMT</pubDate>
     </item>
     <item>
       <title>How does APFS handle encryption keys?</title>
@@ -238,14 +246,6 @@
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Wed, 30 Sep 2026 06:02:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fake Express Packages on npm Spread a Linux Worm</title>
-      <link>https://safedep.io/dirtyblanket-express-impersonation-npm</link>
-      <guid isPermaLink="true">https://safedep.io/dirtyblanket-express-impersonation-npm</guid>
-      <category>linux</category>
-      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
-      <pubDate>Wed, 30 Sep 2026 04:05:15 GMT</pubDate>
     </item>
     <item>
       <title>Googlebook OS Is Here. Your Chromebook Might Get It. ChromeOS Won't.</title>
