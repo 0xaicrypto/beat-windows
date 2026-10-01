@@ -5,8 +5,56 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Oct 2026 13:27:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 19:36:00 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ubuntu 26.10 Beta Released With Linux 7.3 Kernel, GNOME 51 Desktop</title>
+      <link>https://www.phoronix.com/news/Ubuntu-26.10-Beta-Released</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Ubuntu-26.10-Beta-Released</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 01 Oct 2026 19:26:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nearing A 10 Second Kernel Build, Xeon 600 &amp; Other September Excitement On Phoronix</title>
+      <link>https://www.phoronix.com/news/September-2026-Highlights</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/September-2026-Highlights</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 01 Oct 2026 17:07:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenBGPD 9.3 released</title>
+      <link>https://undeadly.org/cgi?action=article;sid=20261001164002</link>
+      <guid isPermaLink="true">https://undeadly.org/cgi?action=article;sid=20261001164002</guid>
+      <category>bsd</category>
+      <source url="https://undeadly.org/">undeadly</source>
+      <pubDate>Thu, 01 Oct 2026 16:40:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Some Networking Fixes Being Diverted To Linux 7.4, AI/LLM Activity Still Increasing</title>
+      <link>https://www.phoronix.com/news/Linux-Networking-Linux-7.3-rc6</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-Networking-Linux-7.3-rc6</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 01 Oct 2026 16:24:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>[$] Coping with the onslaught of kernel security bugs</title>
+      <link>https://lwn.net/Articles/1096908/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1096908/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Thu, 01 Oct 2026 15:03:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qt Creator 21 IDE Beta Enables More AI Functionality By Default</title>
+      <link>https://www.phoronix.com/news/Qt-Creator-21-Beta</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Qt-Creator-21-Beta</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 01 Oct 2026 14:10:01 GMT</pubDate>
+    </item>
     <item>
       <title>Rust 1.99.0 released</title>
       <link>https://lwn.net/Articles/1098068/</link>
@@ -86,14 +134,6 @@
       <category>linux</category>
       <source url="https://www.phoronix.com/">Phoronix</source>
       <pubDate>Thu, 01 Oct 2026 09:29:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenBSD -current is now &quot;8.0-current&quot;</title>
-      <link>https://undeadly.org/cgi?action=article;sid=20261001091454</link>
-      <guid isPermaLink="true">https://undeadly.org/cgi?action=article;sid=20261001091454</guid>
-      <category>bsd</category>
-      <source url="https://undeadly.org/">undeadly</source>
-      <pubDate>Thu, 01 Oct 2026 09:14:54 GMT</pubDate>
     </item>
     <item>
       <title>Browse Apple Intelligence Reports with AIRer, a new app</title>
@@ -198,46 +238,6 @@
       <category>android</category>
       <source url="https://news.google.com/">techrepublic.com</source>
       <pubDate>Wed, 30 Sep 2026 16:00:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>[$] The year in Plasma and what's ahead</title>
-      <link>https://lwn.net/Articles/1096518/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1096518/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Wed, 30 Sep 2026 15:31:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kernel Recipes videos posted</title>
-      <link>https://lwn.net/Articles/1097802/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1097802/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Wed, 30 Sep 2026 15:24:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Framework Desktop With AMD Ryzen AI Max+ PRO 495 Starts Out At $6799 USD</title>
-      <link>https://www.phoronix.com/news/Framework-Desktop-Gorgon-Halo</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Framework-Desktop-Gorgon-Halo</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Wed, 30 Sep 2026 15:15:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenJDK vs. GraalVM vs. Eclipse Temurin vs. Semeru Java Performance</title>
-      <link>https://www.phoronix.com/review/openjdk-graalvm-temurin-semeru</link>
-      <guid isPermaLink="true">https://www.phoronix.com/review/openjdk-graalvm-temurin-semeru</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Wed, 30 Sep 2026 14:42:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Reports from the 2026 Python Language Summit</title>
-      <link>https://lwn.net/Articles/1097761/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1097761/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Wed, 30 Sep 2026 14:32:36 GMT</pubDate>
     </item>
     <item>
       <title>Portraits of trees: Pine</title>

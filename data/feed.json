@@ -1,6 +1,54 @@
 {
-  "generated": "2026-10-01T13:27:11.014Z",
+  "generated": "2026-10-01T19:36:00.047Z",
   "items": [
+    {
+      "title": "Ubuntu 26.10 Beta Released With Linux 7.3 Kernel, GNOME 51 Desktop",
+      "url": "https://www.phoronix.com/news/Ubuntu-26.10-Beta-Released",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-01T19:26:05.000Z"
+    },
+    {
+      "title": "Nearing A 10 Second Kernel Build, Xeon 600 & Other September Excitement On Phoronix",
+      "url": "https://www.phoronix.com/news/September-2026-Highlights",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-01T17:07:48.000Z"
+    },
+    {
+      "title": "OpenBGPD 9.3 released",
+      "url": "https://undeadly.org/cgi?action=article;sid=20261001164002",
+      "source": "undeadly",
+      "tag": "bsd",
+      "site": "https://undeadly.org/",
+      "date": "2026-10-01T16:40:02.000Z"
+    },
+    {
+      "title": "Some Networking Fixes Being Diverted To Linux 7.4, AI/LLM Activity Still Increasing",
+      "url": "https://www.phoronix.com/news/Linux-Networking-Linux-7.3-rc6",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-01T16:24:40.000Z"
+    },
+    {
+      "title": "[$] Coping with the onslaught of kernel security bugs",
+      "url": "https://lwn.net/Articles/1096908/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-01T15:03:25.000Z"
+    },
+    {
+      "title": "Qt Creator 21 IDE Beta Enables More AI Functionality By Default",
+      "url": "https://www.phoronix.com/news/Qt-Creator-21-Beta",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-01T14:10:01.000Z"
+    },
     {
       "title": "Rust 1.99.0 released",
       "url": "https://lwn.net/Articles/1098068/",
@@ -80,14 +128,6 @@
       "tag": "linux",
       "site": "https://www.phoronix.com/",
       "date": "2026-10-01T09:29:41.000Z"
-    },
-    {
-      "title": "OpenBSD -current is now \"8.0-current\"",
-      "url": "https://undeadly.org/cgi?action=article;sid=20261001091454",
-      "source": "undeadly",
-      "tag": "bsd",
-      "site": "https://undeadly.org/",
-      "date": "2026-10-01T09:14:54.000Z"
     },
     {
       "title": "Browse Apple Intelligence Reports with AIRer, a new app",
@@ -192,46 +232,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-30T16:00:31.000Z"
-    },
-    {
-      "title": "[$] The year in Plasma and what's ahead",
-      "url": "https://lwn.net/Articles/1096518/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-09-30T15:31:42.000Z"
-    },
-    {
-      "title": "Kernel Recipes videos posted",
-      "url": "https://lwn.net/Articles/1097802/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-09-30T15:24:51.000Z"
-    },
-    {
-      "title": "Framework Desktop With AMD Ryzen AI Max+ PRO 495 Starts Out At $6799 USD",
-      "url": "https://www.phoronix.com/news/Framework-Desktop-Gorgon-Halo",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-30T15:15:58.000Z"
-    },
-    {
-      "title": "OpenJDK vs. GraalVM vs. Eclipse Temurin vs. Semeru Java Performance",
-      "url": "https://www.phoronix.com/review/openjdk-graalvm-temurin-semeru",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-30T14:42:29.000Z"
-    },
-    {
-      "title": "Reports from the 2026 Python Language Summit",
-      "url": "https://lwn.net/Articles/1097761/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-09-30T14:32:36.000Z"
     },
     {
       "title": "Portraits of trees: Pine",
