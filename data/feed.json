@@ -1,6 +1,62 @@
 {
-  "generated": "2026-10-02T05:47:48.568Z",
+  "generated": "2026-10-02T12:45:58.011Z",
   "items": [
+    {
+      "title": "Intel Iris Open-Source Driver Now Supports Efficient 64-bit Addressing Mode",
+      "url": "https://www.phoronix.com/news/Intel-Iris-Efficient-64-bit",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-02T11:46:37.000Z"
+    },
+    {
+      "title": "Giorgione’s few brilliant years of painting",
+      "url": "https://eclecticlight.co/2026/10/02/giorgiones-few-brilliant-years-of-painting/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-10-02T11:30:00.000Z"
+    },
+    {
+      "title": "Ubuntu's Next Rust Effort May See OpenPGP Replaced By Sequoia PGP",
+      "url": "https://www.phoronix.com/news/Ubuntu-Rust-Sequoia-PGP",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-02T10:27:20.000Z"
+    },
+    {
+      "title": "Apex Compute Developing Open-Source Mesa Vulkan Driver For Their Hardware",
+      "url": "https://www.phoronix.com/news/Apex-Compute-Mesa-Vulkan",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-02T10:17:55.000Z"
+    },
+    {
+      "title": "Coreboot 26.09 Released With Framework Laptop 12 Support, AI Review Comment Policy",
+      "url": "https://www.phoronix.com/news/Coreboot-26.09-Released",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-02T10:06:11.000Z"
+    },
+    {
+      "title": "KDE Nearing Decision Point On BuildStream-Based KDE Linux",
+      "url": "https://www.phoronix.com/news/BuildStream-Based-KDE-Linux",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-02T09:54:20.000Z"
+    },
+    {
+      "title": "How to copy login keychains that can be unlocked",
+      "url": "https://eclecticlight.co/2026/10/02/how-to-copy-login-keychains-that-can-be-unlocked/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-10-02T06:30:00.000Z"
+    },
     {
       "title": "Siemens Slams The Door Shut On Promising Open-Source Radioss Project",
       "url": "https://www.phoronix.com/news/Siemens-Ends-OpenRadioss",
@@ -146,52 +202,12 @@
       "date": "2026-10-01T10:27:41.000Z"
     },
     {
-      "title": "Qualcomm Continues Doing More For Their Open-Source Linux Graphics Drivers",
-      "url": "https://www.phoronix.com/news/Qualcomm-More-OSS-GPU-2026",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-01T10:17:00.000Z"
-    },
-    {
-      "title": "New Linux Patches Trying To Mainline Renesas SH7305 CPU Support",
-      "url": "https://www.phoronix.com/news/Renesas-SH7305-Linux-Patches",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-01T09:55:08.000Z"
-    },
-    {
-      "title": "Raspberry Pi 5 2GB Price Increases To $77.50 USD",
-      "url": "https://www.phoronix.com/news/Raspberry-Pi-5-2GB-Price-77.50",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-01T09:29:41.000Z"
-    },
-    {
       "title": "Browse Apple Intelligence Reports with AIRer, a new app",
       "url": "https://eclecticlight.co/2026/10/01/browse-apple-intelligence-reports-with-airer-a-new-app/",
       "source": "Eclectic Light",
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-10-01T06:30:00.000Z"
-    },
-    {
-      "title": "OpenMandriva ROME 26.09 Released With More AI Apps, Snaps & PGO + LTO Optimizations",
-      "url": "https://www.phoronix.com/news/OpenMandriva-ROME-26.09",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-01T01:36:25.000Z"
-    },
-    {
-      "title": "[$] LWN.net Weekly Edition for October 1, 2026",
-      "url": "https://lwn.net/Articles/1096293/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-01T00:30:07.000Z"
     },
     {
       "title": "Google Antigravity Googlebook app hits the Play Store",
@@ -236,7 +252,7 @@
     {
       "title": "ChromeOS vs Googlebook OS: Support, Apps and Upgrades",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBEYzJaMXBYSHdJb1hCbTE2Y3oydnZFTldZZ1JoUmd3WDNKRmRJdXlQS0dLX01DOVNqVkw5MEl5OW85d1gtUjJFSG5jdHJjLTlmQzVOSTBJZWhNVzNlNFZ0QU9zXzBwX3JjZzgxQjVfVktjMUgxU3Vr?oc=5",
-      "source": "techrepublic.com",
+      "source": "TechRepublic",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-30T16:00:31.000Z"
@@ -408,22 +424,6 @@
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-09-29T00:43:51.000Z"
-    },
-    {
-      "title": "Jeremy Stern’s Profile of Mark Zuckerberg for Colossus",
-      "url": "https://colossus.com/article/mark-zuckerberg-profile/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-09-28T22:41:40.000Z"
-    },
-    {
-      "title": "Thoughts on Flash (2010)",
-      "url": "https://web.archive.org/web/20100501010616/http://www.apple.com/hotnews/thoughts-on-flash/",
-      "source": "Lobsters · mac",
-      "tag": "macos",
-      "site": "https://lobste.rs/t/mac",
-      "date": "2026-09-28T21:43:15.000Z"
     },
     {
       "title": "The first 5 Googlebook laptops are here, with an OS that blends Android and Gemini",
