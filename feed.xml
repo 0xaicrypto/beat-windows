@@ -5,8 +5,40 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Oct 2026 18:29:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 23:01:30 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>★ Apple Is Going to Further Tighten the Screws on Full Disk Access on MacOS, in Response to Agentic AI Apps Running Amok</title>
+      <link>https://daringfireball.net/2026/10/apple_full_disk_access</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/10/apple_full_disk_access</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Fri, 02 Oct 2026 20:40:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux 7.4 To Introduce Initial Device Trees For Apple M4, A18 Pro For MacBook Neo</title>
+      <link>https://www.phoronix.com/news/Linux-7.4-Apple-Device-Trees</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-Apple-Device-Trees</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 02 Oct 2026 20:32:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Updates to Full Disk Access in macOS</title>
+      <link>https://developer.apple.com/news/?id=p6zjojqw</link>
+      <guid isPermaLink="true">https://developer.apple.com/news/?id=p6zjojqw</guid>
+      <category>macos</category>
+      <source url="https://lobste.rs/t/mac">Lobsters · mac</source>
+      <pubDate>Fri, 02 Oct 2026 20:10:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Intel Ready With A Big Improvement For Battlemage With Linux 7.4</title>
+      <link>https://www.phoronix.com/news/Intel-CPU-Binds-ULLS-Migration</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Intel-CPU-Binds-ULLS-Migration</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 02 Oct 2026 18:34:00 GMT</pubDate>
+    </item>
     <item>
       <title>Ubuntu Working On SHA3 For Debian's APT For If/When SHA2 Is Broken</title>
       <link>https://www.phoronix.com/news/Ubuntu-SHA3-For-Debian-APT</link>
@@ -184,28 +216,12 @@
       <pubDate>Thu, 01 Oct 2026 19:26:05 GMT</pubDate>
     </item>
     <item>
-      <title>Nearing A 10 Second Kernel Build, Xeon 600 &amp; Other September Excitement On Phoronix</title>
-      <link>https://www.phoronix.com/news/September-2026-Highlights</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/September-2026-Highlights</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 01 Oct 2026 17:07:48 GMT</pubDate>
-    </item>
-    <item>
       <title>OpenBGPD 9.3 released</title>
       <link>https://undeadly.org/cgi?action=article;sid=20261001164002</link>
       <guid isPermaLink="true">https://undeadly.org/cgi?action=article;sid=20261001164002</guid>
       <category>bsd</category>
       <source url="https://undeadly.org/">undeadly</source>
       <pubDate>Thu, 01 Oct 2026 16:40:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Some Networking Fixes Being Diverted To Linux 7.4, AI/LLM Activity Still Increasing</title>
-      <link>https://www.phoronix.com/news/Linux-Networking-Linux-7.3-rc6</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-Networking-Linux-7.3-rc6</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 01 Oct 2026 16:24:40 GMT</pubDate>
     </item>
     <item>
       <title>Painting a good story: Multiplex returns</title>
@@ -268,7 +284,7 @@
       <link>https://news.google.com/rss/articles/CBMid0FVX3lxTFBEYzJaMXBYSHdJb1hCbTE2Y3oydnZFTldZZ1JoUmd3WDNKRmRJdXlQS0dLX01DOVNqVkw5MEl5OW85d1gtUjJFSG5jdHJjLTlmQzVOSTBJZWhNVzNlNFZ0QU9zXzBwX3JjZzgxQjVfVktjMUgxU3Vr?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMid0FVX3lxTFBEYzJaMXBYSHdJb1hCbTE2Y3oydnZFTldZZ1JoUmd3WDNKRmRJdXlQS0dLX01DOVNqVkw5MEl5OW85d1gtUjJFSG5jdHJjLTlmQzVOSTBJZWhNVzNlNFZ0QU9zXzBwX3JjZzgxQjVfVktjMUgxU3Vr?oc=5</guid>
       <category>android</category>
-      <source url="https://news.google.com/">TechRepublic</source>
+      <source url="https://news.google.com/">techrepublic.com</source>
       <pubDate>Wed, 30 Sep 2026 16:00:31 GMT</pubDate>
     </item>
     <item>
@@ -390,22 +406,6 @@
       <category>android</category>
       <source url="https://news.google.com/">Technology Org</source>
       <pubDate>Tue, 29 Sep 2026 09:41:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple has released an update to XProtect for all macOS</title>
-      <link>https://eclecticlight.co/2026/09/29/apple-has-released-an-update-to-xprotect-for-all-macos-41/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/09/29/apple-has-released-an-update-to-xprotect-for-all-macos-41/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Tue, 29 Sep 2026 06:30:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Create an external boot disk in Golden Gate</title>
-      <link>https://eclecticlight.co/2026/09/29/create-an-external-boot-disk-in-golden-gate/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/09/29/create-an-external-boot-disk-in-golden-gate/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Tue, 29 Sep 2026 06:30:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

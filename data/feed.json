@@ -1,6 +1,38 @@
 {
-  "generated": "2026-10-02T18:29:11.370Z",
+  "generated": "2026-10-02T23:01:30.863Z",
   "items": [
+    {
+      "title": "★ Apple Is Going to Further Tighten the Screws on Full Disk Access on MacOS, in Response to Agentic AI Apps Running Amok",
+      "url": "https://daringfireball.net/2026/10/apple_full_disk_access",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-02T20:40:15.000Z"
+    },
+    {
+      "title": "Linux 7.4 To Introduce Initial Device Trees For Apple M4, A18 Pro For MacBook Neo",
+      "url": "https://www.phoronix.com/news/Linux-7.4-Apple-Device-Trees",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-02T20:32:41.000Z"
+    },
+    {
+      "title": "Updates to Full Disk Access in macOS",
+      "url": "https://developer.apple.com/news/?id=p6zjojqw",
+      "source": "Lobsters · mac",
+      "tag": "macos",
+      "site": "https://lobste.rs/t/mac",
+      "date": "2026-10-02T20:10:26.000Z"
+    },
+    {
+      "title": "Intel Ready With A Big Improvement For Battlemage With Linux 7.4",
+      "url": "https://www.phoronix.com/news/Intel-CPU-Binds-ULLS-Migration",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-02T18:34:00.000Z"
+    },
     {
       "title": "Ubuntu Working On SHA3 For Debian's APT For If/When SHA2 Is Broken",
       "url": "https://www.phoronix.com/news/Ubuntu-SHA3-For-Debian-APT",
@@ -178,28 +210,12 @@
       "date": "2026-10-01T19:26:05.000Z"
     },
     {
-      "title": "Nearing A 10 Second Kernel Build, Xeon 600 & Other September Excitement On Phoronix",
-      "url": "https://www.phoronix.com/news/September-2026-Highlights",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-01T17:07:48.000Z"
-    },
-    {
       "title": "OpenBGPD 9.3 released",
       "url": "https://undeadly.org/cgi?action=article;sid=20261001164002",
       "source": "undeadly",
       "tag": "bsd",
       "site": "https://undeadly.org/",
       "date": "2026-10-01T16:40:02.000Z"
-    },
-    {
-      "title": "Some Networking Fixes Being Diverted To Linux 7.4, AI/LLM Activity Still Increasing",
-      "url": "https://www.phoronix.com/news/Linux-Networking-Linux-7.3-rc6",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-01T16:24:40.000Z"
     },
     {
       "title": "Painting a good story: Multiplex returns",
@@ -260,7 +276,7 @@
     {
       "title": "ChromeOS vs Googlebook OS: Support, Apps and Upgrades",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBEYzJaMXBYSHdJb1hCbTE2Y3oydnZFTldZZ1JoUmd3WDNKRmRJdXlQS0dLX01DOVNqVkw5MEl5OW85d1gtUjJFSG5jdHJjLTlmQzVOSTBJZWhNVzNlNFZ0QU9zXzBwX3JjZzgxQjVfVktjMUgxU3Vr?oc=5",
-      "source": "TechRepublic",
+      "source": "techrepublic.com",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-30T16:00:31.000Z"
@@ -418,22 +434,6 @@
       "date": "2026-09-29T01:51:50.000Z"
     },
     {
-      "title": "Joanna Stern Pokes the Pickle",
-      "url": "https://www.youtube.com/watch?v=YNqYEMuoQAI",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-09-29T01:42:00.000Z"
-    },
-    {
-      "title": "Why Stolen Device Protection Makes Passwords Safer",
-      "url": "https://sixcolors.com/post/2026/09/stolen-device-protection-passwords-glenn/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-09-29T00:43:51.000Z"
-    },
-    {
       "title": "The first 5 Googlebook laptops are here, with an OS that blends Android and Gemini",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaTN3WXdEWldTWjNDWjFFTHpNX1hkX215bjI0TkoyY2RDWjFBa3ctbndZZ2RsTFpjR1BQcVM0S0NtbzliYXQ2RmRyTmJvd2tobTdhUG5Qa2thb1hFbjc0MVhUd2kzc0lMemJQb21pQm5NYnJOQ2o2V1pTRUtxSHNVcEtXNWpXRW02UVFVeERrVQ?oc=5",
       "source": "Mashable",
@@ -444,7 +444,7 @@
     {
       "title": "Google Will Support ChromeOS Until 2034 As It Shifts To Googlebook OS",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNendhdGlHRFRSYnZ6MVNzbFhPVmZzeVNOaTYtY3ktdHIyaDNSTi0zR19QRF9yVmZoRE81VlpYbHduVFhhbFl5MkF6RG93bWNJWTNRVXRJYXBBMmJRRUlBV3JHMk9kNHF0Q2ttdl9NUHM3NURpU1B5VGZSUVNHc1BHTUlrUkd6cWVxaUx3THN4UXczODRvVGpvcThodnFHSEFLVGI2elZB?oc=5",
-      "source": "engadget.com",
+      "source": "Engadget",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-28T19:36:57.000Z"
