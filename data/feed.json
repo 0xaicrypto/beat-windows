@@ -1,6 +1,78 @@
 {
-  "generated": "2026-10-02T12:45:58.011Z",
+  "generated": "2026-10-02T18:29:11.370Z",
   "items": [
+    {
+      "title": "Ubuntu Working On SHA3 For Debian's APT For If/When SHA2 Is Broken",
+      "url": "https://www.phoronix.com/news/Ubuntu-SHA3-For-Debian-APT",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-02T18:10:00.000Z"
+    },
+    {
+      "title": "Why a leaked Samsung Android laptop on Geekbench likely isn’t a Googlebook",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ19ydTJMYXlCVTc2T1RpWFZ5LWVBYlFhRnpaTW1qWHVLMExDVk5RN29XOGxVQUpEek9oazMwMlhKNU1LNVVrWldld1p0YVNWWXg5dzE3M0RKcGJEQWU4QjJ3aFZhQnhueXlubVJXTkp5SjJsV1RkZkktTnRrNXZvYjlPMmhoZkRkVVo4aGhSTGpDc2hwdlZYS3g1ZllxNjdnSlE?oc=5",
+      "source": "Chrome Unboxed",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-02T16:48:31.000Z"
+    },
+    {
+      "title": "[$] Beyond the &",
+      "url": "https://lwn.net/Articles/1096028/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-02T15:11:11.000Z"
+    },
+    {
+      "title": "AMD Ryzen AI Developer Platform OS Updated With ROCm 10.0, Linux 7.2",
+      "url": "https://www.phoronix.com/news/Ryzen-AI-Dev-Platform-Sep-2026",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-02T14:25:45.000Z"
+    },
+    {
+      "title": "The forgetful CPU (Linux on M4)",
+      "url": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-10-02T14:01:47.000Z"
+    },
+    {
+      "title": "Linux Test Project suite stable release for September 2026",
+      "url": "https://lwn.net/Articles/1098313/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-02T13:40:28.000Z"
+    },
+    {
+      "title": "systemd-appd Out For Review To Centralize Tracking Of User's Apps",
+      "url": "https://www.phoronix.com/news/systemd-appd",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-02T13:29:00.000Z"
+    },
+    {
+      "title": "Security updates for Friday",
+      "url": "https://lwn.net/Articles/1098312/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-02T13:21:27.000Z"
+    },
+    {
+      "title": "Imagination Talks Up Their Open-Source Vulkan Driver, Volcanic Architecture Plans",
+      "url": "https://www.phoronix.com/news/Mesa-PowerVR-Vulkan-2026",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-02T13:00:03.000Z"
+    },
     {
       "title": "Intel Iris Open-Source Driver Now Supports Efficient 64-bit Addressing Mode",
       "url": "https://www.phoronix.com/news/Intel-Iris-Efficient-64-bit",
@@ -130,76 +202,12 @@
       "date": "2026-10-01T16:24:40.000Z"
     },
     {
-      "title": "[$] Coping with the onslaught of kernel security bugs",
-      "url": "https://lwn.net/Articles/1096908/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-01T15:03:25.000Z"
-    },
-    {
-      "title": "Qt Creator 21 IDE Beta Enables More AI Functionality By Default",
-      "url": "https://www.phoronix.com/news/Qt-Creator-21-Beta",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-01T14:10:01.000Z"
-    },
-    {
-      "title": "Rust 1.99.0 released",
-      "url": "https://lwn.net/Articles/1098068/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-01T13:25:17.000Z"
-    },
-    {
-      "title": "Security updates for Thursday",
-      "url": "https://lwn.net/Articles/1098067/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-01T13:12:52.000Z"
-    },
-    {
-      "title": "AMD RMPOPT Optimization Queued Ahead Of Linux 7.4",
-      "url": "https://www.phoronix.com/news/AMD-RMPOPT-For-Linux-7.4",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-01T12:52:00.000Z"
-    },
-    {
-      "title": "Clearing Out Linux's Old 32-bit ARM Platform Code Is Itself A Challenge",
-      "url": "https://www.phoronix.com/news/Clearing-Old-ARM-Code-Challenge",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-01T12:04:18.000Z"
-    },
-    {
       "title": "Painting a good story: Multiplex returns",
       "url": "https://eclecticlight.co/2026/10/01/painting-a-good-story-multiplex-returns/",
       "source": "Eclectic Light",
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-10-01T11:30:00.000Z"
-    },
-    {
-      "title": "Intel Optimization Zone 1.2 Released With New Guides & Recommendations",
-      "url": "https://www.phoronix.com/news/Intel-Optimization-Zone-1.2",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-01T11:06:11.000Z"
-    },
-    {
-      "title": "NVIDIA Olympus SMT Optimizations For Vera CPU Showing 3~6% Performance Gains",
-      "url": "https://www.phoronix.com/news/NVIDIA-Olympus-SMT-Better",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-01T10:27:41.000Z"
     },
     {
       "title": "Browse Apple Intelligence Reports with AIRer, a new app",
@@ -436,7 +444,7 @@
     {
       "title": "Google Will Support ChromeOS Until 2034 As It Shifts To Googlebook OS",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNendhdGlHRFRSYnZ6MVNzbFhPVmZzeVNOaTYtY3ktdHIyaDNSTi0zR19QRF9yVmZoRE81VlpYbHduVFhhbFl5MkF6RG93bWNJWTNRVXRJYXBBMmJRRUlBV3JHMk9kNHF0Q2ttdl9NUHM3NURpU1B5VGZSUVNHc1BHTUlrUkd6cWVxaUx3THN4UXczODRvVGpvcThodnFHSEFLVGI2elZB?oc=5",
-      "source": "Engadget",
+      "source": "engadget.com",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-28T19:36:57.000Z"
@@ -488,14 +496,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-28T15:22:41.000Z"
-    },
-    {
-      "title": "Google says Chromebook updates end in 2034, ‘many’ models move to Googlebook OS",
-      "url": "https://9to5google.com/2026/09/28/google-details-chromebook-updates-through-2034-many-models-move-to-googlebook-os/",
-      "source": "9to5Google · Googlebook",
-      "tag": "android",
-      "site": "https://9to5google.com/guides/googlebook/",
-      "date": "2026-09-28T15:15:00.000Z"
     },
     {
       "title": "Deshittification Part 2: Bypassing the App Store Gatekeeper",
@@ -576,14 +576,6 @@
       "tag": "bsd",
       "site": "https://lobste.rs/t/freebsd",
       "date": "2026-09-04T14:42:54.000Z"
-    },
-    {
-      "title": "OpenBSD Stories: Strange Medieval Devices",
-      "url": "http://miod.online.fr/software/openbsd/stories/smd.html",
-      "source": "HN · OpenBSD",
-      "tag": "bsd",
-      "site": "https://news.ycombinator.com/",
-      "date": "2026-09-02T17:44:24.000Z"
     }
   ]
 }

@@ -5,8 +5,80 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Oct 2026 12:45:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 18:29:11 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ubuntu Working On SHA3 For Debian's APT For If/When SHA2 Is Broken</title>
+      <link>https://www.phoronix.com/news/Ubuntu-SHA3-For-Debian-APT</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Ubuntu-SHA3-For-Debian-APT</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 02 Oct 2026 18:10:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why a leaked Samsung Android laptop on Geekbench likely isn’t a Googlebook</title>
+      <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ19ydTJMYXlCVTc2T1RpWFZ5LWVBYlFhRnpaTW1qWHVLMExDVk5RN29XOGxVQUpEek9oazMwMlhKNU1LNVVrWldld1p0YVNWWXg5dzE3M0RKcGJEQWU4QjJ3aFZhQnhueXlubVJXTkp5SjJsV1RkZkktTnRrNXZvYjlPMmhoZkRkVVo4aGhSTGpDc2hwdlZYS3g1ZllxNjdnSlE?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ19ydTJMYXlCVTc2T1RpWFZ5LWVBYlFhRnpaTW1qWHVLMExDVk5RN29XOGxVQUpEek9oazMwMlhKNU1LNVVrWldld1p0YVNWWXg5dzE3M0RKcGJEQWU4QjJ3aFZhQnhueXlubVJXTkp5SjJsV1RkZkktTnRrNXZvYjlPMmhoZkRkVVo4aGhSTGpDc2hwdlZYS3g1ZllxNjdnSlE?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Chrome Unboxed</source>
+      <pubDate>Fri, 02 Oct 2026 16:48:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>[$] Beyond the &amp;</title>
+      <link>https://lwn.net/Articles/1096028/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1096028/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Fri, 02 Oct 2026 15:11:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMD Ryzen AI Developer Platform OS Updated With ROCm 10.0, Linux 7.2</title>
+      <link>https://www.phoronix.com/news/Ryzen-AI-Dev-Platform-Sep-2026</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Ryzen-AI-Dev-Platform-Sep-2026</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 02 Oct 2026 14:25:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>The forgetful CPU (Linux on M4)</title>
+      <link>https://yuka.dev/blog-2026-10-02-linux-m4.html</link>
+      <guid isPermaLink="true">https://yuka.dev/blog-2026-10-02-linux-m4.html</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Fri, 02 Oct 2026 14:01:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux Test Project suite stable release for September 2026</title>
+      <link>https://lwn.net/Articles/1098313/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1098313/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Fri, 02 Oct 2026 13:40:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>systemd-appd Out For Review To Centralize Tracking Of User's Apps</title>
+      <link>https://www.phoronix.com/news/systemd-appd</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/systemd-appd</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 02 Oct 2026 13:29:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Security updates for Friday</title>
+      <link>https://lwn.net/Articles/1098312/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1098312/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Fri, 02 Oct 2026 13:21:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Imagination Talks Up Their Open-Source Vulkan Driver, Volcanic Architecture Plans</title>
+      <link>https://www.phoronix.com/news/Mesa-PowerVR-Vulkan-2026</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Mesa-PowerVR-Vulkan-2026</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 02 Oct 2026 13:00:03 GMT</pubDate>
+    </item>
     <item>
       <title>Intel Iris Open-Source Driver Now Supports Efficient 64-bit Addressing Mode</title>
       <link>https://www.phoronix.com/news/Intel-Iris-Efficient-64-bit</link>
@@ -136,76 +208,12 @@
       <pubDate>Thu, 01 Oct 2026 16:24:40 GMT</pubDate>
     </item>
     <item>
-      <title>[$] Coping with the onslaught of kernel security bugs</title>
-      <link>https://lwn.net/Articles/1096908/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1096908/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Thu, 01 Oct 2026 15:03:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Qt Creator 21 IDE Beta Enables More AI Functionality By Default</title>
-      <link>https://www.phoronix.com/news/Qt-Creator-21-Beta</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Qt-Creator-21-Beta</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 01 Oct 2026 14:10:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rust 1.99.0 released</title>
-      <link>https://lwn.net/Articles/1098068/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1098068/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Thu, 01 Oct 2026 13:25:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Security updates for Thursday</title>
-      <link>https://lwn.net/Articles/1098067/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1098067/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Thu, 01 Oct 2026 13:12:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>AMD RMPOPT Optimization Queued Ahead Of Linux 7.4</title>
-      <link>https://www.phoronix.com/news/AMD-RMPOPT-For-Linux-7.4</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/AMD-RMPOPT-For-Linux-7.4</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 01 Oct 2026 12:52:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Clearing Out Linux's Old 32-bit ARM Platform Code Is Itself A Challenge</title>
-      <link>https://www.phoronix.com/news/Clearing-Old-ARM-Code-Challenge</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Clearing-Old-ARM-Code-Challenge</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 01 Oct 2026 12:04:18 GMT</pubDate>
-    </item>
-    <item>
       <title>Painting a good story: Multiplex returns</title>
       <link>https://eclecticlight.co/2026/10/01/painting-a-good-story-multiplex-returns/</link>
       <guid isPermaLink="true">https://eclecticlight.co/2026/10/01/painting-a-good-story-multiplex-returns/</guid>
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Thu, 01 Oct 2026 11:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Intel Optimization Zone 1.2 Released With New Guides &amp; Recommendations</title>
-      <link>https://www.phoronix.com/news/Intel-Optimization-Zone-1.2</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Intel-Optimization-Zone-1.2</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 01 Oct 2026 11:06:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>NVIDIA Olympus SMT Optimizations For Vera CPU Showing 3~6% Performance Gains</title>
-      <link>https://www.phoronix.com/news/NVIDIA-Olympus-SMT-Better</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/NVIDIA-Olympus-SMT-Better</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 01 Oct 2026 10:27:41 GMT</pubDate>
     </item>
     <item>
       <title>Browse Apple Intelligence Reports with AIRer, a new app</title>
@@ -398,14 +406,6 @@
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Tue, 29 Sep 2026 06:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bastardica</title>
-      <link>https://bastardica.mitpit.com/</link>
-      <guid isPermaLink="true">https://bastardica.mitpit.com/</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Tue, 29 Sep 2026 02:15:36 GMT</pubDate>
     </item>
   </channel>
 </rss>
