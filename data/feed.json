@@ -1,6 +1,30 @@
 {
-  "generated": "2026-10-01T23:56:15.398Z",
+  "generated": "2026-10-02T05:47:48.568Z",
   "items": [
+    {
+      "title": "Siemens Slams The Door Shut On Promising Open-Source Radioss Project",
+      "url": "https://www.phoronix.com/news/Siemens-Ends-OpenRadioss",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-02T01:00:31.000Z"
+    },
+    {
+      "title": "Steam On Linux Dives Down To 3.05% For September",
+      "url": "https://www.phoronix.com/news/Steam-Survey-September-2025",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-02T00:18:56.000Z"
+    },
+    {
+      "title": "Yankees Sweep Boston in Two Games, by Combined Score of 18-2",
+      "url": "https://www.nytimes.com/athletic/7648172/2026/09/30/yankees-beat-red-sox-mlb-wild-card-series/",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-02T00:06:56.000Z"
+    },
     {
       "title": "Fedora 45 Beta Performance: The Satisfyingly Boring Benchmarks",
       "url": "https://www.phoronix.com/review/fedora-45-beta-benchmarks",
@@ -170,14 +194,6 @@
       "date": "2026-10-01T00:30:07.000Z"
     },
     {
-      "title": "Valve's Work On Foveated Rendering For The Open-Source Turnip Driver On The Steam Frame",
-      "url": "https://www.phoronix.com/news/Steam-Frame-Turnip-Foveated",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-01T00:18:48.000Z"
-    },
-    {
       "title": "Google Antigravity Googlebook app hits the Play Store",
       "url": "https://9to5google.com/2026/09/30/google-antigravity-play-store/",
       "source": "9to5Google · Googlebook",
@@ -210,14 +226,6 @@
       "date": "2026-09-30T19:23:42.000Z"
     },
     {
-      "title": "More AI In Open-Source, CachyOS, Ryzen AI Halo, Framework Laptop 13 Pro & Other Q3 Hits",
-      "url": "https://www.phoronix.com/news/Q3-2026-Highlights",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-09-30T18:57:43.000Z"
-    },
-    {
       "title": "Googlebook Launches with Intel Core Ultra Series 3 Processors",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRC1Edk83QjdDemRmenpkRzcwdWxmU0VoM1lDbXNqXzFvbG9IaFpNZ3pqRERzaFVtM3pXaElGSzlhM3dJcnUxeHlzQ1FRbVZBWlFhTFJ3RXo5WnljUzJhN2ZqeHkzQ2JIOUVmQUh0aXNoOFNGZlozRTFlNm02OEV1T2VJYUNwa3lmeldGU2ZQSUFrczBvOXBMYXNNVmsyekc1VVpDRnVMRVF2Q0hMMXZ5WDVERGtkWWtxZU0tdWR1Z2dWRnNLNFBRVWNHQktsVTRKMWww?oc=5",
       "source": "intel.com",
@@ -228,7 +236,7 @@
     {
       "title": "ChromeOS vs Googlebook OS: Support, Apps and Upgrades",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBEYzJaMXBYSHdJb1hCbTE2Y3oydnZFTldZZ1JoUmd3WDNKRmRJdXlQS0dLX01DOVNqVkw5MEl5OW85d1gtUjJFSG5jdHJjLTlmQzVOSTBJZWhNVzNlNFZ0QU9zXzBwX3JjZzgxQjVfVktjMUgxU3Vr?oc=5",
-      "source": "TechRepublic",
+      "source": "techrepublic.com",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-30T16:00:31.000Z"
@@ -424,14 +432,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-28T21:39:58.000Z"
-    },
-    {
-      "title": "Muse, Instagram, and VLC Lookalike Rip-Offs in the Mac App Store",
-      "url": "https://lapcatsoftware.com/articles/2026/9/8.html",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-09-28T19:50:19.000Z"
     },
     {
       "title": "Google Will Support ChromeOS Until 2034 As It Shifts To Googlebook OS",
