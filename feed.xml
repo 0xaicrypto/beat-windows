@@ -5,8 +5,24 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 03 Oct 2026 13:29:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 18:00:42 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Linux Patches Show Promising Results For Lower Latency Of Short Slice Tasks</title>
+      <link>https://www.phoronix.com/news/Linux-Latency-Short-Slice-Tasks</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-Latency-Short-Slice-Tasks</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sat, 03 Oct 2026 17:25:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>An Update on Orion for Linux and Windows</title>
+      <link>https://blog.kagi.com/update-orion-linux-windows</link>
+      <guid isPermaLink="true">https://blog.kagi.com/update-orion-linux-windows</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Sat, 03 Oct 2026 15:57:16 GMT</pubDate>
+    </item>
     <item>
       <title>Googlebook vs Chromebook: is the extra processing power worth it?</title>
       <link>https://news.google.com/rss/articles/CBMifEFVX3lxTE1fVXVWR0pjV1NoUGQzMGJ1aEtmZC1vczJvSlJILTNnb09MUnlWT1NOLTd3d083U0ZKYmNmdGhsVW9YX3BUaDVpbWdNUUJLVXpUN0tFSl83cEJ1ZnYzQnEtbEZOOGNYZzNMNVFmaVFkUTl4Z1BsQndzZnk5d18?oc=5</link>
@@ -216,28 +232,12 @@
       <pubDate>Fri, 02 Oct 2026 13:00:03 GMT</pubDate>
     </item>
     <item>
-      <title>Intel Iris Open-Source Driver Now Supports Efficient 64-bit Addressing Mode</title>
-      <link>https://www.phoronix.com/news/Intel-Iris-Efficient-64-bit</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Intel-Iris-Efficient-64-bit</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 02 Oct 2026 11:46:37 GMT</pubDate>
-    </item>
-    <item>
       <title>Giorgione’s few brilliant years of painting</title>
       <link>https://eclecticlight.co/2026/10/02/giorgiones-few-brilliant-years-of-painting/</link>
       <guid isPermaLink="true">https://eclecticlight.co/2026/10/02/giorgiones-few-brilliant-years-of-painting/</guid>
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Fri, 02 Oct 2026 11:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ubuntu's Next Rust Effort May See OpenPGP Replaced By Sequoia PGP</title>
-      <link>https://www.phoronix.com/news/Ubuntu-Rust-Sequoia-PGP</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Ubuntu-Rust-Sequoia-PGP</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 02 Oct 2026 10:27:20 GMT</pubDate>
     </item>
     <item>
       <title>How to copy login keychains that can be unlocked</title>

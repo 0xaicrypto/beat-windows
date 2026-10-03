@@ -1,6 +1,22 @@
 {
-  "generated": "2026-10-03T13:29:45.993Z",
+  "generated": "2026-10-03T18:00:42.471Z",
   "items": [
+    {
+      "title": "Linux Patches Show Promising Results For Lower Latency Of Short Slice Tasks",
+      "url": "https://www.phoronix.com/news/Linux-Latency-Short-Slice-Tasks",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-03T17:25:38.000Z"
+    },
+    {
+      "title": "An Update on Orion for Linux and Windows",
+      "url": "https://blog.kagi.com/update-orion-linux-windows",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-10-03T15:57:16.000Z"
+    },
     {
       "title": "Googlebook vs Chromebook: is the extra processing power worth it?",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1fVXVWR0pjV1NoUGQzMGJ1aEtmZC1vczJvSlJILTNnb09MUnlWT1NOLTd3d083U0ZKYmNmdGhsVW9YX3BUaDVpbWdNUUJLVXpUN0tFSl83cEJ1ZnYzQnEtbEZOOGNYZzNMNVFmaVFkUTl4Z1BsQndzZnk5d18?oc=5",
@@ -210,28 +226,12 @@
       "date": "2026-10-02T13:00:03.000Z"
     },
     {
-      "title": "Intel Iris Open-Source Driver Now Supports Efficient 64-bit Addressing Mode",
-      "url": "https://www.phoronix.com/news/Intel-Iris-Efficient-64-bit",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-02T11:46:37.000Z"
-    },
-    {
       "title": "Giorgione’s few brilliant years of painting",
       "url": "https://eclecticlight.co/2026/10/02/giorgiones-few-brilliant-years-of-painting/",
       "source": "Eclectic Light",
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-10-02T11:30:00.000Z"
-    },
-    {
-      "title": "Ubuntu's Next Rust Effort May See OpenPGP Replaced By Sequoia PGP",
-      "url": "https://www.phoronix.com/news/Ubuntu-Rust-Sequoia-PGP",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-02T10:27:20.000Z"
     },
     {
       "title": "How to copy login keychains that can be unlocked",
@@ -460,7 +460,7 @@
     {
       "title": "Google Will Support ChromeOS Until 2034 As It Shifts To Googlebook OS",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNendhdGlHRFRSYnZ6MVNzbFhPVmZzeVNOaTYtY3ktdHIyaDNSTi0zR19QRF9yVmZoRE81VlpYbHduVFhhbFl5MkF6RG93bWNJWTNRVXRJYXBBMmJRRUlBV3JHMk9kNHF0Q2ttdl9NUHM3NURpU1B5VGZSUVNHc1BHTUlrUkd6cWVxaUx3THN4UXczODRvVGpvcThodnFHSEFLVGI2elZB?oc=5",
-      "source": "engadget.com",
+      "source": "Engadget",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-28T19:36:57.000Z"
@@ -468,7 +468,7 @@
     {
       "title": "Newer Chromebooks Will Be Able to Upgrade to Googlebook OS",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVFl6QmhsbFdZV09QTzVXbG9JREszQmNRY1V0SkJERmMzTXJ3dklfdmtxTlRPbHlJU0RiNC1nOE5SNC1RRHhQVTdRbFdxUjd6NEMtUW9KQnUxZWxjQm1Ya2NDNExGUERnQkJsLXNoZUZFcWttaEhtRVlmVmZmU2dKNWlMZzRVSkpHQjcwZnFR?oc=5",
-      "source": "PCMag",
+      "source": "pcmag.com",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-28T18:29:05.000Z"
