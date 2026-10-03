@@ -1,6 +1,14 @@
 {
-  "generated": "2026-10-02T23:01:30.863Z",
+  "generated": "2026-10-03T02:03:35.156Z",
   "items": [
+    {
+      "title": "Wine 11.19 Released With Wayland Color Management For Vulkan, DNS Query Caching",
+      "url": "https://www.phoronix.com/news/Wine-11.19-Released",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-03T00:29:10.000Z"
+    },
     {
       "title": "★ Apple Is Going to Further Tighten the Screws on Full Disk Access on MacOS, in Response to Agentic AI Apps Running Amok",
       "url": "https://daringfireball.net/2026/10/apple_full_disk_access",
@@ -202,14 +210,6 @@
       "date": "2026-10-01T20:00:08.000Z"
     },
     {
-      "title": "Ubuntu 26.10 Beta Released With Linux 7.3 Kernel, GNOME 51 Desktop",
-      "url": "https://www.phoronix.com/news/Ubuntu-26.10-Beta-Released",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-01T19:26:05.000Z"
-    },
-    {
       "title": "OpenBGPD 9.3 released",
       "url": "https://undeadly.org/cgi?action=article;sid=20261001164002",
       "source": "undeadly",
@@ -276,7 +276,7 @@
     {
       "title": "ChromeOS vs Googlebook OS: Support, Apps and Upgrades",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBEYzJaMXBYSHdJb1hCbTE2Y3oydnZFTldZZ1JoUmd3WDNKRmRJdXlQS0dLX01DOVNqVkw5MEl5OW85d1gtUjJFSG5jdHJjLTlmQzVOSTBJZWhNVzNlNFZ0QU9zXzBwX3JjZzgxQjVfVktjMUgxU3Vr?oc=5",
-      "source": "techrepublic.com",
+      "source": "TechRepublic",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-30T16:00:31.000Z"

@@ -5,8 +5,16 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Oct 2026 23:01:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 02:03:35 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Wine 11.19 Released With Wayland Color Management For Vulkan, DNS Query Caching</title>
+      <link>https://www.phoronix.com/news/Wine-11.19-Released</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Wine-11.19-Released</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sat, 03 Oct 2026 00:29:10 GMT</pubDate>
+    </item>
     <item>
       <title>★ Apple Is Going to Further Tighten the Screws on Full Disk Access on MacOS, in Response to Agentic AI Apps Running Amok</title>
       <link>https://daringfireball.net/2026/10/apple_full_disk_access</link>
@@ -208,14 +216,6 @@
       <pubDate>Thu, 01 Oct 2026 20:00:08 GMT</pubDate>
     </item>
     <item>
-      <title>Ubuntu 26.10 Beta Released With Linux 7.3 Kernel, GNOME 51 Desktop</title>
-      <link>https://www.phoronix.com/news/Ubuntu-26.10-Beta-Released</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Ubuntu-26.10-Beta-Released</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 01 Oct 2026 19:26:05 GMT</pubDate>
-    </item>
-    <item>
       <title>OpenBGPD 9.3 released</title>
       <link>https://undeadly.org/cgi?action=article;sid=20261001164002</link>
       <guid isPermaLink="true">https://undeadly.org/cgi?action=article;sid=20261001164002</guid>
@@ -284,7 +284,7 @@
       <link>https://news.google.com/rss/articles/CBMid0FVX3lxTFBEYzJaMXBYSHdJb1hCbTE2Y3oydnZFTldZZ1JoUmd3WDNKRmRJdXlQS0dLX01DOVNqVkw5MEl5OW85d1gtUjJFSG5jdHJjLTlmQzVOSTBJZWhNVzNlNFZ0QU9zXzBwX3JjZzgxQjVfVktjMUgxU3Vr?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMid0FVX3lxTFBEYzJaMXBYSHdJb1hCbTE2Y3oydnZFTldZZ1JoUmd3WDNKRmRJdXlQS0dLX01DOVNqVkw5MEl5OW85d1gtUjJFSG5jdHJjLTlmQzVOSTBJZWhNVzNlNFZ0QU9zXzBwX3JjZzgxQjVfVktjMUgxU3Vr?oc=5</guid>
       <category>android</category>
-      <source url="https://news.google.com/">techrepublic.com</source>
+      <source url="https://news.google.com/">TechRepublic</source>
       <pubDate>Wed, 30 Sep 2026 16:00:31 GMT</pubDate>
     </item>
     <item>
