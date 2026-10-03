@@ -1,6 +1,22 @@
 {
-  "generated": "2026-10-03T02:03:35.156Z",
+  "generated": "2026-10-03T08:13:54.877Z",
   "items": [
+    {
+      "title": "Saturday Mac riddles 380",
+      "url": "https://eclecticlight.co/2026/10/03/saturday-mac-riddles-380/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-10-03T08:00:00.000Z"
+    },
+    {
+      "title": "What changed in macOS Tahoe 26.4? (Take 2)",
+      "url": "https://eclecticlight.co/2026/10/03/what-changed-in-macos-tahoe-26-4-take-2/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-10-03T07:00:00.000Z"
+    },
     {
       "title": "Wine 11.19 Released With Wayland Color Management For Vulkan, DNS Query Caching",
       "url": "https://www.phoronix.com/news/Wine-11.19-Released",
@@ -418,22 +434,6 @@
       "date": "2026-09-29T06:30:00.000Z"
     },
     {
-      "title": "Bastardica",
-      "url": "https://bastardica.mitpit.com/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-09-29T02:15:36.000Z"
-    },
-    {
-      "title": "‘When Did Google Get So F-Ing Weird?’",
-      "url": "https://sancho.bearblog.dev/google-weird/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-09-29T01:51:50.000Z"
-    },
-    {
       "title": "The first 5 Googlebook laptops are here, with an OS that blends Android and Gemini",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaTN3WXdEWldTWjNDWjFFTHpNX1hkX215bjI0TkoyY2RDWjFBa3ctbndZZ2RsTFpjR1BQcVM0S0NtbzliYXQ2RmRyTmJvd2tobTdhUG5Qa2thb1hFbjc0MVhUd2kzc0lMemJQb21pQm5NYnJOQ2o2V1pTRUtxSHNVcEtXNWpXRW02UVFVeERrVQ?oc=5",
       "source": "Mashable",
@@ -476,7 +476,7 @@
     {
       "title": "Google confirms ChromeOS phase out in 2034 — 10-year support lifetime cut short for some devices, company says it will support transition to Googlebook OS",
       "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOMnNhTzhOeW13V0hrbm85SlN4aU1iNF9JNWFBNU1tM3l4Z19nSHNZUTBXNS1iUUphUFdoZVhxeU9zT05WbW9CcjQ2MmZnWDN1ZVhtUVphRnlEUlg2c2w1VjNpNkJLQzEyVGh0LXB4MWFfdFhzQlF6UDZ4eU1GTmNnYmdTNHFSaUJnMnlUb1pRRjh0MEFiWU9PaEg1Rjd5U3BvNGg3dTRLNVk0UWZVNWhVenhSYnhRSzJ3Vnp1MndPTktJc2E0NG1QbFdndTIyckhvNDQ3c01KaGo5VVV2Z2puVjRFeTMyYms0V3phTjFjZ0Vfd1hCTXFEUDhuQUxKcG9icE53dFl3MHZpRTV0bW1uQUZFNW1uVFU?oc=5",
-      "source": "tomshardware.com",
+      "source": "Tom's Hardware",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-28T16:38:07.000Z"

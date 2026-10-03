@@ -5,8 +5,24 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 03 Oct 2026 02:03:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 08:13:54 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Saturday Mac riddles 380</title>
+      <link>https://eclecticlight.co/2026/10/03/saturday-mac-riddles-380/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/10/03/saturday-mac-riddles-380/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Sat, 03 Oct 2026 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>What changed in macOS Tahoe 26.4? (Take 2)</title>
+      <link>https://eclecticlight.co/2026/10/03/what-changed-in-macos-tahoe-26-4-take-2/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/10/03/what-changed-in-macos-tahoe-26-4-take-2/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Sat, 03 Oct 2026 07:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Wine 11.19 Released With Wayland Color Management For Vulkan, DNS Query Caching</title>
       <link>https://www.phoronix.com/news/Wine-11.19-Released</link>
@@ -390,22 +406,6 @@
       <category>android</category>
       <source url="https://news.google.com/">PCMag</source>
       <pubDate>Tue, 29 Sep 2026 13:00:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hero or hooligan: Heracles wrestles for a wife</title>
-      <link>https://eclecticlight.co/2026/09/29/hero-or-hooligan-heracles-wrestles-for-a-wife/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/09/29/hero-or-hooligan-heracles-wrestles-for-a-wife/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Tue, 29 Sep 2026 11:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google Sets Mid-2034 End Date for ChromeOS Updates as Googlebook OS Takes Over</title>
-      <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxPMmd3MWJlWWFXc3VtOVI5d3NXVmt1WmtidEJ5U2pqd2RfUVRxamVHcjFTdlV0M21PSWRRQXEtbU1tRzMxblg0QkZuZzBvNDVCbDZ0TWRwNXhHQVltT1VoQldpbklLaXBOa1BEaEhRV1NiazV4dmFxYmJ0NkJEYTZlVlRfSXJWYU45bUNBYQ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMijAFBVV95cUxPMmd3MWJlWWFXc3VtOVI5d3NXVmt1WmtidEJ5U2pqd2RfUVRxamVHcjFTdlV0M21PSWRRQXEtbU1tRzMxblg0QkZuZzBvNDVCbDZ0TWRwNXhHQVltT1VoQldpbklLaXBOa1BEaEhRV1NiazV4dmFxYmJ0NkJEYTZlVlRfSXJWYU45bUNBYQ?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Technology Org</source>
-      <pubDate>Tue, 29 Sep 2026 09:41:59 GMT</pubDate>
     </item>
   </channel>
 </rss>
