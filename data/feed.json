@@ -1,6 +1,22 @@
 {
-  "generated": "2026-10-03T18:00:42.471Z",
+  "generated": "2026-10-03T21:23:31.778Z",
   "items": [
+    {
+      "title": "The Amazing Work By Valve's Timur Kristóf On Improving Old AMD GPUs On Linux",
+      "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-03T18:56:28.000Z"
+    },
+    {
+      "title": "Apple Confirms iPhone 18 Pro Max AT&T Cellular Issues, Affected Devices Require Hardware Replacement",
+      "url": "https://9to5mac.com/2026/10/02/apple-confirms-iphone-18-pro-max-att-cellular-issues-affected-devices-require-hardware-replacement/",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-03T18:21:14.000Z"
+    },
     {
       "title": "Linux Patches Show Promising Results For Lower Latency Of Short Slice Tasks",
       "url": "https://www.phoronix.com/news/Linux-Latency-Short-Slice-Tasks",
@@ -216,14 +232,6 @@
       "tag": "linux",
       "site": "https://lwn.net/",
       "date": "2026-10-02T13:21:27.000Z"
-    },
-    {
-      "title": "Imagination Talks Up Their Open-Source Vulkan Driver, Volcanic Architecture Plans",
-      "url": "https://www.phoronix.com/news/Mesa-PowerVR-Vulkan-2026",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-02T13:00:03.000Z"
     },
     {
       "title": "Giorgione’s few brilliant years of painting",
@@ -442,14 +450,6 @@
       "date": "2026-09-29T09:41:59.000Z"
     },
     {
-      "title": "Apple has released an update to XProtect for all macOS",
-      "url": "https://eclecticlight.co/2026/09/29/apple-has-released-an-update-to-xprotect-for-all-macos-41/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-09-29T06:30:33.000Z"
-    },
-    {
       "title": "The first 5 Googlebook laptops are here, with an OS that blends Android and Gemini",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaTN3WXdEWldTWjNDWjFFTHpNX1hkX215bjI0TkoyY2RDWjFBa3ctbndZZ2RsTFpjR1BQcVM0S0NtbzliYXQ2RmRyTmJvd2tobTdhUG5Qa2thb1hFbjc0MVhUd2kzc0lMemJQb21pQm5NYnJOQ2o2V1pTRUtxSHNVcEtXNWpXRW02UVFVeERrVQ?oc=5",
       "source": "Mashable",
@@ -468,7 +468,7 @@
     {
       "title": "Newer Chromebooks Will Be Able to Upgrade to Googlebook OS",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVFl6QmhsbFdZV09QTzVXbG9JREszQmNRY1V0SkJERmMzTXJ3dklfdmtxTlRPbHlJU0RiNC1nOE5SNC1RRHhQVTdRbFdxUjd6NEMtUW9KQnUxZWxjQm1Ya2NDNExGUERnQkJsLXNoZUZFcWttaEhtRVlmVmZmU2dKNWlMZzRVSkpHQjcwZnFR?oc=5",
-      "source": "pcmag.com",
+      "source": "PCMag",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-28T18:29:05.000Z"

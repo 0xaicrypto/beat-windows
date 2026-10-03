@@ -5,8 +5,24 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 03 Oct 2026 18:00:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 21:23:31 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Amazing Work By Valve's Timur Kristóf On Improving Old AMD GPUs On Linux</title>
+      <link>https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sat, 03 Oct 2026 18:56:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apple Confirms iPhone 18 Pro Max AT&amp;T Cellular Issues, Affected Devices Require Hardware Replacement</title>
+      <link>https://9to5mac.com/2026/10/02/apple-confirms-iphone-18-pro-max-att-cellular-issues-affected-devices-require-hardware-replacement/</link>
+      <guid isPermaLink="true">https://9to5mac.com/2026/10/02/apple-confirms-iphone-18-pro-max-att-cellular-issues-affected-devices-require-hardware-replacement/</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Sat, 03 Oct 2026 18:21:14 GMT</pubDate>
+    </item>
     <item>
       <title>Linux Patches Show Promising Results For Lower Latency Of Short Slice Tasks</title>
       <link>https://www.phoronix.com/news/Linux-Latency-Short-Slice-Tasks</link>
@@ -224,14 +240,6 @@
       <pubDate>Fri, 02 Oct 2026 13:21:27 GMT</pubDate>
     </item>
     <item>
-      <title>Imagination Talks Up Their Open-Source Vulkan Driver, Volcanic Architecture Plans</title>
-      <link>https://www.phoronix.com/news/Mesa-PowerVR-Vulkan-2026</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Mesa-PowerVR-Vulkan-2026</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 02 Oct 2026 13:00:03 GMT</pubDate>
-    </item>
-    <item>
       <title>Giorgione’s few brilliant years of painting</title>
       <link>https://eclecticlight.co/2026/10/02/giorgiones-few-brilliant-years-of-painting/</link>
       <guid isPermaLink="true">https://eclecticlight.co/2026/10/02/giorgiones-few-brilliant-years-of-painting/</guid>
@@ -398,14 +406,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Tue, 29 Sep 2026 15:08:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Lenovo Googlebook 15 Land in U.S on Oct 4: 15.3-inch OLED Under 3 lb ~$1,100</title>
-      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbjc5XzJnaF9KSm1oYkNPS25vTnpoc2RvTE9NeVE3SnF6NzNXQUUxckZINDJWU3RtNmxyRl9yeTVPTmNGeUZISEd3dklUc1htTDVETjB5WTNxbWYxVGI4dkxlSWFCV1AwQnU3RTBxVDBZdG1oN3dXYV94Qk4xVlhRMHgwb0VUd2ZfMFBwUDNvQUlKWGdtN2pSaGhMNktxN2hvdGdIU3ExNTg0RFk?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbjc5XzJnaF9KSm1oYkNPS25vTnpoc2RvTE9NeVE3SnF6NzNXQUUxckZINDJWU3RtNmxyRl9yeTVPTmNGeUZISEd3dklUc1htTDVETjB5WTNxbWYxVGI4dkxlSWFCV1AwQnU3RTBxVDBZdG1oN3dXYV94Qk4xVlhRMHgwb0VUd2ZfMFBwUDNvQUlKWGdtN2pSaGhMNktxN2hvdGdIU3ExNTg0RFk?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Ubergizmo</source>
-      <pubDate>Tue, 29 Sep 2026 14:43:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
