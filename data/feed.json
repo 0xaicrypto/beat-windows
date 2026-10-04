@@ -1,6 +1,14 @@
 {
-  "generated": "2026-10-04T00:42:55.935Z",
+  "generated": "2026-10-04T07:00:22.000Z",
   "items": [
+    {
+      "title": "Last Week on My Mac: The AI on the AIRer is drying",
+      "url": "https://eclecticlight.co/2026/10/04/last-week-on-my-mac-the-ai-on-the-airer-is-drying/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-10-04T07:00:00.000Z"
+    },
     {
       "title": "Arm Working On \"TLBID\" For Linux To Increase Performance On High Core Count CPUs",
       "url": "https://www.phoronix.com/news/ARM64-Linux-TLBI-Domains",
@@ -434,14 +442,6 @@
       "date": "2026-09-29T13:00:14.000Z"
     },
     {
-      "title": "Hero or hooligan: Heracles wrestles for a wife",
-      "url": "https://eclecticlight.co/2026/09/29/hero-or-hooligan-heracles-wrestles-for-a-wife/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-09-29T11:30:00.000Z"
-    },
-    {
       "title": "Google Sets Mid-2034 End Date for ChromeOS Updates as Googlebook OS Takes Over",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMmd3MWJlWWFXc3VtOVI5d3NXVmt1WmtidEJ5U2pqd2RfUVRxamVHcjFTdlV0M21PSWRRQXEtbU1tRzMxblg0QkZuZzBvNDVCbDZ0TWRwNXhHQVltT1VoQldpbklLaXBOa1BEaEhRV1NiazV4dmFxYmJ0NkJEYTZlVlRfSXJWYU45bUNBYQ?oc=5",
       "source": "Technology Org",
@@ -460,7 +460,7 @@
     {
       "title": "Google Will Support ChromeOS Until 2034 As It Shifts To Googlebook OS",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNendhdGlHRFRSYnZ6MVNzbFhPVmZzeVNOaTYtY3ktdHIyaDNSTi0zR19QRF9yVmZoRE81VlpYbHduVFhhbFl5MkF6RG93bWNJWTNRVXRJYXBBMmJRRUlBV3JHMk9kNHF0Q2ttdl9NUHM3NURpU1B5VGZSUVNHc1BHTUlrUkd6cWVxaUx3THN4UXczODRvVGpvcThodnFHSEFLVGI2elZB?oc=5",
-      "source": "engadget.com",
+      "source": "Engadget",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-28T19:36:57.000Z"
