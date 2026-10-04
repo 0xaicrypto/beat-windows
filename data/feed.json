@@ -1,6 +1,62 @@
 {
-  "generated": "2026-10-04T07:00:22.000Z",
+  "generated": "2026-10-04T13:16:02.359Z",
   "items": [
+    {
+      "title": "ASUS Googlebook 14 Now Available for Purchase in the United States",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ma1locWJjRWVRSi1KNllSYS1neWZCMmNZLTBFczhTYmliS1M3NXZUTVkwbjVyODlRMTd2RkNJTEVBSkZ4ek83ckRHaWY4bXA3TGNUaHRwQ0w?oc=5",
+      "source": "Taiwan News",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-04T13:00:00.000Z"
+    },
+    {
+      "title": "Headers Up! What's New in httpd and relayd",
+      "url": "https://undeadly.org/cgi?action=article;sid=20261004115249",
+      "source": "undeadly",
+      "tag": "bsd",
+      "site": "https://undeadly.org/",
+      "date": "2026-10-04T11:52:49.000Z"
+    },
+    {
+      "title": "Leaf peeping: painting autumn 1900-1945",
+      "url": "https://eclecticlight.co/2026/10/04/leaf-peeping-painting-autumn-1900-1945/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-10-04T11:30:00.000Z"
+    },
+    {
+      "title": "NVIDIA's Results Of Conducting Wayland vs. X.Org Latency Testing",
+      "url": "https://www.phoronix.com/news/NVIDIA-Wayland-Xorg-Latency",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-04T11:03:20.000Z"
+    },
+    {
+      "title": "Linux Begins Seeing Workarounds For Fujitsu MONAKA CPU Bugs",
+      "url": "https://www.phoronix.com/news/Linux-MONAKA-CPU-Workarounds",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-04T10:31:23.000Z"
+    },
+    {
+      "title": "AMD Sends In More New GPU Hardware Enablement For Linux 7.4, Bug Fixes",
+      "url": "https://www.phoronix.com/news/More-AMDGPU-Linux-7.4",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-04T10:14:12.000Z"
+    },
+    {
+      "title": "openSUSE Turns To ZUPT For Post-Quantum Backups",
+      "url": "https://www.phoronix.com/news/openSUSE-ZUPT-Backups",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-04T09:59:30.000Z"
+    },
     {
       "title": "Last Week on My Mac: The AI on the AIRer is drying",
       "url": "https://eclecticlight.co/2026/10/04/last-week-on-my-mac-the-ai-on-the-airer-is-drying/",
@@ -218,38 +274,6 @@
       "date": "2026-10-02T15:11:11.000Z"
     },
     {
-      "title": "AMD Ryzen AI Developer Platform OS Updated With ROCm 10.0, Linux 7.2",
-      "url": "https://www.phoronix.com/news/Ryzen-AI-Dev-Platform-Sep-2026",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-02T14:25:45.000Z"
-    },
-    {
-      "title": "The forgetful CPU (Linux on M4)",
-      "url": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-10-02T14:01:47.000Z"
-    },
-    {
-      "title": "Linux Test Project suite stable release for September 2026",
-      "url": "https://lwn.net/Articles/1098313/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-02T13:40:28.000Z"
-    },
-    {
-      "title": "systemd-appd Out For Review To Centralize Tracking Of User's Apps",
-      "url": "https://www.phoronix.com/news/systemd-appd",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-02T13:29:00.000Z"
-    },
-    {
       "title": "Giorgione’s few brilliant years of painting",
       "url": "https://eclecticlight.co/2026/10/02/giorgiones-few-brilliant-years-of-painting/",
       "source": "Eclectic Light",
@@ -272,14 +296,6 @@
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-10-02T00:06:56.000Z"
-    },
-    {
-      "title": "OpenBGPD 9.3 released",
-      "url": "https://undeadly.org/cgi?action=article;sid=20261001164002",
-      "source": "undeadly",
-      "tag": "bsd",
-      "site": "https://undeadly.org/",
-      "date": "2026-10-01T16:40:02.000Z"
     },
     {
       "title": "Painting a good story: Multiplex returns",
@@ -426,12 +442,12 @@
       "date": "2026-09-29T14:31:28.000Z"
     },
     {
-      "title": "Destroy Any Website",
-      "url": "https://destroy.spritefusion.com/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-09-29T14:29:28.000Z"
+      "title": "Google Sets Mid-2034 End Date for ChromeOS Updates as Googlebook OS Takes Over",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMmd3MWJlWWFXc3VtOVI5d3NXVmt1WmtidEJ5U2pqd2RfUVRxamVHcjFTdlV0M21PSWRRQXEtbU1tRzMxblg0QkZuZzBvNDVCbDZ0TWRwNXhHQVltT1VoQldpbklLaXBOa1BEaEhRV1NiazV4dmFxYmJ0NkJEYTZlVlRfSXJWYU45bUNBYQ?oc=5",
+      "source": "Technology Org",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-09-29T09:41:59.000Z"
     },
     {
       "title": "I Got My Hands on All the New Googlebooks. Are They Better Than Chromebooks?",
@@ -439,15 +455,7 @@
       "source": "PCMag",
       "tag": "android",
       "site": "https://news.google.com/",
-      "date": "2026-09-29T13:00:14.000Z"
-    },
-    {
-      "title": "Google Sets Mid-2034 End Date for ChromeOS Updates as Googlebook OS Takes Over",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMmd3MWJlWWFXc3VtOVI5d3NXVmt1WmtidEJ5U2pqd2RfUVRxamVHcjFTdlV0M21PSWRRQXEtbU1tRzMxblg0QkZuZzBvNDVCbDZ0TWRwNXhHQVltT1VoQldpbklLaXBOa1BEaEhRV1NiazV4dmFxYmJ0NkJEYTZlVlRfSXJWYU45bUNBYQ?oc=5",
-      "source": "Technology Org",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-09-29T09:41:59.000Z"
+      "date": "2026-09-29T07:00:00.000Z"
     },
     {
       "title": "The first 5 Googlebook laptops are here, with an OS that blends Android and Gemini",
@@ -480,14 +488,6 @@
       "tag": "android",
       "site": "https://9to5google.com/guides/googlebook/",
       "date": "2026-09-28T18:25:00.000Z"
-    },
-    {
-      "title": "Lenovo’s first Googlebook actually costs $200 less than announced, and it’s not the only one",
-      "url": "https://9to5google.com/2026/09/28/lenovo-googlebook-price/",
-      "source": "9to5Google · Googlebook",
-      "tag": "android",
-      "site": "https://9to5google.com/guides/googlebook/",
-      "date": "2026-09-28T16:50:00.000Z"
     },
     {
       "title": "HardenedBSD August / September 2026 Status Report",

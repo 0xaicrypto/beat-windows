@@ -5,8 +5,64 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Oct 2026 07:00:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 13:16:02 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>ASUS Googlebook 14 Now Available for Purchase in the United States</title>
+      <link>https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ma1locWJjRWVRSi1KNllSYS1neWZCMmNZLTBFczhTYmliS1M3NXZUTVkwbjVyODlRMTd2RkNJTEVBSkZ4ek83ckRHaWY4bXA3TGNUaHRwQ0w?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ma1locWJjRWVRSi1KNllSYS1neWZCMmNZLTBFczhTYmliS1M3NXZUTVkwbjVyODlRMTd2RkNJTEVBSkZ4ek83ckRHaWY4bXA3TGNUaHRwQ0w?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Taiwan News</source>
+      <pubDate>Sun, 04 Oct 2026 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Headers Up! What's New in httpd and relayd</title>
+      <link>https://undeadly.org/cgi?action=article;sid=20261004115249</link>
+      <guid isPermaLink="true">https://undeadly.org/cgi?action=article;sid=20261004115249</guid>
+      <category>bsd</category>
+      <source url="https://undeadly.org/">undeadly</source>
+      <pubDate>Sun, 04 Oct 2026 11:52:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Leaf peeping: painting autumn 1900-1945</title>
+      <link>https://eclecticlight.co/2026/10/04/leaf-peeping-painting-autumn-1900-1945/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/10/04/leaf-peeping-painting-autumn-1900-1945/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Sun, 04 Oct 2026 11:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>NVIDIA's Results Of Conducting Wayland vs. X.Org Latency Testing</title>
+      <link>https://www.phoronix.com/news/NVIDIA-Wayland-Xorg-Latency</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/NVIDIA-Wayland-Xorg-Latency</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sun, 04 Oct 2026 11:03:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux Begins Seeing Workarounds For Fujitsu MONAKA CPU Bugs</title>
+      <link>https://www.phoronix.com/news/Linux-MONAKA-CPU-Workarounds</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-MONAKA-CPU-Workarounds</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sun, 04 Oct 2026 10:31:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMD Sends In More New GPU Hardware Enablement For Linux 7.4, Bug Fixes</title>
+      <link>https://www.phoronix.com/news/More-AMDGPU-Linux-7.4</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/More-AMDGPU-Linux-7.4</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sun, 04 Oct 2026 10:14:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>openSUSE Turns To ZUPT For Post-Quantum Backups</title>
+      <link>https://www.phoronix.com/news/openSUSE-ZUPT-Backups</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/openSUSE-ZUPT-Backups</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sun, 04 Oct 2026 09:59:30 GMT</pubDate>
+    </item>
     <item>
       <title>Last Week on My Mac: The AI on the AIRer is drying</title>
       <link>https://eclecticlight.co/2026/10/04/last-week-on-my-mac-the-ai-on-the-airer-is-drying/</link>
@@ -224,38 +280,6 @@
       <pubDate>Fri, 02 Oct 2026 15:11:11 GMT</pubDate>
     </item>
     <item>
-      <title>AMD Ryzen AI Developer Platform OS Updated With ROCm 10.0, Linux 7.2</title>
-      <link>https://www.phoronix.com/news/Ryzen-AI-Dev-Platform-Sep-2026</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Ryzen-AI-Dev-Platform-Sep-2026</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 02 Oct 2026 14:25:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>The forgetful CPU (Linux on M4)</title>
-      <link>https://yuka.dev/blog-2026-10-02-linux-m4.html</link>
-      <guid isPermaLink="true">https://yuka.dev/blog-2026-10-02-linux-m4.html</guid>
-      <category>linux</category>
-      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
-      <pubDate>Fri, 02 Oct 2026 14:01:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux Test Project suite stable release for September 2026</title>
-      <link>https://lwn.net/Articles/1098313/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1098313/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Fri, 02 Oct 2026 13:40:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>systemd-appd Out For Review To Centralize Tracking Of User's Apps</title>
-      <link>https://www.phoronix.com/news/systemd-appd</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/systemd-appd</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 02 Oct 2026 13:29:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Giorgione’s few brilliant years of painting</title>
       <link>https://eclecticlight.co/2026/10/02/giorgiones-few-brilliant-years-of-painting/</link>
       <guid isPermaLink="true">https://eclecticlight.co/2026/10/02/giorgiones-few-brilliant-years-of-painting/</guid>
@@ -278,14 +302,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Fri, 02 Oct 2026 00:06:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenBGPD 9.3 released</title>
-      <link>https://undeadly.org/cgi?action=article;sid=20261001164002</link>
-      <guid isPermaLink="true">https://undeadly.org/cgi?action=article;sid=20261001164002</guid>
-      <category>bsd</category>
-      <source url="https://undeadly.org/">undeadly</source>
-      <pubDate>Thu, 01 Oct 2026 16:40:02 GMT</pubDate>
     </item>
     <item>
       <title>Painting a good story: Multiplex returns</title>
@@ -390,22 +406,6 @@
       <category>android</category>
       <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
       <pubDate>Tue, 29 Sep 2026 18:39:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Game on: Henry Cavill is putting Googlebook to the test</title>
-      <link>https://news.google.com/rss/articles/CBMingFBVV95cUxON0NNLVBCMVp5ZnlkbkI0NFJqWWJLU1RUUnJQcU5rU0lTVXJPTE9lOGYwT1laU2o5bmc3c2RzR1FPMHNZSVBFYTVPWHpOQm5kc1dsSmNIaVU3RzlBbzRHWXB5aDR3aGZ2VVd0TnpQdUh0M0ktSkl0MFdaSm9QLXNxWDgxRzF0Z0Jqc0xacGpIejByWU4wMU9GMlVhc2dpdw?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMingFBVV95cUxON0NNLVBCMVp5ZnlkbkI0NFJqWWJLU1RUUnJQcU5rU0lTVXJPTE9lOGYwT1laU2o5bmc3c2RzR1FPMHNZSVBFYTVPWHpOQm5kc1dsSmNIaVU3RzlBbzRHWXB5aDR3aGZ2VVd0TnpQdUh0M0ktSkl0MFdaSm9QLXNxWDgxRzF0Z0Jqc0xacGpIejByWU4wMU9GMlVhc2dpdw?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">blog.google</source>
-      <pubDate>Tue, 29 Sep 2026 18:10:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google Ends ChromeOS in 2034, Bets on Googlebook OS [2026]</title>
-      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE5tUW1mdm1XRjd1b3pmRHZ4Z2tmQkVZMXhVallRR0pOVWZfUzctVjlmbmJPR1hKb1BldWlXaEl4UHN0MVdEVmpfQTF4dkt0Q0x3bDU5ZmhqRVhNaFZqMU9KemFNTzhtZ3U0WGx6QXRNTnBHbGw2?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMidEFVX3lxTE5tUW1mdm1XRjd1b3pmRHZ4Z2tmQkVZMXhVallRR0pOVWZfUzctVjlmbmJPR1hKb1BldWlXaEl4UHN0MVdEVmpfQTF4dkt0Q0x3bDU5ZmhqRVhNaFZqMU9KemFNTzhtZ3U0WGx6QXRNTnBHbGw2?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">shattered.io</source>
-      <pubDate>Tue, 29 Sep 2026 16:52:12 GMT</pubDate>
     </item>
   </channel>
 </rss>
