@@ -5,8 +5,32 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Oct 2026 13:16:02 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 17:40:24 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Flatpak from the CLI sucks</title>
+      <link>https://kowalski7cc.xyz/blog/flatpak-from-the-cli-sucks/</link>
+      <guid isPermaLink="true">https://kowalski7cc.xyz/blog/flatpak-from-the-cli-sucks/</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Sun, 04 Oct 2026 15:21:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>MGLRU-FG Delivering Up To 10~40% Higher Performance For Linux In Some Tests</title>
+      <link>https://www.phoronix.com/news/Linux-MGLRU-FG-Patches</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-MGLRU-FG-Patches</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sun, 04 Oct 2026 15:16:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>ASUS Googlebook 14 Now Available for Purchase in Canada</title>
+      <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTU5CYXhsWEJhbkJTMy1URVFTUlpjcjFLUzVNU29iMFh5bkExalQxOFpnblo3MDVzeXhEc3pMTnlDRjRjUHpWdXhSMnc3RDZKSHR1R1V6dS1EeEh5MVdzM1lRZ25RYTM1bW5ockg4dVZsVGRWczVSellvWkppR2c2T1dkTmlUQTZ6R1FLM2tsNlBiLTREaGk5NzdaUTB5SWFjamZfTXp6VHBJQQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTU5CYXhsWEJhbkJTMy1URVFTUlpjcjFLUzVNU29iMFh5bkExalQxOFpnblo3MDVzeXhEc3pMTnlDRjRjUHpWdXhSMnc3RDZKSHR1R1V6dS1EeEh5MVdzM1lRZ25RYTM1bW5ockg4dVZsVGRWczVSellvWkppR2c2T1dkTmlUQTZ6R1FLM2tsNlBiLTREaGk5NzdaUTB5SWFjamZfTXp6VHBJQQ?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">digitaljournal.com</source>
+      <pubDate>Sun, 04 Oct 2026 13:18:52 GMT</pubDate>
+    </item>
     <item>
       <title>ASUS Googlebook 14 Now Available for Purchase in the United States</title>
       <link>https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ma1locWJjRWVRSi1KNllSYS1neWZCMmNZLTBFczhTYmliS1M3NXZUTVkwbjVyODlRMTd2RkNJTEVBSkZ4ek83ckRHaWY4bXA3TGNUaHRwQ0w?oc=5</link>
@@ -62,6 +86,14 @@
       <category>linux</category>
       <source url="https://www.phoronix.com/">Phoronix</source>
       <pubDate>Sun, 04 Oct 2026 09:59:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenBSD Developers Reject Uutils Coreutils</title>
+      <link>https://news.lavx.hu/article/openbsd-developers-reject-uutils-coreutils-port-over-licensing-and-compatibility-concerns</link>
+      <guid isPermaLink="true">https://news.lavx.hu/article/openbsd-developers-reject-uutils-coreutils-port-over-licensing-and-compatibility-concerns</guid>
+      <category>bsd</category>
+      <source url="https://news.ycombinator.com/">HN · OpenBSD</source>
+      <pubDate>Sun, 04 Oct 2026 07:55:24 GMT</pubDate>
     </item>
     <item>
       <title>Last Week on My Mac: The AI on the AIRer is drying</title>
@@ -256,28 +288,12 @@
       <pubDate>Fri, 02 Oct 2026 18:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>Ubuntu Working On SHA3 For Debian's APT For If/When SHA2 Is Broken</title>
-      <link>https://www.phoronix.com/news/Ubuntu-SHA3-For-Debian-APT</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Ubuntu-SHA3-For-Debian-APT</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 02 Oct 2026 18:10:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Why a leaked Samsung Android laptop on Geekbench likely isn’t a Googlebook</title>
       <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ19ydTJMYXlCVTc2T1RpWFZ5LWVBYlFhRnpaTW1qWHVLMExDVk5RN29XOGxVQUpEek9oazMwMlhKNU1LNVVrWldld1p0YVNWWXg5dzE3M0RKcGJEQWU4QjJ3aFZhQnhueXlubVJXTkp5SjJsV1RkZkktTnRrNXZvYjlPMmhoZkRkVVo4aGhSTGpDc2hwdlZYS3g1ZllxNjdnSlE?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ19ydTJMYXlCVTc2T1RpWFZ5LWVBYlFhRnpaTW1qWHVLMExDVk5RN29XOGxVQUpEek9oazMwMlhKNU1LNVVrWldld1p0YVNWWXg5dzE3M0RKcGJEQWU4QjJ3aFZhQnhueXlubVJXTkp5SjJsV1RkZkktTnRrNXZvYjlPMmhoZkRkVVo4aGhSTGpDc2hwdlZYS3g1ZllxNjdnSlE?oc=5</guid>
       <category>android</category>
       <source url="https://news.google.com/">Chrome Unboxed</source>
       <pubDate>Fri, 02 Oct 2026 16:48:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>[$] Beyond the &amp;</title>
-      <link>https://lwn.net/Articles/1096028/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1096028/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Fri, 02 Oct 2026 15:11:11 GMT</pubDate>
     </item>
     <item>
       <title>Giorgione’s few brilliant years of painting</title>
@@ -356,7 +372,7 @@
       <link>https://news.google.com/rss/articles/CBMid0FVX3lxTFBEYzJaMXBYSHdJb1hCbTE2Y3oydnZFTldZZ1JoUmd3WDNKRmRJdXlQS0dLX01DOVNqVkw5MEl5OW85d1gtUjJFSG5jdHJjLTlmQzVOSTBJZWhNVzNlNFZ0QU9zXzBwX3JjZzgxQjVfVktjMUgxU3Vr?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMid0FVX3lxTFBEYzJaMXBYSHdJb1hCbTE2Y3oydnZFTldZZ1JoUmd3WDNKRmRJdXlQS0dLX01DOVNqVkw5MEl5OW85d1gtUjJFSG5jdHJjLTlmQzVOSTBJZWhNVzNlNFZ0QU9zXzBwX3JjZzgxQjVfVktjMUgxU3Vr?oc=5</guid>
       <category>android</category>
-      <source url="https://news.google.com/">TechRepublic</source>
+      <source url="https://news.google.com/">techrepublic.com</source>
       <pubDate>Wed, 30 Sep 2026 16:00:31 GMT</pubDate>
     </item>
     <item>
@@ -390,22 +406,6 @@
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Wed, 30 Sep 2026 06:02:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Googlebook OS Is Here. Your Chromebook Might Get It. ChromeOS Won't.</title>
-      <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxNcE8xbWNhR1pJVFZWYmNkcnNITFVtRUdSVDg1WTkzNUZ6ZENIRDlQTlZwd3phbUNGS3hHdUpEUGd3eEhwSzB6LUlpLVdHNXJEMThfcmVDblZacGg4WHRYakswTzl5R0oySkpBdEQzaHJCdzJ6VXEyUEFFeE9GeThXR1RCOUNNSV9OSHZMekdsdVg?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMikAFBVV95cUxNcE8xbWNhR1pJVFZWYmNkcnNITFVtRUdSVDg1WTkzNUZ6ZENIRDlQTlZwd3phbUNGS3hHdUpEUGd3eEhwSzB6LUlpLVdHNXJEMThfcmVDblZacGg4WHRYakswTzl5R0oySkpBdEQzaHJCdzJ6VXEyUEFFeE9GeThXR1RCOUNNSV9OSHZMekdsdVg?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Vocal</source>
-      <pubDate>Tue, 29 Sep 2026 19:34:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Googlebook marketing push starts with Henry Cavill and his mustache</title>
-      <link>https://9to5google.com/2026/09/29/googlebook-henry-cavill-marketing/</link>
-      <guid isPermaLink="true">https://9to5google.com/2026/09/29/googlebook-henry-cavill-marketing/</guid>
-      <category>android</category>
-      <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
-      <pubDate>Tue, 29 Sep 2026 18:39:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,6 +1,30 @@
 {
-  "generated": "2026-10-04T13:16:02.359Z",
+  "generated": "2026-10-04T17:40:24.981Z",
   "items": [
+    {
+      "title": "Flatpak from the CLI sucks",
+      "url": "https://kowalski7cc.xyz/blog/flatpak-from-the-cli-sucks/",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-10-04T15:21:34.000Z"
+    },
+    {
+      "title": "MGLRU-FG Delivering Up To 10~40% Higher Performance For Linux In Some Tests",
+      "url": "https://www.phoronix.com/news/Linux-MGLRU-FG-Patches",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-04T15:16:26.000Z"
+    },
+    {
+      "title": "ASUS Googlebook 14 Now Available for Purchase in Canada",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTU5CYXhsWEJhbkJTMy1URVFTUlpjcjFLUzVNU29iMFh5bkExalQxOFpnblo3MDVzeXhEc3pMTnlDRjRjUHpWdXhSMnc3RDZKSHR1R1V6dS1EeEh5MVdzM1lRZ25RYTM1bW5ockg4dVZsVGRWczVSellvWkppR2c2T1dkTmlUQTZ6R1FLM2tsNlBiLTREaGk5NzdaUTB5SWFjamZfTXp6VHBJQQ?oc=5",
+      "source": "digitaljournal.com",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-04T13:18:52.000Z"
+    },
     {
       "title": "ASUS Googlebook 14 Now Available for Purchase in the United States",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ma1locWJjRWVRSi1KNllSYS1neWZCMmNZLTBFczhTYmliS1M3NXZUTVkwbjVyODlRMTd2RkNJTEVBSkZ4ek83ckRHaWY4bXA3TGNUaHRwQ0w?oc=5",
@@ -56,6 +80,14 @@
       "tag": "linux",
       "site": "https://www.phoronix.com/",
       "date": "2026-10-04T09:59:30.000Z"
+    },
+    {
+      "title": "OpenBSD Developers Reject Uutils Coreutils",
+      "url": "https://news.lavx.hu/article/openbsd-developers-reject-uutils-coreutils-port-over-licensing-and-compatibility-concerns",
+      "source": "HN · OpenBSD",
+      "tag": "bsd",
+      "site": "https://news.ycombinator.com/",
+      "date": "2026-10-04T07:55:24.000Z"
     },
     {
       "title": "Last Week on My Mac: The AI on the AIRer is drying",
@@ -250,28 +282,12 @@
       "date": "2026-10-02T18:34:00.000Z"
     },
     {
-      "title": "Ubuntu Working On SHA3 For Debian's APT For If/When SHA2 Is Broken",
-      "url": "https://www.phoronix.com/news/Ubuntu-SHA3-For-Debian-APT",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-02T18:10:00.000Z"
-    },
-    {
       "title": "Why a leaked Samsung Android laptop on Geekbench likely isn’t a Googlebook",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ19ydTJMYXlCVTc2T1RpWFZ5LWVBYlFhRnpaTW1qWHVLMExDVk5RN29XOGxVQUpEek9oazMwMlhKNU1LNVVrWldld1p0YVNWWXg5dzE3M0RKcGJEQWU4QjJ3aFZhQnhueXlubVJXTkp5SjJsV1RkZkktTnRrNXZvYjlPMmhoZkRkVVo4aGhSTGpDc2hwdlZYS3g1ZllxNjdnSlE?oc=5",
       "source": "Chrome Unboxed",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-02T16:48:31.000Z"
-    },
-    {
-      "title": "[$] Beyond the &",
-      "url": "https://lwn.net/Articles/1096028/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-02T15:11:11.000Z"
     },
     {
       "title": "Giorgione’s few brilliant years of painting",
@@ -348,7 +364,7 @@
     {
       "title": "ChromeOS vs Googlebook OS: Support, Apps and Upgrades",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBEYzJaMXBYSHdJb1hCbTE2Y3oydnZFTldZZ1JoUmd3WDNKRmRJdXlQS0dLX01DOVNqVkw5MEl5OW85d1gtUjJFSG5jdHJjLTlmQzVOSTBJZWhNVzNlNFZ0QU9zXzBwX3JjZzgxQjVfVktjMUgxU3Vr?oc=5",
-      "source": "TechRepublic",
+      "source": "techrepublic.com",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-30T16:00:31.000Z"
@@ -482,14 +498,6 @@
       "date": "2026-09-28T18:29:05.000Z"
     },
     {
-      "title": "Even Google Search agrees that ‘Googlebook’ wasn’t a very good name choice",
-      "url": "https://9to5google.com/2026/09/28/even-google-search-agrees-that-googlebook-wasnt-a-very-good-name-choice/",
-      "source": "9to5Google · Googlebook",
-      "tag": "android",
-      "site": "https://9to5google.com/guides/googlebook/",
-      "date": "2026-09-28T18:25:00.000Z"
-    },
-    {
       "title": "HardenedBSD August / September 2026 Status Report",
       "url": "https://hardenedbsd.org/article/shawn-webb/2026-09-27/hardenedbsd-august-september-2026-status-report",
       "source": "Lobsters · freebsd",
@@ -568,14 +576,6 @@
       "tag": "bsd",
       "site": "https://lobste.rs/t/openbsd",
       "date": "2026-09-13T16:30:23.000Z"
-    },
-    {
-      "title": "Closing the IPv6 First-Packet Gap with GRAND",
-      "url": "https://labs.ripe.net/author/pouria/closing-the-ipv6-first-packet-gap-with-grand/",
-      "source": "Lobsters · freebsd",
-      "tag": "bsd",
-      "site": "https://lobste.rs/t/freebsd",
-      "date": "2026-09-04T14:42:54.000Z"
     }
   ]
 }
