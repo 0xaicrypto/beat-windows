@@ -5,8 +5,24 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 03 Oct 2026 21:23:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 00:42:55 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Arm Working On &quot;TLBID&quot; For Linux To Increase Performance On High Core Count CPUs</title>
+      <link>https://www.phoronix.com/news/ARM64-Linux-TLBI-Domains</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/ARM64-Linux-TLBI-Domains</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sun, 04 Oct 2026 00:10:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>WorkOS</title>
+      <link>https://workos.com/guide/the-developers-guide-to-sso?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026</link>
+      <guid isPermaLink="true">https://workos.com/guide/the-developers-guide-to-sso?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Sat, 03 Oct 2026 21:23:10 GMT</pubDate>
+    </item>
     <item>
       <title>The Amazing Work By Valve's Timur Kristóf On Improving Old AMD GPUs On Linux</title>
       <link>https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU</link>
@@ -232,14 +248,6 @@
       <pubDate>Fri, 02 Oct 2026 13:29:00 GMT</pubDate>
     </item>
     <item>
-      <title>Security updates for Friday</title>
-      <link>https://lwn.net/Articles/1098312/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1098312/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Fri, 02 Oct 2026 13:21:27 GMT</pubDate>
-    </item>
-    <item>
       <title>Giorgione’s few brilliant years of painting</title>
       <link>https://eclecticlight.co/2026/10/02/giorgiones-few-brilliant-years-of-painting/</link>
       <guid isPermaLink="true">https://eclecticlight.co/2026/10/02/giorgiones-few-brilliant-years-of-painting/</guid>
@@ -294,14 +302,6 @@
       <category>android</category>
       <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
       <pubDate>Wed, 30 Sep 2026 21:58:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Sponsor] WorkOS: How SSO Works and the Fastest Way to Add It</title>
-      <link>https://workos.com/guide/the-developers-guide-to-sso?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026</link>
-      <guid isPermaLink="true">https://workos.com/guide/the-developers-guide-to-sso?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Wed, 30 Sep 2026 20:17:32 GMT</pubDate>
     </item>
     <item>
       <title>Gurman Reports Apple Is Launching New ‘Smart Home’ Products on October 13</title>

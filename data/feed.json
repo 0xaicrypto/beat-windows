@@ -1,6 +1,22 @@
 {
-  "generated": "2026-10-03T21:23:31.778Z",
+  "generated": "2026-10-04T00:42:55.935Z",
   "items": [
+    {
+      "title": "Arm Working On \"TLBID\" For Linux To Increase Performance On High Core Count CPUs",
+      "url": "https://www.phoronix.com/news/ARM64-Linux-TLBI-Domains",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-04T00:10:09.000Z"
+    },
+    {
+      "title": "WorkOS",
+      "url": "https://workos.com/guide/the-developers-guide-to-sso?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-03T21:23:10.000Z"
+    },
     {
       "title": "The Amazing Work By Valve's Timur Kristóf On Improving Old AMD GPUs On Linux",
       "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
@@ -226,14 +242,6 @@
       "date": "2026-10-02T13:29:00.000Z"
     },
     {
-      "title": "Security updates for Friday",
-      "url": "https://lwn.net/Articles/1098312/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-02T13:21:27.000Z"
-    },
-    {
       "title": "Giorgione’s few brilliant years of painting",
       "url": "https://eclecticlight.co/2026/10/02/giorgiones-few-brilliant-years-of-painting/",
       "source": "Eclectic Light",
@@ -288,14 +296,6 @@
       "tag": "android",
       "site": "https://9to5google.com/guides/googlebook/",
       "date": "2026-09-30T21:58:54.000Z"
-    },
-    {
-      "title": "[Sponsor] WorkOS: How SSO Works and the Fastest Way to Add It",
-      "url": "https://workos.com/guide/the-developers-guide-to-sso?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-09-30T20:17:32.000Z"
     },
     {
       "title": "Gurman Reports Apple Is Launching New ‘Smart Home’ Products on October 13",
@@ -460,7 +460,7 @@
     {
       "title": "Google Will Support ChromeOS Until 2034 As It Shifts To Googlebook OS",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNendhdGlHRFRSYnZ6MVNzbFhPVmZzeVNOaTYtY3ktdHIyaDNSTi0zR19QRF9yVmZoRE81VlpYbHduVFhhbFl5MkF6RG93bWNJWTNRVXRJYXBBMmJRRUlBV3JHMk9kNHF0Q2ttdl9NUHM3NURpU1B5VGZSUVNHc1BHTUlrUkd6cWVxaUx3THN4UXczODRvVGpvcThodnFHSEFLVGI2elZB?oc=5",
-      "source": "Engadget",
+      "source": "engadget.com",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-28T19:36:57.000Z"
