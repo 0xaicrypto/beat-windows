@@ -1,6 +1,102 @@
 {
-  "generated": "2026-10-05T16:07:39.909Z",
+  "generated": "2026-10-05T22:43:20.088Z",
   "items": [
+    {
+      "title": "AMD ROCm 10.1 Released With Many Improvements",
+      "url": "https://www.phoronix.com/news/AMD-ROCm-10.1",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-05T22:08:56.000Z"
+    },
+    {
+      "title": "Googlebook gets Luminar photo editing app with ‘Continue On’ support",
+      "url": "https://9to5google.com/2026/10/05/googlebook-luminar-photo-editing-app/",
+      "source": "9to5Google · Googlebook",
+      "tag": "android",
+      "site": "https://9to5google.com/guides/googlebook/",
+      "date": "2026-10-05T21:35:00.000Z"
+    },
+    {
+      "title": "You can unlock a Googlebook’s bootloader, Magisk support in the works",
+      "url": "https://9to5google.com/2026/10/05/googlebook-bootloader-magisk-root/",
+      "source": "9to5Google · Googlebook",
+      "tag": "android",
+      "site": "https://9to5google.com/guides/googlebook/",
+      "date": "2026-10-05T20:35:00.000Z"
+    },
+    {
+      "title": "The Googlebook era is here: some first impressions of the new hardware and the a whole new OS",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNV3k0dk05bFM2a0dPSldnOXhkazloZENnZ2sxU1haYTBubUpNWnRoOEJ3SHAwYzl4U2sxbTdDTVA1eGJISWRGTi00VlQyT3Q3VjJ3US1EQzVLTkRuUC1RZGd1b0p0RXdiMWsweDlOSFJYQnVFaDg0SlRTNWFteXY5S0tOREthTW5uYUhlcTl4dEoyV1pxTy1QLXVKX0VNVjRlakdEY2lEVzkzN0wtVDlnNw?oc=5",
+      "source": "Chrome Unboxed",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-05T20:30:26.000Z"
+    },
+    {
+      "title": "The Asus Googlebook 14 is sprinkled with hints of greatness",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wVDF3dDVxVmY1VlhFcGhVYTZYMFpvOFYyc0cyT2gxTE9Xbk16SWFfcE80TTRDb3cxTnZtRmN5VlVVdEtUSWlxUllhUENnTmZ5cVhOakNiM09ORjdXNVlRTUVXeW4?oc=5",
+      "source": "pocket-lint.com",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-05T20:29:00.000Z"
+    },
+    {
+      "title": "Not Every Android App Works on Every Googlebook, and Intel Is the Reason",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVk1oZ3VPNkxSSk9UMXFHRVMxUl9XTjdQdnRKd2pWck5vWlM2TlllMjFwTEp1NnFza2ljOUJZcDRBU2hpd01IdGxxZkhPYjQ0UkJBVTdKUWkzT1BuakxtUzdoYnVNZk9saUlvNTNSc01yLXV0dHZPLUcwMmVkTXRhMGUwSkk2Z3VZTXVyS1hKVFdqYVFoSEFMSHhzNW02eUFQRERIbkRrTDREMWM4aVJNNm9zdUM0clRU?oc=5",
+      "source": "Android Headlines",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-05T19:34:06.000Z"
+    },
+    {
+      "title": "Googlebooks Can Run a Custom OS Through Unlockable Bootloader",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVWN4eU16TkNQeGN0MzZIaGNRZUQ1a0dxOUNVUEpnTy1vdFBPTy1yYVpwMWh1MWR0ajVReVY4ZWJoRDNRd0plbHlTSWEtOGlsc1I2T3ZGN0tqNmYzZmJTS2ZDdTJhXzBqRzF4anF6VGFmQWhPV3c3bDg3VFNaNTZOLUlTajE1QVdYYV9JM3RSX3l3dw?oc=5",
+      "source": "PCMag",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-05T19:32:10.000Z"
+    },
+    {
+      "title": "Googlebook's Android integration has two limitations that you won't see coming",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVDJiT0haWW93MGFIZlV3cl83Nkc3blVFYWR3UlNLU29keVZTcnNtLWVramV4WTdFbHNVS0t1ejJ5NndqeWZZbkFvclA3YTV3bFN2VHozb2JhT0phOV9wVEM3eHZtbDVPUDM5eC1qV3RmbmwtTjV5alNKelQ0TTBCOWh0ckJrTlBjNjRyeUg3NmpEMEhtT0t3U3NaQ1RGbmxVQ0tpRm93?oc=5",
+      "source": "How-To Geek",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-05T19:29:16.000Z"
+    },
+    {
+      "title": "Lenovo Googlebook 15: Software First Impressions",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMDZkWm1sOFQyNTZCYjkyOG5IeHQweEwxRHdiYkdZNTg4QnQ5SFlJWnNPMFlfTGUzcGVpeC16bE5pYTU5RDFma3V1NXdjdTI4MFNjeEhLQ2FvQzNNdUNvZVh2aEVjTUttZnBkOF9HR0lJT3A0SUo2bXpQN0ZHQjhqMmhOZ09yMVRVMC1YaHJsMVM2aGJNejRJV2tmaW96akxLWm15REpJbkhHa0U?oc=5",
+      "source": "thurrott.com",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-05T19:22:32.000Z"
+    },
+    {
+      "title": "Ternus and Cook Tweet Brief Remembrances on the 15th Anniversary of Steve Jobs’s Death",
+      "url": "https://x.com/johnternus/status/2107093462118199562",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-05T19:19:35.000Z"
+    },
+    {
+      "title": "Linux 7.4 To Land New BTB CTX Isolation Feature Of AMD Zen 6",
+      "url": "https://www.phoronix.com/news/AMD-Zen-6-BTB-CTX-Linux-7.4",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-05T18:47:01.000Z"
+    },
+    {
+      "title": "Googlebooks with Intel chipsets might have trouble with ‘complex’ Android apps",
+      "url": "https://9to5google.com/2026/10/05/googlebook-intel-chip-performance/",
+      "source": "9to5Google · Googlebook",
+      "tag": "android",
+      "site": "https://9to5google.com/guides/googlebook/",
+      "date": "2026-10-05T16:15:00.000Z"
+    },
     {
       "title": "On sale now: Every Googlebook price, key specs, pros & cons",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYTdHUnB3al9Jekt0bHRFbUxwdDFUX0NYc2xka29Ia1I3RWR1RkxrMEluZm95cHlkM0ZvdDIzUk02MnRnZVdpUDRXb3V3THdZNFVnZ0FRempXVVJNeDJaOTJlWUtvdjVTdldqN2JJaGUzSDc5cUpIQ0dHZmFvVkxDTDhhSjRvV0hVVXE5MFdDRW04VGNtN3R1MzRweGhFa1ZJQkE?oc=5",
@@ -40,14 +136,6 @@
       "tag": "linux",
       "site": "https://lwn.net/",
       "date": "2026-10-05T15:10:37.000Z"
-    },
-    {
-      "title": "Not Every Android App Works on Every Googlebook, and Intel Is the Reason",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVk1oZ3VPNkxSSk9UMXFHRVMxUl9XTjdQdnRKd2pWck5vWlM2TlllMjFwTEp1NnFza2ljOUJZcDRBU2hpd01IdGxxZkhPYjQ0UkJBVTdKUWkzT1BuakxtUzdoYnVNZk9saUlvNTNSc01yLXV0dHZPLUcwMmVkTXRhMGUwSkk2Z3VZTXVyS1hKVFdqYVFoSEFMSHhzNW02eUFQRERIbkRrTDREMWM4aVJNNm9zdUM0clRU?oc=5",
-      "source": "Android Headlines",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-05T14:34:19.000Z"
     },
     {
       "title": "Don’t Expect Every New Googlebook App to Play Nice With Intel Chips",
@@ -234,14 +322,6 @@
       "date": "2026-10-04T15:21:34.000Z"
     },
     {
-      "title": "MGLRU-FG Delivering Up To 10~40% Higher Performance For Linux In Some Tests",
-      "url": "https://www.phoronix.com/news/Linux-MGLRU-FG-Patches",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-04T15:16:26.000Z"
-    },
-    {
       "title": "ASUS Googlebook 14 Now Available for Purchase in Canada",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTU5CYXhsWEJhbkJTMy1URVFTUlpjcjFLUzVNU29iMFh5bkExalQxOFpnblo3MDVzeXhEc3pMTnlDRjRjUHpWdXhSMnc3RDZKSHR1R1V6dS1EeEh5MVdzM1lRZ25RYTM1bW5ockg4dVZsVGRWczVSellvWkppR2c2T1dkTmlUQTZ6R1FLM2tsNlBiLTREaGk5NzdaUTB5SWFjamZfTXp6VHBJQQ?oc=5",
       "source": "digitaljournal.com",
@@ -280,14 +360,6 @@
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-10-04T11:30:00.000Z"
-    },
-    {
-      "title": "NVIDIA's Results Of Conducting Wayland vs. X.Org Latency Testing",
-      "url": "https://www.phoronix.com/news/NVIDIA-Wayland-Xorg-Latency",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-04T11:03:20.000Z"
     },
     {
       "title": "OpenBSD Developers Reject Uutils Coreutils",
@@ -330,14 +402,6 @@
       "date": "2026-10-03T13:00:00.000Z"
     },
     {
-      "title": "6 apps that transformed my Windows PC into a Googlebook",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5OcUc3VncwamdlanBMajE2bmZ2UW40clZWZHk2V2RkZGJWUVZxYTFZUlE2RGxMQnl0NXBXZnVzUllSbnpZMG1sNkRDdXdXSVdoVmR2QmxQTm9MUzhYdjFkMmcyQzk4a0hKU2ZqM2VuQ0NrbU50VkE?oc=5",
-      "source": "Android Police",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-03T12:45:10.000Z"
-    },
-    {
       "title": "Leaf peeping: painting autumn 1650-1899",
       "url": "https://eclecticlight.co/2026/10/03/leaf-peeping-painting-autumn-1650-1899/",
       "source": "Eclectic Light",
@@ -376,14 +440,6 @@
       "tag": "macos",
       "site": "https://lobste.rs/t/mac",
       "date": "2026-10-02T20:10:26.000Z"
-    },
-    {
-      "title": "Why a leaked Samsung Android laptop on Geekbench likely isn’t a Googlebook",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ19ydTJMYXlCVTc2T1RpWFZ5LWVBYlFhRnpaTW1qWHVLMExDVk5RN29XOGxVQUpEek9oazMwMlhKNU1LNVVrWldld1p0YVNWWXg5dzE3M0RKcGJEQWU4QjJ3aFZhQnhueXlubVJXTkp5SjJsV1RkZkktTnRrNXZvYjlPMmhoZkRkVVo4aGhSTGpDc2hwdlZYS3g1ZllxNjdnSlE?oc=5",
-      "source": "Chrome Unboxed",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-02T16:48:31.000Z"
     },
     {
       "title": "Giorgione’s few brilliant years of painting",
@@ -426,14 +482,6 @@
       "date": "2026-10-01T06:30:00.000Z"
     },
     {
-      "title": "Google Antigravity Googlebook app hits the Play Store",
-      "url": "https://9to5google.com/2026/09/30/google-antigravity-play-store/",
-      "source": "9to5Google · Googlebook",
-      "tag": "android",
-      "site": "https://9to5google.com/guides/googlebook/",
-      "date": "2026-09-30T21:58:54.000Z"
-    },
-    {
       "title": "Gurman Reports Apple Is Launching New ‘Smart Home’ Products on October 13",
       "url": "https://www.bloomberg.com/news/articles/2026-09-30/apple-is-finally-ready-to-enter-its-next-big-category-the-smart-home?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDc3MDk0MywiZXhwIjoxNzkxMzc1NzQzLCJhcnRpY2xlSWQiOiJUTTM0SDRUOTZPU0cwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.11wEtJfuMwCkznTkepXugZ2wuZTmxO9CdsNJLAcBd1M",
       "source": "Daring Fireball",
@@ -448,54 +496,6 @@
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-09-30T19:23:42.000Z"
-    },
-    {
-      "title": "Googlebook Launches with Intel Core Ultra Series 3 Processors",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRC1Edk83QjdDemRmenpkRzcwdWxmU0VoM1lDbXNqXzFvbG9IaFpNZ3pqRERzaFVtM3pXaElGSzlhM3dJcnUxeHlzQ1FRbVZBWlFhTFJ3RXo5WnljUzJhN2ZqeHkzQ2JIOUVmQUh0aXNoOFNGZlozRTFlNm02OEV1T2VJYUNwa3lmeldGU2ZQSUFrczBvOXBMYXNNVmsyekc1VVpDRnVMRVF2Q0hMMXZ5WDVERGtkWWtxZU0tdWR1Z2dWRnNLNFBRVWNHQktsVTRKMWww?oc=5",
-      "source": "intel.com",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-09-30T16:50:55.000Z"
-    },
-    {
-      "title": "ChromeOS vs Googlebook OS: Support, Apps and Upgrades",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBEYzJaMXBYSHdJb1hCbTE2Y3oydnZFTldZZ1JoUmd3WDNKRmRJdXlQS0dLX01DOVNqVkw5MEl5OW85d1gtUjJFSG5jdHJjLTlmQzVOSTBJZWhNVzNlNFZ0QU9zXzBwX3JjZzgxQjVfVktjMUgxU3Vr?oc=5",
-      "source": "TechRepublic",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-09-30T16:00:31.000Z"
-    },
-    {
-      "title": "Portraits of trees: Pine",
-      "url": "https://eclecticlight.co/2026/09/30/portraits-of-trees-pine/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-09-30T11:30:00.000Z"
-    },
-    {
-      "title": "I bought a Chromebook instead of waiting for Googlebooks; here's why",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE82X3U3T2RWYXo5WWpqMnROQ3dhVmpERWViUmdBSVhubVdFYV80VlJYa3JoX0ZwTWpNckF5aDAzNWZZQlBBRnFHX190RmFWU0l2akVlLXZtclZRZFdNa3NlZlBGQzJHRVhTRDhvS1lEYmZWTWcxVjNhUzBn?oc=5",
-      "source": "Android Police",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-09-30T10:00:10.000Z"
-    },
-    {
-      "title": "Googlebook OS Is Here. Your Chromebook Might Get It. ChromeOS Won't.",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcE8xbWNhR1pJVFZWYmNkcnNITFVtRUdSVDg1WTkzNUZ6ZENIRDlQTlZwd3phbUNGS3hHdUpEUGd3eEhwSzB6LUlpLVdHNXJEMThfcmVDblZacGg4WHRYakswTzl5R0oySkpBdEQzaHJCdzJ6VXEyUEFFeE9GeThXR1RCOUNNSV9OSHZMekdsdVg?oc=5",
-      "source": "Vocal",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-09-29T19:34:09.000Z"
-    },
-    {
-      "title": "The Googlebook marketing push starts with Henry Cavill and his mustache",
-      "url": "https://9to5google.com/2026/09/29/googlebook-henry-cavill-marketing/",
-      "source": "9to5Google · Googlebook",
-      "tag": "android",
-      "site": "https://9to5google.com/guides/googlebook/",
-      "date": "2026-09-29T18:39:00.000Z"
     },
     {
       "title": "HardenedBSD August / September 2026 Status Report",

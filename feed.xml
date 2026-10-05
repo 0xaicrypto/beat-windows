@@ -5,8 +5,104 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Oct 2026 16:07:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 22:43:20 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AMD ROCm 10.1 Released With Many Improvements</title>
+      <link>https://www.phoronix.com/news/AMD-ROCm-10.1</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/AMD-ROCm-10.1</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Mon, 05 Oct 2026 22:08:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Googlebook gets Luminar photo editing app with ‘Continue On’ support</title>
+      <link>https://9to5google.com/2026/10/05/googlebook-luminar-photo-editing-app/</link>
+      <guid isPermaLink="true">https://9to5google.com/2026/10/05/googlebook-luminar-photo-editing-app/</guid>
+      <category>android</category>
+      <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
+      <pubDate>Mon, 05 Oct 2026 21:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>You can unlock a Googlebook’s bootloader, Magisk support in the works</title>
+      <link>https://9to5google.com/2026/10/05/googlebook-bootloader-magisk-root/</link>
+      <guid isPermaLink="true">https://9to5google.com/2026/10/05/googlebook-bootloader-magisk-root/</guid>
+      <category>android</category>
+      <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
+      <pubDate>Mon, 05 Oct 2026 20:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Googlebook era is here: some first impressions of the new hardware and the a whole new OS</title>
+      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxNV3k0dk05bFM2a0dPSldnOXhkazloZENnZ2sxU1haYTBubUpNWnRoOEJ3SHAwYzl4U2sxbTdDTVA1eGJISWRGTi00VlQyT3Q3VjJ3US1EQzVLTkRuUC1RZGd1b0p0RXdiMWsweDlOSFJYQnVFaDg0SlRTNWFteXY5S0tOREthTW5uYUhlcTl4dEoyV1pxTy1QLXVKX0VNVjRlakdEY2lEVzkzN0wtVDlnNw?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMisAFBVV95cUxNV3k0dk05bFM2a0dPSldnOXhkazloZENnZ2sxU1haYTBubUpNWnRoOEJ3SHAwYzl4U2sxbTdDTVA1eGJISWRGTi00VlQyT3Q3VjJ3US1EQzVLTkRuUC1RZGd1b0p0RXdiMWsweDlOSFJYQnVFaDg0SlRTNWFteXY5S0tOREthTW5uYUhlcTl4dEoyV1pxTy1QLXVKX0VNVjRlakdEY2lEVzkzN0wtVDlnNw?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Chrome Unboxed</source>
+      <pubDate>Mon, 05 Oct 2026 20:30:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Asus Googlebook 14 is sprinkled with hints of greatness</title>
+      <link>https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wVDF3dDVxVmY1VlhFcGhVYTZYMFpvOFYyc0cyT2gxTE9Xbk16SWFfcE80TTRDb3cxTnZtRmN5VlVVdEtUSWlxUllhUENnTmZ5cVhOakNiM09ORjdXNVlRTUVXeW4?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wVDF3dDVxVmY1VlhFcGhVYTZYMFpvOFYyc0cyT2gxTE9Xbk16SWFfcE80TTRDb3cxTnZtRmN5VlVVdEtUSWlxUllhUENnTmZ5cVhOakNiM09ORjdXNVlRTUVXeW4?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">pocket-lint.com</source>
+      <pubDate>Mon, 05 Oct 2026 20:29:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Not Every Android App Works on Every Googlebook, and Intel Is the Reason</title>
+      <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVk1oZ3VPNkxSSk9UMXFHRVMxUl9XTjdQdnRKd2pWck5vWlM2TlllMjFwTEp1NnFza2ljOUJZcDRBU2hpd01IdGxxZkhPYjQ0UkJBVTdKUWkzT1BuakxtUzdoYnVNZk9saUlvNTNSc01yLXV0dHZPLUcwMmVkTXRhMGUwSkk2Z3VZTXVyS1hKVFdqYVFoSEFMSHhzNW02eUFQRERIbkRrTDREMWM4aVJNNm9zdUM0clRU?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVk1oZ3VPNkxSSk9UMXFHRVMxUl9XTjdQdnRKd2pWck5vWlM2TlllMjFwTEp1NnFza2ljOUJZcDRBU2hpd01IdGxxZkhPYjQ0UkJBVTdKUWkzT1BuakxtUzdoYnVNZk9saUlvNTNSc01yLXV0dHZPLUcwMmVkTXRhMGUwSkk2Z3VZTXVyS1hKVFdqYVFoSEFMSHhzNW02eUFQRERIbkRrTDREMWM4aVJNNm9zdUM0clRU?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Android Headlines</source>
+      <pubDate>Mon, 05 Oct 2026 19:34:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Googlebooks Can Run a Custom OS Through Unlockable Bootloader</title>
+      <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxNVWN4eU16TkNQeGN0MzZIaGNRZUQ1a0dxOUNVUEpnTy1vdFBPTy1yYVpwMWh1MWR0ajVReVY4ZWJoRDNRd0plbHlTSWEtOGlsc1I2T3ZGN0tqNmYzZmJTS2ZDdTJhXzBqRzF4anF6VGFmQWhPV3c3bDg3VFNaNTZOLUlTajE1QVdYYV9JM3RSX3l3dw?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMikgFBVV95cUxNVWN4eU16TkNQeGN0MzZIaGNRZUQ1a0dxOUNVUEpnTy1vdFBPTy1yYVpwMWh1MWR0ajVReVY4ZWJoRDNRd0plbHlTSWEtOGlsc1I2T3ZGN0tqNmYzZmJTS2ZDdTJhXzBqRzF4anF6VGFmQWhPV3c3bDg3VFNaNTZOLUlTajE1QVdYYV9JM3RSX3l3dw?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">PCMag</source>
+      <pubDate>Mon, 05 Oct 2026 19:32:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Googlebook's Android integration has two limitations that you won't see coming</title>
+      <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxQVDJiT0haWW93MGFIZlV3cl83Nkc3blVFYWR3UlNLU29keVZTcnNtLWVramV4WTdFbHNVS0t1ejJ5NndqeWZZbkFvclA3YTV3bFN2VHozb2JhT0phOV9wVEM3eHZtbDVPUDM5eC1qV3RmbmwtTjV5alNKelQ0TTBCOWh0ckJrTlBjNjRyeUg3NmpEMEhtT0t3U3NaQ1RGbmxVQ0tpRm93?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMipgFBVV95cUxQVDJiT0haWW93MGFIZlV3cl83Nkc3blVFYWR3UlNLU29keVZTcnNtLWVramV4WTdFbHNVS0t1ejJ5NndqeWZZbkFvclA3YTV3bFN2VHozb2JhT0phOV9wVEM3eHZtbDVPUDM5eC1qV3RmbmwtTjV5alNKelQ0TTBCOWh0ckJrTlBjNjRyeUg3NmpEMEhtT0t3U3NaQ1RGbmxVQ0tpRm93?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">How-To Geek</source>
+      <pubDate>Mon, 05 Oct 2026 19:29:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lenovo Googlebook 15: Software First Impressions</title>
+      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMDZkWm1sOFQyNTZCYjkyOG5IeHQweEwxRHdiYkdZNTg4QnQ5SFlJWnNPMFlfTGUzcGVpeC16bE5pYTU5RDFma3V1NXdjdTI4MFNjeEhLQ2FvQzNNdUNvZVh2aEVjTUttZnBkOF9HR0lJT3A0SUo2bXpQN0ZHQjhqMmhOZ09yMVRVMC1YaHJsMVM2aGJNejRJV2tmaW96akxLWm15REpJbkhHa0U?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMDZkWm1sOFQyNTZCYjkyOG5IeHQweEwxRHdiYkdZNTg4QnQ5SFlJWnNPMFlfTGUzcGVpeC16bE5pYTU5RDFma3V1NXdjdTI4MFNjeEhLQ2FvQzNNdUNvZVh2aEVjTUttZnBkOF9HR0lJT3A0SUo2bXpQN0ZHQjhqMmhOZ09yMVRVMC1YaHJsMVM2aGJNejRJV2tmaW96akxLWm15REpJbkhHa0U?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">thurrott.com</source>
+      <pubDate>Mon, 05 Oct 2026 19:22:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ternus and Cook Tweet Brief Remembrances on the 15th Anniversary of Steve Jobs’s Death</title>
+      <link>https://x.com/johnternus/status/2107093462118199562</link>
+      <guid isPermaLink="true">https://x.com/johnternus/status/2107093462118199562</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Mon, 05 Oct 2026 19:19:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux 7.4 To Land New BTB CTX Isolation Feature Of AMD Zen 6</title>
+      <link>https://www.phoronix.com/news/AMD-Zen-6-BTB-CTX-Linux-7.4</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/AMD-Zen-6-BTB-CTX-Linux-7.4</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Mon, 05 Oct 2026 18:47:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Googlebooks with Intel chipsets might have trouble with ‘complex’ Android apps</title>
+      <link>https://9to5google.com/2026/10/05/googlebook-intel-chip-performance/</link>
+      <guid isPermaLink="true">https://9to5google.com/2026/10/05/googlebook-intel-chip-performance/</guid>
+      <category>android</category>
+      <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
+      <pubDate>Mon, 05 Oct 2026 16:15:00 GMT</pubDate>
+    </item>
     <item>
       <title>On sale now: Every Googlebook price, key specs, pros &amp; cons</title>
       <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxQYTdHUnB3al9Jekt0bHRFbUxwdDFUX0NYc2xka29Ia1I3RWR1RkxrMEluZm95cHlkM0ZvdDIzUk02MnRnZVdpUDRXb3V3THdZNFVnZ0FRempXVVJNeDJaOTJlWUtvdjVTdldqN2JJaGUzSDc5cUpIQ0dHZmFvVkxDTDhhSjRvV0hVVXE5MFdDRW04VGNtN3R1MzRweGhFa1ZJQkE?oc=5</link>
@@ -46,14 +142,6 @@
       <category>linux</category>
       <source url="https://lwn.net/">LWN</source>
       <pubDate>Mon, 05 Oct 2026 15:10:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Not Every Android App Works on Every Googlebook, and Intel Is the Reason</title>
-      <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVk1oZ3VPNkxSSk9UMXFHRVMxUl9XTjdQdnRKd2pWck5vWlM2TlllMjFwTEp1NnFza2ljOUJZcDRBU2hpd01IdGxxZkhPYjQ0UkJBVTdKUWkzT1BuakxtUzdoYnVNZk9saUlvNTNSc01yLXV0dHZPLUcwMmVkTXRhMGUwSkk2Z3VZTXVyS1hKVFdqYVFoSEFMSHhzNW02eUFQRERIbkRrTDREMWM4aVJNNm9zdUM0clRU?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVk1oZ3VPNkxSSk9UMXFHRVMxUl9XTjdQdnRKd2pWck5vWlM2TlllMjFwTEp1NnFza2ljOUJZcDRBU2hpd01IdGxxZkhPYjQ0UkJBVTdKUWkzT1BuakxtUzdoYnVNZk9saUlvNTNSc01yLXV0dHZPLUcwMmVkTXRhMGUwSkk2Z3VZTXVyS1hKVFdqYVFoSEFMSHhzNW02eUFQRERIbkRrTDREMWM4aVJNNm9zdUM0clRU?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Android Headlines</source>
-      <pubDate>Mon, 05 Oct 2026 14:34:19 GMT</pubDate>
     </item>
     <item>
       <title>Don’t Expect Every New Googlebook App to Play Nice With Intel Chips</title>
@@ -240,14 +328,6 @@
       <pubDate>Sun, 04 Oct 2026 15:21:34 GMT</pubDate>
     </item>
     <item>
-      <title>MGLRU-FG Delivering Up To 10~40% Higher Performance For Linux In Some Tests</title>
-      <link>https://www.phoronix.com/news/Linux-MGLRU-FG-Patches</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-MGLRU-FG-Patches</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Sun, 04 Oct 2026 15:16:26 GMT</pubDate>
-    </item>
-    <item>
       <title>ASUS Googlebook 14 Now Available for Purchase in Canada</title>
       <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTU5CYXhsWEJhbkJTMy1URVFTUlpjcjFLUzVNU29iMFh5bkExalQxOFpnblo3MDVzeXhEc3pMTnlDRjRjUHpWdXhSMnc3RDZKSHR1R1V6dS1EeEh5MVdzM1lRZ25RYTM1bW5ockg4dVZsVGRWczVSellvWkppR2c2T1dkTmlUQTZ6R1FLM2tsNlBiLTREaGk5NzdaUTB5SWFjamZfTXp6VHBJQQ?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTU5CYXhsWEJhbkJTMy1URVFTUlpjcjFLUzVNU29iMFh5bkExalQxOFpnblo3MDVzeXhEc3pMTnlDRjRjUHpWdXhSMnc3RDZKSHR1R1V6dS1EeEh5MVdzM1lRZ25RYTM1bW5ockg4dVZsVGRWczVSellvWkppR2c2T1dkTmlUQTZ6R1FLM2tsNlBiLTREaGk5NzdaUTB5SWFjamZfTXp6VHBJQQ?oc=5</guid>
@@ -288,14 +368,6 @@
       <pubDate>Sun, 04 Oct 2026 11:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>NVIDIA's Results Of Conducting Wayland vs. X.Org Latency Testing</title>
-      <link>https://www.phoronix.com/news/NVIDIA-Wayland-Xorg-Latency</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/NVIDIA-Wayland-Xorg-Latency</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Sun, 04 Oct 2026 11:03:20 GMT</pubDate>
-    </item>
-    <item>
       <title>OpenBSD Developers Reject Uutils Coreutils</title>
       <link>https://news.lavx.hu/article/openbsd-developers-reject-uutils-coreutils-port-over-licensing-and-compatibility-concerns</link>
       <guid isPermaLink="true">https://news.lavx.hu/article/openbsd-developers-reject-uutils-coreutils-port-over-licensing-and-compatibility-concerns</guid>
@@ -334,78 +406,6 @@
       <category>android</category>
       <source url="https://news.google.com/">TechRadar</source>
       <pubDate>Sat, 03 Oct 2026 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>6 apps that transformed my Windows PC into a Googlebook</title>
-      <link>https://news.google.com/rss/articles/CBMidkFVX3lxTE5OcUc3VncwamdlanBMajE2bmZ2UW40clZWZHk2V2RkZGJWUVZxYTFZUlE2RGxMQnl0NXBXZnVzUllSbnpZMG1sNkRDdXdXSVdoVmR2QmxQTm9MUzhYdjFkMmcyQzk4a0hKU2ZqM2VuQ0NrbU50VkE?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMidkFVX3lxTE5OcUc3VncwamdlanBMajE2bmZ2UW40clZWZHk2V2RkZGJWUVZxYTFZUlE2RGxMQnl0NXBXZnVzUllSbnpZMG1sNkRDdXdXSVdoVmR2QmxQTm9MUzhYdjFkMmcyQzk4a0hKU2ZqM2VuQ0NrbU50VkE?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Android Police</source>
-      <pubDate>Sat, 03 Oct 2026 12:45:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Leaf peeping: painting autumn 1650-1899</title>
-      <link>https://eclecticlight.co/2026/10/03/leaf-peeping-painting-autumn-1650-1899/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/10/03/leaf-peeping-painting-autumn-1650-1899/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Sat, 03 Oct 2026 11:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Saturday Mac riddles 380</title>
-      <link>https://eclecticlight.co/2026/10/03/saturday-mac-riddles-380/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/10/03/saturday-mac-riddles-380/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Sat, 03 Oct 2026 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>What changed in macOS Tahoe 26.4? (Take 2)</title>
-      <link>https://eclecticlight.co/2026/10/03/what-changed-in-macos-tahoe-26-4-take-2/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/10/03/what-changed-in-macos-tahoe-26-4-take-2/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Sat, 03 Oct 2026 07:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>★ Apple Is Going to Further Tighten the Screws on Full Disk Access on MacOS, in Response to Agentic AI Apps Running Amok</title>
-      <link>https://daringfireball.net/2026/10/apple_full_disk_access</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/10/apple_full_disk_access</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Fri, 02 Oct 2026 20:40:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Updates to Full Disk Access in macOS</title>
-      <link>https://developer.apple.com/news/?id=p6zjojqw</link>
-      <guid isPermaLink="true">https://developer.apple.com/news/?id=p6zjojqw</guid>
-      <category>macos</category>
-      <source url="https://lobste.rs/t/mac">Lobsters · mac</source>
-      <pubDate>Fri, 02 Oct 2026 20:10:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why a leaked Samsung Android laptop on Geekbench likely isn’t a Googlebook</title>
-      <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ19ydTJMYXlCVTc2T1RpWFZ5LWVBYlFhRnpaTW1qWHVLMExDVk5RN29XOGxVQUpEek9oazMwMlhKNU1LNVVrWldld1p0YVNWWXg5dzE3M0RKcGJEQWU4QjJ3aFZhQnhueXlubVJXTkp5SjJsV1RkZkktTnRrNXZvYjlPMmhoZkRkVVo4aGhSTGpDc2hwdlZYS3g1ZllxNjdnSlE?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ19ydTJMYXlCVTc2T1RpWFZ5LWVBYlFhRnpaTW1qWHVLMExDVk5RN29XOGxVQUpEek9oazMwMlhKNU1LNVVrWldld1p0YVNWWXg5dzE3M0RKcGJEQWU4QjJ3aFZhQnhueXlubVJXTkp5SjJsV1RkZkktTnRrNXZvYjlPMmhoZkRkVVo4aGhSTGpDc2hwdlZYS3g1ZllxNjdnSlE?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Chrome Unboxed</source>
-      <pubDate>Fri, 02 Oct 2026 16:48:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Giorgione’s few brilliant years of painting</title>
-      <link>https://eclecticlight.co/2026/10/02/giorgiones-few-brilliant-years-of-painting/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/10/02/giorgiones-few-brilliant-years-of-painting/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Fri, 02 Oct 2026 11:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>How to copy login keychains that can be unlocked</title>
-      <link>https://eclecticlight.co/2026/10/02/how-to-copy-login-keychains-that-can-be-unlocked/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/10/02/how-to-copy-login-keychains-that-can-be-unlocked/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Fri, 02 Oct 2026 06:30:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
