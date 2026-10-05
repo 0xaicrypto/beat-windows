@@ -1,6 +1,22 @@
 {
-  "generated": "2026-10-05T01:00:46.490Z",
+  "generated": "2026-10-05T07:09:03.080Z",
   "items": [
+    {
+      "title": "When and how to migrate to your Mac",
+      "url": "https://eclecticlight.co/2026/10/05/when-and-how-to-migrate-to-your-mac/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-10-05T06:30:00.000Z"
+    },
+    {
+      "title": "Kernel prepatch 7.3-rc6",
+      "url": "https://lwn.net/Articles/1098476/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-05T05:47:41.000Z"
+    },
     {
       "title": "Linux 7.3-rc6 Released: Normal For The New \"AI Normal\"",
       "url": "https://www.phoronix.com/news/Linux-7.3-rc6-Released",
@@ -274,14 +290,6 @@
       "date": "2026-10-03T07:00:00.000Z"
     },
     {
-      "title": "Wine 11.19 Released With Wayland Color Management For Vulkan, DNS Query Caching",
-      "url": "https://www.phoronix.com/news/Wine-11.19-Released",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-03T00:29:10.000Z"
-    },
-    {
       "title": "★ Apple Is Going to Further Tighten the Screws on Full Disk Access on MacOS, in Response to Agentic AI Apps Running Amok",
       "url": "https://daringfireball.net/2026/10/apple_full_disk_access",
       "source": "Daring Fireball",
@@ -448,14 +456,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-09-29T16:52:12.000Z"
-    },
-    {
-      "title": "Follow-Up on my Spitballed Predictions for Apple’s October",
-      "url": "https://daringfireball.net/2026/09/spitballing_predictions_for_apples_october",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-09-29T15:08:19.000Z"
     },
     {
       "title": "Lenovo Googlebook 15 Land in U.S on Oct 4: 15.3-inch OLED Under 3 lb ~$1,100",

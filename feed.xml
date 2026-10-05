@@ -5,8 +5,24 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Oct 2026 01:00:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 07:09:03 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>When and how to migrate to your Mac</title>
+      <link>https://eclecticlight.co/2026/10/05/when-and-how-to-migrate-to-your-mac/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/10/05/when-and-how-to-migrate-to-your-mac/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Mon, 05 Oct 2026 06:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kernel prepatch 7.3-rc6</title>
+      <link>https://lwn.net/Articles/1098476/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1098476/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Mon, 05 Oct 2026 05:47:41 GMT</pubDate>
+    </item>
     <item>
       <title>Linux 7.3-rc6 Released: Normal For The New &quot;AI Normal&quot;</title>
       <link>https://www.phoronix.com/news/Linux-7.3-rc6-Released</link>
@@ -280,14 +296,6 @@
       <pubDate>Sat, 03 Oct 2026 07:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Wine 11.19 Released With Wayland Color Management For Vulkan, DNS Query Caching</title>
-      <link>https://www.phoronix.com/news/Wine-11.19-Released</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Wine-11.19-Released</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Sat, 03 Oct 2026 00:29:10 GMT</pubDate>
-    </item>
-    <item>
       <title>★ Apple Is Going to Further Tighten the Screws on Full Disk Access on MacOS, in Response to Agentic AI Apps Running Amok</title>
       <link>https://daringfireball.net/2026/10/apple_full_disk_access</link>
       <guid isPermaLink="true">https://daringfireball.net/2026/10/apple_full_disk_access</guid>
@@ -398,14 +406,6 @@
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Wed, 30 Sep 2026 11:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>I bought a Chromebook instead of waiting for Googlebooks; here's why</title>
-      <link>https://news.google.com/rss/articles/CBMiekFVX3lxTE82X3U3T2RWYXo5WWpqMnROQ3dhVmpERWViUmdBSVhubVdFYV80VlJYa3JoX0ZwTWpNckF5aDAzNWZZQlBBRnFHX190RmFWU0l2akVlLXZtclZRZFdNa3NlZlBGQzJHRVhTRDhvS1lEYmZWTWcxVjNhUzBn?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiekFVX3lxTE82X3U3T2RWYXo5WWpqMnROQ3dhVmpERWViUmdBSVhubVdFYV80VlJYa3JoX0ZwTWpNckF5aDAzNWZZQlBBRnFHX190RmFWU0l2akVlLXZtclZRZFdNa3NlZlBGQzJHRVhTRDhvS1lEYmZWTWcxVjNhUzBn?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Android Police</source>
-      <pubDate>Wed, 30 Sep 2026 10:00:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
