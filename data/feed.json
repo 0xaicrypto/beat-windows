@@ -1,6 +1,78 @@
 {
-  "generated": "2026-10-06T17:15:30.481Z",
+  "generated": "2026-10-06T21:43:42.690Z",
   "items": [
+    {
+      "title": "Canonical Reaffirms Plans For Ubuntu 27.04 To Use ntpd-rs By Default",
+      "url": "https://www.phoronix.com/news/Ubuntu-27.04-ntpd-rs-Plans",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-06T21:08:51.000Z"
+    },
+    {
+      "title": "Pared - remove unwanted Apple Intelligence models without disabling SIP",
+      "url": "https://github.com/4evy/pared",
+      "source": "Lobsters · mac",
+      "tag": "macos",
+      "site": "https://lobste.rs/t/mac",
+      "date": "2026-10-06T18:27:16.000Z"
+    },
+    {
+      "title": "Meta Engineer's Linux Patches For Boosting AMD P-State / Steam Deck Gaming Performance",
+      "url": "https://www.phoronix.com/news/Boost-Recently-Busy-CPUs",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-06T18:21:01.000Z"
+    },
+    {
+      "title": "Unofficial Command-Line Tool Removes Apple Intelligence From MacOS 27",
+      "url": "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-06T18:17:43.000Z"
+    },
+    {
+      "title": "Apple has just released an update to XProtect for all macOS",
+      "url": "https://eclecticlight.co/2026/10/06/apple-has-just-released-an-update-to-xprotect-for-all-macos-22/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-10-06T18:16:53.000Z"
+    },
+    {
+      "title": "I tried Googlebooks, and these 5 features might finally get me to leave my Mac",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9admduMV9hc2lRU3o5bVFpX21ZTUtCNTR6RUV0UHViVWJpX1MzaE9hcHdtcnE5OEI0clhVWmFYMWQ4bkNybnpYU3BIRno5V2dzOHVlaWl1V184Y09qZ0RfY2k5SHhHdk5QZHlwaHpJUUNnU2h4?oc=5",
+      "source": "MakeUseOf",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-06T18:01:14.000Z"
+    },
+    {
+      "title": "Last rites for Gentoo's Chromium package",
+      "url": "https://lwn.net/SubscriberLink/1097760/2be4d9e3eeb59039/",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-10-06T17:46:53.000Z"
+    },
+    {
+      "title": "Initial Googlebooks Repeat Windows-on-Arm Issues, But in Reverse",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdzNrVW9GanVna0ZuUHN1ZzN4YTNISTlEemdGQ1ZYRWJNM25uaGhfZDZOUkhPWjVHQlQ1QnZ5Q1NWdUpoUmdQN3ZfZEZtZHl0VklRQTR2Qk12d2laRVFHY25BdTVqRzNoWnF6ZkQ4c2xneDA5TmpNMmhXMFNzLVpBSTdmOUVGY1M4ZjRBOHQ3bl9RbU02cEc2VmlleDdWNE1QVTlv?oc=5",
+      "source": "ExtremeTech",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-06T17:35:13.000Z"
+    },
+    {
+      "title": "Our first five impressions of Googlebooks — exciting but underbaked",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQR0Zrc0NIZXhsLWhLX1pwZENoRFoybkRaRFRDMlhCUVlnbWRPekRZV2lPMDRkOTBidXEtR2dZQWttWmtCcWZZQTZMUEotRDFUamItN1dfRnpYVExtR1RjUWpXOXZSYmVza0cyOEw4M1ZzMUhHbFJMcTlvUDkwVVRsa1Y2ODdYRWR1eDVqU2ZZaFVBWDdUZkFFVmlFRWFnRnh4WC1RYW45X3ZqcUZ3?oc=5",
+      "source": "The Verge",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-06T17:31:59.000Z"
+    },
     {
       "title": "Googlebooks don’t have the same web app or Linux app support as Chromebooks",
       "url": "https://9to5google.com/2026/10/06/googlebook-linux-web-app-support-chromebook/",
@@ -322,54 +394,6 @@
       "date": "2026-10-05T18:47:01.000Z"
     },
     {
-      "title": "Googlebooks with Intel chipsets might have trouble with ‘complex’ Android apps",
-      "url": "https://9to5google.com/2026/10/05/googlebook-intel-chip-performance/",
-      "source": "9to5Google · Googlebook",
-      "tag": "android",
-      "site": "https://9to5google.com/guides/googlebook/",
-      "date": "2026-10-05T16:15:00.000Z"
-    },
-    {
-      "title": "On sale now: Every Googlebook price, key specs, pros & cons",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYTdHUnB3al9Jekt0bHRFbUxwdDFUX0NYc2xka29Ia1I3RWR1RkxrMEluZm95cHlkM0ZvdDIzUk02MnRnZVdpUDRXb3V3THdZNFVnZ0FRempXVVJNeDJaOTJlWUtvdjVTdldqN2JJaGUzSDc5cUpIQ0dHZmFvVkxDTDhhSjRvV0hVVXE5MFdDRW04VGNtN3R1MzRweGhFa1ZJQkE?oc=5",
-      "source": "Tech Advisor",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-05T15:44:02.000Z"
-    },
-    {
-      "title": "Google Acknowledges Some Android Apps Don’t Run Well on Intel-Based Googlebooks",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeU5UYUM2ekt3b0NDbFZtZFRUcVZGZklBVzBYRUkxYXMtY2RodC1PX1k0dFNhZkxiM1o0YkxUUEdld2UtVkhRVEJocHZub21rSVRtNi1ab3JWd2lDc0VGVU1YM1V4R04xa3ROZzQtcDFheXJZOWoyTDc2WWRzWUVxMXl5eGNzc2c2S3NvTTVUN0xKdGJoTDltU3hhVUR6cGVUekhSc1UxWmIxQ2N4bjVhQ3BhRDh6Z0hn?oc=5",
-      "source": "Thurrott.com",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-05T15:41:20.000Z"
-    },
-    {
-      "title": "Auto-CPUFreq 3.2 Adds Configurable HWP Dynamic Boost, Platform Profile Reporting",
-      "url": "https://www.phoronix.com/news/Auto-CPUFreq-3.2",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-05T15:36:12.000Z"
-    },
-    {
-      "title": "RustConf recordings",
-      "url": "https://lwn.net/Articles/1098610/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-05T15:11:11.000Z"
-    },
-    {
-      "title": "[$] An update on the Sashiko patch-review system",
-      "url": "https://lwn.net/Articles/1096963/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-05T15:10:37.000Z"
-    },
-    {
       "title": "Hero or hooligan: Heracles killed by the hydra’s blood",
       "url": "https://eclecticlight.co/2026/10/05/hero-or-hooligan-heracles-killed-by-the-hydras-blood/",
       "source": "Eclectic Light",
@@ -472,30 +496,6 @@
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-10-02T20:40:15.000Z"
-    },
-    {
-      "title": "Updates to Full Disk Access in macOS",
-      "url": "https://developer.apple.com/news/?id=p6zjojqw",
-      "source": "Lobsters · mac",
-      "tag": "macos",
-      "site": "https://lobste.rs/t/mac",
-      "date": "2026-10-02T20:10:26.000Z"
-    },
-    {
-      "title": "Giorgione’s few brilliant years of painting",
-      "url": "https://eclecticlight.co/2026/10/02/giorgiones-few-brilliant-years-of-painting/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-10-02T11:30:00.000Z"
-    },
-    {
-      "title": "How to copy login keychains that can be unlocked",
-      "url": "https://eclecticlight.co/2026/10/02/how-to-copy-login-keychains-that-can-be-unlocked/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-10-02T06:30:00.000Z"
     },
     {
       "title": "HardenedBSD August / September 2026 Status Report",

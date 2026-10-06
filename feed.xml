@@ -5,8 +5,80 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Oct 2026 17:15:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 21:43:42 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Canonical Reaffirms Plans For Ubuntu 27.04 To Use ntpd-rs By Default</title>
+      <link>https://www.phoronix.com/news/Ubuntu-27.04-ntpd-rs-Plans</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Ubuntu-27.04-ntpd-rs-Plans</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Tue, 06 Oct 2026 21:08:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pared - remove unwanted Apple Intelligence models without disabling SIP</title>
+      <link>https://github.com/4evy/pared</link>
+      <guid isPermaLink="true">https://github.com/4evy/pared</guid>
+      <category>macos</category>
+      <source url="https://lobste.rs/t/mac">Lobsters · mac</source>
+      <pubDate>Tue, 06 Oct 2026 18:27:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Meta Engineer's Linux Patches For Boosting AMD P-State / Steam Deck Gaming Performance</title>
+      <link>https://www.phoronix.com/news/Boost-Recently-Busy-CPUs</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Boost-Recently-Busy-CPUs</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Tue, 06 Oct 2026 18:21:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Unofficial Command-Line Tool Removes Apple Intelligence From MacOS 27</title>
+      <link>https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/</link>
+      <guid isPermaLink="true">https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Tue, 06 Oct 2026 18:17:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apple has just released an update to XProtect for all macOS</title>
+      <link>https://eclecticlight.co/2026/10/06/apple-has-just-released-an-update-to-xprotect-for-all-macos-22/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/10/06/apple-has-just-released-an-update-to-xprotect-for-all-macos-22/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Tue, 06 Oct 2026 18:16:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>I tried Googlebooks, and these 5 features might finally get me to leave my Mac</title>
+      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE9admduMV9hc2lRU3o5bVFpX21ZTUtCNTR6RUV0UHViVWJpX1MzaE9hcHdtcnE5OEI0clhVWmFYMWQ4bkNybnpYU3BIRno5V2dzOHVlaWl1V184Y09qZ0RfY2k5SHhHdk5QZHlwaHpJUUNnU2h4?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMidEFVX3lxTE9admduMV9hc2lRU3o5bVFpX21ZTUtCNTR6RUV0UHViVWJpX1MzaE9hcHdtcnE5OEI0clhVWmFYMWQ4bkNybnpYU3BIRno5V2dzOHVlaWl1V184Y09qZ0RfY2k5SHhHdk5QZHlwaHpJUUNnU2h4?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">MakeUseOf</source>
+      <pubDate>Tue, 06 Oct 2026 18:01:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Last rites for Gentoo's Chromium package</title>
+      <link>https://lwn.net/SubscriberLink/1097760/2be4d9e3eeb59039/</link>
+      <guid isPermaLink="true">https://lwn.net/SubscriberLink/1097760/2be4d9e3eeb59039/</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Tue, 06 Oct 2026 17:46:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Initial Googlebooks Repeat Windows-on-Arm Issues, But in Reverse</title>
+      <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxOdzNrVW9GanVna0ZuUHN1ZzN4YTNISTlEemdGQ1ZYRWJNM25uaGhfZDZOUkhPWjVHQlQ1QnZ5Q1NWdUpoUmdQN3ZfZEZtZHl0VklRQTR2Qk12d2laRVFHY25BdTVqRzNoWnF6ZkQ4c2xneDA5TmpNMmhXMFNzLVpBSTdmOUVGY1M4ZjRBOHQ3bl9RbU02cEc2VmlleDdWNE1QVTlv?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiowFBVV95cUxOdzNrVW9GanVna0ZuUHN1ZzN4YTNISTlEemdGQ1ZYRWJNM25uaGhfZDZOUkhPWjVHQlQ1QnZ5Q1NWdUpoUmdQN3ZfZEZtZHl0VklRQTR2Qk12d2laRVFHY25BdTVqRzNoWnF6ZkQ4c2xneDA5TmpNMmhXMFNzLVpBSTdmOUVGY1M4ZjRBOHQ3bl9RbU02cEc2VmlleDdWNE1QVTlv?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">ExtremeTech</source>
+      <pubDate>Tue, 06 Oct 2026 17:35:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Our first five impressions of Googlebooks — exciting but underbaked</title>
+      <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxQR0Zrc0NIZXhsLWhLX1pwZENoRFoybkRaRFRDMlhCUVlnbWRPekRZV2lPMDRkOTBidXEtR2dZQWttWmtCcWZZQTZMUEotRDFUamItN1dfRnpYVExtR1RjUWpXOXZSYmVza0cyOEw4M1ZzMUhHbFJMcTlvUDkwVVRsa1Y2ODdYRWR1eDVqU2ZZaFVBWDdUZkFFVmlFRWFnRnh4WC1RYW45X3ZqcUZ3?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMirAFBVV95cUxQR0Zrc0NIZXhsLWhLX1pwZENoRFoybkRaRFRDMlhCUVlnbWRPekRZV2lPMDRkOTBidXEtR2dZQWttWmtCcWZZQTZMUEotRDFUamItN1dfRnpYVExtR1RjUWpXOXZSYmVza0cyOEw4M1ZzMUhHbFJMcTlvUDkwVVRsa1Y2ODdYRWR1eDVqU2ZZaFVBWDdUZkFFVmlFRWFnRnh4WC1RYW45X3ZqcUZ3?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">The Verge</source>
+      <pubDate>Tue, 06 Oct 2026 17:31:59 GMT</pubDate>
+    </item>
     <item>
       <title>Googlebooks don’t have the same web app or Linux app support as Chromebooks</title>
       <link>https://9to5google.com/2026/10/06/googlebook-linux-web-app-support-chromebook/</link>
@@ -328,84 +400,12 @@
       <pubDate>Mon, 05 Oct 2026 18:47:01 GMT</pubDate>
     </item>
     <item>
-      <title>Googlebooks with Intel chipsets might have trouble with ‘complex’ Android apps</title>
-      <link>https://9to5google.com/2026/10/05/googlebook-intel-chip-performance/</link>
-      <guid isPermaLink="true">https://9to5google.com/2026/10/05/googlebook-intel-chip-performance/</guid>
-      <category>android</category>
-      <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
-      <pubDate>Mon, 05 Oct 2026 16:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>On sale now: Every Googlebook price, key specs, pros &amp; cons</title>
-      <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxQYTdHUnB3al9Jekt0bHRFbUxwdDFUX0NYc2xka29Ia1I3RWR1RkxrMEluZm95cHlkM0ZvdDIzUk02MnRnZVdpUDRXb3V3THdZNFVnZ0FRempXVVJNeDJaOTJlWUtvdjVTdldqN2JJaGUzSDc5cUpIQ0dHZmFvVkxDTDhhSjRvV0hVVXE5MFdDRW04VGNtN3R1MzRweGhFa1ZJQkE?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiogFBVV95cUxQYTdHUnB3al9Jekt0bHRFbUxwdDFUX0NYc2xka29Ia1I3RWR1RkxrMEluZm95cHlkM0ZvdDIzUk02MnRnZVdpUDRXb3V3THdZNFVnZ0FRempXVVJNeDJaOTJlWUtvdjVTdldqN2JJaGUzSDc5cUpIQ0dHZmFvVkxDTDhhSjRvV0hVVXE5MFdDRW04VGNtN3R1MzRweGhFa1ZJQkE?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Tech Advisor</source>
-      <pubDate>Mon, 05 Oct 2026 15:44:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google Acknowledges Some Android Apps Don’t Run Well on Intel-Based Googlebooks</title>
-      <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeU5UYUM2ekt3b0NDbFZtZFRUcVZGZklBVzBYRUkxYXMtY2RodC1PX1k0dFNhZkxiM1o0YkxUUEdld2UtVkhRVEJocHZub21rSVRtNi1ab3JWd2lDc0VGVU1YM1V4R04xa3ROZzQtcDFheXJZOWoyTDc2WWRzWUVxMXl5eGNzc2c2S3NvTTVUN0xKdGJoTDltU3hhVUR6cGVUekhSc1UxWmIxQ2N4bjVhQ3BhRDh6Z0hn?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeU5UYUM2ekt3b0NDbFZtZFRUcVZGZklBVzBYRUkxYXMtY2RodC1PX1k0dFNhZkxiM1o0YkxUUEdld2UtVkhRVEJocHZub21rSVRtNi1ab3JWd2lDc0VGVU1YM1V4R04xa3ROZzQtcDFheXJZOWoyTDc2WWRzWUVxMXl5eGNzc2c2S3NvTTVUN0xKdGJoTDltU3hhVUR6cGVUekhSc1UxWmIxQ2N4bjVhQ3BhRDh6Z0hn?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Thurrott.com</source>
-      <pubDate>Mon, 05 Oct 2026 15:41:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Auto-CPUFreq 3.2 Adds Configurable HWP Dynamic Boost, Platform Profile Reporting</title>
-      <link>https://www.phoronix.com/news/Auto-CPUFreq-3.2</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Auto-CPUFreq-3.2</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Mon, 05 Oct 2026 15:36:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>RustConf recordings</title>
-      <link>https://lwn.net/Articles/1098610/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1098610/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Mon, 05 Oct 2026 15:11:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>[$] An update on the Sashiko patch-review system</title>
-      <link>https://lwn.net/Articles/1096963/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1096963/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Mon, 05 Oct 2026 15:10:37 GMT</pubDate>
-    </item>
-    <item>
       <title>Hero or hooligan: Heracles killed by the hydra’s blood</title>
       <link>https://eclecticlight.co/2026/10/05/hero-or-hooligan-heracles-killed-by-the-hydras-blood/</link>
       <guid isPermaLink="true">https://eclecticlight.co/2026/10/05/hero-or-hooligan-heracles-killed-by-the-hydras-blood/</guid>
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Mon, 05 Oct 2026 11:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Solutions to Saturday Mac riddles 380</title>
-      <link>https://eclecticlight.co/2026/10/05/solutions-to-saturday-mac-riddles-380/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/10/05/solutions-to-saturday-mac-riddles-380/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Mon, 05 Oct 2026 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>When and how to migrate to your Mac</title>
-      <link>https://eclecticlight.co/2026/10/05/when-and-how-to-migrate-to-your-mac/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/10/05/when-and-how-to-migrate-to-your-mac/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Mon, 05 Oct 2026 06:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Headers Up! What's New in httpd and relayd</title>
-      <link>https://undeadly.org/cgi?action=article;sid=20261004115249</link>
-      <guid isPermaLink="true">https://undeadly.org/cgi?action=article;sid=20261004115249</guid>
-      <category>bsd</category>
-      <source url="https://undeadly.org/">undeadly</source>
-      <pubDate>Sun, 04 Oct 2026 11:52:49 GMT</pubDate>
     </item>
   </channel>
 </rss>
