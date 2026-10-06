@@ -5,8 +5,64 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Oct 2026 22:43:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 03:04:18 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Steve Jobs, Walking Through a Mockup for Apple Park in 2010</title>
+      <link>https://book.stevejobsarchive.com/#photo-37</link>
+      <guid isPermaLink="true">https://book.stevejobsarchive.com/#photo-37</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Tue, 06 Oct 2026 02:49:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>TrueNAS 27 RC.1 Released: Linux 6.18 LTS + OpenZFS 2.4</title>
+      <link>https://www.phoronix.com/news/TrueNAS-27-RC.1-Release</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/TrueNAS-27-RC.1-Release</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Tue, 06 Oct 2026 00:25:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Googlebooks can’t install the Slack web app on day one</title>
+      <link>https://9to5google.com/2026/10/05/googlebook-slack-app-day-one/</link>
+      <guid isPermaLink="true">https://9to5google.com/2026/10/05/googlebook-slack-app-day-one/</guid>
+      <category>android</category>
+      <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Googlebooks can’t install the Slack web app on day one</title>
+      <link>https://news.google.com/rss/articles/CBMicEFVX3lxTE9qck44ekwyajRNYjIxZWkyMlRBcENldXRNc2RmS1h0YWVXT2F6OGJPeHFBdkVfLUpnVVA0UTJYUEFJYjNlcnItLTR2MC1Ka21RMHp0dWtFT29nY2VmRHpiVXBzOWt4NzZjbDZsUzFqOEg?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMicEFVX3lxTE9qck44ekwyajRNYjIxZWkyMlRBcENldXRNc2RmS1h0YWVXT2F6OGJPeHFBdkVfLUpnVVA0UTJYUEFJYjNlcnItLTR2MC1Ka21RMHp0dWtFT29nY2VmRHpiVXBzOWt4NzZjbDZsUzFqOEg?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">9to5Google</source>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Sponsor] Sunnny</title>
+      <link>https://sunnny.com/</link>
+      <guid isPermaLink="true">https://sunnny.com/</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Mon, 05 Oct 2026 23:49:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI Announces Their Text Watermarking Plans</title>
+      <link>https://openai.com/index/eu-text-provenance/</link>
+      <guid isPermaLink="true">https://openai.com/index/eu-text-provenance/</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Mon, 05 Oct 2026 22:59:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lenovo Googlebook 15: Software First Impressions</title>
+      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMDZkWm1sOFQyNTZCYjkyOG5IeHQweEwxRHdiYkdZNTg4QnQ5SFlJWnNPMFlfTGUzcGVpeC16bE5pYTU5RDFma3V1NXdjdTI4MFNjeEhLQ2FvQzNNdUNvZVh2aEVjTUttZnBkOF9HR0lJT3A0SUo2bXpQN0ZHQjhqMmhOZ09yMVRVMC1YaHJsMVM2aGJNejRJV2tmaW96akxLWm15REpJbkhHa0U?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMDZkWm1sOFQyNTZCYjkyOG5IeHQweEwxRHdiYkdZNTg4QnQ5SFlJWnNPMFlfTGUzcGVpeC16bE5pYTU5RDFma3V1NXdjdTI4MFNjeEhLQ2FvQzNNdUNvZVh2aEVjTUttZnBkOF9HR0lJT3A0SUo2bXpQN0ZHQjhqMmhOZ09yMVRVMC1YaHJsMVM2aGJNejRJV2tmaW96akxLWm15REpJbkhHa0U?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Thurrott.com</source>
+      <pubDate>Mon, 05 Oct 2026 22:43:36 GMT</pubDate>
+    </item>
     <item>
       <title>AMD ROCm 10.1 Released With Many Improvements</title>
       <link>https://www.phoronix.com/news/AMD-ROCm-10.1</link>
@@ -14,6 +70,14 @@
       <category>linux</category>
       <source url="https://www.phoronix.com/">Phoronix</source>
       <pubDate>Mon, 05 Oct 2026 22:08:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google Acknowledges Day 1 Android App Performance Issues on New Laptops</title>
+      <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxNRi1JMEVjanVzNG5RWVJibGlWNk1qUS1pX2NpSktmMGh2V3h2QzBYTWZpSHVodDNMVWtzMDk5SFcyU0tHX1R0X05rV25fRVlfZktKdk5NSWxYNlNyckQ3Vl9PejgxbGI4WWd2Q1JLUlphd1NnWTE0d1M2d1ZmZkN4Q21QNlp1bjdPcE1iYWhlZGpQcVhRWXBWQUFWTEpnWkhTT3dhXzNKOVh1VF9KR0h3?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMirwFBVV95cUxNRi1JMEVjanVzNG5RWVJibGlWNk1qUS1pX2NpSktmMGh2V3h2QzBYTWZpSHVodDNMVWtzMDk5SFcyU0tHX1R0X05rV25fRVlfZktKdk5NSWxYNlNyckQ3Vl9PejgxbGI4WWd2Q1JLUlphd1NnWTE0d1M2d1ZmZkN4Q21QNlp1bjdPcE1iYWhlZGpQcVhRWXBWQUFWTEpnWkhTT3dhXzNKOVh1VF9KR0h3?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">CNET</source>
+      <pubDate>Mon, 05 Oct 2026 21:54:19 GMT</pubDate>
     </item>
     <item>
       <title>Googlebook gets Luminar photo editing app with ‘Continue On’ support</title>
@@ -32,7 +96,7 @@
       <pubDate>Mon, 05 Oct 2026 20:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>The Googlebook era is here: some first impressions of the new hardware and the a whole new OS</title>
+      <title>The Googlebook era is here: some first impressions of the hardware and a whole new OS</title>
       <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxNV3k0dk05bFM2a0dPSldnOXhkazloZENnZ2sxU1haYTBubUpNWnRoOEJ3SHAwYzl4U2sxbTdDTVA1eGJISWRGTi00VlQyT3Q3VjJ3US1EQzVLTkRuUC1RZGd1b0p0RXdiMWsweDlOSFJYQnVFaDg0SlRTNWFteXY5S0tOREthTW5uYUhlcTl4dEoyV1pxTy1QLXVKX0VNVjRlakdEY2lEVzkzN0wtVDlnNw?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMisAFBVV95cUxNV3k0dk05bFM2a0dPSldnOXhkazloZENnZ2sxU1haYTBubUpNWnRoOEJ3SHAwYzl4U2sxbTdDTVA1eGJISWRGTi00VlQyT3Q3VjJ3US1EQzVLTkRuUC1RZGd1b0p0RXdiMWsweDlOSFJYQnVFaDg0SlRTNWFteXY5S0tOREthTW5uYUhlcTl4dEoyV1pxTy1QLXVKX0VNVjRlakdEY2lEVzkzN0wtVDlnNw?oc=5</guid>
       <category>android</category>
@@ -44,7 +108,7 @@
       <link>https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wVDF3dDVxVmY1VlhFcGhVYTZYMFpvOFYyc0cyT2gxTE9Xbk16SWFfcE80TTRDb3cxTnZtRmN5VlVVdEtUSWlxUllhUENnTmZ5cVhOakNiM09ORjdXNVlRTUVXeW4?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wVDF3dDVxVmY1VlhFcGhVYTZYMFpvOFYyc0cyT2gxTE9Xbk16SWFfcE80TTRDb3cxTnZtRmN5VlVVdEtUSWlxUllhUENnTmZ5cVhOakNiM09ORjdXNVlRTUVXeW4?oc=5</guid>
       <category>android</category>
-      <source url="https://news.google.com/">pocket-lint.com</source>
+      <source url="https://news.google.com/">Pocket-lint</source>
       <pubDate>Mon, 05 Oct 2026 20:29:00 GMT</pubDate>
     </item>
     <item>
@@ -52,7 +116,7 @@
       <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVk1oZ3VPNkxSSk9UMXFHRVMxUl9XTjdQdnRKd2pWck5vWlM2TlllMjFwTEp1NnFza2ljOUJZcDRBU2hpd01IdGxxZkhPYjQ0UkJBVTdKUWkzT1BuakxtUzdoYnVNZk9saUlvNTNSc01yLXV0dHZPLUcwMmVkTXRhMGUwSkk2Z3VZTXVyS1hKVFdqYVFoSEFMSHhzNW02eUFQRERIbkRrTDREMWM4aVJNNm9zdUM0clRU?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVk1oZ3VPNkxSSk9UMXFHRVMxUl9XTjdQdnRKd2pWck5vWlM2TlllMjFwTEp1NnFza2ljOUJZcDRBU2hpd01IdGxxZkhPYjQ0UkJBVTdKUWkzT1BuakxtUzdoYnVNZk9saUlvNTNSc01yLXV0dHZPLUcwMmVkTXRhMGUwSkk2Z3VZTXVyS1hKVFdqYVFoSEFMSHhzNW02eUFQRERIbkRrTDREMWM4aVJNNm9zdUM0clRU?oc=5</guid>
       <category>android</category>
-      <source url="https://news.google.com/">Android Headlines</source>
+      <source url="https://news.google.com/">androidheadlines.com</source>
       <pubDate>Mon, 05 Oct 2026 19:34:06 GMT</pubDate>
     </item>
     <item>
@@ -70,14 +134,6 @@
       <category>android</category>
       <source url="https://news.google.com/">How-To Geek</source>
       <pubDate>Mon, 05 Oct 2026 19:29:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Lenovo Googlebook 15: Software First Impressions</title>
-      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMDZkWm1sOFQyNTZCYjkyOG5IeHQweEwxRHdiYkdZNTg4QnQ5SFlJWnNPMFlfTGUzcGVpeC16bE5pYTU5RDFma3V1NXdjdTI4MFNjeEhLQ2FvQzNNdUNvZVh2aEVjTUttZnBkOF9HR0lJT3A0SUo2bXpQN0ZHQjhqMmhOZ09yMVRVMC1YaHJsMVM2aGJNejRJV2tmaW96akxLWm15REpJbkhHa0U?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMDZkWm1sOFQyNTZCYjkyOG5IeHQweEwxRHdiYkdZNTg4QnQ5SFlJWnNPMFlfTGUzcGVpeC16bE5pYTU5RDFma3V1NXdjdTI4MFNjeEhLQ2FvQzNNdUNvZVh2aEVjTUttZnBkOF9HR0lJT3A0SUo2bXpQN0ZHQjhqMmhOZ09yMVRVMC1YaHJsMVM2aGJNejRJV2tmaW96akxLWm15REpJbkhHa0U?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">thurrott.com</source>
-      <pubDate>Mon, 05 Oct 2026 19:22:32 GMT</pubDate>
     </item>
     <item>
       <title>Ternus and Cook Tweet Brief Remembrances on the 15th Anniversary of Steve Jobs’s Death</title>
@@ -320,36 +376,12 @@
       <pubDate>Sun, 04 Oct 2026 17:51:01 GMT</pubDate>
     </item>
     <item>
-      <title>Flatpak from the CLI sucks</title>
-      <link>https://kowalski7cc.xyz/blog/flatpak-from-the-cli-sucks/</link>
-      <guid isPermaLink="true">https://kowalski7cc.xyz/blog/flatpak-from-the-cli-sucks/</guid>
-      <category>linux</category>
-      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
-      <pubDate>Sun, 04 Oct 2026 15:21:34 GMT</pubDate>
-    </item>
-    <item>
       <title>ASUS Googlebook 14 Now Available for Purchase in Canada</title>
       <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTU5CYXhsWEJhbkJTMy1URVFTUlpjcjFLUzVNU29iMFh5bkExalQxOFpnblo3MDVzeXhEc3pMTnlDRjRjUHpWdXhSMnc3RDZKSHR1R1V6dS1EeEh5MVdzM1lRZ25RYTM1bW5ockg4dVZsVGRWczVSellvWkppR2c2T1dkTmlUQTZ6R1FLM2tsNlBiLTREaGk5NzdaUTB5SWFjamZfTXp6VHBJQQ?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTU5CYXhsWEJhbkJTMy1URVFTUlpjcjFLUzVNU29iMFh5bkExalQxOFpnblo3MDVzeXhEc3pMTnlDRjRjUHpWdXhSMnc3RDZKSHR1R1V6dS1EeEh5MVdzM1lRZ25RYTM1bW5ockg4dVZsVGRWczVSellvWkppR2c2T1dkTmlUQTZ6R1FLM2tsNlBiLTREaGk5NzdaUTB5SWFjamZfTXp6VHBJQQ?oc=5</guid>
       <category>android</category>
       <source url="https://news.google.com/">digitaljournal.com</source>
       <pubDate>Sun, 04 Oct 2026 13:18:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>ASUS Googlebook 14 Now Available for Purchase in the United States</title>
-      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxOc25qYlhNaC1RWGtqMF9iWW9rZUkweVNjNjhCeUwtYW5Kdl9tbHNlcWl4eUdRMTR0dkdNeDY0UlhScUhvSm4xV25fa2JqZUtaMmxWTVJEMmVYMmNPbmo0bThxcDRXSXZDbXJabnVjVTU1MzhhbFhpR0ZNTlpSZHVsQWwwWmp5NTNFc2dudTFjRV9nY2s4TlJyLVhyTFJ5N2dMdjN6SXF6eU54cGpsYmZsTmN6R1NzTzQ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMitwFBVV95cUxOc25qYlhNaC1RWGtqMF9iWW9rZUkweVNjNjhCeUwtYW5Kdl9tbHNlcWl4eUdRMTR0dkdNeDY0UlhScUhvSm4xV25fa2JqZUtaMmxWTVJEMmVYMmNPbmo0bThxcDRXSXZDbXJabnVjVTU1MzhhbFhpR0ZNTlpSZHVsQWwwWmp5NTNFc2dudTFjRV9nY2s4TlJyLVhyTFJ5N2dMdjN6SXF6eU54cGpsYmZsTmN6R1NzTzQ?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Carroll County Mirror-Democrat</source>
-      <pubDate>Sun, 04 Oct 2026 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>ASUS Googlebook 14 Now Available for Purchase in the United States</title>
-      <link>https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ma1locWJjRWVRSi1KNllSYS1neWZCMmNZLTBFczhTYmliS1M3NXZUTVkwbjVyODlRMTd2RkNJTEVBSkZ4ek83ckRHaWY4bXA3TGNUaHRwQ0w?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ma1locWJjRWVRSi1KNllSYS1neWZCMmNZLTBFczhTYmliS1M3NXZUTVkwbjVyODlRMTd2RkNJTEVBSkZ4ek83ckRHaWY4bXA3TGNUaHRwQ0w?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Taiwan News</source>
-      <pubDate>Sun, 04 Oct 2026 13:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Headers Up! What's New in httpd and relayd</title>
@@ -374,38 +406,6 @@
       <category>bsd</category>
       <source url="https://news.ycombinator.com/">HN · OpenBSD</source>
       <pubDate>Sun, 04 Oct 2026 07:55:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Last Week on My Mac: The AI on the AIRer is drying</title>
-      <link>https://eclecticlight.co/2026/10/04/last-week-on-my-mac-the-ai-on-the-airer-is-drying/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/10/04/last-week-on-my-mac-the-ai-on-the-airer-is-drying/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Sun, 04 Oct 2026 07:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>WorkOS</title>
-      <link>https://workos.com/guide/the-developers-guide-to-sso?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026</link>
-      <guid isPermaLink="true">https://workos.com/guide/the-developers-guide-to-sso?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Sat, 03 Oct 2026 21:23:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple Confirms iPhone 18 Pro Max AT&amp;T Cellular Issues, Affected Devices Require Hardware Replacement</title>
-      <link>https://9to5mac.com/2026/10/02/apple-confirms-iphone-18-pro-max-att-cellular-issues-affected-devices-require-hardware-replacement/</link>
-      <guid isPermaLink="true">https://9to5mac.com/2026/10/02/apple-confirms-iphone-18-pro-max-att-cellular-issues-affected-devices-require-hardware-replacement/</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Sat, 03 Oct 2026 18:21:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Googlebook vs Chromebook: is the extra processing power worth it?</title>
-      <link>https://news.google.com/rss/articles/CBMifEFVX3lxTE1fVXVWR0pjV1NoUGQzMGJ1aEtmZC1vczJvSlJILTNnb09MUnlWT1NOLTd3d083U0ZKYmNmdGhsVW9YX3BUaDVpbWdNUUJLVXpUN0tFSl83cEJ1ZnYzQnEtbEZOOGNYZzNMNVFmaVFkUTl4Z1BsQndzZnk5d18?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMifEFVX3lxTE1fVXVWR0pjV1NoUGQzMGJ1aEtmZC1vczJvSlJILTNnb09MUnlWT1NOLTd3d083U0ZKYmNmdGhsVW9YX3BUaDVpbWdNUUJLVXpUN0tFSl83cEJ1ZnYzQnEtbEZOOGNYZzNMNVFmaVFkUTl4Z1BsQndzZnk5d18?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">TechRadar</source>
-      <pubDate>Sat, 03 Oct 2026 13:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

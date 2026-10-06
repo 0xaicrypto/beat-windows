@@ -1,6 +1,62 @@
 {
-  "generated": "2026-10-05T22:43:20.088Z",
+  "generated": "2026-10-06T03:04:18.809Z",
   "items": [
+    {
+      "title": "Steve Jobs, Walking Through a Mockup for Apple Park in 2010",
+      "url": "https://book.stevejobsarchive.com/#photo-37",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-06T02:49:44.000Z"
+    },
+    {
+      "title": "TrueNAS 27 RC.1 Released: Linux 6.18 LTS + OpenZFS 2.4",
+      "url": "https://www.phoronix.com/news/TrueNAS-27-RC.1-Release",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-06T00:25:45.000Z"
+    },
+    {
+      "title": "Googlebooks can’t install the Slack web app on day one",
+      "url": "https://9to5google.com/2026/10/05/googlebook-slack-app-day-one/",
+      "source": "9to5Google · Googlebook",
+      "tag": "android",
+      "site": "https://9to5google.com/guides/googlebook/",
+      "date": "2026-10-06T00:00:00.000Z"
+    },
+    {
+      "title": "Googlebooks can’t install the Slack web app on day one",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9qck44ekwyajRNYjIxZWkyMlRBcENldXRNc2RmS1h0YWVXT2F6OGJPeHFBdkVfLUpnVVA0UTJYUEFJYjNlcnItLTR2MC1Ka21RMHp0dWtFT29nY2VmRHpiVXBzOWt4NzZjbDZsUzFqOEg?oc=5",
+      "source": "9to5Google",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-06T00:00:00.000Z"
+    },
+    {
+      "title": "[Sponsor] Sunnny",
+      "url": "https://sunnny.com/",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-05T23:49:05.000Z"
+    },
+    {
+      "title": "OpenAI Announces Their Text Watermarking Plans",
+      "url": "https://openai.com/index/eu-text-provenance/",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-05T22:59:14.000Z"
+    },
+    {
+      "title": "Lenovo Googlebook 15: Software First Impressions",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMDZkWm1sOFQyNTZCYjkyOG5IeHQweEwxRHdiYkdZNTg4QnQ5SFlJWnNPMFlfTGUzcGVpeC16bE5pYTU5RDFma3V1NXdjdTI4MFNjeEhLQ2FvQzNNdUNvZVh2aEVjTUttZnBkOF9HR0lJT3A0SUo2bXpQN0ZHQjhqMmhOZ09yMVRVMC1YaHJsMVM2aGJNejRJV2tmaW96akxLWm15REpJbkhHa0U?oc=5",
+      "source": "Thurrott.com",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-05T22:43:36.000Z"
+    },
     {
       "title": "AMD ROCm 10.1 Released With Many Improvements",
       "url": "https://www.phoronix.com/news/AMD-ROCm-10.1",
@@ -8,6 +64,14 @@
       "tag": "linux",
       "site": "https://www.phoronix.com/",
       "date": "2026-10-05T22:08:56.000Z"
+    },
+    {
+      "title": "Google Acknowledges Day 1 Android App Performance Issues on New Laptops",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRi1JMEVjanVzNG5RWVJibGlWNk1qUS1pX2NpSktmMGh2V3h2QzBYTWZpSHVodDNMVWtzMDk5SFcyU0tHX1R0X05rV25fRVlfZktKdk5NSWxYNlNyckQ3Vl9PejgxbGI4WWd2Q1JLUlphd1NnWTE0d1M2d1ZmZkN4Q21QNlp1bjdPcE1iYWhlZGpQcVhRWXBWQUFWTEpnWkhTT3dhXzNKOVh1VF9KR0h3?oc=5",
+      "source": "CNET",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-05T21:54:19.000Z"
     },
     {
       "title": "Googlebook gets Luminar photo editing app with ‘Continue On’ support",
@@ -26,7 +90,7 @@
       "date": "2026-10-05T20:35:00.000Z"
     },
     {
-      "title": "The Googlebook era is here: some first impressions of the new hardware and the a whole new OS",
+      "title": "The Googlebook era is here: some first impressions of the hardware and a whole new OS",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNV3k0dk05bFM2a0dPSldnOXhkazloZENnZ2sxU1haYTBubUpNWnRoOEJ3SHAwYzl4U2sxbTdDTVA1eGJISWRGTi00VlQyT3Q3VjJ3US1EQzVLTkRuUC1RZGd1b0p0RXdiMWsweDlOSFJYQnVFaDg0SlRTNWFteXY5S0tOREthTW5uYUhlcTl4dEoyV1pxTy1QLXVKX0VNVjRlakdEY2lEVzkzN0wtVDlnNw?oc=5",
       "source": "Chrome Unboxed",
       "tag": "android",
@@ -36,7 +100,7 @@
     {
       "title": "The Asus Googlebook 14 is sprinkled with hints of greatness",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wVDF3dDVxVmY1VlhFcGhVYTZYMFpvOFYyc0cyT2gxTE9Xbk16SWFfcE80TTRDb3cxTnZtRmN5VlVVdEtUSWlxUllhUENnTmZ5cVhOakNiM09ORjdXNVlRTUVXeW4?oc=5",
-      "source": "pocket-lint.com",
+      "source": "Pocket-lint",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-05T20:29:00.000Z"
@@ -44,7 +108,7 @@
     {
       "title": "Not Every Android App Works on Every Googlebook, and Intel Is the Reason",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVk1oZ3VPNkxSSk9UMXFHRVMxUl9XTjdQdnRKd2pWck5vWlM2TlllMjFwTEp1NnFza2ljOUJZcDRBU2hpd01IdGxxZkhPYjQ0UkJBVTdKUWkzT1BuakxtUzdoYnVNZk9saUlvNTNSc01yLXV0dHZPLUcwMmVkTXRhMGUwSkk2Z3VZTXVyS1hKVFdqYVFoSEFMSHhzNW02eUFQRERIbkRrTDREMWM4aVJNNm9zdUM0clRU?oc=5",
-      "source": "Android Headlines",
+      "source": "androidheadlines.com",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-05T19:34:06.000Z"
@@ -64,14 +128,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-05T19:29:16.000Z"
-    },
-    {
-      "title": "Lenovo Googlebook 15: Software First Impressions",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMDZkWm1sOFQyNTZCYjkyOG5IeHQweEwxRHdiYkdZNTg4QnQ5SFlJWnNPMFlfTGUzcGVpeC16bE5pYTU5RDFma3V1NXdjdTI4MFNjeEhLQ2FvQzNNdUNvZVh2aEVjTUttZnBkOF9HR0lJT3A0SUo2bXpQN0ZHQjhqMmhOZ09yMVRVMC1YaHJsMVM2aGJNejRJV2tmaW96akxLWm15REpJbkhHa0U?oc=5",
-      "source": "thurrott.com",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-05T19:22:32.000Z"
     },
     {
       "title": "Ternus and Cook Tweet Brief Remembrances on the 15th Anniversary of Steve Jobs’s Death",
@@ -314,36 +370,12 @@
       "date": "2026-10-04T17:51:01.000Z"
     },
     {
-      "title": "Flatpak from the CLI sucks",
-      "url": "https://kowalski7cc.xyz/blog/flatpak-from-the-cli-sucks/",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-10-04T15:21:34.000Z"
-    },
-    {
       "title": "ASUS Googlebook 14 Now Available for Purchase in Canada",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTU5CYXhsWEJhbkJTMy1URVFTUlpjcjFLUzVNU29iMFh5bkExalQxOFpnblo3MDVzeXhEc3pMTnlDRjRjUHpWdXhSMnc3RDZKSHR1R1V6dS1EeEh5MVdzM1lRZ25RYTM1bW5ockg4dVZsVGRWczVSellvWkppR2c2T1dkTmlUQTZ6R1FLM2tsNlBiLTREaGk5NzdaUTB5SWFjamZfTXp6VHBJQQ?oc=5",
       "source": "digitaljournal.com",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-04T13:18:52.000Z"
-    },
-    {
-      "title": "ASUS Googlebook 14 Now Available for Purchase in the United States",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOc25qYlhNaC1RWGtqMF9iWW9rZUkweVNjNjhCeUwtYW5Kdl9tbHNlcWl4eUdRMTR0dkdNeDY0UlhScUhvSm4xV25fa2JqZUtaMmxWTVJEMmVYMmNPbmo0bThxcDRXSXZDbXJabnVjVTU1MzhhbFhpR0ZNTlpSZHVsQWwwWmp5NTNFc2dudTFjRV9nY2s4TlJyLVhyTFJ5N2dMdjN6SXF6eU54cGpsYmZsTmN6R1NzTzQ?oc=5",
-      "source": "Carroll County Mirror-Democrat",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-04T13:00:00.000Z"
-    },
-    {
-      "title": "ASUS Googlebook 14 Now Available for Purchase in the United States",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ma1locWJjRWVRSi1KNllSYS1neWZCMmNZLTBFczhTYmliS1M3NXZUTVkwbjVyODlRMTd2RkNJTEVBSkZ4ek83ckRHaWY4bXA3TGNUaHRwQ0w?oc=5",
-      "source": "Taiwan News",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-04T13:00:00.000Z"
     },
     {
       "title": "Headers Up! What's New in httpd and relayd",
@@ -392,14 +424,6 @@
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-10-03T18:21:14.000Z"
-    },
-    {
-      "title": "Googlebook vs Chromebook: is the extra processing power worth it?",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1fVXVWR0pjV1NoUGQzMGJ1aEtmZC1vczJvSlJILTNnb09MUnlWT1NOLTd3d083U0ZKYmNmdGhsVW9YX3BUaDVpbWdNUUJLVXpUN0tFSl83cEJ1ZnYzQnEtbEZOOGNYZzNMNVFmaVFkUTl4Z1BsQndzZnk5d18?oc=5",
-      "source": "TechRadar",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-03T13:00:00.000Z"
     },
     {
       "title": "Leaf peeping: painting autumn 1650-1899",
@@ -472,30 +496,6 @@
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-10-01T11:30:00.000Z"
-    },
-    {
-      "title": "Browse Apple Intelligence Reports with AIRer, a new app",
-      "url": "https://eclecticlight.co/2026/10/01/browse-apple-intelligence-reports-with-airer-a-new-app/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-10-01T06:30:00.000Z"
-    },
-    {
-      "title": "Gurman Reports Apple Is Launching New ‘Smart Home’ Products on October 13",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-30/apple-is-finally-ready-to-enter-its-next-big-category-the-smart-home?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDc3MDk0MywiZXhwIjoxNzkxMzc1NzQzLCJhcnRpY2xlSWQiOiJUTTM0SDRUOTZPU0cwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.11wEtJfuMwCkznTkepXugZ2wuZTmxO9CdsNJLAcBd1M",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-09-30T20:14:31.000Z"
-    },
-    {
-      "title": "Anthropic’s IPO Prospectus Is a Fucking Doozy",
-      "url": "https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-09-30T19:23:42.000Z"
     },
     {
       "title": "HardenedBSD August / September 2026 Status Report",
