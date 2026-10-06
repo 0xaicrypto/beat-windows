@@ -1,6 +1,62 @@
 {
-  "generated": "2026-10-06T03:04:18.809Z",
+  "generated": "2026-10-06T10:27:28.691Z",
   "items": [
+    {
+      "title": "Meta Developing Compressed RAM \"CRAM\" For Linux: Better Than ZRAM & Zswap",
+      "url": "https://www.phoronix.com/news/Linux-CRAM-Compressed-RAM",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-06T10:23:06.000Z"
+    },
+    {
+      "title": "Windows Subsystem For Linux Can Now Run On Very Large Servers, Experimental Sparse VHD",
+      "url": "https://www.phoronix.com/news/Microsoft-WSL-3.0.2",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-06T10:05:34.000Z"
+    },
+    {
+      "title": "Intel Compiler Engineer Shares Latest Project Gains For APX",
+      "url": "https://www.phoronix.com/news/Intel-APX-Projected-Gains",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-06T09:54:17.000Z"
+    },
+    {
+      "title": "YSERVER 1.7 Rust X11 Server Narrows Memory Usage Difference With X.Org Server",
+      "url": "https://www.phoronix.com/news/YSERVER-1.7",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-06T09:39:25.000Z"
+    },
+    {
+      "title": "Montray - a tray icon for systemd service health",
+      "url": "https://github.com/dimonomid/montray/",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-10-06T09:07:39.000Z"
+    },
+    {
+      "title": "Privacy, Full Disk Access and AI agents",
+      "url": "https://eclecticlight.co/2026/10/06/privacy-full-disk-access-and-ai-agents/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-10-06T06:30:00.000Z"
+    },
+    {
+      "title": "Googlebooks Can Run a Custom OS Through Unlockable Bootloader",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVWN4eU16TkNQeGN0MzZIaGNRZUQ1a0dxOUNVUEpnTy1vdFBPTy1yYVpwMWh1MWR0ajVReVY4ZWJoRDNRd0plbHlTSWEtOGlsc1I2T3ZGN0tqNmYzZmJTS2ZDdTJhXzBqRzF4anF6VGFmQWhPV3c3bDg3VFNaNTZOLUlTajE1QVdYYV9JM3RSX3l3dw?oc=5",
+      "source": "PCMag",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-06T06:24:09.000Z"
+    },
     {
       "title": "Steve Jobs, Walking Through a Mockup for Apple Park in 2010",
       "url": "https://book.stevejobsarchive.com/#photo-37",
@@ -50,14 +106,6 @@
       "date": "2026-10-05T22:59:14.000Z"
     },
     {
-      "title": "Lenovo Googlebook 15: Software First Impressions",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMDZkWm1sOFQyNTZCYjkyOG5IeHQweEwxRHdiYkdZNTg4QnQ5SFlJWnNPMFlfTGUzcGVpeC16bE5pYTU5RDFma3V1NXdjdTI4MFNjeEhLQ2FvQzNNdUNvZVh2aEVjTUttZnBkOF9HR0lJT3A0SUo2bXpQN0ZHQjhqMmhOZ09yMVRVMC1YaHJsMVM2aGJNejRJV2tmaW96akxLWm15REpJbkhHa0U?oc=5",
-      "source": "Thurrott.com",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-05T22:43:36.000Z"
-    },
-    {
       "title": "AMD ROCm 10.1 Released With Many Improvements",
       "url": "https://www.phoronix.com/news/AMD-ROCm-10.1",
       "source": "Phoronix",
@@ -80,6 +128,14 @@
       "tag": "android",
       "site": "https://9to5google.com/guides/googlebook/",
       "date": "2026-10-05T21:35:00.000Z"
+    },
+    {
+      "title": "Dell's Googlebook will also cost less than you (and Google) thought",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNV2MtR1prdy13c1dIbkNHUzFUc0h2emZQWmdDckY5RUpGVDQwTWhxeG9lU0o2Rk9ZanJha1l2YmVQd3pUbFQyTGJEM3FfOWdPMjFOQzNOSlRnSlFwcV8tVjJQRnlaTlNlMFR0YjNsSFE3SkJfamdXN3ZGSk5aMlNVemxpQQ?oc=5",
+      "source": "Android Authority",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-05T21:11:00.000Z"
     },
     {
       "title": "You can unlock a Googlebook’s bootloader, Magisk support in the works",
@@ -114,20 +170,20 @@
       "date": "2026-10-05T19:34:06.000Z"
     },
     {
-      "title": "Googlebooks Can Run a Custom OS Through Unlockable Bootloader",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVWN4eU16TkNQeGN0MzZIaGNRZUQ1a0dxOUNVUEpnTy1vdFBPTy1yYVpwMWh1MWR0ajVReVY4ZWJoRDNRd0plbHlTSWEtOGlsc1I2T3ZGN0tqNmYzZmJTS2ZDdTJhXzBqRzF4anF6VGFmQWhPV3c3bDg3VFNaNTZOLUlTajE1QVdYYV9JM3RSX3l3dw?oc=5",
-      "source": "PCMag",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-05T19:32:10.000Z"
-    },
-    {
       "title": "Googlebook's Android integration has two limitations that you won't see coming",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVDJiT0haWW93MGFIZlV3cl83Nkc3blVFYWR3UlNLU29keVZTcnNtLWVramV4WTdFbHNVS0t1ejJ5NndqeWZZbkFvclA3YTV3bFN2VHozb2JhT0phOV9wVEM3eHZtbDVPUDM5eC1qV3RmbmwtTjV5alNKelQ0TTBCOWh0ckJrTlBjNjRyeUg3NmpEMEhtT0t3U3NaQ1RGbmxVQ0tpRm93?oc=5",
       "source": "How-To Geek",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-05T19:29:16.000Z"
+    },
+    {
+      "title": "Lenovo Googlebook 15: Software First Impressions",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMDZkWm1sOFQyNTZCYjkyOG5IeHQweEwxRHdiYkdZNTg4QnQ5SFlJWnNPMFlfTGUzcGVpeC16bE5pYTU5RDFma3V1NXdjdTI4MFNjeEhLQ2FvQzNNdUNvZVh2aEVjTUttZnBkOF9HR0lJT3A0SUo2bXpQN0ZHQjhqMmhOZ09yMVRVMC1YaHJsMVM2aGJNejRJV2tmaW96akxLWm15REpJbkhHa0U?oc=5",
+      "source": "Thurrott.com",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-05T19:22:58.000Z"
     },
     {
       "title": "Ternus and Cook Tweet Brief Remembrances on the 15th Anniversary of Steve Jobs’s Death",
@@ -306,22 +362,6 @@
       "date": "2026-10-05T09:57:00.000Z"
     },
     {
-      "title": "Using docker-compose with Podman rootless",
-      "url": "https://elou.world/en/tutorial/podman-docker-compose",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-10-05T09:51:28.000Z"
-    },
-    {
-      "title": "Linux 7.4 AMD P-State Driver Will Be Ready For Ryzen Zen 6 CPUs",
-      "url": "https://www.phoronix.com/news/Linux-7.4-AMD-PState-Zen-6",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-05T09:45:05.000Z"
-    },
-    {
       "title": "Solutions to Saturday Mac riddles 380",
       "url": "https://eclecticlight.co/2026/10/05/solutions-to-saturday-mac-riddles-380/",
       "source": "Eclectic Light",
@@ -338,44 +378,12 @@
       "date": "2026-10-05T06:30:00.000Z"
     },
     {
-      "title": "Kernel prepatch 7.3-rc6",
-      "url": "https://lwn.net/Articles/1098476/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-05T05:47:41.000Z"
-    },
-    {
-      "title": "Linux 7.3-rc6 Released: Normal For The New \"AI Normal\"",
-      "url": "https://www.phoronix.com/news/Linux-7.3-rc6-Released",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-04T21:04:15.000Z"
-    },
-    {
       "title": "ASUS Googlebook 14 first impressions: A new OS meets some serious hardware",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcFl3aGl1R0lOTE1iM2tpTEJyUWRkZzV0QlAzWm9MWGZGRGdPR1NqWHozWVIzT25CYUMwNGoya0VvTm1RS2N2TDBObV9vbDBNN3ZyT0puSXBvX2MwYkNvRFpuU1dPZnhFTkM4ZmFWQmw3dXRSb2pkZEdCSEZUTmxLS2RwazVycGNteEh6bHJfTjdRMTFxUVE4VUhpOWFvMFNDdkc2b09CY0dSUzFpY193Mg?oc=5",
       "source": "The Gadgeteer",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-04T21:00:03.000Z"
-    },
-    {
-      "title": "OpenCourant: Rocky Linux Developers Create Community Fork Of OpenRadioss",
-      "url": "https://www.phoronix.com/news/OpenRadioss-OpenCourant",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-04T17:51:01.000Z"
-    },
-    {
-      "title": "ASUS Googlebook 14 Now Available for Purchase in Canada",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTU5CYXhsWEJhbkJTMy1URVFTUlpjcjFLUzVNU29iMFh5bkExalQxOFpnblo3MDVzeXhEc3pMTnlDRjRjUHpWdXhSMnc3RDZKSHR1R1V6dS1EeEh5MVdzM1lRZ25RYTM1bW5ockg4dVZsVGRWczVSellvWkppR2c2T1dkTmlUQTZ6R1FLM2tsNlBiLTREaGk5NzdaUTB5SWFjamZfTXp6VHBJQQ?oc=5",
-      "source": "digitaljournal.com",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-04T13:18:52.000Z"
     },
     {
       "title": "Headers Up! What's New in httpd and relayd",
@@ -488,14 +496,6 @@
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-10-02T00:06:56.000Z"
-    },
-    {
-      "title": "Painting a good story: Multiplex returns",
-      "url": "https://eclecticlight.co/2026/10/01/painting-a-good-story-multiplex-returns/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-10-01T11:30:00.000Z"
     },
     {
       "title": "HardenedBSD August / September 2026 Status Report",

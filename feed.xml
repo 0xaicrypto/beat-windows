@@ -5,8 +5,64 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Oct 2026 03:04:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 10:27:28 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Meta Developing Compressed RAM &quot;CRAM&quot; For Linux: Better Than ZRAM &amp; Zswap</title>
+      <link>https://www.phoronix.com/news/Linux-CRAM-Compressed-RAM</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-CRAM-Compressed-RAM</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Tue, 06 Oct 2026 10:23:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Windows Subsystem For Linux Can Now Run On Very Large Servers, Experimental Sparse VHD</title>
+      <link>https://www.phoronix.com/news/Microsoft-WSL-3.0.2</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Microsoft-WSL-3.0.2</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Tue, 06 Oct 2026 10:05:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Intel Compiler Engineer Shares Latest Project Gains For APX</title>
+      <link>https://www.phoronix.com/news/Intel-APX-Projected-Gains</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Intel-APX-Projected-Gains</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Tue, 06 Oct 2026 09:54:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>YSERVER 1.7 Rust X11 Server Narrows Memory Usage Difference With X.Org Server</title>
+      <link>https://www.phoronix.com/news/YSERVER-1.7</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/YSERVER-1.7</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Tue, 06 Oct 2026 09:39:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Montray - a tray icon for systemd service health</title>
+      <link>https://github.com/dimonomid/montray/</link>
+      <guid isPermaLink="true">https://github.com/dimonomid/montray/</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Tue, 06 Oct 2026 09:07:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Privacy, Full Disk Access and AI agents</title>
+      <link>https://eclecticlight.co/2026/10/06/privacy-full-disk-access-and-ai-agents/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/10/06/privacy-full-disk-access-and-ai-agents/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Tue, 06 Oct 2026 06:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Googlebooks Can Run a Custom OS Through Unlockable Bootloader</title>
+      <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxNVWN4eU16TkNQeGN0MzZIaGNRZUQ1a0dxOUNVUEpnTy1vdFBPTy1yYVpwMWh1MWR0ajVReVY4ZWJoRDNRd0plbHlTSWEtOGlsc1I2T3ZGN0tqNmYzZmJTS2ZDdTJhXzBqRzF4anF6VGFmQWhPV3c3bDg3VFNaNTZOLUlTajE1QVdYYV9JM3RSX3l3dw?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMikgFBVV95cUxNVWN4eU16TkNQeGN0MzZIaGNRZUQ1a0dxOUNVUEpnTy1vdFBPTy1yYVpwMWh1MWR0ajVReVY4ZWJoRDNRd0plbHlTSWEtOGlsc1I2T3ZGN0tqNmYzZmJTS2ZDdTJhXzBqRzF4anF6VGFmQWhPV3c3bDg3VFNaNTZOLUlTajE1QVdYYV9JM3RSX3l3dw?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">PCMag</source>
+      <pubDate>Tue, 06 Oct 2026 06:24:09 GMT</pubDate>
+    </item>
     <item>
       <title>Steve Jobs, Walking Through a Mockup for Apple Park in 2010</title>
       <link>https://book.stevejobsarchive.com/#photo-37</link>
@@ -56,14 +112,6 @@
       <pubDate>Mon, 05 Oct 2026 22:59:14 GMT</pubDate>
     </item>
     <item>
-      <title>Lenovo Googlebook 15: Software First Impressions</title>
-      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMDZkWm1sOFQyNTZCYjkyOG5IeHQweEwxRHdiYkdZNTg4QnQ5SFlJWnNPMFlfTGUzcGVpeC16bE5pYTU5RDFma3V1NXdjdTI4MFNjeEhLQ2FvQzNNdUNvZVh2aEVjTUttZnBkOF9HR0lJT3A0SUo2bXpQN0ZHQjhqMmhOZ09yMVRVMC1YaHJsMVM2aGJNejRJV2tmaW96akxLWm15REpJbkhHa0U?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMDZkWm1sOFQyNTZCYjkyOG5IeHQweEwxRHdiYkdZNTg4QnQ5SFlJWnNPMFlfTGUzcGVpeC16bE5pYTU5RDFma3V1NXdjdTI4MFNjeEhLQ2FvQzNNdUNvZVh2aEVjTUttZnBkOF9HR0lJT3A0SUo2bXpQN0ZHQjhqMmhOZ09yMVRVMC1YaHJsMVM2aGJNejRJV2tmaW96akxLWm15REpJbkhHa0U?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Thurrott.com</source>
-      <pubDate>Mon, 05 Oct 2026 22:43:36 GMT</pubDate>
-    </item>
-    <item>
       <title>AMD ROCm 10.1 Released With Many Improvements</title>
       <link>https://www.phoronix.com/news/AMD-ROCm-10.1</link>
       <guid isPermaLink="true">https://www.phoronix.com/news/AMD-ROCm-10.1</guid>
@@ -86,6 +134,14 @@
       <category>android</category>
       <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
       <pubDate>Mon, 05 Oct 2026 21:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dell's Googlebook will also cost less than you (and Google) thought</title>
+      <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxNV2MtR1prdy13c1dIbkNHUzFUc0h2emZQWmdDckY5RUpGVDQwTWhxeG9lU0o2Rk9ZanJha1l2YmVQd3pUbFQyTGJEM3FfOWdPMjFOQzNOSlRnSlFwcV8tVjJQRnlaTlNlMFR0YjNsSFE3SkJfamdXN3ZGSk5aMlNVemxpQQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMigwFBVV95cUxNV2MtR1prdy13c1dIbkNHUzFUc0h2emZQWmdDckY5RUpGVDQwTWhxeG9lU0o2Rk9ZanJha1l2YmVQd3pUbFQyTGJEM3FfOWdPMjFOQzNOSlRnSlFwcV8tVjJQRnlaTlNlMFR0YjNsSFE3SkJfamdXN3ZGSk5aMlNVemxpQQ?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Android Authority</source>
+      <pubDate>Mon, 05 Oct 2026 21:11:00 GMT</pubDate>
     </item>
     <item>
       <title>You can unlock a Googlebook’s bootloader, Magisk support in the works</title>
@@ -120,20 +176,20 @@
       <pubDate>Mon, 05 Oct 2026 19:34:06 GMT</pubDate>
     </item>
     <item>
-      <title>Googlebooks Can Run a Custom OS Through Unlockable Bootloader</title>
-      <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxNVWN4eU16TkNQeGN0MzZIaGNRZUQ1a0dxOUNVUEpnTy1vdFBPTy1yYVpwMWh1MWR0ajVReVY4ZWJoRDNRd0plbHlTSWEtOGlsc1I2T3ZGN0tqNmYzZmJTS2ZDdTJhXzBqRzF4anF6VGFmQWhPV3c3bDg3VFNaNTZOLUlTajE1QVdYYV9JM3RSX3l3dw?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMikgFBVV95cUxNVWN4eU16TkNQeGN0MzZIaGNRZUQ1a0dxOUNVUEpnTy1vdFBPTy1yYVpwMWh1MWR0ajVReVY4ZWJoRDNRd0plbHlTSWEtOGlsc1I2T3ZGN0tqNmYzZmJTS2ZDdTJhXzBqRzF4anF6VGFmQWhPV3c3bDg3VFNaNTZOLUlTajE1QVdYYV9JM3RSX3l3dw?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">PCMag</source>
-      <pubDate>Mon, 05 Oct 2026 19:32:10 GMT</pubDate>
-    </item>
-    <item>
       <title>Googlebook's Android integration has two limitations that you won't see coming</title>
       <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxQVDJiT0haWW93MGFIZlV3cl83Nkc3blVFYWR3UlNLU29keVZTcnNtLWVramV4WTdFbHNVS0t1ejJ5NndqeWZZbkFvclA3YTV3bFN2VHozb2JhT0phOV9wVEM3eHZtbDVPUDM5eC1qV3RmbmwtTjV5alNKelQ0TTBCOWh0ckJrTlBjNjRyeUg3NmpEMEhtT0t3U3NaQ1RGbmxVQ0tpRm93?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMipgFBVV95cUxQVDJiT0haWW93MGFIZlV3cl83Nkc3blVFYWR3UlNLU29keVZTcnNtLWVramV4WTdFbHNVS0t1ejJ5NndqeWZZbkFvclA3YTV3bFN2VHozb2JhT0phOV9wVEM3eHZtbDVPUDM5eC1qV3RmbmwtTjV5alNKelQ0TTBCOWh0ckJrTlBjNjRyeUg3NmpEMEhtT0t3U3NaQ1RGbmxVQ0tpRm93?oc=5</guid>
       <category>android</category>
       <source url="https://news.google.com/">How-To Geek</source>
       <pubDate>Mon, 05 Oct 2026 19:29:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lenovo Googlebook 15: Software First Impressions</title>
+      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMDZkWm1sOFQyNTZCYjkyOG5IeHQweEwxRHdiYkdZNTg4QnQ5SFlJWnNPMFlfTGUzcGVpeC16bE5pYTU5RDFma3V1NXdjdTI4MFNjeEhLQ2FvQzNNdUNvZVh2aEVjTUttZnBkOF9HR0lJT3A0SUo2bXpQN0ZHQjhqMmhOZ09yMVRVMC1YaHJsMVM2aGJNejRJV2tmaW96akxLWm15REpJbkhHa0U?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMDZkWm1sOFQyNTZCYjkyOG5IeHQweEwxRHdiYkdZNTg4QnQ5SFlJWnNPMFlfTGUzcGVpeC16bE5pYTU5RDFma3V1NXdjdTI4MFNjeEhLQ2FvQzNNdUNvZVh2aEVjTUttZnBkOF9HR0lJT3A0SUo2bXpQN0ZHQjhqMmhOZ09yMVRVMC1YaHJsMVM2aGJNejRJV2tmaW96akxLWm15REpJbkhHa0U?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Thurrott.com</source>
+      <pubDate>Mon, 05 Oct 2026 19:22:58 GMT</pubDate>
     </item>
     <item>
       <title>Ternus and Cook Tweet Brief Remembrances on the 15th Anniversary of Steve Jobs’s Death</title>
@@ -312,22 +368,6 @@
       <pubDate>Mon, 05 Oct 2026 09:57:00 GMT</pubDate>
     </item>
     <item>
-      <title>Using docker-compose with Podman rootless</title>
-      <link>https://elou.world/en/tutorial/podman-docker-compose</link>
-      <guid isPermaLink="true">https://elou.world/en/tutorial/podman-docker-compose</guid>
-      <category>linux</category>
-      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
-      <pubDate>Mon, 05 Oct 2026 09:51:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux 7.4 AMD P-State Driver Will Be Ready For Ryzen Zen 6 CPUs</title>
-      <link>https://www.phoronix.com/news/Linux-7.4-AMD-PState-Zen-6</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-AMD-PState-Zen-6</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Mon, 05 Oct 2026 09:45:05 GMT</pubDate>
-    </item>
-    <item>
       <title>Solutions to Saturday Mac riddles 380</title>
       <link>https://eclecticlight.co/2026/10/05/solutions-to-saturday-mac-riddles-380/</link>
       <guid isPermaLink="true">https://eclecticlight.co/2026/10/05/solutions-to-saturday-mac-riddles-380/</guid>
@@ -344,44 +384,12 @@
       <pubDate>Mon, 05 Oct 2026 06:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>Kernel prepatch 7.3-rc6</title>
-      <link>https://lwn.net/Articles/1098476/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1098476/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Mon, 05 Oct 2026 05:47:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux 7.3-rc6 Released: Normal For The New &quot;AI Normal&quot;</title>
-      <link>https://www.phoronix.com/news/Linux-7.3-rc6-Released</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.3-rc6-Released</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Sun, 04 Oct 2026 21:04:15 GMT</pubDate>
-    </item>
-    <item>
       <title>ASUS Googlebook 14 first impressions: A new OS meets some serious hardware</title>
       <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxPcFl3aGl1R0lOTE1iM2tpTEJyUWRkZzV0QlAzWm9MWGZGRGdPR1NqWHozWVIzT25CYUMwNGoya0VvTm1RS2N2TDBObV9vbDBNN3ZyT0puSXBvX2MwYkNvRFpuU1dPZnhFTkM4ZmFWQmw3dXRSb2pkZEdCSEZUTmxLS2RwazVycGNteEh6bHJfTjdRMTFxUVE4VUhpOWFvMFNDdkc2b09CY0dSUzFpY193Mg?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMisAFBVV95cUxPcFl3aGl1R0lOTE1iM2tpTEJyUWRkZzV0QlAzWm9MWGZGRGdPR1NqWHozWVIzT25CYUMwNGoya0VvTm1RS2N2TDBObV9vbDBNN3ZyT0puSXBvX2MwYkNvRFpuU1dPZnhFTkM4ZmFWQmw3dXRSb2pkZEdCSEZUTmxLS2RwazVycGNteEh6bHJfTjdRMTFxUVE4VUhpOWFvMFNDdkc2b09CY0dSUzFpY193Mg?oc=5</guid>
       <category>android</category>
       <source url="https://news.google.com/">The Gadgeteer</source>
       <pubDate>Sun, 04 Oct 2026 21:00:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenCourant: Rocky Linux Developers Create Community Fork Of OpenRadioss</title>
-      <link>https://www.phoronix.com/news/OpenRadioss-OpenCourant</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/OpenRadioss-OpenCourant</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Sun, 04 Oct 2026 17:51:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>ASUS Googlebook 14 Now Available for Purchase in Canada</title>
-      <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTU5CYXhsWEJhbkJTMy1URVFTUlpjcjFLUzVNU29iMFh5bkExalQxOFpnblo3MDVzeXhEc3pMTnlDRjRjUHpWdXhSMnc3RDZKSHR1R1V6dS1EeEh5MVdzM1lRZ25RYTM1bW5ockg4dVZsVGRWczVSellvWkppR2c2T1dkTmlUQTZ6R1FLM2tsNlBiLTREaGk5NzdaUTB5SWFjamZfTXp6VHBJQQ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTU5CYXhsWEJhbkJTMy1URVFTUlpjcjFLUzVNU29iMFh5bkExalQxOFpnblo3MDVzeXhEc3pMTnlDRjRjUHpWdXhSMnc3RDZKSHR1R1V6dS1EeEh5MVdzM1lRZ25RYTM1bW5ockg4dVZsVGRWczVSellvWkppR2c2T1dkTmlUQTZ6R1FLM2tsNlBiLTREaGk5NzdaUTB5SWFjamZfTXp6VHBJQQ?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">digitaljournal.com</source>
-      <pubDate>Sun, 04 Oct 2026 13:18:52 GMT</pubDate>
     </item>
     <item>
       <title>Headers Up! What's New in httpd and relayd</title>
@@ -398,14 +406,6 @@
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Sun, 04 Oct 2026 11:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenBSD Developers Reject Uutils Coreutils</title>
-      <link>https://news.lavx.hu/article/openbsd-developers-reject-uutils-coreutils-port-over-licensing-and-compatibility-concerns</link>
-      <guid isPermaLink="true">https://news.lavx.hu/article/openbsd-developers-reject-uutils-coreutils-port-over-licensing-and-compatibility-concerns</guid>
-      <category>bsd</category>
-      <source url="https://news.ycombinator.com/">HN · OpenBSD</source>
-      <pubDate>Sun, 04 Oct 2026 07:55:24 GMT</pubDate>
     </item>
   </channel>
 </rss>
