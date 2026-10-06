@@ -1,6 +1,126 @@
 {
-  "generated": "2026-10-06T10:27:28.691Z",
+  "generated": "2026-10-06T17:15:30.481Z",
   "items": [
+    {
+      "title": "Googlebooks don’t have the same web app or Linux app support as Chromebooks",
+      "url": "https://9to5google.com/2026/10/06/googlebook-linux-web-app-support-chromebook/",
+      "source": "9to5Google · Googlebook",
+      "tag": "android",
+      "site": "https://9to5google.com/guides/googlebook/",
+      "date": "2026-10-06T16:05:00.000Z"
+    },
+    {
+      "title": "NVIDIA Vera HPC Performance Benchmarks Take On AMD EPYC, Intel Xeon",
+      "url": "https://www.phoronix.com/review/nvidia-vera-hpc",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-06T16:00:08.000Z"
+    },
+    {
+      "title": "Intel Says Its Googlebooks Won’t Have Issues With Android Apps, Despite Google’s Claims",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1eVo0WUs1VzNSSkNTYXU5YTlUc21QeVJsSVY3ZUZCV0U2Yzc2a3ZNZkV2ZnVmakE1R19IZFhrUVBrc0J2WVIycTdOOTl1TXpRLTNBRkRMVVM1RUFnR1MxQ0JmNEFSbnVYanVxbEluNC1QUDMyNC0wbDAxQXN0MDQ?oc=5",
+      "source": "Gizmodo",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-06T15:13:50.000Z"
+    },
+    {
+      "title": "[$] Python's two modules for random numbers",
+      "url": "https://lwn.net/Articles/1097468/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-06T15:02:09.000Z"
+    },
+    {
+      "title": "Vulkan API Improvements Coming For The AMD Polaris GPUs With Mesa RADV",
+      "url": "https://www.phoronix.com/news/More-Reliable-Vulkan-Polaris",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-06T14:21:19.000Z"
+    },
+    {
+      "title": "Googlebook’s Android-integrated features won’t work with Samsung phones at launch",
+      "url": "https://9to5google.com/2026/10/06/googlebook-android-sync-features-samsung-delay/",
+      "source": "9to5Google · Googlebook",
+      "tag": "android",
+      "site": "https://9to5google.com/guides/googlebook/",
+      "date": "2026-10-06T14:15:00.000Z"
+    },
+    {
+      "title": "Googlebook’s Android-integrated features won’t work with Samsung phones at launch",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOODVUVWJtYlNWWUtGWHVWWEg4Q09LUktMZVJYdnUtSS1zaHBFVmxpcGRvWFFkQ3UxT2F1VlBJQ0ZDUEg2aGUwQWhDUVprcTY3VUZlRFo0cnRqMDc3ZVMxYV9lTkN0YmM4NXMySzVtRHVrcjZFSmc1VlpTRUhtVkZ3UjNiZlNNSUtJ?oc=5",
+      "source": "9to5Google",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-06T14:15:00.000Z"
+    },
+    {
+      "title": "[$] Last rites for Gentoo's Chromium package",
+      "url": "https://lwn.net/Articles/1097760/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-06T13:44:50.000Z"
+    },
+    {
+      "title": "OpenSSH 10.6 released",
+      "url": "https://lwn.net/Articles/1098980/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-06T13:42:48.000Z"
+    },
+    {
+      "title": "IBM & Red Hat Find More Than 400 New Vulnerabilities In Popular Java Code",
+      "url": "https://www.phoronix.com/news/IBM-Red-Hat-Java-400-Vulns",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-06T13:23:33.000Z"
+    },
+    {
+      "title": "Security updates for Tuesday",
+      "url": "https://lwn.net/Articles/1098979/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-06T13:12:24.000Z"
+    },
+    {
+      "title": "The Importance Of Intel's LPMD For Linux Gaming Performance & Power Efficiency",
+      "url": "https://www.phoronix.com/news/Intel-LPMD-Linux-Gaming",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-06T13:11:37.000Z"
+    },
+    {
+      "title": "Blender 6.0 May End Up Removing OpenGL Support",
+      "url": "https://www.phoronix.com/news/Blender-6.0-May-Remove-OpenGL",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-06T12:11:41.000Z"
+    },
+    {
+      "title": "Portraits of trees: Birch",
+      "url": "https://eclecticlight.co/2026/10/06/portraits-of-trees-birch/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-10-06T11:30:00.000Z"
+    },
+    {
+      "title": "The first thing you should do on Googlebook is fix the trackpad",
+      "url": "https://9to5google.com/2026/10/06/googlebook-trackpad-cursor-speed/",
+      "source": "9to5Google · Googlebook",
+      "tag": "android",
+      "site": "https://9to5google.com/guides/googlebook/",
+      "date": "2026-10-06T11:00:00.000Z"
+    },
     {
       "title": "Meta Developing Compressed RAM \"CRAM\" For Linux: Better Than ZRAM & Zswap",
       "url": "https://www.phoronix.com/news/Linux-CRAM-Compressed-RAM",
@@ -250,116 +370,12 @@
       "date": "2026-10-05T15:10:37.000Z"
     },
     {
-      "title": "Don’t Expect Every New Googlebook App to Play Nice With Intel Chips",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1eVo0WUs1VzNSSkNTYXU5YTlUc21QeVJsSVY3ZUZCV0U2Yzc2a3ZNZkV2ZnVmakE1R19IZFhrUVBrc0J2WVIycTdOOTl1TXpRLTNBRkRMVVM1RUFnR1MxQ0JmNEFSbnVYanVxbEluNC1QUDMyNC0wbDAxQXN0MDQ?oc=5",
-      "source": "Gizmodo",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-05T14:10:50.000Z"
-    },
-    {
-      "title": "Acer launches Googlebook 14 priced at £999",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOb196RTdXV1pvd2V3MmtNd0p5bTJtWU9NYjgzZFl3UEN5R0tuMnphcXhDTEVYLTN1b1BVQXdwMnR5aWEzOEFNQVdwNFZlY01nV25tQmtPMDFZNFZWRkJqYWU3R2pDYXBKU0pHTmxJeWVuOWpJOTBWMUo3Nk4xTWUybnNmVmpXYW1ManRKb1phS2poY3dGZm5iZXZpNy12TXJ2LUhr?oc=5",
-      "source": "KitGuru",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-05T14:00:56.000Z"
-    },
-    {
-      "title": "Fantastical’s long-awaited Android debut begins today on Googlebook",
-      "url": "https://9to5google.com/2026/10/05/fantastical-long-awaited-android-debut-begins-today-on-googlebook/",
-      "source": "9to5Google · Googlebook",
-      "tag": "android",
-      "site": "https://9to5google.com/guides/googlebook/",
-      "date": "2026-10-05T14:00:00.000Z"
-    },
-    {
-      "title": "AMD ROCm vs. Vulkan Performance For Lemonade Local AI Server With Llama.cpp",
-      "url": "https://www.phoronix.com/review/lemonade-vulkan-rocm",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-05T13:50:34.000Z"
-    },
-    {
-      "title": "Picard 3.0 released",
-      "url": "https://lwn.net/Articles/1098600/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-05T13:21:44.000Z"
-    },
-    {
-      "title": "Security updates for Monday",
-      "url": "https://lwn.net/Articles/1098599/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-05T13:11:21.000Z"
-    },
-    {
-      "title": "Mesa Developers Looking At A Formal Governance Model",
-      "url": "https://www.phoronix.com/news/Mesa-Governance-Model",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-05T13:04:00.000Z"
-    },
-    {
-      "title": "Linux's ZRAM Reworked For Greater Memory Savings, Better Performance",
-      "url": "https://www.phoronix.com/news/Linux-ZRAM-Rework-Savings",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-05T12:44:11.000Z"
-    },
-    {
-      "title": "Linux 7.4 To Mainline Support For The Google Tensor G5, Pixel 10 Devices",
-      "url": "https://www.phoronix.com/news/Linux-7.4-Google-Tensor-G5",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-05T11:33:00.000Z"
-    },
-    {
       "title": "Hero or hooligan: Heracles killed by the hydra’s blood",
       "url": "https://eclecticlight.co/2026/10/05/hero-or-hooligan-heracles-killed-by-the-hydras-blood/",
       "source": "Eclectic Light",
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-10-05T11:30:00.000Z"
-    },
-    {
-      "title": "Mold 3.0 High Speed Linker Released Following Rust Rewrite",
-      "url": "https://www.phoronix.com/news/Mold-3.0-Released",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-05T10:29:15.000Z"
-    },
-    {
-      "title": "Linux 7.4 Continues Preparing For Intel's Rugged Panther Lake",
-      "url": "https://www.phoronix.com/news/Linux-7.4-Rugged-Panther-Lake",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-05T10:23:18.000Z"
-    },
-    {
-      "title": "Qualcomm Patching Linux For Hardware Thermal Binning To Benefit Snapdragon X Laptops",
-      "url": "https://www.phoronix.com/news/Qualcomm-HW-BIn-Trip-Point",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-05T10:04:53.000Z"
-    },
-    {
-      "title": "Google says some Googlebooks have better Android app support than others, and here's why",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZnc0NFhNZUl5a2R0QTdQaWpQeWRfUi1mcVdRNGhFV0xpTEd4YzlHcHlLdll5YWE2Q05oVGdHQ0xfdWNCeVA0WUxENzVNZEptNFZVMWxsclBiek9GcGpYWW53ckNpTlF0M2tESE04MXBEcmNvY19ReXcyVXkxZjZpN1F6THBSX1dQczM0WUVR?oc=5",
-      "source": "Android Authority",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-05T09:57:00.000Z"
     },
     {
       "title": "Solutions to Saturday Mac riddles 380",
@@ -376,14 +392,6 @@
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-10-05T06:30:00.000Z"
-    },
-    {
-      "title": "ASUS Googlebook 14 first impressions: A new OS meets some serious hardware",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcFl3aGl1R0lOTE1iM2tpTEJyUWRkZzV0QlAzWm9MWGZGRGdPR1NqWHozWVIzT25CYUMwNGoya0VvTm1RS2N2TDBObV9vbDBNN3ZyT0puSXBvX2MwYkNvRFpuU1dPZnhFTkM4ZmFWQmw3dXRSb2pkZEdCSEZUTmxLS2RwazVycGNteEh6bHJfTjdRMTFxUVE4VUhpOWFvMFNDdkc2b09CY0dSUzFpY193Mg?oc=5",
-      "source": "The Gadgeteer",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-04T21:00:03.000Z"
     },
     {
       "title": "Headers Up! What's New in httpd and relayd",
@@ -488,14 +496,6 @@
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-10-02T06:30:00.000Z"
-    },
-    {
-      "title": "Yankees Sweep Boston in Two Games, by Combined Score of 18-2",
-      "url": "https://www.nytimes.com/athletic/7648172/2026/09/30/yankees-beat-red-sox-mlb-wild-card-series/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-02T00:06:56.000Z"
     },
     {
       "title": "HardenedBSD August / September 2026 Status Report",

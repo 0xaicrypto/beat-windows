@@ -5,8 +5,128 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Oct 2026 10:27:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 17:15:30 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Googlebooks don’t have the same web app or Linux app support as Chromebooks</title>
+      <link>https://9to5google.com/2026/10/06/googlebook-linux-web-app-support-chromebook/</link>
+      <guid isPermaLink="true">https://9to5google.com/2026/10/06/googlebook-linux-web-app-support-chromebook/</guid>
+      <category>android</category>
+      <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
+      <pubDate>Tue, 06 Oct 2026 16:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>NVIDIA Vera HPC Performance Benchmarks Take On AMD EPYC, Intel Xeon</title>
+      <link>https://www.phoronix.com/review/nvidia-vera-hpc</link>
+      <guid isPermaLink="true">https://www.phoronix.com/review/nvidia-vera-hpc</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Tue, 06 Oct 2026 16:00:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Intel Says Its Googlebooks Won’t Have Issues With Android Apps, Despite Google’s Claims</title>
+      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTFA1eVo0WUs1VzNSSkNTYXU5YTlUc21QeVJsSVY3ZUZCV0U2Yzc2a3ZNZkV2ZnVmakE1R19IZFhrUVBrc0J2WVIycTdOOTl1TXpRLTNBRkRMVVM1RUFnR1MxQ0JmNEFSbnVYanVxbEluNC1QUDMyNC0wbDAxQXN0MDQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMif0FVX3lxTFA1eVo0WUs1VzNSSkNTYXU5YTlUc21QeVJsSVY3ZUZCV0U2Yzc2a3ZNZkV2ZnVmakE1R19IZFhrUVBrc0J2WVIycTdOOTl1TXpRLTNBRkRMVVM1RUFnR1MxQ0JmNEFSbnVYanVxbEluNC1QUDMyNC0wbDAxQXN0MDQ?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Gizmodo</source>
+      <pubDate>Tue, 06 Oct 2026 15:13:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>[$] Python's two modules for random numbers</title>
+      <link>https://lwn.net/Articles/1097468/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1097468/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Tue, 06 Oct 2026 15:02:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vulkan API Improvements Coming For The AMD Polaris GPUs With Mesa RADV</title>
+      <link>https://www.phoronix.com/news/More-Reliable-Vulkan-Polaris</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/More-Reliable-Vulkan-Polaris</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Tue, 06 Oct 2026 14:21:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Googlebook’s Android-integrated features won’t work with Samsung phones at launch</title>
+      <link>https://9to5google.com/2026/10/06/googlebook-android-sync-features-samsung-delay/</link>
+      <guid isPermaLink="true">https://9to5google.com/2026/10/06/googlebook-android-sync-features-samsung-delay/</guid>
+      <category>android</category>
+      <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
+      <pubDate>Tue, 06 Oct 2026 14:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Googlebook’s Android-integrated features won’t work with Samsung phones at launch</title>
+      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxOODVUVWJtYlNWWUtGWHVWWEg4Q09LUktMZVJYdnUtSS1zaHBFVmxpcGRvWFFkQ3UxT2F1VlBJQ0ZDUEg2aGUwQWhDUVprcTY3VUZlRFo0cnRqMDc3ZVMxYV9lTkN0YmM4NXMySzVtRHVrcjZFSmc1VlpTRUhtVkZ3UjNiZlNNSUtJ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiiAFBVV95cUxOODVUVWJtYlNWWUtGWHVWWEg4Q09LUktMZVJYdnUtSS1zaHBFVmxpcGRvWFFkQ3UxT2F1VlBJQ0ZDUEg2aGUwQWhDUVprcTY3VUZlRFo0cnRqMDc3ZVMxYV9lTkN0YmM4NXMySzVtRHVrcjZFSmc1VlpTRUhtVkZ3UjNiZlNNSUtJ?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">9to5Google</source>
+      <pubDate>Tue, 06 Oct 2026 14:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[$] Last rites for Gentoo's Chromium package</title>
+      <link>https://lwn.net/Articles/1097760/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1097760/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Tue, 06 Oct 2026 13:44:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenSSH 10.6 released</title>
+      <link>https://lwn.net/Articles/1098980/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1098980/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Tue, 06 Oct 2026 13:42:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>IBM &amp; Red Hat Find More Than 400 New Vulnerabilities In Popular Java Code</title>
+      <link>https://www.phoronix.com/news/IBM-Red-Hat-Java-400-Vulns</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/IBM-Red-Hat-Java-400-Vulns</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Tue, 06 Oct 2026 13:23:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Security updates for Tuesday</title>
+      <link>https://lwn.net/Articles/1098979/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1098979/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Tue, 06 Oct 2026 13:12:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Importance Of Intel's LPMD For Linux Gaming Performance &amp; Power Efficiency</title>
+      <link>https://www.phoronix.com/news/Intel-LPMD-Linux-Gaming</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Intel-LPMD-Linux-Gaming</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Tue, 06 Oct 2026 13:11:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Blender 6.0 May End Up Removing OpenGL Support</title>
+      <link>https://www.phoronix.com/news/Blender-6.0-May-Remove-OpenGL</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Blender-6.0-May-Remove-OpenGL</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Tue, 06 Oct 2026 12:11:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Portraits of trees: Birch</title>
+      <link>https://eclecticlight.co/2026/10/06/portraits-of-trees-birch/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/10/06/portraits-of-trees-birch/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Tue, 06 Oct 2026 11:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>The first thing you should do on Googlebook is fix the trackpad</title>
+      <link>https://9to5google.com/2026/10/06/googlebook-trackpad-cursor-speed/</link>
+      <guid isPermaLink="true">https://9to5google.com/2026/10/06/googlebook-trackpad-cursor-speed/</guid>
+      <category>android</category>
+      <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
+      <pubDate>Tue, 06 Oct 2026 11:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Meta Developing Compressed RAM &quot;CRAM&quot; For Linux: Better Than ZRAM &amp; Zswap</title>
       <link>https://www.phoronix.com/news/Linux-CRAM-Compressed-RAM</link>
@@ -256,116 +376,12 @@
       <pubDate>Mon, 05 Oct 2026 15:10:37 GMT</pubDate>
     </item>
     <item>
-      <title>Don’t Expect Every New Googlebook App to Play Nice With Intel Chips</title>
-      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTFA1eVo0WUs1VzNSSkNTYXU5YTlUc21QeVJsSVY3ZUZCV0U2Yzc2a3ZNZkV2ZnVmakE1R19IZFhrUVBrc0J2WVIycTdOOTl1TXpRLTNBRkRMVVM1RUFnR1MxQ0JmNEFSbnVYanVxbEluNC1QUDMyNC0wbDAxQXN0MDQ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMif0FVX3lxTFA1eVo0WUs1VzNSSkNTYXU5YTlUc21QeVJsSVY3ZUZCV0U2Yzc2a3ZNZkV2ZnVmakE1R19IZFhrUVBrc0J2WVIycTdOOTl1TXpRLTNBRkRMVVM1RUFnR1MxQ0JmNEFSbnVYanVxbEluNC1QUDMyNC0wbDAxQXN0MDQ?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Gizmodo</source>
-      <pubDate>Mon, 05 Oct 2026 14:10:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Acer launches Googlebook 14 priced at £999</title>
-      <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxOb196RTdXV1pvd2V3MmtNd0p5bTJtWU9NYjgzZFl3UEN5R0tuMnphcXhDTEVYLTN1b1BVQXdwMnR5aWEzOEFNQVdwNFZlY01nV25tQmtPMDFZNFZWRkJqYWU3R2pDYXBKU0pHTmxJeWVuOWpJOTBWMUo3Nk4xTWUybnNmVmpXYW1ManRKb1phS2poY3dGZm5iZXZpNy12TXJ2LUhr?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiowFBVV95cUxOb196RTdXV1pvd2V3MmtNd0p5bTJtWU9NYjgzZFl3UEN5R0tuMnphcXhDTEVYLTN1b1BVQXdwMnR5aWEzOEFNQVdwNFZlY01nV25tQmtPMDFZNFZWRkJqYWU3R2pDYXBKU0pHTmxJeWVuOWpJOTBWMUo3Nk4xTWUybnNmVmpXYW1ManRKb1phS2poY3dGZm5iZXZpNy12TXJ2LUhr?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">KitGuru</source>
-      <pubDate>Mon, 05 Oct 2026 14:00:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fantastical’s long-awaited Android debut begins today on Googlebook</title>
-      <link>https://9to5google.com/2026/10/05/fantastical-long-awaited-android-debut-begins-today-on-googlebook/</link>
-      <guid isPermaLink="true">https://9to5google.com/2026/10/05/fantastical-long-awaited-android-debut-begins-today-on-googlebook/</guid>
-      <category>android</category>
-      <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
-      <pubDate>Mon, 05 Oct 2026 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>AMD ROCm vs. Vulkan Performance For Lemonade Local AI Server With Llama.cpp</title>
-      <link>https://www.phoronix.com/review/lemonade-vulkan-rocm</link>
-      <guid isPermaLink="true">https://www.phoronix.com/review/lemonade-vulkan-rocm</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Mon, 05 Oct 2026 13:50:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Picard 3.0 released</title>
-      <link>https://lwn.net/Articles/1098600/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1098600/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Mon, 05 Oct 2026 13:21:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Security updates for Monday</title>
-      <link>https://lwn.net/Articles/1098599/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1098599/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Mon, 05 Oct 2026 13:11:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mesa Developers Looking At A Formal Governance Model</title>
-      <link>https://www.phoronix.com/news/Mesa-Governance-Model</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Mesa-Governance-Model</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Mon, 05 Oct 2026 13:04:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux's ZRAM Reworked For Greater Memory Savings, Better Performance</title>
-      <link>https://www.phoronix.com/news/Linux-ZRAM-Rework-Savings</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-ZRAM-Rework-Savings</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Mon, 05 Oct 2026 12:44:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux 7.4 To Mainline Support For The Google Tensor G5, Pixel 10 Devices</title>
-      <link>https://www.phoronix.com/news/Linux-7.4-Google-Tensor-G5</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-Google-Tensor-G5</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Mon, 05 Oct 2026 11:33:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Hero or hooligan: Heracles killed by the hydra’s blood</title>
       <link>https://eclecticlight.co/2026/10/05/hero-or-hooligan-heracles-killed-by-the-hydras-blood/</link>
       <guid isPermaLink="true">https://eclecticlight.co/2026/10/05/hero-or-hooligan-heracles-killed-by-the-hydras-blood/</guid>
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Mon, 05 Oct 2026 11:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mold 3.0 High Speed Linker Released Following Rust Rewrite</title>
-      <link>https://www.phoronix.com/news/Mold-3.0-Released</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Mold-3.0-Released</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Mon, 05 Oct 2026 10:29:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux 7.4 Continues Preparing For Intel's Rugged Panther Lake</title>
-      <link>https://www.phoronix.com/news/Linux-7.4-Rugged-Panther-Lake</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-Rugged-Panther-Lake</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Mon, 05 Oct 2026 10:23:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Qualcomm Patching Linux For Hardware Thermal Binning To Benefit Snapdragon X Laptops</title>
-      <link>https://www.phoronix.com/news/Qualcomm-HW-BIn-Trip-Point</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Qualcomm-HW-BIn-Trip-Point</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Mon, 05 Oct 2026 10:04:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google says some Googlebooks have better Android app support than others, and here's why</title>
-      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxPZnc0NFhNZUl5a2R0QTdQaWpQeWRfUi1mcVdRNGhFV0xpTEd4YzlHcHlLdll5YWE2Q05oVGdHQ0xfdWNCeVA0WUxENzVNZEptNFZVMWxsclBiek9GcGpYWW53ckNpTlF0M2tESE04MXBEcmNvY19ReXcyVXkxZjZpN1F6THBSX1dQczM0WUVR?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMijgFBVV95cUxPZnc0NFhNZUl5a2R0QTdQaWpQeWRfUi1mcVdRNGhFV0xpTEd4YzlHcHlLdll5YWE2Q05oVGdHQ0xfdWNCeVA0WUxENzVNZEptNFZVMWxsclBiek9GcGpYWW53ckNpTlF0M2tESE04MXBEcmNvY19ReXcyVXkxZjZpN1F6THBSX1dQczM0WUVR?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Android Authority</source>
-      <pubDate>Mon, 05 Oct 2026 09:57:00 GMT</pubDate>
     </item>
     <item>
       <title>Solutions to Saturday Mac riddles 380</title>
@@ -384,28 +400,12 @@
       <pubDate>Mon, 05 Oct 2026 06:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>ASUS Googlebook 14 first impressions: A new OS meets some serious hardware</title>
-      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxPcFl3aGl1R0lOTE1iM2tpTEJyUWRkZzV0QlAzWm9MWGZGRGdPR1NqWHozWVIzT25CYUMwNGoya0VvTm1RS2N2TDBObV9vbDBNN3ZyT0puSXBvX2MwYkNvRFpuU1dPZnhFTkM4ZmFWQmw3dXRSb2pkZEdCSEZUTmxLS2RwazVycGNteEh6bHJfTjdRMTFxUVE4VUhpOWFvMFNDdkc2b09CY0dSUzFpY193Mg?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMisAFBVV95cUxPcFl3aGl1R0lOTE1iM2tpTEJyUWRkZzV0QlAzWm9MWGZGRGdPR1NqWHozWVIzT25CYUMwNGoya0VvTm1RS2N2TDBObV9vbDBNN3ZyT0puSXBvX2MwYkNvRFpuU1dPZnhFTkM4ZmFWQmw3dXRSb2pkZEdCSEZUTmxLS2RwazVycGNteEh6bHJfTjdRMTFxUVE4VUhpOWFvMFNDdkc2b09CY0dSUzFpY193Mg?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">The Gadgeteer</source>
-      <pubDate>Sun, 04 Oct 2026 21:00:03 GMT</pubDate>
-    </item>
-    <item>
       <title>Headers Up! What's New in httpd and relayd</title>
       <link>https://undeadly.org/cgi?action=article;sid=20261004115249</link>
       <guid isPermaLink="true">https://undeadly.org/cgi?action=article;sid=20261004115249</guid>
       <category>bsd</category>
       <source url="https://undeadly.org/">undeadly</source>
       <pubDate>Sun, 04 Oct 2026 11:52:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Leaf peeping: painting autumn 1900-1945</title>
-      <link>https://eclecticlight.co/2026/10/04/leaf-peeping-painting-autumn-1900-1945/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/10/04/leaf-peeping-painting-autumn-1900-1945/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Sun, 04 Oct 2026 11:30:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
