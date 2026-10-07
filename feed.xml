@@ -5,8 +5,32 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 07 Oct 2026 16:36:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 22:02:44 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>FEX 2610 Released With Handling For AVX-VNNI, Disk Cache Improvements</title>
+      <link>https://www.phoronix.com/news/FEX-2610-Released</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/FEX-2610-Released</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Wed, 07 Oct 2026 21:16:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Samsung Googlebook Geekbench Listing: Confirmed vs Rumor</title>
+      <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxPcW04bFdlUVVOcUR1QW9FYWYwLV9kaXQ2SVZ6dzFzMmZjV1JpU0VZVmNKSFNmcnRveDlicGJXanlHd1g0VnQtTG1qZkRmX1dPeVl3Rl93U2VMdm5oUXUwN0NyendCbjRPMUdrTGpuWWFqbERLZnNRQzNTN2Ntc3BZa3NRN0NhWmtyQkFfX0s0NmtpekpCWDFrMw?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMimAFBVV95cUxPcW04bFdlUVVOcUR1QW9FYWYwLV9kaXQ2SVZ6dzFzMmZjV1JpU0VZVmNKSFNmcnRveDlicGJXanlHd1g0VnQtTG1qZkRmX1dPeVl3Rl93U2VMdm5oUXUwN0NyendCbjRPMUdrTGpuWWFqbERLZnNRQzNTN2Ntc3BZa3NRN0NhWmtyQkFfX0s0NmtpekpCWDFrMw?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Gadget Hacks</source>
+      <pubDate>Wed, 07 Oct 2026 18:01:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hello, my name is Orca</title>
+      <link>https://linnemanlabs.com/posts/hello-my-name-is-orca/</link>
+      <guid isPermaLink="true">https://linnemanlabs.com/posts/hello-my-name-is-orca/</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Wed, 07 Oct 2026 17:28:43 GMT</pubDate>
+    </item>
     <item>
       <title>Creating distro build tooling for a small community</title>
       <link>https://chimera-linux.org/news/2026/10/the-case-for-cbuild.html</link>
@@ -224,14 +248,6 @@
       <pubDate>Tue, 06 Oct 2026 18:27:16 GMT</pubDate>
     </item>
     <item>
-      <title>Meta Engineer's Linux Patches For Boosting AMD P-State / Steam Deck Gaming Performance</title>
-      <link>https://www.phoronix.com/news/Boost-Recently-Busy-CPUs</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Boost-Recently-Busy-CPUs</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Tue, 06 Oct 2026 18:21:01 GMT</pubDate>
-    </item>
-    <item>
       <title>Unofficial Command-Line Tool Removes Apple Intelligence From MacOS 27</title>
       <link>https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/</link>
       <guid isPermaLink="true">https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/</guid>
@@ -254,14 +270,6 @@
       <category>android</category>
       <source url="https://news.google.com/">MakeUseOf</source>
       <pubDate>Tue, 06 Oct 2026 18:01:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Last rites for Gentoo's Chromium package</title>
-      <link>https://lwn.net/SubscriberLink/1097760/2be4d9e3eeb59039/</link>
-      <guid isPermaLink="true">https://lwn.net/SubscriberLink/1097760/2be4d9e3eeb59039/</guid>
-      <category>linux</category>
-      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
-      <pubDate>Tue, 06 Oct 2026 17:46:53 GMT</pubDate>
     </item>
     <item>
       <title>Initial Googlebooks Repeat Windows-on-Arm Issues, But in Reverse</title>
@@ -398,14 +406,6 @@
       <category>android</category>
       <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
       <pubDate>Mon, 05 Oct 2026 21:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dell's Googlebook will also cost less than you (and Google) thought</title>
-      <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxNV2MtR1prdy13c1dIbkNHUzFUc0h2emZQWmdDckY5RUpGVDQwTWhxeG9lU0o2Rk9ZanJha1l2YmVQd3pUbFQyTGJEM3FfOWdPMjFOQzNOSlRnSlFwcV8tVjJQRnlaTlNlMFR0YjNsSFE3SkJfamdXN3ZGSk5aMlNVemxpQQ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMigwFBVV95cUxNV2MtR1prdy13c1dIbkNHUzFUc0h2emZQWmdDckY5RUpGVDQwTWhxeG9lU0o2Rk9ZanJha1l2YmVQd3pUbFQyTGJEM3FfOWdPMjFOQzNOSlRnSlFwcV8tVjJQRnlaTlNlMFR0YjNsSFE3SkJfamdXN3ZGSk5aMlNVemxpQQ?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Android Authority</source>
-      <pubDate>Mon, 05 Oct 2026 21:11:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

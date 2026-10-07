@@ -1,6 +1,30 @@
 {
-  "generated": "2026-10-07T16:36:20.920Z",
+  "generated": "2026-10-07T22:02:44.138Z",
   "items": [
+    {
+      "title": "FEX 2610 Released With Handling For AVX-VNNI, Disk Cache Improvements",
+      "url": "https://www.phoronix.com/news/FEX-2610-Released",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-07T21:16:47.000Z"
+    },
+    {
+      "title": "Samsung Googlebook Geekbench Listing: Confirmed vs Rumor",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcW04bFdlUVVOcUR1QW9FYWYwLV9kaXQ2SVZ6dzFzMmZjV1JpU0VZVmNKSFNmcnRveDlicGJXanlHd1g0VnQtTG1qZkRmX1dPeVl3Rl93U2VMdm5oUXUwN0NyendCbjRPMUdrTGpuWWFqbERLZnNRQzNTN2Ntc3BZa3NRN0NhWmtyQkFfX0s0NmtpekpCWDFrMw?oc=5",
+      "source": "Gadget Hacks",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-07T18:01:55.000Z"
+    },
+    {
+      "title": "Hello, my name is Orca",
+      "url": "https://linnemanlabs.com/posts/hello-my-name-is-orca/",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-10-07T17:28:43.000Z"
+    },
     {
       "title": "Creating distro build tooling for a small community",
       "url": "https://chimera-linux.org/news/2026/10/the-case-for-cbuild.html",
@@ -218,14 +242,6 @@
       "date": "2026-10-06T18:27:16.000Z"
     },
     {
-      "title": "Meta Engineer's Linux Patches For Boosting AMD P-State / Steam Deck Gaming Performance",
-      "url": "https://www.phoronix.com/news/Boost-Recently-Busy-CPUs",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-06T18:21:01.000Z"
-    },
-    {
       "title": "Unofficial Command-Line Tool Removes Apple Intelligence From MacOS 27",
       "url": "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/",
       "source": "Daring Fireball",
@@ -248,14 +264,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-06T18:01:14.000Z"
-    },
-    {
-      "title": "Last rites for Gentoo's Chromium package",
-      "url": "https://lwn.net/SubscriberLink/1097760/2be4d9e3eeb59039/",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-10-06T17:46:53.000Z"
     },
     {
       "title": "Initial Googlebooks Repeat Windows-on-Arm Issues, But in Reverse",
@@ -408,14 +416,6 @@
       "tag": "android",
       "site": "https://9to5google.com/guides/googlebook/",
       "date": "2026-10-05T20:35:00.000Z"
-    },
-    {
-      "title": "The Googlebook era is here: some first impressions of the hardware and a whole new OS",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNV3k0dk05bFM2a0dPSldnOXhkazloZENnZ2sxU1haYTBubUpNWnRoOEJ3SHAwYzl4U2sxbTdDTVA1eGJISWRGTi00VlQyT3Q3VjJ3US1EQzVLTkRuUC1RZGd1b0p0RXdiMWsweDlOSFJYQnVFaDg0SlRTNWFteXY5S0tOREthTW5uYUhlcTl4dEoyV1pxTy1QLXVKX0VNVjRlakdEY2lEVzkzN0wtVDlnNw?oc=5",
-      "source": "Chrome Unboxed",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-05T20:30:26.000Z"
     },
     {
       "title": "Ternus and Cook Tweet Brief Remembrances on the 15th Anniversary of Steve Jobs’s Death",
