@@ -5,8 +5,56 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Oct 2026 21:43:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 01:37:11 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Another Dozen Vulnerabilities Found In The X.Org Server &amp; XWayland</title>
+      <link>https://www.phoronix.com/news/X.Org-12-New-Issues-2026</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/X.Org-12-New-Issues-2026</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Wed, 07 Oct 2026 01:31:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>New Patches For Linux's Zswap Show Major Improvements</title>
+      <link>https://www.phoronix.com/news/Linux-Better-Zswap-Performance</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-Better-Zswap-Performance</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Wed, 07 Oct 2026 00:56:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Raspberry Pi Desktop now available for PC and Mac</title>
+      <link>https://www.raspberrypi.com/news/raspberry-pi-desktop-now-available-for-pc-and-mac/</link>
+      <guid isPermaLink="true">https://www.raspberrypi.com/news/raspberry-pi-desktop-now-available-for-pc-and-mac/</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Wed, 07 Oct 2026 00:24:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Is COSMIC DE mogging KDE Plasma?</title>
+      <link>https://thelibre.news/is-cosmic-de-mogging-kde-plasma/</link>
+      <guid isPermaLink="true">https://thelibre.news/is-cosmic-de-mogging-kde-plasma/</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Wed, 07 Oct 2026 00:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>5 Reasons Why Android Phone Users Will Want A Googlebook</title>
+      <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxOXzQ4aHQwZGdCbTZMcjBoSlFUZXh3M21LamRwRE5FUHR1c3pRRjhSZUZETU1pQUFDei11WVNZUEEtQVVoMHRnOVdQcFlHMW1qQ2h3UXE0QXp4Wm4wcmZHcU1BQlJ4TnJCZ0J4eXJhQlUyZFJwWVQzMnlBV3U5TEdteTlIZw?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMigwFBVV95cUxOXzQ4aHQwZGdCbTZMcjBoSlFUZXh3M21LamRwRE5FUHR1c3pRRjhSZUZETU1pQUFDei11WVNZUEEtQVVoMHRnOVdQcFlHMW1qQ2h3UXE0QXp4Wm4wcmZHcU1BQlJ4TnJCZ0J4eXJhQlUyZFJwWVQzMnlBV3U5TEdteTlIZw?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">BGR</source>
+      <pubDate>Tue, 06 Oct 2026 23:17:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Janet on x32: 32-bit Pointers, 64-bit Speed, 25% Less RAM</title>
+      <link>https://alexalejandre.com/programming/lisp/janet-for-the-x32-abi/</link>
+      <guid isPermaLink="true">https://alexalejandre.com/programming/lisp/janet-for-the-x32-abi/</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Tue, 06 Oct 2026 22:26:46 GMT</pubDate>
+    </item>
     <item>
       <title>Canonical Reaffirms Plans For Ubuntu 27.04 To Use ntpd-rs By Default</title>
       <link>https://www.phoronix.com/news/Ubuntu-27.04-ntpd-rs-Plans</link>
@@ -224,22 +272,6 @@
       <pubDate>Tue, 06 Oct 2026 09:54:17 GMT</pubDate>
     </item>
     <item>
-      <title>YSERVER 1.7 Rust X11 Server Narrows Memory Usage Difference With X.Org Server</title>
-      <link>https://www.phoronix.com/news/YSERVER-1.7</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/YSERVER-1.7</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Tue, 06 Oct 2026 09:39:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Montray - a tray icon for systemd service health</title>
-      <link>https://github.com/dimonomid/montray/</link>
-      <guid isPermaLink="true">https://github.com/dimonomid/montray/</guid>
-      <category>linux</category>
-      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
-      <pubDate>Tue, 06 Oct 2026 09:07:39 GMT</pubDate>
-    </item>
-    <item>
       <title>Privacy, Full Disk Access and AI agents</title>
       <link>https://eclecticlight.co/2026/10/06/privacy-full-disk-access-and-ai-agents/</link>
       <guid isPermaLink="true">https://eclecticlight.co/2026/10/06/privacy-full-disk-access-and-ai-agents/</guid>
@@ -262,14 +294,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Tue, 06 Oct 2026 02:49:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>TrueNAS 27 RC.1 Released: Linux 6.18 LTS + OpenZFS 2.4</title>
-      <link>https://www.phoronix.com/news/TrueNAS-27-RC.1-Release</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/TrueNAS-27-RC.1-Release</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Tue, 06 Oct 2026 00:25:45 GMT</pubDate>
     </item>
     <item>
       <title>Googlebooks can’t install the Slack web app on day one</title>
@@ -302,14 +326,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Mon, 05 Oct 2026 22:59:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>AMD ROCm 10.1 Released With Many Improvements</title>
-      <link>https://www.phoronix.com/news/AMD-ROCm-10.1</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/AMD-ROCm-10.1</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Mon, 05 Oct 2026 22:08:56 GMT</pubDate>
     </item>
     <item>
       <title>Google Acknowledges Day 1 Android App Performance Issues on New Laptops</title>
@@ -376,28 +392,12 @@
       <pubDate>Mon, 05 Oct 2026 19:29:16 GMT</pubDate>
     </item>
     <item>
-      <title>Lenovo Googlebook 15: Software First Impressions</title>
-      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMDZkWm1sOFQyNTZCYjkyOG5IeHQweEwxRHdiYkdZNTg4QnQ5SFlJWnNPMFlfTGUzcGVpeC16bE5pYTU5RDFma3V1NXdjdTI4MFNjeEhLQ2FvQzNNdUNvZVh2aEVjTUttZnBkOF9HR0lJT3A0SUo2bXpQN0ZHQjhqMmhOZ09yMVRVMC1YaHJsMVM2aGJNejRJV2tmaW96akxLWm15REpJbkhHa0U?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMDZkWm1sOFQyNTZCYjkyOG5IeHQweEwxRHdiYkdZNTg4QnQ5SFlJWnNPMFlfTGUzcGVpeC16bE5pYTU5RDFma3V1NXdjdTI4MFNjeEhLQ2FvQzNNdUNvZVh2aEVjTUttZnBkOF9HR0lJT3A0SUo2bXpQN0ZHQjhqMmhOZ09yMVRVMC1YaHJsMVM2aGJNejRJV2tmaW96akxLWm15REpJbkhHa0U?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Thurrott.com</source>
-      <pubDate>Mon, 05 Oct 2026 19:22:58 GMT</pubDate>
-    </item>
-    <item>
       <title>Ternus and Cook Tweet Brief Remembrances on the 15th Anniversary of Steve Jobs’s Death</title>
       <link>https://x.com/johnternus/status/2107093462118199562</link>
       <guid isPermaLink="true">https://x.com/johnternus/status/2107093462118199562</guid>
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Mon, 05 Oct 2026 19:19:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux 7.4 To Land New BTB CTX Isolation Feature Of AMD Zen 6</title>
-      <link>https://www.phoronix.com/news/AMD-Zen-6-BTB-CTX-Linux-7.4</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/AMD-Zen-6-BTB-CTX-Linux-7.4</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Mon, 05 Oct 2026 18:47:01 GMT</pubDate>
     </item>
     <item>
       <title>Hero or hooligan: Heracles killed by the hydra’s blood</title>

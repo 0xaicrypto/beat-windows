@@ -1,6 +1,54 @@
 {
-  "generated": "2026-10-06T21:43:42.690Z",
+  "generated": "2026-10-07T01:37:11.158Z",
   "items": [
+    {
+      "title": "Another Dozen Vulnerabilities Found In The X.Org Server & XWayland",
+      "url": "https://www.phoronix.com/news/X.Org-12-New-Issues-2026",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-07T01:31:11.000Z"
+    },
+    {
+      "title": "New Patches For Linux's Zswap Show Major Improvements",
+      "url": "https://www.phoronix.com/news/Linux-Better-Zswap-Performance",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-07T00:56:04.000Z"
+    },
+    {
+      "title": "Raspberry Pi Desktop now available for PC and Mac",
+      "url": "https://www.raspberrypi.com/news/raspberry-pi-desktop-now-available-for-pc-and-mac/",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-10-07T00:24:16.000Z"
+    },
+    {
+      "title": "Is COSMIC DE mogging KDE Plasma?",
+      "url": "https://thelibre.news/is-cosmic-de-mogging-kde-plasma/",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-10-07T00:15:00.000Z"
+    },
+    {
+      "title": "5 Reasons Why Android Phone Users Will Want A Googlebook",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOXzQ4aHQwZGdCbTZMcjBoSlFUZXh3M21LamRwRE5FUHR1c3pRRjhSZUZETU1pQUFDei11WVNZUEEtQVVoMHRnOVdQcFlHMW1qQ2h3UXE0QXp4Wm4wcmZHcU1BQlJ4TnJCZ0J4eXJhQlUyZFJwWVQzMnlBV3U5TEdteTlIZw?oc=5",
+      "source": "BGR",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-06T23:17:00.000Z"
+    },
+    {
+      "title": "Janet on x32: 32-bit Pointers, 64-bit Speed, 25% Less RAM",
+      "url": "https://alexalejandre.com/programming/lisp/janet-for-the-x32-abi/",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-10-06T22:26:46.000Z"
+    },
     {
       "title": "Canonical Reaffirms Plans For Ubuntu 27.04 To Use ntpd-rs By Default",
       "url": "https://www.phoronix.com/news/Ubuntu-27.04-ntpd-rs-Plans",
@@ -218,22 +266,6 @@
       "date": "2026-10-06T09:54:17.000Z"
     },
     {
-      "title": "YSERVER 1.7 Rust X11 Server Narrows Memory Usage Difference With X.Org Server",
-      "url": "https://www.phoronix.com/news/YSERVER-1.7",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-06T09:39:25.000Z"
-    },
-    {
-      "title": "Montray - a tray icon for systemd service health",
-      "url": "https://github.com/dimonomid/montray/",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-10-06T09:07:39.000Z"
-    },
-    {
       "title": "Privacy, Full Disk Access and AI agents",
       "url": "https://eclecticlight.co/2026/10/06/privacy-full-disk-access-and-ai-agents/",
       "source": "Eclectic Light",
@@ -256,14 +288,6 @@
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-10-06T02:49:44.000Z"
-    },
-    {
-      "title": "TrueNAS 27 RC.1 Released: Linux 6.18 LTS + OpenZFS 2.4",
-      "url": "https://www.phoronix.com/news/TrueNAS-27-RC.1-Release",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-06T00:25:45.000Z"
     },
     {
       "title": "Googlebooks can’t install the Slack web app on day one",
@@ -296,14 +320,6 @@
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-10-05T22:59:14.000Z"
-    },
-    {
-      "title": "AMD ROCm 10.1 Released With Many Improvements",
-      "url": "https://www.phoronix.com/news/AMD-ROCm-10.1",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-05T22:08:56.000Z"
     },
     {
       "title": "Google Acknowledges Day 1 Android App Performance Issues on New Laptops",
@@ -370,28 +386,12 @@
       "date": "2026-10-05T19:29:16.000Z"
     },
     {
-      "title": "Lenovo Googlebook 15: Software First Impressions",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMDZkWm1sOFQyNTZCYjkyOG5IeHQweEwxRHdiYkdZNTg4QnQ5SFlJWnNPMFlfTGUzcGVpeC16bE5pYTU5RDFma3V1NXdjdTI4MFNjeEhLQ2FvQzNNdUNvZVh2aEVjTUttZnBkOF9HR0lJT3A0SUo2bXpQN0ZHQjhqMmhOZ09yMVRVMC1YaHJsMVM2aGJNejRJV2tmaW96akxLWm15REpJbkhHa0U?oc=5",
-      "source": "Thurrott.com",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-05T19:22:58.000Z"
-    },
-    {
       "title": "Ternus and Cook Tweet Brief Remembrances on the 15th Anniversary of Steve Jobs’s Death",
       "url": "https://x.com/johnternus/status/2107093462118199562",
       "source": "Daring Fireball",
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-10-05T19:19:35.000Z"
-    },
-    {
-      "title": "Linux 7.4 To Land New BTB CTX Isolation Feature Of AMD Zen 6",
-      "url": "https://www.phoronix.com/news/AMD-Zen-6-BTB-CTX-Linux-7.4",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-05T18:47:01.000Z"
     },
     {
       "title": "Hero or hooligan: Heracles killed by the hydra’s blood",
@@ -496,6 +496,14 @@
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-10-02T20:40:15.000Z"
+    },
+    {
+      "title": "CoW — a stacking window manager for Wayland",
+      "url": "https://cow-wm.codeberg.page/cow/",
+      "source": "Lobsters · freebsd",
+      "tag": "bsd",
+      "site": "https://lobste.rs/t/freebsd",
+      "date": "2026-09-29T09:07:37.000Z"
     },
     {
       "title": "HardenedBSD August / September 2026 Status Report",
