@@ -1,6 +1,30 @@
 {
-  "generated": "2026-10-07T01:37:11.158Z",
+  "generated": "2026-10-07T08:46:58.116Z",
   "items": [
+    {
+      "title": "Headers Up! What's New in httpd and relayd",
+      "url": "https://rsadowski.de/posts/2026/update-relayd-and-httpd/",
+      "source": "Lobsters · openbsd",
+      "tag": "bsd",
+      "site": "https://lobste.rs/t/openbsd",
+      "date": "2026-10-07T07:05:27.000Z"
+    },
+    {
+      "title": "Explainer: Keychains",
+      "url": "https://eclecticlight.co/2026/10/07/explainer-keychains/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-10-07T06:30:00.000Z"
+    },
+    {
+      "title": "New laptops and OpenBSD: HP Envy 17-DA0013dx",
+      "url": "https://undeadly.org/cgi?action=article;sid=20261007053155",
+      "source": "undeadly",
+      "tag": "bsd",
+      "site": "https://undeadly.org/",
+      "date": "2026-10-07T05:31:55.000Z"
+    },
     {
       "title": "Another Dozen Vulnerabilities Found In The X.Org Server & XWayland",
       "url": "https://www.phoronix.com/news/X.Org-12-New-Issues-2026",
@@ -127,6 +151,14 @@
       "source": "9to5Google · Googlebook",
       "tag": "android",
       "site": "https://9to5google.com/guides/googlebook/",
+      "date": "2026-10-06T16:05:00.000Z"
+    },
+    {
+      "title": "Googlebooks don’t have the same web app or Linux app support as Chromebooks",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZUNnZW53Q1hIYlgzeXBvYTdhSTIwZEo3YThvWE4zdVFPbURYNHJYelowa0c3RXdGVS1KN0gtQWRWX1pWdjEtRHlDV0k3amtXUWI2YWdLSU9oUDdhcGs2TEJCNXQ4Rkx0Mm5MOG41TGFJaURGWmwxVWNubUlXSUV5VTVNVUE?oc=5",
+      "source": "9to5Google",
+      "tag": "android",
+      "site": "https://news.google.com/",
       "date": "2026-10-06T16:05:00.000Z"
     },
     {
@@ -378,14 +410,6 @@
       "date": "2026-10-05T19:34:06.000Z"
     },
     {
-      "title": "Googlebook's Android integration has two limitations that you won't see coming",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVDJiT0haWW93MGFIZlV3cl83Nkc3blVFYWR3UlNLU29keVZTcnNtLWVramV4WTdFbHNVS0t1ejJ5NndqeWZZbkFvclA3YTV3bFN2VHozb2JhT0phOV9wVEM3eHZtbDVPUDM5eC1qV3RmbmwtTjV5alNKelQ0TTBCOWh0ckJrTlBjNjRyeUg3NmpEMEhtT0t3U3NaQ1RGbmxVQ0tpRm93?oc=5",
-      "source": "How-To Geek",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-05T19:29:16.000Z"
-    },
-    {
       "title": "Ternus and Cook Tweet Brief Remembrances on the 15th Anniversary of Steve Jobs’s Death",
       "url": "https://x.com/johnternus/status/2107093462118199562",
       "source": "Daring Fireball",
@@ -416,14 +440,6 @@
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-10-05T06:30:00.000Z"
-    },
-    {
-      "title": "Headers Up! What's New in httpd and relayd",
-      "url": "https://undeadly.org/cgi?action=article;sid=20261004115249",
-      "source": "undeadly",
-      "tag": "bsd",
-      "site": "https://undeadly.org/",
-      "date": "2026-10-04T11:52:49.000Z"
     },
     {
       "title": "Leaf peeping: painting autumn 1900-1945",
@@ -488,14 +504,6 @@
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-10-03T07:00:00.000Z"
-    },
-    {
-      "title": "★ Apple Is Going to Further Tighten the Screws on Full Disk Access on MacOS, in Response to Agentic AI Apps Running Amok",
-      "url": "https://daringfireball.net/2026/10/apple_full_disk_access",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-02T20:40:15.000Z"
     },
     {
       "title": "CoW — a stacking window manager for Wayland",

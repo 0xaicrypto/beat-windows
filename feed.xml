@@ -5,8 +5,32 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 07 Oct 2026 01:37:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 08:46:58 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Headers Up! What's New in httpd and relayd</title>
+      <link>https://rsadowski.de/posts/2026/update-relayd-and-httpd/</link>
+      <guid isPermaLink="true">https://rsadowski.de/posts/2026/update-relayd-and-httpd/</guid>
+      <category>bsd</category>
+      <source url="https://lobste.rs/t/openbsd">Lobsters · openbsd</source>
+      <pubDate>Wed, 07 Oct 2026 07:05:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Explainer: Keychains</title>
+      <link>https://eclecticlight.co/2026/10/07/explainer-keychains/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/10/07/explainer-keychains/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Wed, 07 Oct 2026 06:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>New laptops and OpenBSD: HP Envy 17-DA0013dx</title>
+      <link>https://undeadly.org/cgi?action=article;sid=20261007053155</link>
+      <guid isPermaLink="true">https://undeadly.org/cgi?action=article;sid=20261007053155</guid>
+      <category>bsd</category>
+      <source url="https://undeadly.org/">undeadly</source>
+      <pubDate>Wed, 07 Oct 2026 05:31:55 GMT</pubDate>
+    </item>
     <item>
       <title>Another Dozen Vulnerabilities Found In The X.Org Server &amp; XWayland</title>
       <link>https://www.phoronix.com/news/X.Org-12-New-Issues-2026</link>
@@ -133,6 +157,14 @@
       <guid isPermaLink="true">https://9to5google.com/2026/10/06/googlebook-linux-web-app-support-chromebook/</guid>
       <category>android</category>
       <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
+      <pubDate>Tue, 06 Oct 2026 16:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Googlebooks don’t have the same web app or Linux app support as Chromebooks</title>
+      <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxOZUNnZW53Q1hIYlgzeXBvYTdhSTIwZEo3YThvWE4zdVFPbURYNHJYelowa0c3RXdGVS1KN0gtQWRWX1pWdjEtRHlDV0k3amtXUWI2YWdLSU9oUDdhcGs2TEJCNXQ4Rkx0Mm5MOG41TGFJaURGWmwxVWNubUlXSUV5VTVNVUE?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMihAFBVV95cUxOZUNnZW53Q1hIYlgzeXBvYTdhSTIwZEo3YThvWE4zdVFPbURYNHJYelowa0c3RXdGVS1KN0gtQWRWX1pWdjEtRHlDV0k3amtXUWI2YWdLSU9oUDdhcGs2TEJCNXQ4Rkx0Mm5MOG41TGFJaURGWmwxVWNubUlXSUV5VTVNVUE?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">9to5Google</source>
       <pubDate>Tue, 06 Oct 2026 16:05:00 GMT</pubDate>
     </item>
     <item>
@@ -374,38 +406,6 @@
       <category>android</category>
       <source url="https://news.google.com/">Pocket-lint</source>
       <pubDate>Mon, 05 Oct 2026 20:29:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Not Every Android App Works on Every Googlebook, and Intel Is the Reason</title>
-      <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVk1oZ3VPNkxSSk9UMXFHRVMxUl9XTjdQdnRKd2pWck5vWlM2TlllMjFwTEp1NnFza2ljOUJZcDRBU2hpd01IdGxxZkhPYjQ0UkJBVTdKUWkzT1BuakxtUzdoYnVNZk9saUlvNTNSc01yLXV0dHZPLUcwMmVkTXRhMGUwSkk2Z3VZTXVyS1hKVFdqYVFoSEFMSHhzNW02eUFQRERIbkRrTDREMWM4aVJNNm9zdUM0clRU?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVk1oZ3VPNkxSSk9UMXFHRVMxUl9XTjdQdnRKd2pWck5vWlM2TlllMjFwTEp1NnFza2ljOUJZcDRBU2hpd01IdGxxZkhPYjQ0UkJBVTdKUWkzT1BuakxtUzdoYnVNZk9saUlvNTNSc01yLXV0dHZPLUcwMmVkTXRhMGUwSkk2Z3VZTXVyS1hKVFdqYVFoSEFMSHhzNW02eUFQRERIbkRrTDREMWM4aVJNNm9zdUM0clRU?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">androidheadlines.com</source>
-      <pubDate>Mon, 05 Oct 2026 19:34:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Googlebook's Android integration has two limitations that you won't see coming</title>
-      <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxQVDJiT0haWW93MGFIZlV3cl83Nkc3blVFYWR3UlNLU29keVZTcnNtLWVramV4WTdFbHNVS0t1ejJ5NndqeWZZbkFvclA3YTV3bFN2VHozb2JhT0phOV9wVEM3eHZtbDVPUDM5eC1qV3RmbmwtTjV5alNKelQ0TTBCOWh0ckJrTlBjNjRyeUg3NmpEMEhtT0t3U3NaQ1RGbmxVQ0tpRm93?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMipgFBVV95cUxQVDJiT0haWW93MGFIZlV3cl83Nkc3blVFYWR3UlNLU29keVZTcnNtLWVramV4WTdFbHNVS0t1ejJ5NndqeWZZbkFvclA3YTV3bFN2VHozb2JhT0phOV9wVEM3eHZtbDVPUDM5eC1qV3RmbmwtTjV5alNKelQ0TTBCOWh0ckJrTlBjNjRyeUg3NmpEMEhtT0t3U3NaQ1RGbmxVQ0tpRm93?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">How-To Geek</source>
-      <pubDate>Mon, 05 Oct 2026 19:29:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ternus and Cook Tweet Brief Remembrances on the 15th Anniversary of Steve Jobs’s Death</title>
-      <link>https://x.com/johnternus/status/2107093462118199562</link>
-      <guid isPermaLink="true">https://x.com/johnternus/status/2107093462118199562</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Mon, 05 Oct 2026 19:19:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hero or hooligan: Heracles killed by the hydra’s blood</title>
-      <link>https://eclecticlight.co/2026/10/05/hero-or-hooligan-heracles-killed-by-the-hydras-blood/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/10/05/hero-or-hooligan-heracles-killed-by-the-hydras-blood/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Mon, 05 Oct 2026 11:30:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
