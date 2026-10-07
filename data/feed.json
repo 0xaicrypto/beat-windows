@@ -1,6 +1,134 @@
 {
-  "generated": "2026-10-07T08:46:58.116Z",
+  "generated": "2026-10-07T16:36:20.920Z",
   "items": [
+    {
+      "title": "Creating distro build tooling for a small community",
+      "url": "https://chimera-linux.org/news/2026/10/the-case-for-cbuild.html",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-10-07T16:23:03.000Z"
+    },
+    {
+      "title": "Star Labs StarFighter Ultra: A Modern High-End Linux Laptop With Coreboot",
+      "url": "https://www.phoronix.com/review/star-labs-starfighter",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-07T16:00:00.000Z"
+    },
+    {
+      "title": "Googlebook Glowbar doesn’t have the ‘knock-knock’ Chromebook Pixel battery gesture",
+      "url": "https://9to5google.com/2026/10/07/googlebook-glowbar/",
+      "source": "9to5Google · Googlebook",
+      "tag": "android",
+      "site": "https://9to5google.com/guides/googlebook/",
+      "date": "2026-10-07T15:25:00.000Z"
+    },
+    {
+      "title": "[$] Analyzing Rust programs with Charon",
+      "url": "https://lwn.net/Articles/1097198/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-07T15:19:59.000Z"
+    },
+    {
+      "title": "The Galaxy Tab S12 is so good it makes Googlebook look dead on arrival",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWVZDZDdRY1RoVmRnWXR3SUhhZTQ2emd3MzVzUnAtam93NVA3YmhxV1k2N3J4NGpjT01ZbElnSl9fOUdHUHkwOGJvaWVnVDdVZEJGcDVHRWs5ektUUVBIVzFGRjVnaXJVZGdISWdsd05qektFMnM0SlFpaEo2RTNiU0hpcmtzMDZDWjZyOHpCWmtyckFFRDFBUDhUbnFMUQ?oc=5",
+      "source": "Android Police",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-07T15:00:10.000Z"
+    },
+    {
+      "title": "NVIDIA 615.78.08 Linux Driver Adds VK_NV_low_latency2 r3 For Improved VKD3D-Proton",
+      "url": "https://www.phoronix.com/news/NVIDIA-615.78.08-Linux",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-07T13:45:10.000Z"
+    },
+    {
+      "title": "[$] Evolving the LAVD scheduler from gaming to servers",
+      "url": "https://lwn.net/Articles/1097209/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-07T13:33:48.000Z"
+    },
+    {
+      "title": "Justice League all over again; Henry Cavill’s mustache vanishes in new Googlebook promo [Video]",
+      "url": "https://9to5google.com/2026/10/07/henry-cavill-googlebook-promo-mustache-justice-league/",
+      "source": "9to5Google · Googlebook",
+      "tag": "android",
+      "site": "https://9to5google.com/guides/googlebook/",
+      "date": "2026-10-07T13:30:00.000Z"
+    },
+    {
+      "title": "A new Raspberry Pi Desktop release is finally available for x86-64",
+      "url": "https://lwn.net/Articles/1099206/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-07T13:26:25.000Z"
+    },
+    {
+      "title": "Security updates for Wednesday",
+      "url": "https://lwn.net/Articles/1099202/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-07T13:08:53.000Z"
+    },
+    {
+      "title": "Kage: Google Experimenting With Linux Driver Isolation Using In-Kernel LFI Sandboxes",
+      "url": "https://www.phoronix.com/news/Kage-Linux-Driver-Isolation",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-07T12:50:16.000Z"
+    },
+    {
+      "title": "Painting a good story: Multi-frame",
+      "url": "https://eclecticlight.co/2026/10/07/painting-a-good-story-multi-frame/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-10-07T11:30:00.000Z"
+    },
+    {
+      "title": "Qualcomm Posts QPaCE Linux Driver Code For Faster ZRAM On Newest SoCs",
+      "url": "https://www.phoronix.com/news/Qialcomm-QPaCE-Linux-ZRAM",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-07T11:21:40.000Z"
+    },
+    {
+      "title": "XMFS: Experimental File-System Being Worked On By Huawei For Modern Linux Servers",
+      "url": "https://www.phoronix.com/news/XMFS-Linux-File-System",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-07T10:20:28.000Z"
+    },
+    {
+      "title": "Microsoft Updates Its WSL2 Linux Kernel With DXGKRNL Improvement, More Features Enabled",
+      "url": "https://www.phoronix.com/news/WSL2-Linux-Kernel-Fence-Sharing",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-07T09:57:35.000Z"
+    },
+    {
+      "title": "AMD Engineer Talks Up New IBS Memory Profiler Feature Found On Zen 6",
+      "url": "https://www.phoronix.com/news/AMD-Zen-6-IBS-Memory-Profiler",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-07T09:47:54.000Z"
+    },
     {
       "title": "Headers Up! What's New in httpd and relayd",
       "url": "https://rsadowski.de/posts/2026/update-relayd-and-httpd/",
@@ -162,36 +290,12 @@
       "date": "2026-10-06T16:05:00.000Z"
     },
     {
-      "title": "NVIDIA Vera HPC Performance Benchmarks Take On AMD EPYC, Intel Xeon",
-      "url": "https://www.phoronix.com/review/nvidia-vera-hpc",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-06T16:00:08.000Z"
-    },
-    {
       "title": "Intel Says Its Googlebooks Won’t Have Issues With Android Apps, Despite Google’s Claims",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1eVo0WUs1VzNSSkNTYXU5YTlUc21QeVJsSVY3ZUZCV0U2Yzc2a3ZNZkV2ZnVmakE1R19IZFhrUVBrc0J2WVIycTdOOTl1TXpRLTNBRkRMVVM1RUFnR1MxQ0JmNEFSbnVYanVxbEluNC1QUDMyNC0wbDAxQXN0MDQ?oc=5",
       "source": "Gizmodo",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-06T15:13:50.000Z"
-    },
-    {
-      "title": "[$] Python's two modules for random numbers",
-      "url": "https://lwn.net/Articles/1097468/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-06T15:02:09.000Z"
-    },
-    {
-      "title": "Vulkan API Improvements Coming For The AMD Polaris GPUs With Mesa RADV",
-      "url": "https://www.phoronix.com/news/More-Reliable-Vulkan-Polaris",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-06T14:21:19.000Z"
     },
     {
       "title": "Googlebook’s Android-integrated features won’t work with Samsung phones at launch",
@@ -210,54 +314,6 @@
       "date": "2026-10-06T14:15:00.000Z"
     },
     {
-      "title": "[$] Last rites for Gentoo's Chromium package",
-      "url": "https://lwn.net/Articles/1097760/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-06T13:44:50.000Z"
-    },
-    {
-      "title": "OpenSSH 10.6 released",
-      "url": "https://lwn.net/Articles/1098980/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-06T13:42:48.000Z"
-    },
-    {
-      "title": "IBM & Red Hat Find More Than 400 New Vulnerabilities In Popular Java Code",
-      "url": "https://www.phoronix.com/news/IBM-Red-Hat-Java-400-Vulns",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-06T13:23:33.000Z"
-    },
-    {
-      "title": "Security updates for Tuesday",
-      "url": "https://lwn.net/Articles/1098979/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-06T13:12:24.000Z"
-    },
-    {
-      "title": "The Importance Of Intel's LPMD For Linux Gaming Performance & Power Efficiency",
-      "url": "https://www.phoronix.com/news/Intel-LPMD-Linux-Gaming",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-06T13:11:37.000Z"
-    },
-    {
-      "title": "Blender 6.0 May End Up Removing OpenGL Support",
-      "url": "https://www.phoronix.com/news/Blender-6.0-May-Remove-OpenGL",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-06T12:11:41.000Z"
-    },
-    {
       "title": "Portraits of trees: Birch",
       "url": "https://eclecticlight.co/2026/10/06/portraits-of-trees-birch/",
       "source": "Eclectic Light",
@@ -274,44 +330,12 @@
       "date": "2026-10-06T11:00:00.000Z"
     },
     {
-      "title": "Meta Developing Compressed RAM \"CRAM\" For Linux: Better Than ZRAM & Zswap",
-      "url": "https://www.phoronix.com/news/Linux-CRAM-Compressed-RAM",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-06T10:23:06.000Z"
-    },
-    {
-      "title": "Windows Subsystem For Linux Can Now Run On Very Large Servers, Experimental Sparse VHD",
-      "url": "https://www.phoronix.com/news/Microsoft-WSL-3.0.2",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-06T10:05:34.000Z"
-    },
-    {
-      "title": "Intel Compiler Engineer Shares Latest Project Gains For APX",
-      "url": "https://www.phoronix.com/news/Intel-APX-Projected-Gains",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-06T09:54:17.000Z"
-    },
-    {
       "title": "Privacy, Full Disk Access and AI agents",
       "url": "https://eclecticlight.co/2026/10/06/privacy-full-disk-access-and-ai-agents/",
       "source": "Eclectic Light",
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-10-06T06:30:00.000Z"
-    },
-    {
-      "title": "Googlebooks Can Run a Custom OS Through Unlockable Bootloader",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVWN4eU16TkNQeGN0MzZIaGNRZUQ1a0dxOUNVUEpnTy1vdFBPTy1yYVpwMWh1MWR0ajVReVY4ZWJoRDNRd0plbHlTSWEtOGlsc1I2T3ZGN0tqNmYzZmJTS2ZDdTJhXzBqRzF4anF6VGFmQWhPV3c3bDg3VFNaNTZOLUlTajE1QVdYYV9JM3RSX3l3dw?oc=5",
-      "source": "PCMag",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-06T06:24:09.000Z"
     },
     {
       "title": "Steve Jobs, Walking Through a Mockup for Apple Park in 2010",
@@ -392,22 +416,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-05T20:30:26.000Z"
-    },
-    {
-      "title": "The Asus Googlebook 14 is sprinkled with hints of greatness",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wVDF3dDVxVmY1VlhFcGhVYTZYMFpvOFYyc0cyT2gxTE9Xbk16SWFfcE80TTRDb3cxTnZtRmN5VlVVdEtUSWlxUllhUENnTmZ5cVhOakNiM09ORjdXNVlRTUVXeW4?oc=5",
-      "source": "Pocket-lint",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-05T20:29:00.000Z"
-    },
-    {
-      "title": "Not Every Android App Works on Every Googlebook, and Intel Is the Reason",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVk1oZ3VPNkxSSk9UMXFHRVMxUl9XTjdQdnRKd2pWck5vWlM2TlllMjFwTEp1NnFza2ljOUJZcDRBU2hpd01IdGxxZkhPYjQ0UkJBVTdKUWkzT1BuakxtUzdoYnVNZk9saUlvNTNSc01yLXV0dHZPLUcwMmVkTXRhMGUwSkk2Z3VZTXVyS1hKVFdqYVFoSEFMSHhzNW02eUFQRERIbkRrTDREMWM4aVJNNm9zdUM0clRU?oc=5",
-      "source": "androidheadlines.com",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-05T19:34:06.000Z"
     },
     {
       "title": "Ternus and Cook Tweet Brief Remembrances on the 15th Anniversary of Steve Jobs’s Death",
@@ -496,14 +504,6 @@
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-10-03T08:00:00.000Z"
-    },
-    {
-      "title": "What changed in macOS Tahoe 26.4? (Take 2)",
-      "url": "https://eclecticlight.co/2026/10/03/what-changed-in-macos-tahoe-26-4-take-2/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-10-03T07:00:00.000Z"
     },
     {
       "title": "CoW — a stacking window manager for Wayland",
