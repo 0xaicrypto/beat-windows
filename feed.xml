@@ -5,8 +5,56 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 07 Oct 2026 22:02:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 02:01:09 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Steam Beta Now Defaults Non-Steam Windows Binaries To Using Proton</title>
+      <link>https://www.phoronix.com/news/Steam-Beta-Use-Proton-Default</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Steam-Beta-Use-Proton-Default</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 08 Oct 2026 01:09:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Issues First Release Of Their LiteBox Sandboxing Library OS</title>
+      <link>https://www.phoronix.com/news/Microsoft-LiteBox-0.1</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Microsoft-LiteBox-0.1</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 08 Oct 2026 00:43:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>[$] LWN.net Weekly Edition for October 8, 2026</title>
+      <link>https://lwn.net/Articles/1097859/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1097859/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Thu, 08 Oct 2026 00:22:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI Makes &quot;Open-Source, Clean Room&quot; Implementations Of Adobe Photoshop &amp; Premier In Rust</title>
+      <link>https://www.phoronix.com/news/Photocraft-Filmcraft-AI</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Photocraft-Filmcraft-AI</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 08 Oct 2026 00:12:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jaguar Type 01</title>
+      <link>https://insideevs.com/news/810839/jaguar-type-01-launch-ev/</link>
+      <guid isPermaLink="true">https://insideevs.com/news/810839/jaguar-type-01-launch-ev/</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Wed, 07 Oct 2026 23:22:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gurman Strikes Again: ‘Apple’s Smart Home Push Includes Doorbell, Lock, Thermostat Codeveloped With LG’</title>
+      <link>https://www.bloomberg.com/news/articles/2026-10-06/apple-s-smart-home-push-includes-doorbell-lock-thermostat-codeveloped-with-lg?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTMyMDkxNiwiZXhwIjoxNzkxOTI1NzE2LCJhcnRpY2xlSWQiOiJUTUdDN0lLSkg2VjUwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.LSK9jlXYPFHac9EpcJCErTgJNAwqmpV6qFoORcKffVo</link>
+      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-10-06/apple-s-smart-home-push-includes-doorbell-lock-thermostat-codeveloped-with-lg?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTMyMDkxNiwiZXhwIjoxNzkxOTI1NzE2LCJhcnRpY2xlSWQiOiJUTUdDN0lLSkg2VjUwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.LSK9jlXYPFHac9EpcJCErTgJNAwqmpV6qFoORcKffVo</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Wed, 07 Oct 2026 22:02:43 GMT</pubDate>
+    </item>
     <item>
       <title>FEX 2610 Released With Handling For AVX-VNNI, Disk Cache Improvements</title>
       <link>https://www.phoronix.com/news/FEX-2610-Released</link>
@@ -200,44 +248,12 @@
       <pubDate>Wed, 07 Oct 2026 00:56:04 GMT</pubDate>
     </item>
     <item>
-      <title>Raspberry Pi Desktop now available for PC and Mac</title>
-      <link>https://www.raspberrypi.com/news/raspberry-pi-desktop-now-available-for-pc-and-mac/</link>
-      <guid isPermaLink="true">https://www.raspberrypi.com/news/raspberry-pi-desktop-now-available-for-pc-and-mac/</guid>
-      <category>linux</category>
-      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
-      <pubDate>Wed, 07 Oct 2026 00:24:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Is COSMIC DE mogging KDE Plasma?</title>
-      <link>https://thelibre.news/is-cosmic-de-mogging-kde-plasma/</link>
-      <guid isPermaLink="true">https://thelibre.news/is-cosmic-de-mogging-kde-plasma/</guid>
-      <category>linux</category>
-      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
-      <pubDate>Wed, 07 Oct 2026 00:15:00 GMT</pubDate>
-    </item>
-    <item>
       <title>5 Reasons Why Android Phone Users Will Want A Googlebook</title>
       <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxOXzQ4aHQwZGdCbTZMcjBoSlFUZXh3M21LamRwRE5FUHR1c3pRRjhSZUZETU1pQUFDei11WVNZUEEtQVVoMHRnOVdQcFlHMW1qQ2h3UXE0QXp4Wm4wcmZHcU1BQlJ4TnJCZ0J4eXJhQlUyZFJwWVQzMnlBV3U5TEdteTlIZw?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMigwFBVV95cUxOXzQ4aHQwZGdCbTZMcjBoSlFUZXh3M21LamRwRE5FUHR1c3pRRjhSZUZETU1pQUFDei11WVNZUEEtQVVoMHRnOVdQcFlHMW1qQ2h3UXE0QXp4Wm4wcmZHcU1BQlJ4TnJCZ0J4eXJhQlUyZFJwWVQzMnlBV3U5TEdteTlIZw?oc=5</guid>
       <category>android</category>
       <source url="https://news.google.com/">BGR</source>
       <pubDate>Tue, 06 Oct 2026 23:17:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Janet on x32: 32-bit Pointers, 64-bit Speed, 25% Less RAM</title>
-      <link>https://alexalejandre.com/programming/lisp/janet-for-the-x32-abi/</link>
-      <guid isPermaLink="true">https://alexalejandre.com/programming/lisp/janet-for-the-x32-abi/</guid>
-      <category>linux</category>
-      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
-      <pubDate>Tue, 06 Oct 2026 22:26:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Canonical Reaffirms Plans For Ubuntu 27.04 To Use ntpd-rs By Default</title>
-      <link>https://www.phoronix.com/news/Ubuntu-27.04-ntpd-rs-Plans</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Ubuntu-27.04-ntpd-rs-Plans</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Tue, 06 Oct 2026 21:08:51 GMT</pubDate>
     </item>
     <item>
       <title>Pared - remove unwanted Apple Intelligence models without disabling SIP</title>
@@ -390,22 +406,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Mon, 05 Oct 2026 22:59:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google Acknowledges Day 1 Android App Performance Issues on New Laptops</title>
-      <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxNRi1JMEVjanVzNG5RWVJibGlWNk1qUS1pX2NpSktmMGh2V3h2QzBYTWZpSHVodDNMVWtzMDk5SFcyU0tHX1R0X05rV25fRVlfZktKdk5NSWxYNlNyckQ3Vl9PejgxbGI4WWd2Q1JLUlphd1NnWTE0d1M2d1ZmZkN4Q21QNlp1bjdPcE1iYWhlZGpQcVhRWXBWQUFWTEpnWkhTT3dhXzNKOVh1VF9KR0h3?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMirwFBVV95cUxNRi1JMEVjanVzNG5RWVJibGlWNk1qUS1pX2NpSktmMGh2V3h2QzBYTWZpSHVodDNMVWtzMDk5SFcyU0tHX1R0X05rV25fRVlfZktKdk5NSWxYNlNyckQ3Vl9PejgxbGI4WWd2Q1JLUlphd1NnWTE0d1M2d1ZmZkN4Q21QNlp1bjdPcE1iYWhlZGpQcVhRWXBWQUFWTEpnWkhTT3dhXzNKOVh1VF9KR0h3?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">CNET</source>
-      <pubDate>Mon, 05 Oct 2026 21:54:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Googlebook gets Luminar photo editing app with ‘Continue On’ support</title>
-      <link>https://9to5google.com/2026/10/05/googlebook-luminar-photo-editing-app/</link>
-      <guid isPermaLink="true">https://9to5google.com/2026/10/05/googlebook-luminar-photo-editing-app/</guid>
-      <category>android</category>
-      <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
-      <pubDate>Mon, 05 Oct 2026 21:35:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

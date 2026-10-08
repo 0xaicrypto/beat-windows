@@ -1,6 +1,54 @@
 {
-  "generated": "2026-10-07T22:02:44.138Z",
+  "generated": "2026-10-08T02:01:09.188Z",
   "items": [
+    {
+      "title": "Steam Beta Now Defaults Non-Steam Windows Binaries To Using Proton",
+      "url": "https://www.phoronix.com/news/Steam-Beta-Use-Proton-Default",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-08T01:09:05.000Z"
+    },
+    {
+      "title": "Microsoft Issues First Release Of Their LiteBox Sandboxing Library OS",
+      "url": "https://www.phoronix.com/news/Microsoft-LiteBox-0.1",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-08T00:43:11.000Z"
+    },
+    {
+      "title": "[$] LWN.net Weekly Edition for October 8, 2026",
+      "url": "https://lwn.net/Articles/1097859/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-08T00:22:31.000Z"
+    },
+    {
+      "title": "AI Makes \"Open-Source, Clean Room\" Implementations Of Adobe Photoshop & Premier In Rust",
+      "url": "https://www.phoronix.com/news/Photocraft-Filmcraft-AI",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-08T00:12:44.000Z"
+    },
+    {
+      "title": "Jaguar Type 01",
+      "url": "https://insideevs.com/news/810839/jaguar-type-01-launch-ev/",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-07T23:22:28.000Z"
+    },
+    {
+      "title": "Gurman Strikes Again: ‘Apple’s Smart Home Push Includes Doorbell, Lock, Thermostat Codeveloped With LG’",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-06/apple-s-smart-home-push-includes-doorbell-lock-thermostat-codeveloped-with-lg?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTMyMDkxNiwiZXhwIjoxNzkxOTI1NzE2LCJhcnRpY2xlSWQiOiJUTUdDN0lLSkg2VjUwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.LSK9jlXYPFHac9EpcJCErTgJNAwqmpV6qFoORcKffVo",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-07T22:02:43.000Z"
+    },
     {
       "title": "FEX 2610 Released With Handling For AVX-VNNI, Disk Cache Improvements",
       "url": "https://www.phoronix.com/news/FEX-2610-Released",
@@ -194,44 +242,12 @@
       "date": "2026-10-07T00:56:04.000Z"
     },
     {
-      "title": "Raspberry Pi Desktop now available for PC and Mac",
-      "url": "https://www.raspberrypi.com/news/raspberry-pi-desktop-now-available-for-pc-and-mac/",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-10-07T00:24:16.000Z"
-    },
-    {
-      "title": "Is COSMIC DE mogging KDE Plasma?",
-      "url": "https://thelibre.news/is-cosmic-de-mogging-kde-plasma/",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-10-07T00:15:00.000Z"
-    },
-    {
       "title": "5 Reasons Why Android Phone Users Will Want A Googlebook",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOXzQ4aHQwZGdCbTZMcjBoSlFUZXh3M21LamRwRE5FUHR1c3pRRjhSZUZETU1pQUFDei11WVNZUEEtQVVoMHRnOVdQcFlHMW1qQ2h3UXE0QXp4Wm4wcmZHcU1BQlJ4TnJCZ0J4eXJhQlUyZFJwWVQzMnlBV3U5TEdteTlIZw?oc=5",
       "source": "BGR",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-06T23:17:00.000Z"
-    },
-    {
-      "title": "Janet on x32: 32-bit Pointers, 64-bit Speed, 25% Less RAM",
-      "url": "https://alexalejandre.com/programming/lisp/janet-for-the-x32-abi/",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-10-06T22:26:46.000Z"
-    },
-    {
-      "title": "Canonical Reaffirms Plans For Ubuntu 27.04 To Use ntpd-rs By Default",
-      "url": "https://www.phoronix.com/news/Ubuntu-27.04-ntpd-rs-Plans",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-06T21:08:51.000Z"
     },
     {
       "title": "Pared - remove unwanted Apple Intelligence models without disabling SIP",
@@ -488,22 +504,6 @@
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-10-03T18:21:14.000Z"
-    },
-    {
-      "title": "Leaf peeping: painting autumn 1650-1899",
-      "url": "https://eclecticlight.co/2026/10/03/leaf-peeping-painting-autumn-1650-1899/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-10-03T11:30:00.000Z"
-    },
-    {
-      "title": "Saturday Mac riddles 380",
-      "url": "https://eclecticlight.co/2026/10/03/saturday-mac-riddles-380/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-10-03T08:00:00.000Z"
     },
     {
       "title": "CoW — a stacking window manager for Wayland",
