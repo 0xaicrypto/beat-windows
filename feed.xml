@@ -5,8 +5,64 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Oct 2026 16:34:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 22:09:28 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Apple Is Slow-Rolling iOS 27 Adoption, So Far</title>
+      <link>https://mastodon.social/@_Davidsmith/117355154519434137</link>
+      <guid isPermaLink="true">https://mastodon.social/@_Davidsmith/117355154519434137</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Thu, 08 Oct 2026 19:30:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Joz Announces ‘Welcome Home’ Keynote Coming Tuesday, 13 October</title>
+      <link>https://x.com/gregjoz/status/2108226096407994858</link>
+      <guid isPermaLink="true">https://x.com/gregjoz/status/2108226096407994858</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Thu, 08 Oct 2026 19:00:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Logitech brings its mouse &amp; keyboard controller to Googlebook, supports Magic Pointer</title>
+      <link>https://9to5google.com/2026/10/08/logitech-brings-its-mouse-keyboard-controller-to-googlebook-supports-magic-pointer/</link>
+      <guid isPermaLink="true">https://9to5google.com/2026/10/08/logitech-brings-its-mouse-keyboard-controller-to-googlebook-supports-magic-pointer/</guid>
+      <category>android</category>
+      <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
+      <pubDate>Thu, 08 Oct 2026 17:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>EXT4 Deprecates Its Journaled &quot;data=journal&quot; Mode</title>
+      <link>https://www.phoronix.com/news/EXT4-Deprecates-Journal-Mode</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/EXT4-Deprecates-Journal-Mode</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 08 Oct 2026 17:04:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>[$] An update on Rust's project goals</title>
+      <link>https://lwn.net/Articles/1098617/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1098617/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Thu, 08 Oct 2026 17:00:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Someone got Googlebook OS running on an Apple Silicon Mac</title>
+      <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxNVUp3dzVqcC1EQTlBRVF4ZzNXdEhkd3ZCQzRxU2RwNTVtdmxaMGt4emNFc3lqSGFRQWpKeTRiRWxhU3NWdnpUc1BqTS1GbjJpSkJURTRLTVV4SXFPWklYY3pZVlpPdlpHbmt4b3lxVjNnSE04ckFEa09qeWtMbEZ1SG5DUDdFTUlRazZ5OQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMijAFBVV95cUxNVUp3dzVqcC1EQTlBRVF4ZzNXdEhkd3ZCQzRxU2RwNTVtdmxaMGt4emNFc3lqSGFRQWpKeTRiRWxhU3NWdnpUc1BqTS1GbjJpSkJURTRLTVV4SXFPWklYY3pZVlpPdlpHbmt4b3lxVjNnSE04ckFEa09qeWtMbEZ1SG5DUDdFTUlRazZ5OQ?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">How-To Geek</source>
+      <pubDate>Thu, 08 Oct 2026 16:53:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>COSMIC Epoch 1.10 Released With Launcher Now Using GPU Accelerated Rendering</title>
+      <link>https://www.phoronix.com/news/COSMIC-Epoch-1.10</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/COSMIC-Epoch-1.10</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 08 Oct 2026 16:43:19 GMT</pubDate>
+    </item>
     <item>
       <title>Ubuntu Currently Suffering From Sustained DDoS Attack</title>
       <link>https://www.phoronix.com/news/Ubuntu-DDoS-October-2026</link>
@@ -184,36 +240,12 @@
       <pubDate>Wed, 07 Oct 2026 22:02:43 GMT</pubDate>
     </item>
     <item>
-      <title>FEX 2610 Released With Handling For AVX-VNNI, Disk Cache Improvements</title>
-      <link>https://www.phoronix.com/news/FEX-2610-Released</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/FEX-2610-Released</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Wed, 07 Oct 2026 21:16:47 GMT</pubDate>
-    </item>
-    <item>
       <title>Samsung Googlebook Geekbench Listing: Confirmed vs Rumor</title>
       <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxPcW04bFdlUVVOcUR1QW9FYWYwLV9kaXQ2SVZ6dzFzMmZjV1JpU0VZVmNKSFNmcnRveDlicGJXanlHd1g0VnQtTG1qZkRmX1dPeVl3Rl93U2VMdm5oUXUwN0NyendCbjRPMUdrTGpuWWFqbERLZnNRQzNTN2Ntc3BZa3NRN0NhWmtyQkFfX0s0NmtpekpCWDFrMw?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMimAFBVV95cUxPcW04bFdlUVVOcUR1QW9FYWYwLV9kaXQ2SVZ6dzFzMmZjV1JpU0VZVmNKSFNmcnRveDlicGJXanlHd1g0VnQtTG1qZkRmX1dPeVl3Rl93U2VMdm5oUXUwN0NyendCbjRPMUdrTGpuWWFqbERLZnNRQzNTN2Ntc3BZa3NRN0NhWmtyQkFfX0s0NmtpekpCWDFrMw?oc=5</guid>
       <category>android</category>
       <source url="https://news.google.com/">Gadget Hacks</source>
       <pubDate>Wed, 07 Oct 2026 18:01:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hello, my name is Orca</title>
-      <link>https://linnemanlabs.com/posts/hello-my-name-is-orca/</link>
-      <guid isPermaLink="true">https://linnemanlabs.com/posts/hello-my-name-is-orca/</guid>
-      <category>linux</category>
-      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
-      <pubDate>Wed, 07 Oct 2026 17:28:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Creating distro build tooling for a small community</title>
-      <link>https://chimera-linux.org/news/2026/10/the-case-for-cbuild.html</link>
-      <guid isPermaLink="true">https://chimera-linux.org/news/2026/10/the-case-for-cbuild.html</guid>
-      <category>linux</category>
-      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
-      <pubDate>Wed, 07 Oct 2026 16:23:03 GMT</pubDate>
     </item>
     <item>
       <title>Googlebook Glowbar doesn’t have the ‘knock-knock’ Chromebook Pixel battery gesture</title>
@@ -374,38 +406,6 @@
       <category>android</category>
       <source url="https://news.google.com/">9to5Google</source>
       <pubDate>Tue, 06 Oct 2026 14:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Portraits of trees: Birch</title>
-      <link>https://eclecticlight.co/2026/10/06/portraits-of-trees-birch/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/10/06/portraits-of-trees-birch/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Tue, 06 Oct 2026 11:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>The first thing you should do on Googlebook is fix the trackpad</title>
-      <link>https://9to5google.com/2026/10/06/googlebook-trackpad-cursor-speed/</link>
-      <guid isPermaLink="true">https://9to5google.com/2026/10/06/googlebook-trackpad-cursor-speed/</guid>
-      <category>android</category>
-      <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
-      <pubDate>Tue, 06 Oct 2026 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Privacy, Full Disk Access and AI agents</title>
-      <link>https://eclecticlight.co/2026/10/06/privacy-full-disk-access-and-ai-agents/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/10/06/privacy-full-disk-access-and-ai-agents/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Tue, 06 Oct 2026 06:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Steve Jobs, Walking Through a Mockup for Apple Park in 2010</title>
-      <link>https://book.stevejobsarchive.com/#photo-37</link>
-      <guid isPermaLink="true">https://book.stevejobsarchive.com/#photo-37</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Tue, 06 Oct 2026 02:49:44 GMT</pubDate>
     </item>
   </channel>
 </rss>

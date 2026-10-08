@@ -1,6 +1,62 @@
 {
-  "generated": "2026-10-08T16:34:42.626Z",
+  "generated": "2026-10-08T22:09:28.848Z",
   "items": [
+    {
+      "title": "Apple Is Slow-Rolling iOS 27 Adoption, So Far",
+      "url": "https://mastodon.social/@_Davidsmith/117355154519434137",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-08T19:30:36.000Z"
+    },
+    {
+      "title": "Joz Announces ‘Welcome Home’ Keynote Coming Tuesday, 13 October",
+      "url": "https://x.com/gregjoz/status/2108226096407994858",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-08T19:00:09.000Z"
+    },
+    {
+      "title": "Logitech brings its mouse & keyboard controller to Googlebook, supports Magic Pointer",
+      "url": "https://9to5google.com/2026/10/08/logitech-brings-its-mouse-keyboard-controller-to-googlebook-supports-magic-pointer/",
+      "source": "9to5Google · Googlebook",
+      "tag": "android",
+      "site": "https://9to5google.com/guides/googlebook/",
+      "date": "2026-10-08T17:35:00.000Z"
+    },
+    {
+      "title": "EXT4 Deprecates Its Journaled \"data=journal\" Mode",
+      "url": "https://www.phoronix.com/news/EXT4-Deprecates-Journal-Mode",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-08T17:04:01.000Z"
+    },
+    {
+      "title": "[$] An update on Rust's project goals",
+      "url": "https://lwn.net/Articles/1098617/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-08T17:00:30.000Z"
+    },
+    {
+      "title": "Someone got Googlebook OS running on an Apple Silicon Mac",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVUp3dzVqcC1EQTlBRVF4ZzNXdEhkd3ZCQzRxU2RwNTVtdmxaMGt4emNFc3lqSGFRQWpKeTRiRWxhU3NWdnpUc1BqTS1GbjJpSkJURTRLTVV4SXFPWklYY3pZVlpPdlpHbmt4b3lxVjNnSE04ckFEa09qeWtMbEZ1SG5DUDdFTUlRazZ5OQ?oc=5",
+      "source": "How-To Geek",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-08T16:53:22.000Z"
+    },
+    {
+      "title": "COSMIC Epoch 1.10 Released With Launcher Now Using GPU Accelerated Rendering",
+      "url": "https://www.phoronix.com/news/COSMIC-Epoch-1.10",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-08T16:43:19.000Z"
+    },
     {
       "title": "Ubuntu Currently Suffering From Sustained DDoS Attack",
       "url": "https://www.phoronix.com/news/Ubuntu-DDoS-October-2026",
@@ -178,36 +234,12 @@
       "date": "2026-10-07T22:02:43.000Z"
     },
     {
-      "title": "FEX 2610 Released With Handling For AVX-VNNI, Disk Cache Improvements",
-      "url": "https://www.phoronix.com/news/FEX-2610-Released",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-07T21:16:47.000Z"
-    },
-    {
       "title": "Samsung Googlebook Geekbench Listing: Confirmed vs Rumor",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcW04bFdlUVVOcUR1QW9FYWYwLV9kaXQ2SVZ6dzFzMmZjV1JpU0VZVmNKSFNmcnRveDlicGJXanlHd1g0VnQtTG1qZkRmX1dPeVl3Rl93U2VMdm5oUXUwN0NyendCbjRPMUdrTGpuWWFqbERLZnNRQzNTN2Ntc3BZa3NRN0NhWmtyQkFfX0s0NmtpekpCWDFrMw?oc=5",
       "source": "Gadget Hacks",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-07T18:01:55.000Z"
-    },
-    {
-      "title": "Hello, my name is Orca",
-      "url": "https://linnemanlabs.com/posts/hello-my-name-is-orca/",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-10-07T17:28:43.000Z"
-    },
-    {
-      "title": "Creating distro build tooling for a small community",
-      "url": "https://chimera-linux.org/news/2026/10/the-case-for-cbuild.html",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-10-07T16:23:03.000Z"
     },
     {
       "title": "Googlebook Glowbar doesn’t have the ‘knock-knock’ Chromebook Pixel battery gesture",
@@ -434,22 +466,6 @@
       "date": "2026-10-05T22:59:14.000Z"
     },
     {
-      "title": "Google Acknowledges Day 1 Android App Performance Issues on New Laptops",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRi1JMEVjanVzNG5RWVJibGlWNk1qUS1pX2NpSktmMGh2V3h2QzBYTWZpSHVodDNMVWtzMDk5SFcyU0tHX1R0X05rV25fRVlfZktKdk5NSWxYNlNyckQ3Vl9PejgxbGI4WWd2Q1JLUlphd1NnWTE0d1M2d1ZmZkN4Q21QNlp1bjdPcE1iYWhlZGpQcVhRWXBWQUFWTEpnWkhTT3dhXzNKOVh1VF9KR0h3?oc=5",
-      "source": "CNET",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-05T21:54:19.000Z"
-    },
-    {
-      "title": "Googlebook gets Luminar photo editing app with ‘Continue On’ support",
-      "url": "https://9to5google.com/2026/10/05/googlebook-luminar-photo-editing-app/",
-      "source": "9to5Google · Googlebook",
-      "tag": "android",
-      "site": "https://9to5google.com/guides/googlebook/",
-      "date": "2026-10-05T21:35:00.000Z"
-    },
-    {
       "title": "Ternus and Cook Tweet Brief Remembrances on the 15th Anniversary of Steve Jobs’s Death",
       "url": "https://x.com/johnternus/status/2107093462118199562",
       "source": "Daring Fireball",
@@ -482,28 +498,12 @@
       "date": "2026-10-05T06:30:00.000Z"
     },
     {
-      "title": "Leaf peeping: painting autumn 1900-1945",
-      "url": "https://eclecticlight.co/2026/10/04/leaf-peeping-painting-autumn-1900-1945/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-10-04T11:30:00.000Z"
-    },
-    {
       "title": "OpenBSD Developers Reject Uutils Coreutils",
       "url": "https://news.lavx.hu/article/openbsd-developers-reject-uutils-coreutils-port-over-licensing-and-compatibility-concerns",
       "source": "HN · OpenBSD",
       "tag": "bsd",
       "site": "https://news.ycombinator.com/",
       "date": "2026-10-04T07:55:24.000Z"
-    },
-    {
-      "title": "Last Week on My Mac: The AI on the AIRer is drying",
-      "url": "https://eclecticlight.co/2026/10/04/last-week-on-my-mac-the-ai-on-the-airer-is-drying/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-10-04T07:00:00.000Z"
     },
     {
       "title": "CoW — a stacking window manager for Wayland",
