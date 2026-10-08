@@ -5,8 +5,16 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Oct 2026 02:01:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 09:05:44 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>What controls access to files?</title>
+      <link>https://eclecticlight.co/2026/10/08/what-controls-access-to-files/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/10/08/what-controls-access-to-files/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Thu, 08 Oct 2026 06:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>Steam Beta Now Defaults Non-Steam Windows Binaries To Using Proton</title>
       <link>https://www.phoronix.com/news/Steam-Beta-Use-Proton-Default</link>
@@ -398,14 +406,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Mon, 05 Oct 2026 23:49:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI Announces Their Text Watermarking Plans</title>
-      <link>https://openai.com/index/eu-text-provenance/</link>
-      <guid isPermaLink="true">https://openai.com/index/eu-text-provenance/</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Mon, 05 Oct 2026 22:59:14 GMT</pubDate>
     </item>
   </channel>
 </rss>

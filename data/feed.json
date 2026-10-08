@@ -1,6 +1,14 @@
 {
-  "generated": "2026-10-08T02:01:09.188Z",
+  "generated": "2026-10-08T09:05:44.144Z",
   "items": [
+    {
+      "title": "What controls access to files?",
+      "url": "https://eclecticlight.co/2026/10/08/what-controls-access-to-files/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-10-08T06:30:00.000Z"
+    },
     {
       "title": "Steam Beta Now Defaults Non-Steam Windows Binaries To Using Proton",
       "url": "https://www.phoronix.com/news/Steam-Beta-Use-Proton-Default",
@@ -496,14 +504,6 @@
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-10-03T21:23:10.000Z"
-    },
-    {
-      "title": "Apple Confirms iPhone 18 Pro Max AT&T Cellular Issues, Affected Devices Require Hardware Replacement",
-      "url": "https://9to5mac.com/2026/10/02/apple-confirms-iphone-18-pro-max-att-cellular-issues-affected-devices-require-hardware-replacement/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-03T18:21:14.000Z"
     },
     {
       "title": "CoW — a stacking window manager for Wayland",
