@@ -5,8 +5,128 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Oct 2026 09:05:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 16:34:42 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ubuntu Currently Suffering From Sustained DDoS Attack</title>
+      <link>https://www.phoronix.com/news/Ubuntu-DDoS-October-2026</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Ubuntu-DDoS-October-2026</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 08 Oct 2026 15:41:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ubuntu 26.10 Delivers Nice I/O Performance Wins Over Ubuntu 26.04 On AMD EPYC</title>
+      <link>https://www.phoronix.com/review/ubuntu-2610-amd-epyc</link>
+      <guid isPermaLink="true">https://www.phoronix.com/review/ubuntu-2610-amd-epyc</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 08 Oct 2026 15:28:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Secretive Rosaic Labs Hires Legendary Linux x86 Developer</title>
+      <link>https://www.phoronix.com/news/H-Peter-Anvin-Rosaic-Labs</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/H-Peter-Anvin-Rosaic-Labs</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 08 Oct 2026 14:33:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>[$] The [vx]swap showdown</title>
+      <link>https://lwn.net/Articles/1098399/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1098399/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Thu, 08 Oct 2026 13:43:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nova Driver Continues Progressing With Long-Term Goal For Official NVIDIA Linux Use</title>
+      <link>https://www.phoronix.com/news/Nova-Driver-LPC-2026</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Nova-Driver-LPC-2026</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 08 Oct 2026 13:29:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Security updates for Thursday</title>
+      <link>https://lwn.net/Articles/1099388/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1099388/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Thu, 08 Oct 2026 13:11:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ending the Casuarina Linux Experiment</title>
+      <link>https://casuarina.org/news/ending-the-casuarina-linux-experiment/</link>
+      <guid isPermaLink="true">https://casuarina.org/news/ending-the-casuarina-linux-experiment/</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Thu, 08 Oct 2026 13:08:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Will Linux phones become a viable alternative to the Android/iOS duopoly?</title>
+      <link>https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/</link>
+      <guid isPermaLink="true">https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Thu, 08 Oct 2026 13:07:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>You can now run Googlebook OS on your Mac, unofficially of course</title>
+      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbzNTY2Q3dlVaZnF0S1dTNVlZc3BDWFpHVU9xT3l1NFdTU0xWaGVPTTh5b0J5TVB6bExLYnVsVmtmaUZCOFVia1ktcnAzdnA4cHdYQkItN1hqOUdGZHhBYkZiYTRVd01jVFVaZzJJN3ZGZVRwRGdXTklJdWZ3N3lpZkVyeVV5a2lE?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbzNTY2Q3dlVaZnF0S1dTNVlZc3BDWFpHVU9xT3l1NFdTU0xWaGVPTTh5b0J5TVB6bExLYnVsVmtmaUZCOFVia1ktcnAzdnA4cHdYQkItN1hqOUdGZHhBYkZiYTRVd01jVFVaZzJJN3ZGZVRwRGdXTklJdWZ3N3lpZkVyeVV5a2lE?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Android Authority</source>
+      <pubDate>Thu, 08 Oct 2026 13:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Patches Updated To Begin Removing The Linux x32 ABI</title>
+      <link>https://www.phoronix.com/news/Patches-Removing-Linux-x32-ABI</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Patches-Removing-Linux-x32-ABI</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 08 Oct 2026 12:09:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Painting with impaired vision: Introduction</title>
+      <link>https://eclecticlight.co/2026/10/08/painting-with-impaired-vision-introduction/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/10/08/painting-with-impaired-vision-introduction/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Thu, 08 Oct 2026 11:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google's Sashiko AI Has Completed 191k Patch Reviews, Cited On Nearly 500 Kernel CVEs</title>
+      <link>https://www.phoronix.com/news/Sashiko-Linux-AI-Metrics</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Sashiko-Linux-AI-Metrics</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 08 Oct 2026 11:18:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>SpacemiT RISC-V SoCs To See More Improvements With Linux 7.4</title>
+      <link>https://www.phoronix.com/news/SpacemiT-Linux-7.4</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/SpacemiT-Linux-7.4</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 08 Oct 2026 10:13:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google Working To Leverage More Compiler Optimizations Within The Linux Kernel</title>
+      <link>https://www.phoronix.com/news/Google-More-Kernel-Compiler-Opt</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Google-More-Kernel-Compiler-Opt</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 08 Oct 2026 09:57:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gentoo infrastructure sponsors wanted</title>
+      <link>https://www.gentoo.org/news/2026/10/07/infrastructure-sponsors-wanted.html</link>
+      <guid isPermaLink="true">https://www.gentoo.org/news/2026/10/07/infrastructure-sponsors-wanted.html</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Thu, 08 Oct 2026 09:23:49 GMT</pubDate>
+    </item>
     <item>
       <title>What controls access to files?</title>
       <link>https://eclecticlight.co/2026/10/08/what-controls-access-to-files/</link>
@@ -96,28 +216,12 @@
       <pubDate>Wed, 07 Oct 2026 16:23:03 GMT</pubDate>
     </item>
     <item>
-      <title>Star Labs StarFighter Ultra: A Modern High-End Linux Laptop With Coreboot</title>
-      <link>https://www.phoronix.com/review/star-labs-starfighter</link>
-      <guid isPermaLink="true">https://www.phoronix.com/review/star-labs-starfighter</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Wed, 07 Oct 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Googlebook Glowbar doesn’t have the ‘knock-knock’ Chromebook Pixel battery gesture</title>
       <link>https://9to5google.com/2026/10/07/googlebook-glowbar/</link>
       <guid isPermaLink="true">https://9to5google.com/2026/10/07/googlebook-glowbar/</guid>
       <category>android</category>
       <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
       <pubDate>Wed, 07 Oct 2026 15:25:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[$] Analyzing Rust programs with Charon</title>
-      <link>https://lwn.net/Articles/1097198/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1097198/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Wed, 07 Oct 2026 15:19:59 GMT</pubDate>
     </item>
     <item>
       <title>The Galaxy Tab S12 is so good it makes Googlebook look dead on arrival</title>
@@ -128,22 +232,6 @@
       <pubDate>Wed, 07 Oct 2026 15:00:10 GMT</pubDate>
     </item>
     <item>
-      <title>NVIDIA 615.78.08 Linux Driver Adds VK_NV_low_latency2 r3 For Improved VKD3D-Proton</title>
-      <link>https://www.phoronix.com/news/NVIDIA-615.78.08-Linux</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/NVIDIA-615.78.08-Linux</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Wed, 07 Oct 2026 13:45:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>[$] Evolving the LAVD scheduler from gaming to servers</title>
-      <link>https://lwn.net/Articles/1097209/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1097209/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Wed, 07 Oct 2026 13:33:48 GMT</pubDate>
-    </item>
-    <item>
       <title>Justice League all over again; Henry Cavill’s mustache vanishes in new Googlebook promo [Video]</title>
       <link>https://9to5google.com/2026/10/07/henry-cavill-googlebook-promo-mustache-justice-league/</link>
       <guid isPermaLink="true">https://9to5google.com/2026/10/07/henry-cavill-googlebook-promo-mustache-justice-league/</guid>
@@ -152,68 +240,12 @@
       <pubDate>Wed, 07 Oct 2026 13:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>A new Raspberry Pi Desktop release is finally available for x86-64</title>
-      <link>https://lwn.net/Articles/1099206/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1099206/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Wed, 07 Oct 2026 13:26:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Security updates for Wednesday</title>
-      <link>https://lwn.net/Articles/1099202/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1099202/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Wed, 07 Oct 2026 13:08:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kage: Google Experimenting With Linux Driver Isolation Using In-Kernel LFI Sandboxes</title>
-      <link>https://www.phoronix.com/news/Kage-Linux-Driver-Isolation</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Kage-Linux-Driver-Isolation</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Wed, 07 Oct 2026 12:50:16 GMT</pubDate>
-    </item>
-    <item>
       <title>Painting a good story: Multi-frame</title>
       <link>https://eclecticlight.co/2026/10/07/painting-a-good-story-multi-frame/</link>
       <guid isPermaLink="true">https://eclecticlight.co/2026/10/07/painting-a-good-story-multi-frame/</guid>
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Wed, 07 Oct 2026 11:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Qualcomm Posts QPaCE Linux Driver Code For Faster ZRAM On Newest SoCs</title>
-      <link>https://www.phoronix.com/news/Qialcomm-QPaCE-Linux-ZRAM</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Qialcomm-QPaCE-Linux-ZRAM</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Wed, 07 Oct 2026 11:21:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>XMFS: Experimental File-System Being Worked On By Huawei For Modern Linux Servers</title>
-      <link>https://www.phoronix.com/news/XMFS-Linux-File-System</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/XMFS-Linux-File-System</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Wed, 07 Oct 2026 10:20:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Updates Its WSL2 Linux Kernel With DXGKRNL Improvement, More Features Enabled</title>
-      <link>https://www.phoronix.com/news/WSL2-Linux-Kernel-Fence-Sharing</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/WSL2-Linux-Kernel-Fence-Sharing</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Wed, 07 Oct 2026 09:57:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>AMD Engineer Talks Up New IBS Memory Profiler Feature Found On Zen 6</title>
-      <link>https://www.phoronix.com/news/AMD-Zen-6-IBS-Memory-Profiler</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/AMD-Zen-6-IBS-Memory-Profiler</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Wed, 07 Oct 2026 09:47:54 GMT</pubDate>
     </item>
     <item>
       <title>Headers Up! What's New in httpd and relayd</title>
@@ -240,28 +272,20 @@
       <pubDate>Wed, 07 Oct 2026 05:31:55 GMT</pubDate>
     </item>
     <item>
-      <title>Another Dozen Vulnerabilities Found In The X.Org Server &amp; XWayland</title>
-      <link>https://www.phoronix.com/news/X.Org-12-New-Issues-2026</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/X.Org-12-New-Issues-2026</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Wed, 07 Oct 2026 01:31:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>New Patches For Linux's Zswap Show Major Improvements</title>
-      <link>https://www.phoronix.com/news/Linux-Better-Zswap-Performance</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-Better-Zswap-Performance</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Wed, 07 Oct 2026 00:56:04 GMT</pubDate>
-    </item>
-    <item>
       <title>5 Reasons Why Android Phone Users Will Want A Googlebook</title>
       <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxOXzQ4aHQwZGdCbTZMcjBoSlFUZXh3M21LamRwRE5FUHR1c3pRRjhSZUZETU1pQUFDei11WVNZUEEtQVVoMHRnOVdQcFlHMW1qQ2h3UXE0QXp4Wm4wcmZHcU1BQlJ4TnJCZ0J4eXJhQlUyZFJwWVQzMnlBV3U5TEdteTlIZw?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMigwFBVV95cUxOXzQ4aHQwZGdCbTZMcjBoSlFUZXh3M21LamRwRE5FUHR1c3pRRjhSZUZETU1pQUFDei11WVNZUEEtQVVoMHRnOVdQcFlHMW1qQ2h3UXE0QXp4Wm4wcmZHcU1BQlJ4TnJCZ0J4eXJhQlUyZFJwWVQzMnlBV3U5TEdteTlIZw?oc=5</guid>
       <category>android</category>
       <source url="https://news.google.com/">BGR</source>
       <pubDate>Tue, 06 Oct 2026 23:17:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Android gaming on Googlebook is already hitting a frustratingly familiar roadblock</title>
+      <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxQa1NwREVHT2trY2ZWMndUQ1VFdjF6N3hUMWJ1dkprVk9MLXpjdEE4amRuU2pTanZqX3Mwdk1vQjVyU2o4UUFrYVJDZFRLd2pjYVkwVVE2S192Y29uczFsVGd1d0xXNUFYRE1LZkdUWVpEVWU4MkpzX3pzWlNHcng5WGlNRXl3bTZyLXc1QWVlbVhUNXdhemhnWmw0TWRzQl9QSElOQmF4ZTg3VUhVRGc?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMirgFBVV95cUxQa1NwREVHT2trY2ZWMndUQ1VFdjF6N3hUMWJ1dkprVk9MLXpjdEE4amRuU2pTanZqX3Mwdk1vQjVyU2o4UUFrYVJDZFRLd2pjYVkwVVE2S192Y29uczFsVGd1d0xXNUFYRE1LZkdUWVpEVWU4MkpzX3pzWlNHcng5WGlNRXl3bTZyLXc1QWVlbVhUNXdhemhnWmw0TWRzQl9QSElOQmF4ZTg3VUhVRGc?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Chrome Unboxed</source>
+      <pubDate>Tue, 06 Oct 2026 19:49:51 GMT</pubDate>
     </item>
     <item>
       <title>Pared - remove unwanted Apple Intelligence models without disabling SIP</title>
@@ -382,30 +406,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Tue, 06 Oct 2026 02:49:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Googlebooks can’t install the Slack web app on day one</title>
-      <link>https://9to5google.com/2026/10/05/googlebook-slack-app-day-one/</link>
-      <guid isPermaLink="true">https://9to5google.com/2026/10/05/googlebook-slack-app-day-one/</guid>
-      <category>android</category>
-      <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Googlebooks can’t install the Slack web app on day one</title>
-      <link>https://news.google.com/rss/articles/CBMicEFVX3lxTE9qck44ekwyajRNYjIxZWkyMlRBcENldXRNc2RmS1h0YWVXT2F6OGJPeHFBdkVfLUpnVVA0UTJYUEFJYjNlcnItLTR2MC1Ka21RMHp0dWtFT29nY2VmRHpiVXBzOWt4NzZjbDZsUzFqOEg?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMicEFVX3lxTE9qck44ekwyajRNYjIxZWkyMlRBcENldXRNc2RmS1h0YWVXT2F6OGJPeHFBdkVfLUpnVVA0UTJYUEFJYjNlcnItLTR2MC1Ka21RMHp0dWtFT29nY2VmRHpiVXBzOWt4NzZjbDZsUzFqOEg?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">9to5Google</source>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Sponsor] Sunnny</title>
-      <link>https://sunnny.com/</link>
-      <guid isPermaLink="true">https://sunnny.com/</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Mon, 05 Oct 2026 23:49:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
