@@ -1,6 +1,126 @@
 {
-  "generated": "2026-10-09T09:15:47.381Z",
+  "generated": "2026-10-09T16:21:12.032Z",
   "items": [
+    {
+      "title": "Googlebook’s hidden ‘Glowbar Disco’ turns your laptop’s lid into a light show — how to find it",
+      "url": "https://9to5google.com/2026/10/09/googlebook-glowbar-disco-app/",
+      "source": "9to5Google · Googlebook",
+      "tag": "android",
+      "site": "https://9to5google.com/guides/googlebook/",
+      "date": "2026-10-09T15:55:00.000Z"
+    },
+    {
+      "title": "[$] The state of systemd: 2026 edition",
+      "url": "https://lwn.net/Articles/1099024/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-09T14:58:15.000Z"
+    },
+    {
+      "title": "Python 3.15 Released With Experimental JIT Compiler Running Faster",
+      "url": "https://www.phoronix.com/news/Python-3.15-Released",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-09T14:58:00.000Z"
+    },
+    {
+      "title": "AMD PerfOpt Boosting Prior-Gen Ryzen APU Performance For AI",
+      "url": "https://www.phoronix.com/review/amd-perfopt-prior-gen",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-09T14:38:27.000Z"
+    },
+    {
+      "title": "Let's Encrypt moving to 64-day certificate lifetimes in 2027",
+      "url": "https://lwn.net/Articles/1099588/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-09T14:02:44.000Z"
+    },
+    {
+      "title": "Ubuntu 26.10 Sticks To Using GCC 15 By Default",
+      "url": "https://www.phoronix.com/news/Ubuntu-26.10-GCC-15-Default",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-09T13:38:58.000Z"
+    },
+    {
+      "title": "A week with Googlebooks: four notes from our testing so far",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbFFHejJHMHhXYWV0OThYemV3VnVrUHRvcXE1QjVWR09ya3FyUFRaa1JHY2JyT0NKcTBXYVB1NzJiakw1MFlaR2dOdUlXdVRiamhnQVFka250X3owemI5Uklpd1ZEVXlaVDMtYlBBNzEzdjNvTER5cnB5U3ZER1hWZHN6dndkdTlMS1BMR2pKME1DTHM?oc=5",
+      "source": "The Verge",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-09T13:36:02.000Z"
+    },
+    {
+      "title": "Security updates for Friday",
+      "url": "https://lwn.net/Articles/1099587/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-09T13:08:14.000Z"
+    },
+    {
+      "title": "I thought the Acer Googlebook's Magic Pointer would annoy me. It didn't",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE92dHp0cHY2aHdLVmdzMDlZT0w1d0c1TGFOTlpHR1l5SFdnWGFVSGtPX0txLUlVc1BKWmFoczZ5VGs4LS1YTGgxOEkxTGxlQ2dtWnlVYUlMWER1WGhUNEVGUUFiNGNMal83bVRhcWk0aVFjOVROaXc?oc=5",
+      "source": "PCWorld",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-09T13:01:10.000Z"
+    },
+    {
+      "title": "Faster Zswap With Patches To Batch The Writeback I/O",
+      "url": "https://www.phoronix.com/news/Faster-Zswap-Batch-Writeback-IO",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-09T11:34:56.000Z"
+    },
+    {
+      "title": "Thomas Fearnley the brief Wanderer",
+      "url": "https://eclecticlight.co/2026/10/09/thomas-fearnley-the-brief-wanderer/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-10-09T11:30:00.000Z"
+    },
+    {
+      "title": "Linux Patches Finally Make Hibernation Possible In Secure Boot / Lockdown Mode",
+      "url": "https://www.phoronix.com/news/Linux-Hibernation-With-Lockdown",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-09T10:27:04.000Z"
+    },
+    {
+      "title": "Boro: NVIDIA's Open-Source Effort For AI-Assisted Linux Kernel Development",
+      "url": "https://www.phoronix.com/news/NVIDIA-Boro-Linux-Kernel-AI",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-09T10:06:04.000Z"
+    },
+    {
+      "title": "AMD Caps Off Linux 7.4 Graphics Driver Development With More HDMI 2.1 Fixes",
+      "url": "https://www.phoronix.com/news/Linux-7.4-AMDGPU-Final",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-09T09:54:00.000Z"
+    },
+    {
+      "title": "HDR Support Coming For Qualcomm MSM Driver To Benefit Snapdragon X Laptops On Linux",
+      "url": "https://www.phoronix.com/news/Qualcomm-MSM-DRM-HDR",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-09T09:37:05.000Z"
+    },
     {
       "title": "Struggling to pair your phone with Googlebook? Google says a fix is rolling out now",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdGlUVkJsSHJHWFhHb18zUFhzTXJ1VU5zV29tci1EN1RIbWQwalNncXJYeUZKRHRNZEhiOFltMkNqRXd3Z0ZLMXZQMUMzNENmWmw4b1hqOWM1TnZ4UU5HSkpndG4zak5FMXBkOGRMNzJvb1I5STB0WFRlcE9fNS1TQkdsdEFNYmZGRHhaYkhB?oc=5",
@@ -154,52 +274,12 @@
       "date": "2026-10-08T13:43:27.000Z"
     },
     {
-      "title": "Nova Driver Continues Progressing With Long-Term Goal For Official NVIDIA Linux Use",
-      "url": "https://www.phoronix.com/news/Nova-Driver-LPC-2026",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-08T13:29:37.000Z"
-    },
-    {
-      "title": "Security updates for Thursday",
-      "url": "https://lwn.net/Articles/1099388/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-08T13:11:00.000Z"
-    },
-    {
-      "title": "Ending the Casuarina Linux Experiment",
-      "url": "https://casuarina.org/news/ending-the-casuarina-linux-experiment/",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-10-08T13:08:00.000Z"
-    },
-    {
-      "title": "Will Linux phones become a viable alternative to the Android/iOS duopoly?",
-      "url": "https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-10-08T13:07:12.000Z"
-    },
-    {
       "title": "You can now run Googlebook OS on your Mac, unofficially of course",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbzNTY2Q3dlVaZnF0S1dTNVlZc3BDWFpHVU9xT3l1NFdTU0xWaGVPTTh5b0J5TVB6bExLYnVsVmtmaUZCOFVia1ktcnAzdnA4cHdYQkItN1hqOUdGZHhBYkZiYTRVd01jVFVaZzJJN3ZGZVRwRGdXTklJdWZ3N3lpZkVyeVV5a2lE?oc=5",
       "source": "Android Authority",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-08T13:01:00.000Z"
-    },
-    {
-      "title": "Patches Updated To Begin Removing The Linux x32 ABI",
-      "url": "https://www.phoronix.com/news/Patches-Removing-Linux-x32-ABI",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-08T12:09:53.000Z"
     },
     {
       "title": "Painting with impaired vision: Introduction",
@@ -210,60 +290,12 @@
       "date": "2026-10-08T11:30:00.000Z"
     },
     {
-      "title": "Google's Sashiko AI Has Completed 191k Patch Reviews, Cited On Nearly 500 Kernel CVEs",
-      "url": "https://www.phoronix.com/news/Sashiko-Linux-AI-Metrics",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-08T11:18:03.000Z"
-    },
-    {
-      "title": "SpacemiT RISC-V SoCs To See More Improvements With Linux 7.4",
-      "url": "https://www.phoronix.com/news/SpacemiT-Linux-7.4",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-08T10:13:54.000Z"
-    },
-    {
-      "title": "Google Working To Leverage More Compiler Optimizations Within The Linux Kernel",
-      "url": "https://www.phoronix.com/news/Google-More-Kernel-Compiler-Opt",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-08T09:57:36.000Z"
-    },
-    {
-      "title": "Gentoo infrastructure sponsors wanted",
-      "url": "https://www.gentoo.org/news/2026/10/07/infrastructure-sponsors-wanted.html",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-10-08T09:23:49.000Z"
-    },
-    {
       "title": "What controls access to files?",
       "url": "https://eclecticlight.co/2026/10/08/what-controls-access-to-files/",
       "source": "Eclectic Light",
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-10-08T06:30:00.000Z"
-    },
-    {
-      "title": "Steam Beta Now Defaults Non-Steam Windows Binaries To Using Proton",
-      "url": "https://www.phoronix.com/news/Steam-Beta-Use-Proton-Default",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-08T01:09:05.000Z"
-    },
-    {
-      "title": "Microsoft Issues First Release Of Their LiteBox Sandboxing Library OS",
-      "url": "https://www.phoronix.com/news/Microsoft-LiteBox-0.1",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-08T00:43:11.000Z"
     },
     {
       "title": "Jaguar Type 01",
@@ -426,30 +458,6 @@
       "date": "2026-10-06T16:05:00.000Z"
     },
     {
-      "title": "Intel Says Its Googlebooks Won’t Have Issues With Android Apps, Despite Google’s Claims",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1eVo0WUs1VzNSSkNTYXU5YTlUc21QeVJsSVY3ZUZCV0U2Yzc2a3ZNZkV2ZnVmakE1R19IZFhrUVBrc0J2WVIycTdOOTl1TXpRLTNBRkRMVVM1RUFnR1MxQ0JmNEFSbnVYanVxbEluNC1QUDMyNC0wbDAxQXN0MDQ?oc=5",
-      "source": "Gizmodo",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-06T15:13:50.000Z"
-    },
-    {
-      "title": "Googlebook’s Android-integrated features won’t work with Samsung phones at launch",
-      "url": "https://9to5google.com/2026/10/06/googlebook-android-sync-features-samsung-delay/",
-      "source": "9to5Google · Googlebook",
-      "tag": "android",
-      "site": "https://9to5google.com/guides/googlebook/",
-      "date": "2026-10-06T14:15:00.000Z"
-    },
-    {
-      "title": "Googlebook’s Android-integrated features won’t work with Samsung phones at launch",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOODVUVWJtYlNWWUtGWHVWWEg4Q09LUktMZVJYdnUtSS1zaHBFVmxpcGRvWFFkQ3UxT2F1VlBJQ0ZDUEg2aGUwQWhDUVprcTY3VUZlRFo0cnRqMDc3ZVMxYV9lTkN0YmM4NXMySzVtRHVrcjZFSmc1VlpTRUhtVkZ3UjNiZlNNSUtJ?oc=5",
-      "source": "9to5Google",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-06T14:15:00.000Z"
-    },
-    {
       "title": "Portraits of trees: Birch",
       "url": "https://eclecticlight.co/2026/10/06/portraits-of-trees-birch/",
       "source": "Eclectic Light",
@@ -488,14 +496,6 @@
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-10-05T22:59:14.000Z"
-    },
-    {
-      "title": "Ternus and Cook Tweet Brief Remembrances on the 15th Anniversary of Steve Jobs’s Death",
-      "url": "https://x.com/johnternus/status/2107093462118199562",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-05T19:19:35.000Z"
     },
     {
       "title": "OpenBSD Developers Reject Uutils Coreutils",
