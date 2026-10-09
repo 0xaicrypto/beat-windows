@@ -1,6 +1,38 @@
 {
-  "generated": "2026-10-08T22:09:28.848Z",
+  "generated": "2026-10-09T02:15:13.246Z",
   "items": [
+    {
+      "title": "New AI Agent Resources Proposed For The Linux Kernel, AI Skills To Help Developers",
+      "url": "https://www.phoronix.com/news/Linux-AI-Agent-Resources",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-09T00:41:17.000Z"
+    },
+    {
+      "title": "Valve Lands VK_AMD_anti_lag Support For AMD RADV Driver In Mesa 26.3",
+      "url": "https://www.phoronix.com/news/Mesa-26.3-RADV-VK_AMD_anti_lag",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-09T00:23:33.000Z"
+    },
+    {
+      "title": "Let’s Check In on Trump’s Blog",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/117406176604364910",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-08T22:52:35.000Z"
+    },
+    {
+      "title": "Developer Ports Googlebook OS to Apple Silicon Mac Hardware",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaEdVSE1sbG05SlF4MU9XdTFoQ0NSNHo0TDBkYXJRTEg1bEZPVktmNnRmR190MzJIaEJnUUVsLWdoZ3VWZm1nUTg5Q0lSZDNhN2JYaDc3RHIzSkRQQjhGSVBVRzY0V3JEMUJxTHN0WmdCLTV2Wmp5SHVqb0hFZVQ3SkZSY2s3RUE?oc=5",
+      "source": "Technetbook",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-08T22:44:00.000Z"
+    },
     {
       "title": "Apple Is Slow-Rolling iOS 27 Adoption, So Far",
       "url": "https://mastodon.social/@_Davidsmith/117355154519434137",
@@ -200,22 +232,6 @@
       "tag": "linux",
       "site": "https://www.phoronix.com/",
       "date": "2026-10-08T00:43:11.000Z"
-    },
-    {
-      "title": "[$] LWN.net Weekly Edition for October 8, 2026",
-      "url": "https://lwn.net/Articles/1097859/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-08T00:22:31.000Z"
-    },
-    {
-      "title": "AI Makes \"Open-Source, Clean Room\" Implementations Of Adobe Photoshop & Premier In Rust",
-      "url": "https://www.phoronix.com/news/Photocraft-Filmcraft-AI",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-08T00:12:44.000Z"
     },
     {
       "title": "Jaguar Type 01",
@@ -442,14 +458,6 @@
       "date": "2026-10-06T00:00:00.000Z"
     },
     {
-      "title": "Googlebooks can’t install the Slack web app on day one",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9qck44ekwyajRNYjIxZWkyMlRBcENldXRNc2RmS1h0YWVXT2F6OGJPeHFBdkVfLUpnVVA0UTJYUEFJYjNlcnItLTR2MC1Ka21RMHp0dWtFT29nY2VmRHpiVXBzOWt4NzZjbDZsUzFqOEg?oc=5",
-      "source": "9to5Google",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-06T00:00:00.000Z"
-    },
-    {
       "title": "[Sponsor] Sunnny",
       "url": "https://sunnny.com/",
       "source": "Daring Fireball",
@@ -488,14 +496,6 @@
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-10-05T08:00:00.000Z"
-    },
-    {
-      "title": "When and how to migrate to your Mac",
-      "url": "https://eclecticlight.co/2026/10/05/when-and-how-to-migrate-to-your-mac/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-10-05T06:30:00.000Z"
     },
     {
       "title": "OpenBSD Developers Reject Uutils Coreutils",
