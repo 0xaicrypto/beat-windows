@@ -1,6 +1,54 @@
 {
-  "generated": "2026-10-09T16:21:12.032Z",
+  "generated": "2026-10-09T21:44:30.059Z",
   "items": [
+    {
+      "title": "Googlebook’s app situation is a mess, and not just because things are missing",
+      "url": "https://9to5google.com/2026/10/09/googlebook-app-situation-messy/",
+      "source": "9to5Google · Googlebook",
+      "tag": "android",
+      "site": "https://9to5google.com/guides/googlebook/",
+      "date": "2026-10-09T18:45:00.000Z"
+    },
+    {
+      "title": "Googlebook’s app situation is a mess, and not just because things are missing",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9mZ1BJbnNQSE5BdUhQZWNCV2RtTDVYN2hxLXd3QmFuWHJKQkcyMUNVZk5BTThVM3Vyd0dtMU5IR05CcXVQWnVRTDdhT0ZNVG8xTl9mNF9FbDBIby10bTNOOU1RVmwwV2hwVk9Zb1A3S29MajQ?oc=5",
+      "source": "9to5Google",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-09T18:45:00.000Z"
+    },
+    {
+      "title": "Ubuntu 26.10 To Include Desktop Images For RISC-V",
+      "url": "https://www.phoronix.com/news/Ubuntu-26.10-RISC-V-Desktop",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-09T17:59:00.000Z"
+    },
+    {
+      "title": "Valve's Proton 11.0-2e Released To Fix EA App Issues",
+      "url": "https://www.phoronix.com/news/Steam-Play-Proton-11.0-2e",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-09T17:56:40.000Z"
+    },
+    {
+      "title": "Python 3.15 released",
+      "url": "https://lwn.net/Articles/1099602/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-09T17:15:44.000Z"
+    },
+    {
+      "title": "[$] Adding kernel control-flow-integrity checking to GCC",
+      "url": "https://lwn.net/Articles/1098670/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-09T17:06:12.000Z"
+    },
     {
       "title": "Googlebook’s hidden ‘Glowbar Disco’ turns your laptop’s lid into a light show — how to find it",
       "url": "https://9to5google.com/2026/10/09/googlebook-glowbar-disco-app/",
@@ -242,38 +290,6 @@
       "date": "2026-10-08T16:43:19.000Z"
     },
     {
-      "title": "Ubuntu Currently Suffering From Sustained DDoS Attack",
-      "url": "https://www.phoronix.com/news/Ubuntu-DDoS-October-2026",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-08T15:41:51.000Z"
-    },
-    {
-      "title": "Ubuntu 26.10 Delivers Nice I/O Performance Wins Over Ubuntu 26.04 On AMD EPYC",
-      "url": "https://www.phoronix.com/review/ubuntu-2610-amd-epyc",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-08T15:28:51.000Z"
-    },
-    {
-      "title": "Secretive Rosaic Labs Hires Legendary Linux x86 Developer",
-      "url": "https://www.phoronix.com/news/H-Peter-Anvin-Rosaic-Labs",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-08T14:33:55.000Z"
-    },
-    {
-      "title": "[$] The [vx]swap showdown",
-      "url": "https://lwn.net/Articles/1098399/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-08T13:43:27.000Z"
-    },
-    {
       "title": "You can now run Googlebook OS on your Mac, unofficially of course",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbzNTY2Q3dlVaZnF0S1dTNVlZc3BDWFpHVU9xT3l1NFdTU0xWaGVPTTh5b0J5TVB6bExLYnVsVmtmaUZCOFVia1ktcnAzdnA4cHdYQkItN1hqOUdGZHhBYkZiYTRVd01jVFVaZzJJN3ZGZVRwRGdXTklJdWZ3N3lpZkVyeVV5a2lE?oc=5",
       "source": "Android Authority",
@@ -440,22 +456,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-06T17:31:59.000Z"
-    },
-    {
-      "title": "Googlebooks don’t have the same web app or Linux app support as Chromebooks",
-      "url": "https://9to5google.com/2026/10/06/googlebook-linux-web-app-support-chromebook/",
-      "source": "9to5Google · Googlebook",
-      "tag": "android",
-      "site": "https://9to5google.com/guides/googlebook/",
-      "date": "2026-10-06T16:05:00.000Z"
-    },
-    {
-      "title": "Googlebooks don’t have the same web app or Linux app support as Chromebooks",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZUNnZW53Q1hIYlgzeXBvYTdhSTIwZEo3YThvWE4zdVFPbURYNHJYelowa0c3RXdGVS1KN0gtQWRWX1pWdjEtRHlDV0k3amtXUWI2YWdLSU9oUDdhcGs2TEJCNXQ4Rkx0Mm5MOG41TGFJaURGWmwxVWNubUlXSUV5VTVNVUE?oc=5",
-      "source": "9to5Google",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-06T16:05:00.000Z"
     },
     {
       "title": "Portraits of trees: Birch",

@@ -5,8 +5,56 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 09 Oct 2026 16:21:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 21:44:30 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Googlebook’s app situation is a mess, and not just because things are missing</title>
+      <link>https://9to5google.com/2026/10/09/googlebook-app-situation-messy/</link>
+      <guid isPermaLink="true">https://9to5google.com/2026/10/09/googlebook-app-situation-messy/</guid>
+      <category>android</category>
+      <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
+      <pubDate>Fri, 09 Oct 2026 18:45:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Googlebook’s app situation is a mess, and not just because things are missing</title>
+      <link>https://news.google.com/rss/articles/CBMic0FVX3lxTE9mZ1BJbnNQSE5BdUhQZWNCV2RtTDVYN2hxLXd3QmFuWHJKQkcyMUNVZk5BTThVM3Vyd0dtMU5IR05CcXVQWnVRTDdhT0ZNVG8xTl9mNF9FbDBIby10bTNOOU1RVmwwV2hwVk9Zb1A3S29MajQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMic0FVX3lxTE9mZ1BJbnNQSE5BdUhQZWNCV2RtTDVYN2hxLXd3QmFuWHJKQkcyMUNVZk5BTThVM3Vyd0dtMU5IR05CcXVQWnVRTDdhT0ZNVG8xTl9mNF9FbDBIby10bTNOOU1RVmwwV2hwVk9Zb1A3S29MajQ?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">9to5Google</source>
+      <pubDate>Fri, 09 Oct 2026 18:45:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ubuntu 26.10 To Include Desktop Images For RISC-V</title>
+      <link>https://www.phoronix.com/news/Ubuntu-26.10-RISC-V-Desktop</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Ubuntu-26.10-RISC-V-Desktop</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 09 Oct 2026 17:59:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Valve's Proton 11.0-2e Released To Fix EA App Issues</title>
+      <link>https://www.phoronix.com/news/Steam-Play-Proton-11.0-2e</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Steam-Play-Proton-11.0-2e</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 09 Oct 2026 17:56:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Python 3.15 released</title>
+      <link>https://lwn.net/Articles/1099602/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1099602/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Fri, 09 Oct 2026 17:15:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>[$] Adding kernel control-flow-integrity checking to GCC</title>
+      <link>https://lwn.net/Articles/1098670/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1098670/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Fri, 09 Oct 2026 17:06:12 GMT</pubDate>
+    </item>
     <item>
       <title>Googlebook’s hidden ‘Glowbar Disco’ turns your laptop’s lid into a light show — how to find it</title>
       <link>https://9to5google.com/2026/10/09/googlebook-glowbar-disco-app/</link>
@@ -248,38 +296,6 @@
       <pubDate>Thu, 08 Oct 2026 16:43:19 GMT</pubDate>
     </item>
     <item>
-      <title>Ubuntu Currently Suffering From Sustained DDoS Attack</title>
-      <link>https://www.phoronix.com/news/Ubuntu-DDoS-October-2026</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Ubuntu-DDoS-October-2026</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 08 Oct 2026 15:41:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ubuntu 26.10 Delivers Nice I/O Performance Wins Over Ubuntu 26.04 On AMD EPYC</title>
-      <link>https://www.phoronix.com/review/ubuntu-2610-amd-epyc</link>
-      <guid isPermaLink="true">https://www.phoronix.com/review/ubuntu-2610-amd-epyc</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 08 Oct 2026 15:28:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Secretive Rosaic Labs Hires Legendary Linux x86 Developer</title>
-      <link>https://www.phoronix.com/news/H-Peter-Anvin-Rosaic-Labs</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/H-Peter-Anvin-Rosaic-Labs</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 08 Oct 2026 14:33:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>[$] The [vx]swap showdown</title>
-      <link>https://lwn.net/Articles/1098399/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1098399/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Thu, 08 Oct 2026 13:43:27 GMT</pubDate>
-    </item>
-    <item>
       <title>You can now run Googlebook OS on your Mac, unofficially of course</title>
       <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbzNTY2Q3dlVaZnF0S1dTNVlZc3BDWFpHVU9xT3l1NFdTU0xWaGVPTTh5b0J5TVB6bExLYnVsVmtmaUZCOFVia1ktcnAzdnA4cHdYQkItN1hqOUdGZHhBYkZiYTRVd01jVFVaZzJJN3ZGZVRwRGdXTklJdWZ3N3lpZkVyeVV5a2lE?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbzNTY2Q3dlVaZnF0S1dTNVlZc3BDWFpHVU9xT3l1NFdTU0xWaGVPTTh5b0J5TVB6bExLYnVsVmtmaUZCOFVia1ktcnAzdnA4cHdYQkItN1hqOUdGZHhBYkZiYTRVd01jVFVaZzJJN3ZGZVRwRGdXTklJdWZ3N3lpZkVyeVV5a2lE?oc=5</guid>
@@ -390,22 +406,6 @@
       <category>android</category>
       <source url="https://news.google.com/">BGR</source>
       <pubDate>Tue, 06 Oct 2026 23:17:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Android gaming on Googlebook is already hitting a frustratingly familiar roadblock</title>
-      <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxQa1NwREVHT2trY2ZWMndUQ1VFdjF6N3hUMWJ1dkprVk9MLXpjdEE4amRuU2pTanZqX3Mwdk1vQjVyU2o4UUFrYVJDZFRLd2pjYVkwVVE2S192Y29uczFsVGd1d0xXNUFYRE1LZkdUWVpEVWU4MkpzX3pzWlNHcng5WGlNRXl3bTZyLXc1QWVlbVhUNXdhemhnWmw0TWRzQl9QSElOQmF4ZTg3VUhVRGc?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMirgFBVV95cUxQa1NwREVHT2trY2ZWMndUQ1VFdjF6N3hUMWJ1dkprVk9MLXpjdEE4amRuU2pTanZqX3Mwdk1vQjVyU2o4UUFrYVJDZFRLd2pjYVkwVVE2S192Y29uczFsVGd1d0xXNUFYRE1LZkdUWVpEVWU4MkpzX3pzWlNHcng5WGlNRXl3bTZyLXc1QWVlbVhUNXdhemhnWmw0TWRzQl9QSElOQmF4ZTg3VUhVRGc?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Chrome Unboxed</source>
-      <pubDate>Tue, 06 Oct 2026 19:49:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pared - remove unwanted Apple Intelligence models without disabling SIP</title>
-      <link>https://github.com/4evy/pared</link>
-      <guid isPermaLink="true">https://github.com/4evy/pared</guid>
-      <category>macos</category>
-      <source url="https://lobste.rs/t/mac">Lobsters · mac</source>
-      <pubDate>Tue, 06 Oct 2026 18:27:16 GMT</pubDate>
     </item>
   </channel>
 </rss>
