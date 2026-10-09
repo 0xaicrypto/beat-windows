@@ -1,6 +1,38 @@
 {
-  "generated": "2026-10-09T02:15:13.246Z",
+  "generated": "2026-10-09T09:15:47.381Z",
   "items": [
+    {
+      "title": "Struggling to pair your phone with Googlebook? Google says a fix is rolling out now",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdGlUVkJsSHJHWFhHb18zUFhzTXJ1VU5zV29tci1EN1RIbWQwalNncXJYeUZKRHRNZEhiOFltMkNqRXd3Z0ZLMXZQMUMzNENmWmw4b1hqOWM1TnZ4UU5HSkpndG4zak5FMXBkOGRMNzJvb1I5STB0WFRlcE9fNS1TQkdsdEFNYmZGRHhaYkhB?oc=5",
+      "source": "Android Authority",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-09T08:56:00.000Z"
+    },
+    {
+      "title": "Deeper dive: Keyboard differences between Windows and Macs",
+      "url": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
+      "source": "Lobsters · mac",
+      "tag": "macos",
+      "site": "https://lobste.rs/t/mac",
+      "date": "2026-10-09T06:51:52.000Z"
+    },
+    {
+      "title": "How the macOS System has changed over 7 years",
+      "url": "https://eclecticlight.co/2026/10/09/how-the-macos-system-has-changed-over-7-years/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-10-09T06:30:00.000Z"
+    },
+    {
+      "title": "Googlebook is now available on Mac through a clever virtual machine workaround",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORGxISHZnSGRlVEpOYTVpWGxfWXZVOWhrWjM2UHVRQXZ5cFF0cVFVS2VnUGJnNVVXdVJTc21lV0RYT1pWYUhLTzFSYm9ZVmhYeDBWOWVLTTlRT0pONWd2Z1JVZ09YczZQeTg4bVlHR25tWXNEUHRMVTNoOGNLX1FhN3dxbWNPV0hTLVNKVmt5Mm12MXJFVWo2bGpmb0l5QQ?oc=5",
+      "source": "Android Police",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-09T05:57:20.000Z"
+    },
     {
       "title": "New AI Agent Resources Proposed For The Linux Kernel, AI Skills To Help Developers",
       "url": "https://www.phoronix.com/news/Linux-AI-Agent-Resources",
@@ -426,14 +458,6 @@
       "date": "2026-10-06T11:30:00.000Z"
     },
     {
-      "title": "The first thing you should do on Googlebook is fix the trackpad",
-      "url": "https://9to5google.com/2026/10/06/googlebook-trackpad-cursor-speed/",
-      "source": "9to5Google · Googlebook",
-      "tag": "android",
-      "site": "https://9to5google.com/guides/googlebook/",
-      "date": "2026-10-06T11:00:00.000Z"
-    },
-    {
       "title": "Privacy, Full Disk Access and AI agents",
       "url": "https://eclecticlight.co/2026/10/06/privacy-full-disk-access-and-ai-agents/",
       "source": "Eclectic Light",
@@ -448,14 +472,6 @@
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-10-06T02:49:44.000Z"
-    },
-    {
-      "title": "Googlebooks can’t install the Slack web app on day one",
-      "url": "https://9to5google.com/2026/10/05/googlebook-slack-app-day-one/",
-      "source": "9to5Google · Googlebook",
-      "tag": "android",
-      "site": "https://9to5google.com/guides/googlebook/",
-      "date": "2026-10-06T00:00:00.000Z"
     },
     {
       "title": "[Sponsor] Sunnny",
@@ -480,22 +496,6 @@
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-10-05T19:19:35.000Z"
-    },
-    {
-      "title": "Hero or hooligan: Heracles killed by the hydra’s blood",
-      "url": "https://eclecticlight.co/2026/10/05/hero-or-hooligan-heracles-killed-by-the-hydras-blood/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-10-05T11:30:00.000Z"
-    },
-    {
-      "title": "Solutions to Saturday Mac riddles 380",
-      "url": "https://eclecticlight.co/2026/10/05/solutions-to-saturday-mac-riddles-380/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-10-05T08:00:00.000Z"
     },
     {
       "title": "OpenBSD Developers Reject Uutils Coreutils",
