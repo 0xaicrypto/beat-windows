@@ -5,8 +5,48 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 10 Oct 2026 15:25:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 20:08:03 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>I've Been Testing Googlebooks for a Week. So Far, They're Just for Android Superfans</title>
+      <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxPTXdRclZjVGdVV3FUYzBINWNPVjUyOHlJbmxOb0NQWTI1MUU2dExGWktXTUVZUnlBd2ZBRnJxNVFwMHd3OGtRYWNxTGFNcC1FSjhmeWlkN3RCVXBOSmFNTGlDLWlGUXp0dFlnZl9sbElkcVdZRld6anRWVTJ3aVI2TmNLbnJBQVhFWWhqYlM4SE81OWtNY0NScFpEbWx0U2YweHVn?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiowFBVV95cUxPTXdRclZjVGdVV3FUYzBINWNPVjUyOHlJbmxOb0NQWTI1MUU2dExGWktXTUVZUnlBd2ZBRnJxNVFwMHd3OGtRYWNxTGFNcC1FSjhmeWlkN3RCVXBOSmFNTGlDLWlGUXp0dFlnZl9sbElkcVdZRld6anRWVTJ3aVI2TmNLbnJBQVhFWWhqYlM4SE81OWtNY0NScFpEbWx0U2YweHVn?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">PCMag</source>
+      <pubDate>Sat, 10 Oct 2026 18:26:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Asus Googlebook 14 Review: For Android, By Android</title>
+      <link>https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xbnF4eThrWlAxMTdZZTliUGV3TmhYaFplN3A3ckZ6cWhhZXhzWFpTR2ZrYzlTRmFmaGJ6UnNpSWJTUVdxOVJhRjg1d09VNGJtWUhpNXFfc1lvR1JwS1hUWi00NGc?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xbnF4eThrWlAxMTdZZTliUGV3TmhYaFplN3A3ckZ6cWhhZXhzWFpTR2ZrYzlTRmFmaGJ6UnNpSWJTUVdxOVJhRjg1d09VNGJtWUhpNXFfc1lvR1JwS1hUWi00NGc?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">BGR</source>
+      <pubDate>Sat, 10 Oct 2026 17:28:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sunnny</title>
+      <link>https://sunnny.com/</link>
+      <guid isPermaLink="true">https://sunnny.com/</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Sat, 10 Oct 2026 16:11:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>‘Proof-of-Human’</title>
+      <link>https://x.com/bzamayo/status/2108498107184934914</link>
+      <guid isPermaLink="true">https://x.com/bzamayo/status/2108498107184934914</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Sat, 10 Oct 2026 16:06:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rolling Release Distros Superior To LTS Distros In The Patch-Heavy GenAI Era?</title>
+      <link>https://www.phoronix.com/news/Rolling-Releases-GenAI-Era</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Rolling-Releases-GenAI-Era</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sat, 10 Oct 2026 15:27:12 GMT</pubDate>
+    </item>
     <item>
       <title>Many Laptop &amp; Gaming Handheld Support Improvements Coming For Linux 7.4</title>
       <link>https://www.phoronix.com/news/Linux-7.4-Laptops-Handhelds</link>
@@ -232,14 +272,6 @@
       <pubDate>Fri, 09 Oct 2026 09:54:00 GMT</pubDate>
     </item>
     <item>
-      <title>HDR Support Coming For Qualcomm MSM Driver To Benefit Snapdragon X Laptops On Linux</title>
-      <link>https://www.phoronix.com/news/Qualcomm-MSM-DRM-HDR</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Qualcomm-MSM-DRM-HDR</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 09 Oct 2026 09:37:05 GMT</pubDate>
-    </item>
-    <item>
       <title>Struggling to pair your phone with Googlebook? Google says a fix is rolling out now</title>
       <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxQdGlUVkJsSHJHWFhHb18zUFhzTXJ1VU5zV29tci1EN1RIbWQwalNncXJYeUZKRHRNZEhiOFltMkNqRXd3Z0ZLMXZQMUMzNENmWmw4b1hqOWM1TnZ4UU5HSkpndG4zak5FMXBkOGRMNzJvb1I5STB0WFRlcE9fNS1TQkdsdEFNYmZGRHhaYkhB?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMijgFBVV95cUxQdGlUVkJsSHJHWFhHb18zUFhzTXJ1VU5zV29tci1EN1RIbWQwalNncXJYeUZKRHRNZEhiOFltMkNqRXd3Z0ZLMXZQMUMzNENmWmw4b1hqOWM1TnZ4UU5HSkpndG4zak5FMXBkOGRMNzJvb1I5STB0WFRlcE9fNS1TQkdsdEFNYmZGRHhaYkhB?oc=5</guid>
@@ -374,38 +406,6 @@
       <category>android</category>
       <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
       <pubDate>Wed, 07 Oct 2026 15:25:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Galaxy Tab S12 is so good it makes Googlebook look dead on arrival</title>
-      <link>https://news.google.com/rss/articles/CBMingFBVV95cUxPWVZDZDdRY1RoVmRnWXR3SUhhZTQ2emd3MzVzUnAtam93NVA3YmhxV1k2N3J4NGpjT01ZbElnSl9fOUdHUHkwOGJvaWVnVDdVZEJGcDVHRWs5ektUUVBIVzFGRjVnaXJVZGdISWdsd05qektFMnM0SlFpaEo2RTNiU0hpcmtzMDZDWjZyOHpCWmtyckFFRDFBUDhUbnFMUQ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMingFBVV95cUxPWVZDZDdRY1RoVmRnWXR3SUhhZTQ2emd3MzVzUnAtam93NVA3YmhxV1k2N3J4NGpjT01ZbElnSl9fOUdHUHkwOGJvaWVnVDdVZEJGcDVHRWs5ektUUVBIVzFGRjVnaXJVZGdISWdsd05qektFMnM0SlFpaEo2RTNiU0hpcmtzMDZDWjZyOHpCWmtyckFFRDFBUDhUbnFMUQ?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Android Police</source>
-      <pubDate>Wed, 07 Oct 2026 15:00:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Justice League all over again; Henry Cavill’s mustache vanishes in new Googlebook promo [Video]</title>
-      <link>https://9to5google.com/2026/10/07/henry-cavill-googlebook-promo-mustache-justice-league/</link>
-      <guid isPermaLink="true">https://9to5google.com/2026/10/07/henry-cavill-googlebook-promo-mustache-justice-league/</guid>
-      <category>android</category>
-      <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
-      <pubDate>Wed, 07 Oct 2026 13:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Painting a good story: Multi-frame</title>
-      <link>https://eclecticlight.co/2026/10/07/painting-a-good-story-multi-frame/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/10/07/painting-a-good-story-multi-frame/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Wed, 07 Oct 2026 11:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Headers Up! What's New in httpd and relayd</title>
-      <link>https://rsadowski.de/posts/2026/update-relayd-and-httpd/</link>
-      <guid isPermaLink="true">https://rsadowski.de/posts/2026/update-relayd-and-httpd/</guid>
-      <category>bsd</category>
-      <source url="https://lobste.rs/t/openbsd">Lobsters · openbsd</source>
-      <pubDate>Wed, 07 Oct 2026 07:05:27 GMT</pubDate>
     </item>
   </channel>
 </rss>

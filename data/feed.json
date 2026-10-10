@@ -1,6 +1,46 @@
 {
-  "generated": "2026-10-10T15:25:54.117Z",
+  "generated": "2026-10-10T20:08:03.508Z",
   "items": [
+    {
+      "title": "I've Been Testing Googlebooks for a Week. So Far, They're Just for Android Superfans",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTXdRclZjVGdVV3FUYzBINWNPVjUyOHlJbmxOb0NQWTI1MUU2dExGWktXTUVZUnlBd2ZBRnJxNVFwMHd3OGtRYWNxTGFNcC1FSjhmeWlkN3RCVXBOSmFNTGlDLWlGUXp0dFlnZl9sbElkcVdZRld6anRWVTJ3aVI2TmNLbnJBQVhFWWhqYlM4SE81OWtNY0NScFpEbWx0U2YweHVn?oc=5",
+      "source": "PCMag",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-10T18:26:01.000Z"
+    },
+    {
+      "title": "Asus Googlebook 14 Review: For Android, By Android",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xbnF4eThrWlAxMTdZZTliUGV3TmhYaFplN3A3ckZ6cWhhZXhzWFpTR2ZrYzlTRmFmaGJ6UnNpSWJTUVdxOVJhRjg1d09VNGJtWUhpNXFfc1lvR1JwS1hUWi00NGc?oc=5",
+      "source": "BGR",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-10T17:28:13.000Z"
+    },
+    {
+      "title": "Sunnny",
+      "url": "https://sunnny.com/",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-10T16:11:45.000Z"
+    },
+    {
+      "title": "‘Proof-of-Human’",
+      "url": "https://x.com/bzamayo/status/2108498107184934914",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-10T16:06:17.000Z"
+    },
+    {
+      "title": "Rolling Release Distros Superior To LTS Distros In The Patch-Heavy GenAI Era?",
+      "url": "https://www.phoronix.com/news/Rolling-Releases-GenAI-Era",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-10T15:27:12.000Z"
+    },
     {
       "title": "Many Laptop & Gaming Handheld Support Improvements Coming For Linux 7.4",
       "url": "https://www.phoronix.com/news/Linux-7.4-Laptops-Handhelds",
@@ -224,14 +264,6 @@
       "tag": "linux",
       "site": "https://www.phoronix.com/",
       "date": "2026-10-09T09:54:00.000Z"
-    },
-    {
-      "title": "HDR Support Coming For Qualcomm MSM Driver To Benefit Snapdragon X Laptops On Linux",
-      "url": "https://www.phoronix.com/news/Qualcomm-MSM-DRM-HDR",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-09T09:37:05.000Z"
     },
     {
       "title": "Struggling to pair your phone with Googlebook? Google says a fix is rolling out now",
@@ -464,38 +496,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-06T18:01:14.000Z"
-    },
-    {
-      "title": "Initial Googlebooks Repeat Windows-on-Arm Issues, But in Reverse",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdzNrVW9GanVna0ZuUHN1ZzN4YTNISTlEemdGQ1ZYRWJNM25uaGhfZDZOUkhPWjVHQlQ1QnZ5Q1NWdUpoUmdQN3ZfZEZtZHl0VklRQTR2Qk12d2laRVFHY25BdTVqRzNoWnF6ZkQ4c2xneDA5TmpNMmhXMFNzLVpBSTdmOUVGY1M4ZjRBOHQ3bl9RbU02cEc2VmlleDdWNE1QVTlv?oc=5",
-      "source": "ExtremeTech",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-06T17:35:13.000Z"
-    },
-    {
-      "title": "Our first five impressions of Googlebooks — exciting but underbaked",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQR0Zrc0NIZXhsLWhLX1pwZENoRFoybkRaRFRDMlhCUVlnbWRPekRZV2lPMDRkOTBidXEtR2dZQWttWmtCcWZZQTZMUEotRDFUamItN1dfRnpYVExtR1RjUWpXOXZSYmVza0cyOEw4M1ZzMUhHbFJMcTlvUDkwVVRsa1Y2ODdYRWR1eDVqU2ZZaFVBWDdUZkFFVmlFRWFnRnh4WC1RYW45X3ZqcUZ3?oc=5",
-      "source": "The Verge",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-06T17:31:59.000Z"
-    },
-    {
-      "title": "Portraits of trees: Birch",
-      "url": "https://eclecticlight.co/2026/10/06/portraits-of-trees-birch/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-10-06T11:30:00.000Z"
-    },
-    {
-      "title": "Privacy, Full Disk Access and AI agents",
-      "url": "https://eclecticlight.co/2026/10/06/privacy-full-disk-access-and-ai-agents/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-10-06T06:30:00.000Z"
     },
     {
       "title": "OpenBSD Developers Reject Uutils Coreutils",
