@@ -5,8 +5,24 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 10 Oct 2026 01:47:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 08:35:41 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Saturday Mac riddles 381</title>
+      <link>https://eclecticlight.co/2026/10/10/saturday-mac-riddles-381/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/10/10/saturday-mac-riddles-381/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Sat, 10 Oct 2026 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Try on-device AI with fm</title>
+      <link>https://eclecticlight.co/2026/10/10/try-on-device-ai-with-fm/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/10/10/try-on-device-ai-with-fm/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Sat, 10 Oct 2026 07:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>SQLite 3.54 Released With Faster Performance, Drops Windows XP Support</title>
       <link>https://www.phoronix.com/news/SQLite-3.54-Released</link>
@@ -390,22 +406,6 @@
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Wed, 07 Oct 2026 06:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>New laptops and OpenBSD: HP Envy 17-DA0013dx</title>
-      <link>https://undeadly.org/cgi?action=article;sid=20261007053155</link>
-      <guid isPermaLink="true">https://undeadly.org/cgi?action=article;sid=20261007053155</guid>
-      <category>bsd</category>
-      <source url="https://undeadly.org/">undeadly</source>
-      <pubDate>Wed, 07 Oct 2026 05:31:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>5 Reasons Why Android Phone Users Will Want A Googlebook</title>
-      <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxOXzQ4aHQwZGdCbTZMcjBoSlFUZXh3M21LamRwRE5FUHR1c3pRRjhSZUZETU1pQUFDei11WVNZUEEtQVVoMHRnOVdQcFlHMW1qQ2h3UXE0QXp4Wm4wcmZHcU1BQlJ4TnJCZ0J4eXJhQlUyZFJwWVQzMnlBV3U5TEdteTlIZw?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMigwFBVV95cUxOXzQ4aHQwZGdCbTZMcjBoSlFUZXh3M21LamRwRE5FUHR1c3pRRjhSZUZETU1pQUFDei11WVNZUEEtQVVoMHRnOVdQcFlHMW1qQ2h3UXE0QXp4Wm4wcmZHcU1BQlJ4TnJCZ0J4eXJhQlUyZFJwWVQzMnlBV3U5TEdteTlIZw?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">BGR</source>
-      <pubDate>Tue, 06 Oct 2026 23:17:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
